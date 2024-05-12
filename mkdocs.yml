@@ -1,0 +1,102 @@
+# Project information
+
+site_name: PSIOPS RPG
+site_url: https://joemoose.github.io/enigma/
+site_author: Zachary Taylor
+site_description: An Adventure Roleplaying Game of Paranormal Special Forces Operatives
+site_dir: ../joemoose.github.io/enigma
+
+# Repo
+
+repo_url: https://github.com/joemoose/engigma/
+edit_uri: blob/main/docs
+
+# Navigation
+
+nav:
+  - index.md
+    
+# Theme
+
+theme:
+  name: material
+  logo: logo.png
+  favicon: favicon.ico
+  icon:
+#    repo: fontawesome/brands/github
+    edit: octicons/pencil-24
+  features:
+    - header.autohide
+    - content.action.edit
+    - navigation.footer
+    - navigation.instant
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      primary: black
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: black
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Extensions
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# CSS
+
+extra_css:
+  - extra.css
+
+# Plugins
+
+plugins:
+  - search
+  
