@@ -3,11 +3,11 @@ hide:
   - navigation
 ---
 
-# PsiOps RPG
+# ENIGMA RPG
 
 *Working Draft v.0.3*
 
-PSIOPS isn't your typical adventure roleplaying game. It’s a unique squad-level experience where you embody modern special forces operatives with paranormal abilities facing off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to roleplay.
+ENIGMA RPG isn't your typical adventure roleplaying game. It’s a unique squad-level experience where you embody modern special forces operatives with paranormal abilities facing off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to roleplay.
 
 ## Before We Start
 
@@ -191,7 +191,7 @@ When your character advances, choose one reward: a new trait or +1D6 maximum HP.
 
 ## Attribution
 
-**PsiOps** is *Powered by the Apocalypse*, and its design was heavily informed by *Apocalypse World*, written by D. Vincent Baker, copyright 2010.
+**ENIGMA RPG** is *Powered by the Apocalypse*, and its design was heavily informed by *Apocalypse World*, written by D. Vincent Baker, copyright 2010.
 
 This work is based on *[FIST: Ultra Edition](https://claymorerpgs.itch.io/fist)*, a product by CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
