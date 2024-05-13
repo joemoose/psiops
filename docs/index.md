@@ -3,11 +3,11 @@ hide:
   - navigation
 ---
 
-# ENIGMA RPG
+# [ENIGMA] RPG
 
-*Working Draft v.0.3*
+*Working Draft v.0.4*
 
-ENIGMA RPG isn't your typical adventure roleplaying game. It’s a unique squad-level experience where you embody modern special forces operatives with paranormal abilities facing off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to roleplay.
+[ENIGMA] RPG isn't your typical adventure roleplaying game. It’s a unique squad-level experience where you embody modern special forces operatives with paranormal abilities facing off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to roleplay.
 
 ## Before We Start
 
@@ -44,7 +44,7 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 
 ## Momentum
 
-When a player makes an *action roll*, that roll can generate *momentum*. You start every session with 2 points of *momentum* and generate more when you make successful rolls. You can spend your *momentum* to get various bonuses or resist incoming consequences.
+When a player makes an *action roll*, that roll can generate *momentum*. You start every session with 2 points of *momentum* and generate more when you make successful rolls. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
 
 Whenever you make an *action roll*, you gain additional *momentum* as follows.
 
@@ -56,7 +56,7 @@ Note that when *momentum* is spent on a roll, that roll cannot, in turn, generat
 
 ### Spending Momentum
 
-You can spend your *momentum* to get bonuses or resist incoming consequences.
+You can spend your *momentum* to receive bonuses or resist incoming consequences.
 
 **ASSIST**: Consume 1 point of *momentum* to add *advantage* to an ally’s *action roll*. Doing this also exposes your character to the same risks.
 
@@ -87,7 +87,7 @@ When an *action roll* to attack succeeds:
 
 **Damage dealt = lowest D6 result + weapon damage modifier**
 
-A *Critical Success* pn the *action roll* adds **both** D6 results + weapon damage modifier for the damage.
+A *Critical Success* on the *action roll* adds **both** D6 results + weapon damage modifier for the damage.
 
 #### Weapon Damage Modifiers
 
@@ -117,7 +117,9 @@ If you take cover behind something, you gain an armor bonus against attacks your
 
 Characters who attack while in cover should subtract the armor bonus their cover grants from the damage they deal (this also applies to enemies).
 
-Low cover does little to protect the body (iron bars, thick foliage, another person); medium cover protects at least half of the body and often requires crouching (the front of a car, a highway divider, a barrel). In contrast, high cover protects the whole body and allows free positioning (a wall, a thick tree trunk, a train car).
+- **Low** cover does little to protect the body (iron bars, thick foliage, another person).
+- **Medium** cover protects at least half of the body and often requires crouching (the front of a car, a highway divider, a barrel).
+- **High** cover protects the whole body and allows free positioning (a wall, a thick tree trunk, a train car).
 
 When you deal damage with a ranged weapon to an enemy in cover, you may choose to lay down *suppressing fire* instead. Suppressed characters who leave cover take the damage of the suppressing attack.
 
@@ -127,7 +129,7 @@ If your character takes damage but has at least 1 HP remaining, they’re fine a
 
 - On a **6 or less**, and it was a lethal attack, such as a gunshot, they’re **dead**. If not, they’re at 0 HP and incapacitated but will die in 10 minutes if left unattended.
 - On a **7-12**, they remain conscious with 1 HP and gain an *injury*.
-- On a **13 or more**, they remain conscious with HP equal to the lowest D6 rolled and gain an *injury*.
+- On a **13 or more**, they remain conscious with HP equal to 1 + the lowest D6 rolled and gain an *injury*.
 
 Each *injury* reduces your maximum HP by 1 until the injury is healed. Injuries cannot be healed in the field and require medical attention back at base between missions.
 
@@ -136,8 +138,8 @@ Each *injury* reduces your maximum HP by 1 until the injury is healed. Injuries 
 If your character dies, create a new character while the play continues. When you’re ready to deploy, jump into the fray and roll **2D6 + Attribute**:
 
 - **6 or less**, your deployment suffers a complication.
-- **7–9**: You deploy normally.
-- **10–12**: You deploy with an extra standard issue item of military gear.
+- **7–9**, you deploy normally.
+- **10–12**, you deploy normally with an extra standard issue item of military gear.
 - **13 or greater**, as 10–12, and your next *action roll* has an *advantage*.
 
 ### Recovery
@@ -158,7 +160,7 @@ When the players face a complex obstacle, like hacking into a mainframe or defus
 
 As the players attempt to overcome the obstacle with *action rolls*, progress is marked on the *clock* by the outcomes: tick 1 segment with *partial success*, 2 segments with *complete success*, and 3 segments with *critical success*. When all segments are ticked, the obstacle is overcome.
 
-Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM ticks segments on the *clock* if players fail action rolls. The danger comes to fruition when the *clock* is full—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
+Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM ticks segments on the *clock* if players fail *action rolls*. The danger comes to fruition when the *clock* is full—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
 ## Your Character
 
@@ -166,16 +168,16 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 
 ### Creating a Character
 
-1. Randomly determine and record two starting **traits** on your character sheet.
+1. [Randomly determine](https://perchance.org/enigma-traits) and record two starting **traits** on your character sheet.
 	- Traits define your character’s paranormal abilities and determine your starting attributes and gear.
-2. Fill out your **attributes**, **inventory**, **armor**, and **maximum hit points (HP)**.
-	- All attributes start at 0 and are increased or decreased by your starting traits.
-	- The maximum attribute value, regardless of traits, is 3, and the minimum is -2.
-	- In addition to the standard loadout on your character sheet, your traits supply additional gear.
+2. Fill out your **attribute** scores, **inventory**, **armor**, and maximum **hit points (HP)**.
+	- All attribute scores start at 0 and are increased or decreased by your starting traits.
+	- The maximum attribute score, regardless of traits, is 3, and the minimum is -2.
+	- In addition to the standard loadout listed on your character sheet, your traits supply additional gear.
 	- Armor starts at 0 but can be increased by your gear.
-	- Max HP starts at 6 and can be increased by your traits. 
-3. Add **two** more points to your attribute scores as you see fit, to a maximum of 3.
-4. Choose or randomly determine your character’s **role**.
+	- Maximum HP starts at 6 and can be increased by your traits. 
+3. Add **two** more points to your attribute scores as you see fit to a maximum score of 3.
+4. Choose or [randomly determine](https://perchance.org/enigma-roles) your character’s **role**.
 	- Your role is something your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t choose a role another player on the team already has.
 5. Choose your native **language**. 
@@ -187,14 +189,12 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 
 Characters advance when they act according to their role. For instance, a CRUSADER advances if they behaved ethically during their mission. You can choose a new role between missions if you feel you’ve reached natural closure for your role. 
 
-When your character advances, choose one reward: a new trait or +1D6 maximum HP.
+**When your character advances**, choose one reward after the mission: a new trait or +1D6 maximum HP.
 
 ## Attribution
 
-**ENIGMA RPG** is *Powered by the Apocalypse*, and its design was heavily informed by *Apocalypse World*, written by D. Vincent Baker, copyright 2010.
+**[ENIGMA] RPG** is *Powered by the Apocalypse*, and its design was heavily informed by *Apocalypse World*, written by D. Vincent Baker, copyright 2010.
 
-This work is based on *[FIST: Ultra Edition](https://claymorerpgs.itch.io/fist)*, a product by CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-
-This work is also based on *Dash*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-
-The single action roll to determine both the success of an attack and the resulting damage is inspired by the combat mechanic of *[Vagabonds of Dyfed](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed)*, written by Ben Dutter, copyright Sigil Stone Publishing 2018.
+- This work is based on *[FIST: Ultra Edition](https://claymorerpgs.itch.io/fist)*, a product by CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+- This work is also based on *Dash*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+- The single action roll to determine both the success of an attack and the resulting damage is inspired by the combat mechanic of *[Vagabonds of Dyfed](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed)*, written by Ben Dutter, copyright Sigil Stone Publishing 2018.
