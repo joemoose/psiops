@@ -44,7 +44,7 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 
 ## Momentum
 
-When a player makes an *action roll*, that roll can generate *momentum*. You start every session with 2 points of *momentum* and generate more when you make successful rolls. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
+When a player makes an *action roll*, that roll can generate *momentum*. You start every session with 2 points of *momentum* and generate more when you make successful *action rolls*. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
 
 Whenever you make an *action roll*, you gain additional *momentum* as follows.
 
@@ -79,7 +79,7 @@ Consume 3 points of *momentum* to resist or limit your or someone else’s *cons
 
 ### Rolling with Advantage
 
-When your *action roll* has an *advantage*, roll **3D6** and drop the lowest result.
+When your *action roll* has an *advantage*, roll **3D6 + Attribute** and drop the lowest D6 result.
 
 ## Challenges and Danger
 
@@ -95,7 +95,7 @@ Similarly, impending danger, such as the alert level of guards, may also be trac
 
 When you add tension to your *action roll*, you can ask the GM, "What would adding tension look like here?". The GM then offers an additional *consequence* for failure, like ticking multiple segments on a danger clock, inflicting collateral damage, or adding more drama to the narrative.
 
-**If you accept the additional *consequence***, your *action roll* has an *advantage*.
+**If you accept the additional consequence**, your *action roll* has an *advantage*.
 
 This "Devil's Bargain" is always a free choice. If you don't like one, reject it (or suggest how to alter it so you might consider taking it). You can always consume *momentum* to push yourself for an *advantage* on the *action roll*. 
 
@@ -122,7 +122,7 @@ Add the following damage modifier based on the type of weapon.
 - **Light** weapons (pistols and knives) deal +1 damage and are sometimes concealable.
 - **Medium** weapons (rifles, shotguns, and swords) deal +2 damage.
 - **Heavy** weapons (RPGs, miniguns, and sniper rifles) deal +3 damage.
-- **Anomalous** weapons (enchanted, alien, or divine) deal +4 damage.
+- **Anomalous** weapons (enchanted, alien, or divine) deal +4 damage and use the *highest* D6 value.
 
 Some weapons, such as explosives, may damage all combatants in a close area rather than a single target.
 
@@ -190,7 +190,7 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 	- Your inventory includes the standard loadout listed on your character sheet and the additional gear supplied by your traits.
 	- Armor starts at 0 but can be increased by your gear.
 	- Maximum HP starts at 6 and can be increased by your traits. 
-3. Add **two** more points to your attribute scores as you see fit to a maximum score of 3.
+3. Add **one** more point to an attribute score as you see fit to a maximum score of 3.
 4. Choose or [randomly determine](https://perchance.org/enigma-roles) your character’s **role**.
 	- Your role is something your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t choose a role another player on the team already has.
