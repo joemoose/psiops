@@ -189,7 +189,10 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 
 Characters advance when they act according to their role. For instance, a CRUSADER advances if they behaved ethically during their mission. You can choose a new role between missions if you feel you’ve reached natural closure for your role. 
 
-**When your character advances**, choose one reward after the mission: a new trait or +1D6 maximum HP.
+**When your character advances**, choose one of the following rewards after the mission is complete and you've returned to base: 
+
+- a new trait
+- +1D6 maximum HP
 
 ## Attribution
 
