@@ -173,7 +173,7 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 2. Fill out your **attribute** scores, **inventory**, **armor**, and maximum **hit points (HP)**.
 	- All attribute scores start at 0 and are increased or decreased by your starting traits.
 	- The maximum attribute score, regardless of traits, is 3, and the minimum is -2.
-	- In addition to the standard loadout listed on your character sheet, your traits supply additional gear.
+	- Your inventory includes the standard loadout listed on your character sheet and the additional gear supplied by your traits.
 	- Armor starts at 0 but can be increased by your gear.
 	- Maximum HP starts at 6 and can be increased by your traits. 
 3. Add **two** more points to your attribute scores as you see fit to a maximum score of 3.
