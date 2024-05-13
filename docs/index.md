@@ -5,7 +5,7 @@ hide:
 
 # [ENIGMA] RPG
 
-*Working Draft v.0.4*
+*Working Draft v.0.5*
 
 [ENIGMA] RPG isn't your typical adventure roleplaying game. It’s a unique squad-level experience where you embody modern special forces operatives with paranormal abilities facing off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to roleplay.
 
@@ -77,6 +77,30 @@ Consume 3 points of *momentum* to resist or limit your or someone else’s *cons
 
 **FLASHBACKS**: Consume 4 points of *momentum* to call for a scene that has happened in the past to affect what hasn’t been established in the fiction yet.
 
+### Rolling with Advantage
+
+When your *action roll* has an *advantage*, roll **3D6** and drop the lowest result.
+
+## Challenges and Danger
+
+When the players face a complex obstacle, like hacking into a mainframe or defusing a bomb, the GM may split the effort into a progress *clock* rather than resolving the obstacle with a single *action roll*.
+
+*Clocks* are circles divided into 4, 6, or 8 segments. Generally, the more complex the problem, the more segments in the *clock*.
+
+As the players attempt to overcome the obstacle with *action rolls*, progress is marked on the *clock* by the outcomes: tick 1 segment with *partial success*, 2 segments with *complete success*, and 3 segments with *critical success*. When all segments are ticked, the obstacle is overcome.
+
+Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM ticks segments on the *clock* if players fail *action rolls*. The danger comes to fruition when the *clock* is full—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
+
+## Adding Tension
+
+When you add tension to your *action roll*, you can ask the GM, "What would adding tension look like here?". The GM then offers an additional *consequence* for failure, like ticking multiple segments on a danger clock, inflicting collateral damage, or adding more drama to the narrative.
+
+**If you accept the additional *consequence***, your *action roll* has an *advantage*.
+
+This "Devil's Bargain" is always a free choice. If you don't like one, reject it (or suggest how to alter it so you might consider taking it). You can always consume *momentum* to push yourself for an *advantage* on the *action roll*. 
+
+There could be scenarios in which adding tension isn't an option. In that case, the GM will communicate that to you so that you can look into other ways to even the odds.
+
 ## Combat
 
 Combat works the same as doing anything else risky. Make an *action roll* to attack and deal damage if you succeed. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
@@ -106,8 +130,8 @@ Some weapons, such as explosives, may damage all combatants in a close area rath
 
 When your character makes an *action roll* to defend against damage, they take damage as follows:
 
-- On a **6 or less**, you suffer damage equal to the **highest D6 result + any enemy damage modifier**.
-- On a **7–9**, you suffer damage equal to the **lowest D6 result + any enemy damage modifier**.
+- On a **6 or less**, you suffer damage equal to the **highest D6 result + enemy damage modifier**.
+- On a **7–9**, you suffer damage equal to the **lowest D6 result + enemy damage modifier**.
 - On a **10–12**, you suffer no damage.
 - On a **13 or greater**, you suffer no damage, and your next *action roll* has an *advantage*.
 
@@ -151,16 +175,6 @@ Players are safe as long as they remain at the rendezvous point. Each player at 
 - **REST**: Recover 1D6 HP.
 - **RESUPPLY**: Restock one limited-use item.
 - **INTEL**: Receive one useful fact about the mission from the GM.
-
-## Challenges and Danger
-
-When the players face a complex obstacle, like hacking into a mainframe or defusing a bomb, the GM may split the effort into a progress *clock* rather than resolving the obstacle with a single *action roll*.
-
-*Clocks* are circles divided into 4, 6, or 8 segments. Generally, the more complex the problem, the more segments in the *clock*.
-
-As the players attempt to overcome the obstacle with *action rolls*, progress is marked on the *clock* by the outcomes: tick 1 segment with *partial success*, 2 segments with *complete success*, and 3 segments with *critical success*. When all segments are ticked, the obstacle is overcome.
-
-Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM ticks segments on the *clock* if players fail *action rolls*. The danger comes to fruition when the *clock* is full—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
 ## Your Character
 
