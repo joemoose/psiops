@@ -190,12 +190,12 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 	- Your inventory includes the standard loadout listed on your character sheet and the additional gear supplied by your traits.
 	- Armor starts at 0 but can be increased by your gear.
 	- Maximum HP starts at 6 and can be increased by your traits. 
-3. Add **one** more point to an attribute score as you see fit to a maximum score of 3.
+3. Add **one** point to any attribute score you see fit to a maximum score of 3.
 4. Choose or [randomly determine](https://perchance.org/enigma-roles) your character’s **role**.
 	- Your role is something your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t choose a role another player on the team already has.
-5. Choose your native **language**. 
-	- Choose additional languages equal to the sum of your TACTICAL and CREATIVE attributes. 
+5. Choose your native **language(s)**. 
+	- Choose additional languages equal to your TACTICAL or CREATIVE attribute scores. 
 6. Choose your character’s **codename**.
 7. Write a sentence or two summarizing your **backstory**.
 
@@ -203,7 +203,7 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 
 Characters advance when they act according to their role. For instance, a CRUSADER advances if they behaved ethically during their mission. You can choose a new role between missions if you feel you’ve reached natural closure for your role. 
 
-**When your character advances**, choose one of the following rewards after the mission is complete and you've returned to base: 
+**After your character advances** and you return to base, choose one of the following rewards: 
 
 - a new trait
 - +1D6 maximum HP
