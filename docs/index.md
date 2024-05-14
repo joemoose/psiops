@@ -37,10 +37,10 @@ The GM will ask you which of your attributes you’re using, or they might decid
 
 Roll **2D6 + Attribute**. The total determines your degree of success as follows.
 
-- **6 or less**: it’s a **failure**. Things go badly and likely get worse.
-- **7–9**: it’s a **partial success**. You achieve your goal, but there’s a complication.
-- **10–12**: it’s a **complete success**. You achieve your goal.
-- **13 or greater**: it’s a **critical success**. You achieve your goal with an added benefit.
+- **6 or less**, it’s a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
+- **7–9**, it’s a **partial success**. You achieve your goal, but there’s a complication.
+- **10–12**, it’s a **complete success**. Things go well, and you achieve your goal.
+- **13 or greater**, it’s a **critical success**. Things go better than expected. You achieve your goal with an added benefit.
 
 ## Momentum
 
@@ -137,15 +137,15 @@ When your character makes an *action roll* to defend against damage, they take d
 
 ### Cover and Suppression
 
-If you take cover behind something, you gain an armor bonus against attacks your cover would block. Low, medium, and high cover grants 1, 2, and 3 armor. Attacks that ignore armor do not ignore the armor bonus from cover. 
-
-Characters who attack while in cover should subtract the armor bonus their cover grants from the damage they deal (this also applies to enemies).
+If you take cover behind something, you gain an armor bonus against attacks your cover would block. Low, medium, and high cover grants 1, 2, and 3 armor. Attacks that ignore armor do not ignore the armor bonus provided by cover. 
 
 - **Low** cover does little to protect the body (iron bars, thick foliage, another person).
 - **Medium** cover protects at least half of the body and often requires crouching (the front of a car, a highway divider, a barrel).
 - **High** cover protects the whole body and allows free positioning (a wall, a thick tree trunk, a train car).
 
-When you deal damage with a ranged weapon to an enemy in cover, you may choose to lay down *suppressing fire* instead. Suppressed characters who leave cover take the damage of the suppressing attack.
+Characters who attack while behind cover should subtract the armor bonus their cover grants from the damage they deal (this also applies to enemies).
+
+When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressed targets who leave cover take the damage of the suppressing attack.
 
 ### Damage and Dying
 
