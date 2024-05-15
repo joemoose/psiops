@@ -85,9 +85,9 @@ When your *action roll* has an *advantage*, roll **3D6 + Attribute** and drop th
 
 When the players face a complex obstacle, like hacking into a mainframe or defusing a bomb, the GM may split the effort into a progress *clock* rather than resolving the obstacle with a single *action roll*.
 
-*Clocks* are circles divided into 4, 6, or 8 segments. Generally, the more complex the problem, the more segments in the *clock*.
+*Clocks* are circles divided into 4, 6, or 8 segments—generally, the more complex the problem, the more segments in the *clock*.
 
-As the players attempt to overcome the obstacle with *action rolls*, progress is marked on the *clock* by the outcomes: tick 1 segment with *partial success*, 2 segments with *complete success*, and 3 segments with *critical success*. When all segments are ticked, the obstacle is overcome.
+As the players attempt to overcome the obstacle with *action rolls*, progress is marked on the *clock* by the outcomes: tick 1 segment with *partial success*, 2 with *complete success*, and 3 with *critical success*. When all segments are ticked, the obstacle is overcome.
 
 Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM ticks segments on the *clock* if players fail *action rolls*. The danger comes to fruition when the *clock* is full—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
@@ -149,15 +149,15 @@ When you deal damage with a ranged weapon to an enemy behind cover, you may choo
 
 ### Damage, Injuries, and Dying
 
-If your character takes damage but has at least 1 HP remaining, they’re still on their feet and in the fight. However, if they drop to zero or less HP, roll **2D6 + FORCEFUL**, then **subtract** the amount of damage past zero, if any, to see how bad it is.
+If your character takes damage but has at least 1 HP remaining, they’re still on their feet and in the fight. However, if they drop to 0 or less HP, they must roll **2D6 + FORCEFUL** *minus* any damage past zero to see how bad it is.
 
-- On a **6 or less**, and it was a lethal attack, such as a gunshot, they’re **dead**. If not, they’re at 0 HP and incapacitated but will die in 10 minutes if left unattended.
-- On a **7-12**, they remain alive with 1 HP and gain an *injury*. You must make a successful **FORCEFUL** *action roll* or be knocked unconscious. Unconscious characters can revive themselves with a subsequent successful **FORCEFUL** *action roll* or with aid from an ally.
-- On a **13 or more**, they remain conscious with HP equal to the lowest D6 rolled and gain an *injury*.
+- On a **6 or less**, and it was a lethal attack, such as a gunshot, they’re **dead**. If not, they’re at 0 HP, incapacitated, and gain an *injury*. Incapacitated characters will die in 10 minutes if left unattended. 
+- On a **7-12**, they remain alive with 1 HP and gain an *injury*. You must make a successful ***action roll* +FORCEFUL** or be knocked unconscious. An ally can revive unconscious characters.
+- On a **13 or more**, they gain an *injury* but rally with HP equal to the lowest D6 rolled, up to your maximum HP.
 
-Each *injury* reduces your maximum HP by 1 until the injury is healed. Injuries cannot be healed in the field and require medical attention back at base between missions.
+Each *injury* you receive reduces your maximum HP by 1. Injuries cannot be healed in the field and require medical attention back at base between missions.
 
-If accumulated injuries would reduce your maximum HP to zero, your character dies. 
+If accumulated injuries reduce your maximum HP to zero, your character dies. 
 
 ### Emergency Insertion
 
@@ -192,7 +192,7 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 	- Your inventory includes the standard loadout listed on your character sheet and the additional gear supplied by your traits.
 	- Armor starts at 0 but can be increased by your gear.
 	- Maximum HP starts at 6 and can be increased by your traits. 
-3. Add **one** point to any attribute score you see fit to a maximum score of 3.
+3. Add **one** point to any attribute score to a maximum score of 3.
 4. Choose or [randomly determine](https://perchance.org/enigma-roles) your character’s **role**.
 	- Your role is something your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t choose a role another player on the team already has.
@@ -216,5 +216,5 @@ Characters advance when they act according to their role. For instance, a CRUSAD
 
 - This work is based on *[FIST: Ultra Edition](https://claymorerpgs.itch.io/fist)*, a product by CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - This work is also based on *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-- This work is also based on [Blades in the Dark](https://bladesinthedark.com/), a product of One Seven Design, developed and authored by John Harper, and licensed for use under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
+- This work is also based on [Blades in the Dark](https://bladesinthedark.com/), a product of One Seven Design, developed and authored by John Harper and licensed for use under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
 - The single action roll to determine both the success of an attack and the resulting damage is inspired by the combat mechanic of *[Vagabonds of Dyfed](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed)*, written by Ben Dutter, copyright Sigil Stone Publishing 2018.
