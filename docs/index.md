@@ -111,7 +111,7 @@ When an *action roll* to attack succeeds:
 
 **Damage dealt = lowest D6 result + weapon damage modifier**
 
-A *Critical Success* on the *action roll* adds **both** D6 results + weapon damage modifier for the damage.
+A *critical success* uses the highest D6 result.
 
 #### Weapon Damage Modifiers
 
@@ -122,9 +122,15 @@ Add the following damage modifier based on the type of weapon.
 - **Light** weapons (pistols and knives) deal +1 damage and are sometimes concealable.
 - **Medium** weapons (rifles, shotguns, and swords) deal +2 damage.
 - **Heavy** weapons (RPGs, miniguns, and sniper rifles) deal +3 damage.
-- **Anomalous** weapons (enchanted, alien, or divine) deal +4 damage and use the *highest* D6 value.
+- **Anomalous** weapons (enchanted, alien, or divine) deal +4.
 
 Some weapons, such as explosives, may damage all combatants in a close area rather than a single target.
+
+#### Ammo
+
+For a weapon that uses ammunition or other expendable resources, check off one use of ammo for any attack that *fails* or *partially succeeds*. Weapons have 6 units of ammunition.
+
+Ammunition can be resupplied at a *rendevous point* as described in the Recovery section.
 
 ### Taking Damage
 
@@ -152,7 +158,7 @@ When you deal damage with a ranged weapon to an enemy behind cover, you may choo
 If your character takes damage but has at least 1 HP remaining, they’re still on their feet and in the fight. However, if they drop to 0 or less HP, they must roll **2D6 + FORCEFUL** *minus* any damage past zero to see how bad it is.
 
 - On a **6 or less**, and it was a lethal attack, such as a gunshot, they’re **dead**. If not, they’re at 0 HP, incapacitated, and gain an *injury*. Incapacitated characters will die in 10 minutes if left unattended. 
-- On a **7-12**, they remain alive with 1 HP and gain an *injury*. You must make a successful ***action roll* +FORCEFUL** or be knocked unconscious. An ally can revive unconscious characters.
+- On a **7-12**, they remain alive with 1 HP and gain an *injury*. You must make a successful **+FORCEFUL** roll or be knocked unconscious. An ally can revive unconscious characters.
 - On a **13 or more**, they gain an *injury* but rally with HP equal to the lowest D6 rolled, up to your maximum HP.
 
 Each *injury* you receive reduces your maximum HP by 1. Injuries cannot be healed in the field and require medical attention back at base between missions.
@@ -175,7 +181,7 @@ Once per mission, the team can send a *rendezvous signal*. Upon the signal’s a
 Players are safe as long as they remain at the rendezvous point. Each player at the point chooses one of the following bonuses:
 
 - **REST**: Recover 1D6 HP.
-- **RESUPPLY**: Restock one limited-use item.
+- **RESUPPLY**: Restock ammo or another limited-use item.
 - **INTEL**: Receive one useful fact about the mission from the GM.
 
 ## Your Character
