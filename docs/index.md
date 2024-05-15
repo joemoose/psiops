@@ -157,6 +157,8 @@ If your character takes damage but has at least 1 HP remaining, they’re fine a
 
 Each *injury* reduces your maximum HP by 1 until the injury is healed. Injuries cannot be healed in the field and require medical attention back at base between missions.
 
+If accumulated injuries would reduce your maximum HP to zero, your character dies. 
+
 ### Emergency Insertion
 
 If your character dies, create a new character while the play continues. When you’re ready to deploy, jump into the fray and roll **2D6 + Attribute**:
