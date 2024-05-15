@@ -147,13 +147,13 @@ Characters who attack while behind cover should subtract the armor bonus their c
 
 When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressed targets who leave cover take the damage of the suppressing attack.
 
-### Damage and Dying
+### Damage, Injuries, and Dying
 
 If your character takes damage but has at least 1 HP remaining, they’re fine and still in the action. However, if they drop to zero or less HP, roll **2D6 + FORCEFUL**, then **subtract** the amount of damage past zero, if any, to see how bad it is.
 
 - On a **6 or less**, and it was a lethal attack, such as a gunshot, they’re **dead**. If not, they’re at 0 HP and incapacitated but will die in 10 minutes if left unattended.
-- On a **7-12**, they remain conscious with 1 HP and gain an *injury*.
-- On a **13 or more**, they remain conscious with HP equal to 1 + the lowest D6 rolled and gain an *injury*.
+- On a **7-12**, they remain alive with 1 HP and gain an *injury*. You must make a successful **FORCEFUL** *action roll* or be knocked unconscious. Unconscious characters can revive themselves with a subsequent successful **FORCEFUL** *action roll* or with aid from an ally.
+- On a **13 or more**, they remain conscious with HP equal to the lowest D6 rolled and gain an *injury*.
 
 Each *injury* reduces your maximum HP by 1 until the injury is healed. Injuries cannot be healed in the field and require medical attention back at base between missions.
 
