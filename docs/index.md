@@ -5,7 +5,7 @@ hide:
 
 # [ENIGMA] RPG
 
-*Working Draft v.0.5*
+*Version 1.0*
 
 [ENIGMA] RPG isn't your typical adventure roleplaying game. It’s a unique squad-level experience in which you embody modern special forces operatives with paranormal abilities who face off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to roleplay.
 
