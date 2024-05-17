@@ -126,6 +126,12 @@ Add the following damage modifier based on the type of weapon.
 
 Some weapons, such as explosives, may damage all combatants in a close area rather than a single target.
 
+#### Ammo
+
+For a weapon that uses ammunition or other expendable resources, check off one use of ammo for any attack that *fails* or *partially succeeds*. Weapons have 6 units of ammunition.
+
+Ammunition can be resupplied at a *rendevous point* as described in the Recovery section.ß
+
 ### Taking Damage
 
 When your character makes an *action roll* to defend against damage, they take damage as follows:
@@ -134,12 +140,6 @@ When your character makes an *action roll* to defend against damage, they take d
 - On a **7–9**, you suffer damage equal to the **lowest D6 result + enemy damage modifier**.
 - On a **10–12**, you suffer no damage.
 - On a **13 or greater**, you suffer no damage, and your next *action roll* has an *advantage*.
-
-#### Ammo
-
-For a weapon that uses ammunition or other expendable resources, check off one use of ammo for any attack that *fails* or *partially succeeds*. Weapons have 6 units of ammunition.
-
-Ammunition can be resupplied at a *rendevous point* as described in the Recovery section.
 
 ### Cover and Suppression
 
