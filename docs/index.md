@@ -130,7 +130,7 @@ Some weapons, such as explosives, may damage all combatants in a close area rath
 
 For a weapon that uses ammunition or other expendable resources, check off one use of ammo for any attack that *fails* or *partially succeeds*. Weapons have 6 units of ammunition.
 
-Ammunition can be resupplied at a *rendevous point* as described in the Recovery section.ß
+Ammunition can be resupplied at a *rendezvous point* as described in the Recovery section.
 
 ### Taking Damage
 
