@@ -7,66 +7,66 @@ hide:
 
 *Working Draft v.0.5*
 
-[ENIGMA] RPG isn't your typical adventure roleplaying game. It’s a unique squad-level experience where you embody modern special forces operatives with paranormal abilities facing off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to roleplay.
+[ENIGMA] RPG isn't your typical adventure roleplaying game. It’s a unique squad-level experience in which you embody modern special forces operatives with paranormal abilities who face off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to roleplay.
 
 ## Before We Start
 
-Define lines that shouldn't be crossed. Pause or rewind the game if something uncomfortable happens during a session. Always make sure everyone's comfortable with the direction of the story.
+Regarding the game’s narrative content and subject matter, define lines that shouldn't be crossed. Pause or rewind the game if something uncomfortable happens during a session. Always make sure everyone's comfortable with the direction of the story.
 
 ## Playing the Game
 
 One person is the game master (GM), and the rest are players.
 
-- **GM**: Guides the story and presents challenges to the group. Be a fan of the players. Ask them questions, and fill the world with their answers. Split complex challenges into *clocks*.
+- **GM**: Guides the story and presents challenges to the group. Be a fan of the players. Ask them questions and fill the world with their answers. Split complex challenges into progress *clocks*.
 - **Players**: Narrate what your character does. Make *action rolls* when things are risky. Give everyone time to shine. Fill the world with your ideas. Take risks, and rise up from failures.
 
 ## Action Rolls
 
-When a challenge needs to be overcome, and there’s a risk of failure, make an *action roll*. This resolves the action for your character as well as any GM-controlled characters that are involved.
+When you need to overcome a challenge, and there’s a risk of failure, make an *action roll*. This roll resolves the action for your character and any GM-controlled characters involved.
 
 ### 1. Choose an Attribute
 
-The GM will ask you which of your attributes you’re using, or they might decide for you if the answer is unclear. Before you roll, you can ask the GM for possible outcomes of your action to get an idea of what you’re up against.
+The GM will ask you which attribute you’re using for your *action roll*, or they might decide for you if the answer is unclear. Before you roll, you can ask the GM for possible outcomes of your action to get an idea of what you’re up against.
 
-- Roll +**FORCEFUL** for displays of strength, like kicking in doors, using clunky, powerful weapons, or intimidating others.
-- Roll +**TACTICAL** for logic applications, like maintaining a disguise, hacking into a database, or operating machinery.
+- Roll +**FORCEFUL** for displays of strength, like kicking in doors, intimidating others, or using clunky, powerful weapons.
+- Roll +**TACTICAL** for applications of logic, like maintaining a disguise, hacking into a database, or operating machinery.
 - Roll +**CREATIVE** for expressions of will, like persuasive speeches, off-the-cuff bluffing, or psychic manipulation.
-- Roll +**REFLEXIVE** for feats of agility, like dodging bullets, using light, precise weapons, or evading enemy attacks.
+- Roll +**REFLEXIVE** for feats of agility, like dodging bullets, evading enemy attacks, or using light, precise weapons.
 
 ### 2. Roll the Dice
 
 Roll **2D6 + Attribute**. The total determines your degree of success as follows.
 
-- **6 or less**, it’s a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
-- **7–9**, it’s a **partial success**. You achieve your goal, but there’s a complication.
-- **10–12**, it’s a **complete success**. Things go well, and you achieve your goal.
-- **13 or greater**, it’s a **critical success**. Things go better than expected. You achieve your goal with an added benefit.
+- On a **6 or less**, it’s a **failure**. Things go poorly. You don't achieve your goal, and you suffer a consequence.
+- On a **7–9**, it’s a **partial success**. You achieve your goal, but there’s a complication.
+- On a **10–12**, it’s a **complete success**. Things go well, and you achieve your goal.
+- On a **13 or greater**, it’s a **critical success**. Things go better than expected. You achieve your goal with an added benefit.
 
 ## Momentum
 
 When a player makes an *action roll*, that roll can generate *momentum*. You start every session with 2 points of *momentum* and generate more when you make successful *action rolls*. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
 
-Whenever you make an *action roll*, you gain additional *momentum* as follows.
+Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
 - On a **7–9**, you gain 1 *momentum*.
 - On a **10–12**, you gain 2 *momentum*.
 - On a **13 or greater**, you gain 3 *momentum*.
 
-Note that when *momentum* is spent on a roll, that roll cannot, in turn, generate *momentum*.
-
 ### Spending Momentum
 
 You can spend your *momentum* to receive bonuses or resist incoming consequences.
 
+Note that when you spend *momentum* on a roll, that roll can’t, in turn, generate *momentum*.
+
 **ASSIST**: Consume 1 point of *momentum* to add *advantage* to an ally’s *action roll*. Doing this also exposes your character to the same risks.
 
-**PUSH YOURSELF**: Consume 2 points of  *momentum* per push and gain one of the following.
+**PUSH YOURSELF**: Consume 2 points of  *momentum* per push to gain one of the following effects:
 
 - Roll your *action roll* with *advantage*.
 - Increase the *effect* of your action.
 - Take another action.
 
-**DETERMINATION ROLL**: If your character suffers a *consequence* you don’t like as a player, you can try to resist it. You do so by calling for a *determination roll* to see how well you resist the *consequence*.
+**DETERMINATION ROLL**: If your character suffers a *consequence* that you don’t like as a player, you can try to resist it. You do so by calling for a *determination roll* to see how well you resist the *consequence*.
 
 Consume 3 points of *momentum* to resist or limit your or someone else’s *consequence* from a failed roll. Roll **2D6 + Attribute**:
 
@@ -77,33 +77,39 @@ Consume 3 points of *momentum* to resist or limit your or someone else’s *cons
 
 **FLASHBACKS**: Consume 4 points of *momentum* to call for a scene that has happened in the past to affect what hasn’t been established in the fiction yet.
 
-### Rolling with Advantage
+## Rolling with Advantage
 
 When your *action roll* has an *advantage*, roll **3D6 + Attribute** and drop the lowest D6 result.
 
 ## Challenges and Danger
 
-When the players face a complex obstacle, like hacking into a mainframe or defusing a bomb, the GM may split the effort into a progress *clock* rather than resolving the obstacle with a single *action roll*.
+When the players face a complex obstacle, like hacking into a mainframe or defusing a bomb, the GM may split the effort into a progress *clock* to split the effort, rather than resolving the obstacle with a single *action roll*.
 
 *Clocks* are circles divided into 4, 6, or 8 segments—generally, the more complex the problem, the more segments in the *clock*.
 
-As the players attempt to overcome the obstacle with *action rolls*, progress is marked on the *clock* by the outcomes: tick 1 segment with *partial success*, 2 with *complete success*, and 3 with *critical success*. When all segments are ticked, the obstacle is overcome.
+As the players attempt to overcome the obstacle with *action rolls*, progress is marked on the *clock* by the outcomes:
 
-Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM ticks segments on the *clock* if players fail *action rolls*. The danger comes to fruition when the *clock* is full—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
+- For a *partial success*, check off 1 segment.
+- For a *complete success*, check off 2 segments.
+- For a *critical success*, check off 3 segments.
+
+ When all segments are checked off, the obstacle is overcome.
+
+Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM checks off segments on the *clock* if players fail *action rolls*. The danger comes to fruition when all the segments are checked off—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
 ## Adding Tension
 
-When you add tension to your *action roll*, you can ask the GM, "What would adding tension look like here?". The GM then offers an additional *consequence* for failure, like ticking multiple segments on a danger clock, inflicting collateral damage, or adding more drama to the narrative.
+To add tension to your *action roll*, ask the GM, "What would adding tension look like here?". The GM then offers an additional *consequence* for failure, such as checking off additional segments on a danger clock, inflicting collateral damage, or adding more drama to the narrative.
 
 **If you accept the additional consequence**, your *action roll* has an *advantage*.
 
-This "Devil's Bargain" is always a free choice. If you don't like one, reject it (or suggest how to alter it so you might consider taking it). You can always consume *momentum* to push yourself for an *advantage* on the *action roll*. 
+Accepting or rejecting this "Devil's Bargain" is always a free choice. If you don't like the stated *consequence*, reject it (or suggest how to alter it so you might consider taking it). Alternatively, you could consume your *momentum* to push yourself for an *advantage* on the *action roll* rather than add tension. 
 
-There could be scenarios in which adding tension isn't an option. In that case, the GM will communicate that to you so that you can look into other ways to even the odds.
+In some scenarios, adding tension isn't an option. In that case, the GM will communicate that to you so that you can look into other ways to even the odds.
 
 ## Combat
 
-Combat works the same as doing anything else risky. Make an *action roll* to attack and deal damage if you succeed. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
+Combat works the same as doing anything else risky. Make an *action roll* to attack and to deal damage if you succeed. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
 
 ### Dealing Damage
 
@@ -115,16 +121,16 @@ A *critical success* uses the highest D6 result.
 
 #### Weapon Damage Modifiers
 
-Add the following damage modifier based on the type of weapon.
+Add the following damage modifier based on the type of weapon:
 
 - **Unarmed** attacks deal -1 damage.
-- **Holdout** weapons (shivs and slingshots) deal +0 damage and are easily concealable. 
-- **Light** weapons (pistols and knives) deal +1 damage and are sometimes concealable.
+- **Holdout** weapons (shivs and slingshots) deal +0 damage. 
+- **Light** weapons (pistols and knives) deal +1 damage.
 - **Medium** weapons (rifles, shotguns, and swords) deal +2 damage.
 - **Heavy** weapons (RPGs, miniguns, and sniper rifles) deal +3 damage.
-- **Anomalous** weapons (enchanted, alien, or divine) deal +4.
+- **Anomalous** weapons (enchanted, alien, or divine) deal +4 damage.
 
-Some weapons, such as explosives, may damage all combatants in a close area rather than a single target.
+Some weapons, such as explosives, may damage all targets in a close area rather than a single target.
 
 #### Ammo
 
@@ -143,50 +149,50 @@ When your character makes an *action roll* to defend against damage, they take d
 
 ### Cover and Suppression
 
-If you take cover behind something, you gain an armor bonus against attacks your cover would block. Low, medium, and high cover grants 1, 2, and 3 armor. Attacks that ignore armor do not ignore the armor bonus provided by cover. 
+If you take cover behind something, you gain an armor bonus against attacks that your cover would block. Low, medium, and high cover grants 1, 2, and 3 armor, respectively. Attacks that ignore armor don’t ignore the armor bonus provided by cover. 
 
-- **Low** cover does little to protect the body (iron bars, thick foliage, another person).
-- **Medium** cover protects at least half of the body and often requires crouching (the front of a car, a highway divider, a barrel).
-- **High** cover protects the whole body and allows free positioning (a wall, a thick tree trunk, a train car).
+- **Low** cover does little to protect the body (for example, iron bars, thick foliage, or another person).
+- **Medium** cover protects at least half of the body and often requires crouching (for example, a car, a highway divider, or a barrel).
+- **High** cover protects the whole body and allows free positioning (for example, a wall, a thick tree trunk, or a train car).
 
-Characters who attack while behind cover should subtract the armor bonus their cover grants from the damage they deal (this also applies to enemies).
+Characters who attack from behind cover should subtract the armor bonus that their cover grants from the damage they deal (this also applies to enemies).
 
 When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressed targets who leave cover take the damage of the suppressing attack.
 
 ### Damage, Injuries, and Dying
 
-If your character takes damage but has at least 1 HP remaining, they’re still on their feet and in the fight. However, if they drop to 0 or less HP, they must roll **2D6 + FORCEFUL** *minus* any damage past zero to see how bad it is.
+If you take damage but have at least 1 HP remaining, you’re still on your feet and in the fight. However, if you drop to 0 or less HP, you must roll **2D6 + FORCEFUL** *minus* any damage past zero to see how bad it is.
 
-- On a **6 or less**, and it was a lethal attack, such as a gunshot, they’re **dead**. If not, they’re at 0 HP, incapacitated, and gain an *injury*. Incapacitated characters will die in 10 minutes if left unattended. 
-- On a **7-12**, they remain alive with 1 HP and gain an *injury*. You must make a successful **+FORCEFUL** roll or be knocked unconscious. An ally can revive unconscious characters.
-- On a **13 or more**, they gain an *injury* but rally with HP equal to the lowest D6 rolled, up to your maximum HP.
+- On a **6 or less**, for a lethal attack, such as a gunshot, you’re **dead**. If not, you’re at 0 HP, incapacitated, and gain an *injury*. Incapacitated characters will die in 10 minutes if left unattended. 
+- On a **7-12**, you remain alive with 1 HP and gain an *injury*. You must make a successful **+FORCEFUL** roll or be knocked unconscious. An ally can revive unconscious characters.
+- On a **13 or more**, you gain an *injury* but rally with HP equal to the lowest D6 rolled, up to your maximum HP.
 
-Each *injury* you receive reduces your maximum HP by 1. Injuries cannot be healed in the field and require medical attention back at base between missions.
+Each *injury* that you receive reduces your maximum HP by 1. Injuries can’t be healed in the field and require medical attention back at base between missions.
 
-If accumulated injuries reduce your maximum HP to zero, your character dies. 
+If accumulated injuries reduce your maximum HP to 0, your character dies. 
 
 ### Emergency Insertion
 
 If your character dies, create a new character while the play continues. When you’re ready to deploy, jump into the fray and roll **2D6 + Attribute**:
 
-- **6 or less**, your deployment suffers a complication.
-- **7–9**, you deploy normally.
-- **10–12**, you deploy normally with an extra standard issue item of military gear.
-- **13 or greater**, as 10–12, and your next *action roll* has an *advantage*.
+- On a **6 or less**, your deployment suffers a complication.
+- On a **7–9**, you deploy normally.
+- On a **10–12**, you deploy normally with an extra standard-issue item of military gear.
+- On a **13 or greater**, you deploy normally with an extra standard-issue item of military gear, and your next *action roll* has an *advantage*.
 
 ### Recovery
 
-Once per mission, the team can send a *rendezvous signal*. Upon the signal’s activation, the referee describes a nearby rendezvous point and the obstacles to reaching it.
+Once per mission, the team can send a *rendezvous signal*. When the signal is activated, the GM describes a nearby rendezvous point and the obstacles to reaching it.
 
 Players are safe as long as they remain at the rendezvous point. Each player at the point chooses one of the following bonuses:
 
 - **REST**: Recover 1D6 HP.
-- **RESUPPLY**: Restock ammo or a limited-use item.
+- **RESUPPLY**: Restock ammo or another limited-use item.
 - **INTEL**: Receive one useful fact about the mission from the GM.
 
 ## Your Character
 
-You are an elite special forces operative who doesn’t fit into mainstream society. You are the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can turn into a ghost or control bees with your mind. The paranormal secrets of the Cold War are your bread and butter, and you fight for your country alongside others like you.
+You’re an elite special forces operative who doesn’t fit into mainstream society. You’re the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can turn into a ghost or control bees with your mind. The paranormal secrets of the Cold War are your cornerstone, and you fight for your country alongside others like you.
 
 ### Creating a Character
 
@@ -199,13 +205,10 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 	- Armor starts at 0 but can be increased by your gear.
 	- Maximum HP starts at 6 and can be increased by your traits. 
 3. Add **one** point to any attribute score to a maximum score of 3.
-4. Choose or [randomly determine](https://perchance.org/enigma-roles) your character’s **role**.
-	- Your role is something your character wants to achieve during missions, and doing it lets them advance and improve.
-	- You can’t choose a role another player on the team already has.
-5. Choose your native **language(s)**. 
-	- Choose additional languages equal to your TACTICAL or CREATIVE attribute scores. 
-6. Choose your character’s **codename**.
-7. Write a sentence or two summarizing your **backstory**.
+4. [Randomly determine](https://perchance.org/enigma-roles) and record your character’s **role**.
+	- Your role reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
+	- You can’t choose a role that another player on the team already has. 
+5. Choose your character’s **codename**.
 
 ### Character Advancement
 
@@ -213,7 +216,7 @@ Characters advance when they act according to their role. For instance, a CRUSAD
 
 **After your character advances** and you return to base, choose one of the following rewards: 
 
-- a new trait
+- A new trait
 - +1D6 maximum HP
 
 ## Attribution
