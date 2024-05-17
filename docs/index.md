@@ -126,12 +126,6 @@ Add the following damage modifier based on the type of weapon.
 
 Some weapons, such as explosives, may damage all combatants in a close area rather than a single target.
 
-#### Ammo
-
-For a weapon that uses ammunition or other expendable resources, check off one use of ammo for any attack that *fails* or *partially succeeds*. Weapons have 6 units of ammunition.
-
-Ammunition can be resupplied at a *rendevous point* as described in the Recovery section.
-
 ### Taking Damage
 
 When your character makes an *action roll* to defend against damage, they take damage as follows:
@@ -181,7 +175,7 @@ Once per mission, the team can send a *rendezvous signal*. Upon the signal’s a
 Players are safe as long as they remain at the rendezvous point. Each player at the point chooses one of the following bonuses:
 
 - **REST**: Recover 1D6 HP.
-- **RESUPPLY**: Restock ammo or another limited-use item.
+- **RESUPPLY**: Restock a limited-use item.
 - **INTEL**: Receive one useful fact about the mission from the GM.
 
 ## Your Character
