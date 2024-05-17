@@ -193,7 +193,7 @@ You are an elite special forces operative who doesn’t fit into mainstream soci
 1. [Randomly determine](https://perchance.org/enigma-traits) and record two starting **traits** on your character sheet.
 	- Traits define your character’s paranormal abilities and determine your starting attributes and gear.
 2. Fill out your **attribute** scores, **inventory**, **armor**, and maximum **hit points (HP)**.
-	- All attribute scores start at 0 and are increased or decreased by your starting traits.
+	- All attribute scores start at 0 and are increased or decreased by your traits.
 	- The maximum attribute score, regardless of traits, is 3, and the minimum is -2.
 	- Your inventory includes the standard loadout listed on your character sheet and the additional gear supplied by your traits.
 	- Armor starts at 0 but can be increased by your gear.
