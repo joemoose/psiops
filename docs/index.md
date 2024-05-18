@@ -83,7 +83,7 @@ When your *action roll* has an *advantage*, roll **3D6 + Attribute** and drop th
 
 ## Challenges and Danger
 
-When the players face a complex obstacle, like hacking into a mainframe or defusing a bomb, the GM may split the effort into a progress *clock* to split the effort, rather than resolving the obstacle with a single *action roll*.
+When the players face a complex obstacle, like hacking into a mainframe or defusing a bomb, the GM may split the effort into a progress *clock* rather than resolving the obstacle with a single *action roll*.
 
 *Clocks* are circles divided into 4, 6, or 8 segments—generally, the more complex the problem, the more segments in the *clock*.
 
