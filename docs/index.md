@@ -221,7 +221,7 @@ Characters advance when they act according to their role. For instance, a CRUSAD
 
 ## Attribution
 
-**[ENIGMA] RPG** is *Powered by the Apocalypse*, and its design was heavily informed by *Apocalypse World*, written by D. Vincent Baker, copyright 2010.
+**[ENIGMA] RPG** is “Powered by the Apocalypse,” and its design was heavily informed by *Apocalypse World*, written by D. Vincent Baker, copyright 2010.
 
 - This work is based on *[FIST: Ultra Edition](https://claymorerpgs.itch.io/fist)*, a product by CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - This work is also based on *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
