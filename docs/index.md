@@ -121,6 +121,8 @@ During the **first round of combat**, each player must make a +REFLEXIVE roll to
 
 The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
+The results of each side’s actions occur **simultaneously**. As such, all players declare their actions for a turn before determining the results of those actions.
+
 ### Dealing Damage
 
 When an *action roll* to attack succeeds:
