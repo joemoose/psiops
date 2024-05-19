@@ -11,7 +11,11 @@ hide:
 
 ## Before We Start
 
-Regarding the game’s narrative content and subject matter, define lines that shouldn't be crossed. Pause or rewind the game if something uncomfortable happens during a session. Always make sure everyone's comfortable with the direction of the story.
+Regarding the game’s narrative content and subject matter, define lines that shouldn't be crossed. Lines represent content that you have decided to exclude from the story and won’t feature during play.
+
+Pause or rewind the game if something uncomfortable happens during a session. Always make sure everyone's comfortable with the direction of the story.
+
+Be respectful, be kind, and have fun!
 
 ## Playing the Game
 
@@ -134,9 +138,14 @@ Some weapons, such as explosives, may damage all targets in a close area rather 
 
 #### Ammo
 
-For a weapon that uses ammunition or other expendable resources, check off one use of ammo for any attack that *fails* or *partially succeeds*. Weapons have 6 units of ammunition.
+Ranged weapons have an AMMO score set to 6 at the beginning of each mission. 
 
-Ammunition can be resupplied at a *rendezvous point* as described in the Recovery section.
+**Check off 1 AMMO** for any attack that *fails* or *partially succeeds*. 
+
+When  AMMO is reduced to 0, the weapon is out of ammunition and can’t be used until restocked.
+
+- Finding ammunition for a weapon during a mission increases AMMO by 1.
+- Choosing RESUPPLY during a rendezvous, as described in the Recovery section, can refill one weapon’s AMMO to 6.
 
 ### Taking Damage
 
