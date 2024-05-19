@@ -115,6 +115,12 @@ In some scenarios, adding tension isn't an option. In that case, the GM will com
 
 Combat works the same as doing anything else risky. Make an *action roll* to attack and to deal damage if you succeed. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
 
+### Initiative
+
+During the **first round of combat**, each player must make a +REFLEXIVE roll to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this roll **lose their turn** for the first round.
+
+The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+
 ### Dealing Damage
 
 When an *action roll* to attack succeeds:

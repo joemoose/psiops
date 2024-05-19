@@ -44,3 +44,14 @@ Abstract ammo tracking Ranged weapons have a new stat called AMMO, set to 6 at t
 - If the roll was equal, keep AMMO the same.
 
 Finding more ammo for a weapon increases its score by 1, and choosing RESTOCK during a rendezvous can refill one weapon’s AMMO to 6 instead of refilling a limited-use item.
+
+---
+
+## Initiative
+
+During the **first round of combat**, each player must make a +REFLEXIVE roll to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this roll **lose their turn** for the first round.
+
+The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+
+The results of each side’s actions occur **simultaneously**. As such, all players declare their actions for a turn before determining the results of those actions.
+
