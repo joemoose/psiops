@@ -204,12 +204,12 @@ Once per mission, the team can send a *rendezvous signal*. When the signal is ac
 Players are safe as long as they remain at the rendezvous point. Each player at the point chooses one of the following bonuses:
 
 - **REST**: Recover 1D6 HP.
-- **RESUPPLY**: Restock ammo or another limited-use item.
+- **RESUPPLY**: Restock one limited-use item or ammo for a ranged weapon.
 - **INTEL**: Receive one useful fact about the mission from the GM.
 
 ## Your Character
 
-You’re an elite special forces operative who doesn’t fit into mainstream society. You’re the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can turn into a ghost or control bees with your mind. The paranormal secrets of the Cold War are your cornerstone, and you fight for your country alongside others like you.
+You’re an elite military operative who doesn’t fit into mainstream society. You’re the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can turn into a ghost or control bees with your mind. The paranormal secrets of the Cold War are your cornerstone, and you fight for your country alongside others like you.
 
 ### Creating a Character
 
