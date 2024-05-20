@@ -21,7 +21,7 @@ Be respectful, be kind, and have fun!
 
 One person is the game master (GM), and the rest are players.
 
-- **GM**: Guides the story and presents challenges to the group. Be a fan of the players. Ask them questions and fill the world with their answers. Split complex challenges into progress *clocks*.
+- **GM**: Guides the story and presents challenges to the group. Be a fan of the players. Ask them questions and fill the world with their answers. Split complex challenges or impending danger into progress *clocks*.
 - **Players**: Narrate what your character does. Make *action rolls* when things are risky. Give everyone time to shine. Fill the world with your ideas. Take risks, and rise up from failures.
 
 ## Action Rolls
