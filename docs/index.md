@@ -176,7 +176,11 @@ If you take cover behind something, you gain an armor bonus against attacks that
 
 Characters who attack from behind cover should subtract the armor bonus that their cover grants from the damage they deal (this also applies to enemies).
 
-When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressed targets who leave cover or perform a risky action, such as returning fire, take the damage of the suppressing attack.
+#### Suppressing Fire
+
+When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressing fire checks off 1 use of AMMO regardless of the attack roll.
+
+Suppressed targets who leave cover or perform a risky action, such as returning fire, take the damage of the suppressing attack without the armor benefit of cover.
 
 Unless fanatical or mindless, suppressed targets generally hide behind cover and remain pinned down until the suppressing fire ceases.
 
