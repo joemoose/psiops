@@ -217,6 +217,24 @@ Players are safe as long as they remain at the rendezvous point. Each player at 
 - **RESUPPLY**: Restock one limited-use item or ammo for a ranged weapon.
 - **INTEL**: Receive one useful fact about the mission from the GM.
 
+### Swarms
+
+When battling many relatively weak identical enemies, such as zombies, thugs, or guard drones, the GM will group the individual opponents into a single unit or *swarm*. 
+
+HP represents how many opponents are in the swarm. Every four opponents add an ARMOR and DAMAGE and allow the swarm to attack one extra target. Extra attacks can’t be used on the same target at once.
+
+Damage to the swarm’s HP reduces the swarm’s size and stats.
+
+| #/HP | ARMOR | DAMAGE | Attacks |
+| :- | :-: | :-: | :-: |
+1–4 | 0 | -1 | 1
+4–8 | 1 | +0 | 2
+9–12 | 2 | +1 | 3
+13–16 | 3 | +2 | 4
+17–20 | 4 | +3 | 5
+
+Let’s say you’re up against a swarm of fourteen opponents. With its (14 HP, 3 ARMOR, +2 DAMAGE), this swarm can launch attacks on up to 4 targets. However, once it sustains five points of damage, its size and stats are reduced. The new stats for the swarm would be (9 HP, 2 ARMOR, +1 damage), and it can now attack up to 3 targets.
+
 ## Your Character
 
 You’re an elite military operative who doesn’t fit into mainstream society. You’re the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can turn into a ghost or control bees with your mind. The paranormal secrets of the Cold War are your cornerstone, and you fight for your country alongside others like you.
@@ -254,6 +272,7 @@ Characters advance when they act according to their role. For instance, a CRUSAD
 - This work is also based on *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - This work is also based on [Blades in the Dark](https://bladesinthedark.com/), a product of One Seven Design, developed and authored by John Harper and licensed for use under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
 - The single action roll to determine both the success of an attack and the resulting damage is inspired by the combat mechanic of *[Vagabonds of Dyfed](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed)*, written by Ben Dutter, copyright Sigil Stone Publishing 2018.
+- Swarms mechanic is adapted from the FIST supplement [*HECATONCHEIRES*](https://threeyelloweyes.itch.io/fist-hecatoncheires) by Moth and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
