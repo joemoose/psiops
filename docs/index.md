@@ -254,3 +254,9 @@ Characters advance when they act according to their role. For instance, a CRUSAD
 - This work is also based on *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - This work is also based on [Blades in the Dark](https://bladesinthedark.com/), a product of One Seven Design, developed and authored by John Harper and licensed for use under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
 - The single action roll to determine both the success of an attack and the resulting damage is inspired by the combat mechanic of *[Vagabonds of Dyfed](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed)*, written by Ben Dutter, copyright Sigil Stone Publishing 2018.
+
+---
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;margin-right:auto;margin-left:auto;display: block" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work outside the copyrighted material or trademarks of the entities above is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
