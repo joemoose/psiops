@@ -60,7 +60,9 @@ Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
 You can spend your *momentum* to receive bonuses or resist incoming consequences.
 
-Note that when you spend *momentum* on a roll, that roll can’t, in turn, generate *momentum*.
+!!! note 
+
+	Note that when you spend *momentum* on a roll, that roll can’t, in turn, generate *momentum*.
 
 **ASSIST**: Consume 1 point of *momentum* to add *advantage* to an ally’s *action roll*. Doing this also exposes your character to the same risks.
 

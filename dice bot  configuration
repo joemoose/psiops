@@ -1,0 +1,13 @@
+/custom_dice start buttons: 
+val('$roll',2d6=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6;;
+val('$roll',2d6+1=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 +1;
+val('$roll',2d6+2=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 +2;
+val('$roll',2d6+3=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 +3;
+val('$roll',2d6-1=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 -1;
+val('$roll',2d6-2=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 -2;;
+val('$roll',3d6k2=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 ADV;;
+val('$roll',(3d6k2)+1=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 ADV +1;
+val('$roll',(3d6k2)+ 2=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 ADV +2;
+val('$roll',(3d6k2)+3=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 ADV +3;
+val('$roll',(3d6k2)-1=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 ADV -1;
+val('$roll',(3d6k2)-2=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@2D6 ADV -2; answer_format: without_expression dice_image_style: polyhedral_3d dice_image_color: red
