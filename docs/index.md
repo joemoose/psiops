@@ -43,7 +43,7 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 
 - On a **6 or less**, it’s a **failure**. Things go poorly. You don't achieve your goal, and you suffer a consequence.
 - On a **7–9**, it’s a **partial success**. You achieve your goal, but there’s a complication.
-- On a **10–12**, it’s a **complete success**. Things go well, and you achieve your goal.
+- On a **10–12**, it’s a **success**. Things go well, and you achieve your goal.
 - On a **13 or greater**, it’s a **critical success**. Things go better than expected. You achieve your goal with an added benefit.
 
 ## Momentum
@@ -89,7 +89,7 @@ When your *action roll* has an *advantage*, roll **3D6 + Attribute** and drop th
 
 When the players face a complex obstacle, like hacking into a mainframe or defusing a bomb, the GM may split the effort into a progress *clock* rather than resolving the obstacle with a single *action roll*.
 
-*Clocks* are circles divided into 4, 6, or 8 segments—generally, the more complex the problem, the more segments in the *clock*.
+*Clocks* are circles divided into 4, 6, or 8 segments—the more complex the problem, the more segments in the *clock*.
 
 As the players attempt to overcome the obstacle with *action rolls*, progress is marked on the *clock* by the outcomes:
 
@@ -99,7 +99,7 @@ As the players attempt to overcome the obstacle with *action rolls*, progress is
 
  When all segments are checked off, the obstacle is overcome.
 
-Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM checks off segments on the *clock* if players fail *action rolls*. The danger comes to fruition when all the segments are checked off—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
+Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM checks off segments on the *clock* if players fail *action rolls* or partially succeed. The danger comes to fruition when all the segments are checked off—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
 ## Adding Tension
 
@@ -174,7 +174,7 @@ If you take cover behind something, you gain an armor bonus against attacks that
 
 Characters who attack from behind cover should subtract the armor bonus that their cover grants from the damage they deal (this also applies to enemies).
 
-When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressed targets who leave cover take the damage of the suppressing attack.
+When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressed targets who leave cover or perform a risky action, such as returning fire, take the damage of the suppressing attack.
 
 ### Damage, Injuries, and Dying
 
