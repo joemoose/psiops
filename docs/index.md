@@ -186,11 +186,13 @@ Unless fanatical or mindless, suppressed targets generally hide behind cover and
 
 ### Damage, Injuries, and Dying
 
-If you take damage but have at least 1 HP remaining, you’re still on your feet and in the fight. However, if you drop to 0 or less HP, you must roll **2D6 + FORCEFUL** *minus* any damage past zero to see how bad it is.
+If you take damage but have at least 1 HP remaining, you’re still on your feet and in the fight. However, if you drop to 0 or less HP, you must roll **2D6 + FORCEFUL** *minus* any damage past zero to see how bad it is:
 
 - On a **6 or less**, for a lethal attack, such as a gunshot, you’re **dead**. If not, you’re at 0 HP, incapacitated, and gain an *injury*. Incapacitated characters will die in 10 minutes if left unattended. 
 - On a **7-12**, you remain alive with 1 HP and gain an *injury*. You must make a successful **+FORCEFUL** roll or be knocked unconscious. An ally can revive unconscious characters.
 - On a **13 or more**, you gain an *injury* but rally with HP equal to the lowest D6 rolled, up to your maximum HP.
+
+#### Injuries
 
 Each *injury* that you receive reduces your maximum HP by 1. Injuries can’t be healed in the field and require medical attention back at base between missions.
 
