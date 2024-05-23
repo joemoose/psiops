@@ -178,6 +178,8 @@ Characters who attack from behind cover should subtract the armor bonus that the
 
 When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressed targets who leave cover or perform a risky action, such as returning fire, take the damage of the suppressing attack.
 
+Unless fanatical or mindless, suppressed targets generally hide behind cover and remain pinned down until the suppressing fire ceases.
+
 ### Damage, Injuries, and Dying
 
 If you take damage but have at least 1 HP remaining, you’re still on your feet and in the fight. However, if you drop to 0 or less HP, you must roll **2D6 + FORCEFUL** *minus* any damage past zero to see how bad it is.
