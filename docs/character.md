@@ -1,8 +1,8 @@
-## Your Character
+# Your Character
 
 You’re an elite military operative who doesn’t fit into mainstream society. You’re the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can turn into a ghost or control bees with your mind. The paranormal secrets of the Cold War are your cornerstone, and you fight for your country alongside others like you.
 
-### Creating a Character
+## Creating a Character
 
 1. [Randomly determine](https://perchance.org/enigma-traits) and record two starting **traits** on your character sheet.
 	- Traits define your character’s paranormal abilities and determine your starting attributes and gear.
@@ -18,7 +18,7 @@ You’re an elite military operative who doesn’t fit into mainstream society. 
 	- You can’t choose a role that another player on the team already has. 
 5. Choose your character’s **codename**.
 
-### Character Advancement
+## Character Advancement
 
 Characters advance when they act according to their role. For instance, a CRUSADER advances if they behaved ethically during their mission. You can choose a new role between missions if you feel you’ve reached natural closure for your role. 
 
