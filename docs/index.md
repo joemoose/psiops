@@ -296,8 +296,6 @@ Additional character *Traits* and *Roles* adapted from the following publication
 -  [*P.U.N.C.H.*](https://sea47r.itch.io/punch) by S. A. Adams.
 -  [*Ronin*](https://dragonslayerpress.itch.io/ronin) by Pete Rouse.
 
----
+## License
 
-### License
-
-</br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;margin-right:auto;margin-left:auto;display: block" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work outside the copyrighted material or trademarks of the entities above is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). 
