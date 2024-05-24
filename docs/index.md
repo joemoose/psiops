@@ -24,11 +24,11 @@ One person is the game master (GM), and the rest are players.
 - **GM**: Guides the story and presents challenges to the group. Be a fan of the players. Ask them questions and fill the world with their answers. Split complex challenges or impending danger into progress *clocks*.
 - **Players**: Narrate what your character does. Make *action rolls* when things are risky. Give everyone time to shine. Fill the world with your ideas. Take risks, and rise up from failures.
 
-## Action Rolls
+### Action Rolls
 
 When you need to overcome a challenge, and there’s a risk of failure, make an *action roll*. This roll resolves the action for your character and any GM-controlled characters involved.
 
-### 1. Choose an Attribute
+#### 1. Choose an Attribute
 
 The GM will ask you which attribute you’re using for your *action roll*, or they might decide for you if the answer is unclear. Before you roll, you can ask the GM for possible outcomes of your action to get an idea of what you’re up against.
 
@@ -37,7 +37,7 @@ The GM will ask you which attribute you’re using for your *action roll*, or th
 - Roll +**CREATIVE** for expressions of will, like persuasive speeches, off-the-cuff bluffing, or psychic manipulation.
 - Roll +**REFLEXIVE** for feats of agility, like dodging bullets, evading enemy attacks, or using light, precise weapons.
 
-### 2. Roll the Dice
+#### 2. Roll the Dice
 
 Roll **2D6 + Attribute**. The total determines your degree of success as follows.
 
@@ -46,7 +46,7 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 - On a **10–12**, it’s a **success**. Things go well, and you achieve your goal.
 - On a **13 or greater**, it’s a **critical success**. Things go better than expected. You achieve your goal with an added benefit.
 
-## Momentum
+### Momentum
 
 When a player makes an *action roll*, that roll can generate *momentum*. You start every session with 2 points of *momentum* and generate more when you make successful *action rolls*. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
 
@@ -56,7 +56,7 @@ Whenever you make an *action roll*, you gain additional *momentum* as follows:
 - On a **10–12**, you gain 2 *momentum*.
 - On a **13 or greater**, you gain 3 *momentum*.
 
-### Spending Momentum
+#### Spending Momentum
 
 You can spend your *momentum* to receive bonuses or resist incoming consequences.
 
@@ -83,7 +83,7 @@ Consume 3 points of *momentum* to resist or limit your or someone else’s *cons
 
 **FLASHBACKS**: Consume 4 points of *momentum* to call for a scene that has happened in the past to affect what hasn’t been established in the fiction yet.
 
-## Advantage and Disadvantage
+### Advantage and Disadvantage
 
 When your *action roll* has an *advantage*, such as pushing yourself with *momentum*, roll 3D6 +Attribute and drop the *lowest* D6 result.
 
@@ -94,7 +94,7 @@ If your action is more difficult than typical through circumstances in the narra
 	If the roll has both an *advantage* and a *disadvantage*, they cancel each other out; roll 2D6 +Attribute as usual.
 
 
-## Challenges and Danger
+### Challenges and Danger
 
 When the players face a complex obstacle, like hacking into a mainframe or defusing a bomb, the GM may split the effort into a progress *clock* rather than resolving the obstacle with a single *action roll*.
 
@@ -110,7 +110,7 @@ As the players attempt to overcome the obstacle with *action rolls*, progress is
 
 Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM checks off segments on the *clock* if players fail *action rolls* or partially succeed. The danger comes to fruition when all the segments are checked off—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
-## Adding Tension
+### Adding Tension
 
 To add tension to your *action roll*, ask the GM, "What would adding tension look like here?". The GM then offers an additional *consequence* for failure, such as checking off additional segments on a danger clock, inflicting collateral damage, or adding more drama to the narrative.
 
