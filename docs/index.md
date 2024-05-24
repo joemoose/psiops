@@ -5,7 +5,7 @@ hide:
 
 # [ENIGMA] RPG
 
-*Version 1.0*
+*Version 1.1*
 
 [ENIGMA] RPG isn't your typical adventure roleplaying game. It’s a unique squad-level experience in which you embody modern special forces operatives with paranormal abilities who face off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to roleplay.
 
@@ -83,9 +83,16 @@ Consume 3 points of *momentum* to resist or limit your or someone else’s *cons
 
 **FLASHBACKS**: Consume 4 points of *momentum* to call for a scene that has happened in the past to affect what hasn’t been established in the fiction yet.
 
-## Rolling with Advantage
+## Advantage and Disadvantage
 
-When your *action roll* has an *advantage*, roll **3D6 + Attribute** and drop the lowest D6 result.
+When your *action roll* has an *advantage*, such as pushing yourself with *momentum*, roll 3D6 +Attribute and drop the *lowest* D6 result.
+
+If the action is more difficult than typical, the roll may have a *disadvantage* per the GM; roll 3D6 +Attribute, and drop the *highest* D6 result.
+
+!!! note
+
+	If the roll has both an advantage and a disadvantage, they cancel each other out. Roll 2D6 +Attribute as usual.
+
 
 ## Challenges and Danger
 
