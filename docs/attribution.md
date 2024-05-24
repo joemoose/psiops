@@ -23,6 +23,6 @@ Additional character *Traits* and *Roles* adapted from the following publication
 -  [*P.U.N.C.H.*](https://sea47r.itch.io/punch) by S. A. Adams.
 -  [*Ronin*](https://dragonslayerpress.itch.io/ronin) by Pete Rouse.
 
-# License
+## License
 
 This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). 

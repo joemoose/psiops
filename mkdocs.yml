@@ -14,7 +14,7 @@ edit_uri: blob/main/docs
 # Navigation
 
 nav:
-  - index.md
+  - 'Introduction': index.md
   - 'Playing the Game': playing.md
   - combat.md
   - 'Your Character': character.md
