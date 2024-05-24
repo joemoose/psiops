@@ -91,7 +91,7 @@ If your action is more difficult than typical, the roll may have a *disadvantage
 
 !!! note
 
-	If the roll has both an advantage and a disadvantage, they cancel each other out; roll 2D6 +Attribute as usual.
+	If the roll has both an *advantage* and a *disadvantage*, they cancel each other out; roll 2D6 +Attribute as usual.
 
 
 ## Challenges and Danger
