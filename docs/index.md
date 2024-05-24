@@ -219,7 +219,9 @@ Players are safe as long as they remain at the rendezvous point. Each player at 
 
 ### Swarms
 
-When you’re battling many relatively weak identical enemies, such as zombies, thugs, or guard drones, the GM will group the individual opponents into a single unit or *swarm*. 
+When you’re battling many relatively weak, identical enemies, such as zombies, thugs, or guard drones, the GM will group the individual opponents into a single unit or *swarm*. 
+
+HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its ARMOR, DAMAGE, and the number of attacks, as described in the following table. The swarm’s extra attacks can’t be used on the same target.
 
 | #/HP | ARMOR | DAMAGE | Attacks |
 | :- | :-: | :-: | :-: |
@@ -229,9 +231,9 @@ When you’re battling many relatively weak identical enemies, such as zombies, 
 13–16 | 3 | +2 | 4
 17–20 | 4 | +3 | 5
 
-Damage to the swarm’s HP reduces the swarm’s size and stats.
+Damage to the swarm’s HP reduces the swarm’s size and stats—each HP of damage reduces the swarm’s number by 1.
 
-For example, you’re up against a swarm of fourteen opponents. With its (14 HP, 3 ARMOR, and +2 DAMAGE), this swarm can launch attacks on up to 4 targets. However, once the swarm sustains five points of damage, its size and stats are reduced. The new stats for the swarm would be (9 HP, 2 ARMOR, and +1 damage), and it can now attack up to 3 targets.
+For example, you’re up against a swarm of 14 opponents. With its stats of 14 HP, 3 ARMOR, and +2 DAMAGE, this swarm can launch attacks on up to 4 targets. However, after the swarm sustains 5 HP of damage, its size and stats are reduced. The new stats for the swarm would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
 
 ## Your Character
 
@@ -272,7 +274,7 @@ Characters advance when they act according to their role. For instance, a CRUSAD
 - The single action roll to determine both the success of an attack and the resulting damage is inspired by the combat mechanic of *[Vagabonds of Dyfed](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed)*, written by Ben Dutter, copyright Sigil Stone Publishing 2018.
 - Swarms mechanic is adapted from the FIST supplement [*HECATONCHEIRES*](https://threeyelloweyes.itch.io/fist-hecatoncheires) by Moth and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-Additional character *Traits* and *Roles* are based on the following publications, all licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+Additional character *Traits* and *Roles* adapted from the following publications, all licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 - [*A Fistful of Death Metal*](https://maenad-of-miami.itch.io/a-fistful-of-death-metal) by Maenad of Miami.
 - [*Bielefeld-Hasselt Equation*](https://magic-badger.itch.io/bielefeld-hasselt-equation) and [*Derivative 14*](https://magic-badger.itch.io/derivative-14) by Joel Thurston.
@@ -289,6 +291,6 @@ Additional character *Traits* and *Roles* are based on the following publication
 
 ---
 
-## License
+### License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;margin-right:auto;margin-left:auto;display: block" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work outside the copyrighted material or trademarks of the entities above is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+</br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;margin-right:auto;margin-left:auto;display: block" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work outside the copyrighted material or trademarks of the entities above is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
