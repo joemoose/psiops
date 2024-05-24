@@ -15,6 +15,10 @@ edit_uri: blob/main/docs
 
 nav:
   - index.md
+  - playing.md
+  - combat.md
+  - character.md
+  - attribution.md
     
 # Theme
 

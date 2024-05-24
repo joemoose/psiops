@@ -1,4 +1,7 @@
-_Scratch Pad
+---
+hide:
+  - navigation
+---
 
 # Forked Choices
 
