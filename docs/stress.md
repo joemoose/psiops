@@ -38,7 +38,7 @@ When you reach 6 stress points, you must make an action roll +CREATIVE to avoid 
 - On a **6 or less**, you *panic*. To determine the effect, roll 1D6 and consult the following Panic Table for the result.
 - On a **7–9**, you keep it together and remove 1 stress point.
 - On a **10–12**, you keep it together and remove 2 stress points.
-- On a **13 or greater**, remove all stress and become *transcendent*. To determine the effect, roll 1D6 and consult the following Righteous Table for the result.
+- On a **13 or greater**, remove all stress and become *transcendent*. To determine the effect, roll 1D6 and consult the following Transcendent Table for the result.
 
 
 ### Panic Table
