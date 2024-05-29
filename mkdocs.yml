@@ -17,6 +17,7 @@ nav:
   - 'Introduction': index.md
   - 'Playing the Game': playing.md
   - combat.md
+  - stress.md
   - 'Your Character': character.md
   - attribution.md
     

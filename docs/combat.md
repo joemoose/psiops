@@ -4,9 +4,9 @@ Combat works the same as doing anything else risky. Make an *action roll* to att
 
 ## Initiative
 
-During the **first round of combat**, each player must make a +REFLEXIVE roll to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this roll **lose their turn** for the first round.
+During the **first round of combat**, each player must make a +TACTICAL roll to act before the opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** for the first round.
 
-The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
 The results of each side’s actions occur **simultaneously**. As such, all players declare their actions for a turn before determining the results of those actions.
 
@@ -98,9 +98,10 @@ Once per mission, the team can send a *rendezvous signal*. When the signal is ac
 
 Players are safe as long as they remain at the rendezvous point. Each player at the point chooses one of the following bonuses:
 
-- **REST**: Recover 1D6 HP.
-- **RESUPPLY**: Restock one limited-use item or ammo for a ranged weapon.
+- **HEAL**: Recover 1D6 HP.
 - **INTEL**: Receive one useful fact about the mission from the GM.
+- **REST**: Remove 1D6 STRESS.
+- **RESUPPLY**: Restock one limited-use item or ammo for a ranged weapon.
 
 ## Swarms
 
