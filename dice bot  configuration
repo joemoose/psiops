@@ -42,6 +42,12 @@ val('$roll',(3d6l2)+1=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Succ
 val('$roll',(3d6l2)+2=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@DIS +2;
 val('$roll',(3d6l2)+3=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@DIS +3;
 val('$roll',(3d6l2)-1=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@DIS -1;
-val('$roll',(3d6l2)-2=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@DIS -2;1D6;2D6; 
-answer_format: only_result dice_image_style: polyhedral_3d dice_image_color: red
+val('$roll',(3d6l2)-2=) if('$roll'>=?13, 'Critical Success', '$roll'>=?10, 'Success', '$roll'<=?6, 'Miss', 'Partial Success')@DIS -2;
+1D3;1D6@1D6;2D6=@2D6;3D6=@3D6;1D6 col 'blue_and_white' + 1D6 col 'red_and_white'@Oracle;
+answer_format: only_result dice_image_style: polyhedral_3d dice_image_color: green_and_white
+
+/custom_dice start buttons: 1D6 col 'green_and_white' + 1D6 col 'red_and_white'@Oracle answer_format: without_expression dice_image_style: polyhedral_3d dice_image_color: blue_and_white
+
+/custom_dice start buttons: 2d6+2d10 col 'red_and_gold' + 2d20 col 'blue_and_gold'@color roll answer_format: without_expression dice_image_style: polyhedral_alies_v2 dice_image_color: green_and_gold
+
 

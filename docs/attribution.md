@@ -6,7 +6,8 @@
 - This work is also based on *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - This work is also based on [Blades in the Dark](https://bladesinthedark.com/), a product of One Seven Design, developed and authored by John Harper and licensed for use under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
 - The single action roll to determine both the success of an attack and the resulting damage is inspired by the combat mechanic of *[Vagabonds of Dyfed](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed)*, written by Ben Dutter, copyright Sigil Stone Publishing 2018.
-- Swarms mechanic is adapted from the FIST supplement [*HECATONCHEIRES*](https://threeyelloweyes.itch.io/fist-hecatoncheires) by Moth and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+- Stress mechanic is inspired by [“Stress system for Adventurous: Where high risk meets high reward!”](https://www.dawnfist.com/blog/mechanics/stress-system-for-adventurous/), *The Dawnfist Blog!*, by Sebastian Grabne.
+- Swarms mechanic is inspired by the FIST supplement [*HECATONCHEIRES*](https://threeyelloweyes.itch.io/fist-hecatoncheires) by Moth and licensed for use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
 Additional character *Traits* and *Roles* adapted from the following publications, all licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 

@@ -21,13 +21,13 @@ There are also several ways to gain stress outside of combat, for example:
 
 Supernatural or horrifying creatures, events, and locations can sometimes cause stress by simply interacting with them or seeing them.
 
-Each occurrence adds 1 point of stress to your total.
+Per the GM, each occurrence adds 1 point of stress to your total.
 
 ## Reducing Stress
 
-You can reduce stress during the mission in several ways:
+You can reduce your stress level during a mission in several ways:
 
-- Spend 1 point of *momentum* to decrease your stress level by 1.
+- Spend 1 point of *momentum* to remove 1 stress point.
 - Rest at a rendezvous point to remove 1D6 stress.
 - Overcome a notable opponent or obstacle to remove 1 stress.
 
@@ -38,7 +38,7 @@ When you reach 6 stress points, you must make an action roll +CREATIVE to avoid 
 - On a **6 or less**, you *panic*. To determine the effect, roll 1D6 and consult the following Panic Table for the result.
 - On a **7–9**, you keep it together and remove 1 stress point.
 - On a **10–12**, you keep it together and remove 2 stress points.
-- On a **13 or greater**, remove all stress and become *transcendent*. To determine the effect, roll 1D6 and consult the following Transcendent Table for the result.
+- On a **13 or greater**, remove all stress and become *transcendent*. You’re in the zone. To determine the effect, roll 1D6 and consult the following Transcendent Table for the result.
 
 
 ### Panic Table

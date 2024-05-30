@@ -10,7 +10,7 @@ You’re an elite military operative who doesn’t fit into mainstream society. 
 	- All attribute scores start at 0 and are increased or decreased by your traits.
 	- The maximum attribute score, regardless of traits, is 3, and the minimum is -2.
 	- Your inventory includes the standard loadout listed on your character sheet and the additional gear supplied by your traits.
-	- Armor starts at 0 but can be increased by your gear.
+	- Armor starts at 0 and can be increased by your gear.
 	- Maximum HP starts at 6 and can be increased by your traits. 
 3. Add **one** point to any attribute score to a maximum score of 3.
 4. [Randomly determine](https://perchance.org/enigma-roles) and record your character’s **role**.
