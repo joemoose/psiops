@@ -1,10 +1,11 @@
-*Version 1.2*
+*Version 1.21*
 
 **Change Log**:
 
 - 1.0: Draft complete; playtest
 - 1.1: Added *Swarms* mechanic; clarified *Suppressing Fire*; copy edits
 - 1.2: Added *Stress* mechanic; changed *initiative roll* to +TACTICAL
+- 1.21: Choose *languages* during character creation.
 
 # Introduction
 

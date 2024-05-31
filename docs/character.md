@@ -16,7 +16,8 @@ You’re an elite military operative who doesn’t fit into mainstream society. 
 4. [Randomly determine](https://perchance.org/enigma-roles) and record your character’s **role**.
 	- Your role reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t choose a role that another player on the team already has. 
-5. Choose your character’s **codename**.
+5. Choose your native **language** and 1 other that you speak. Choose additional languages equal to your CREATIVE or TACTICAL score.
+6. Choose your character’s **codename**.
 
 ## Character Advancement
 
