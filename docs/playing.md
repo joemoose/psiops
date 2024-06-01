@@ -27,6 +27,10 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 - On a **10–12**, it’s a **success**. Things go well, and you achieve your goal.
 - On a **13 or greater**, it’s a **critical success**. Things go better than expected. You achieve your goal with an added benefit.
 
+!!! note
+
+	Regardless of attribute values, traits, or circumstances in the narrative, the maximum dice roll modifier is +3, and the minimum is -2.
+
 ## Momentum
 
 When a player makes an *action roll*, that roll can generate *momentum*. You start every session with 2 points of *momentum* and generate more when you make successful *action rolls*. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
