@@ -23,7 +23,7 @@ A *critical success* uses the highest D6 result.
 Add the following damage modifier based on the type of weapon:
 
 - **Unarmed** attacks deal -1 damage.
-- **Holdout** weapons (shivs and slingshots) deal +0 damage. 
+- **Concealable** weapons (shivs and slingshots) deal +0 damage. 
 - **Light** weapons (pistols and knives) deal +1 damage.
 - **Medium** weapons (rifles, shotguns, and swords) deal +2 damage.
 - **Heavy** weapons (RPGs, miniguns, and sniper rifles) deal +3 damage.

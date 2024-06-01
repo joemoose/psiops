@@ -43,7 +43,7 @@ When you reach 6 stress points, you must make an action roll +CREATIVE to avoid 
 
 ### Panic Table
 
-Whenever your character panics, roll 1D6 and consult the following table for the effect. The effect lasts for the mission or until you rest at a rendezvous point. Multiple panic effects are cumulative.
+Whenever your character panics, roll 1D6 and consult the following table for the effect. The effect lasts for the duration of the mission or until you heal or rest at a rendezvous point. Multiple panic effects are cumulative.
 
 | D6 | Effect |
 | :-: | :- |
@@ -56,7 +56,7 @@ Whenever your character panics, roll 1D6 and consult the following table for the
 
 ### Transcendent Table
 
-Whenever your character becomes transcendent, roll 1D6 and consult the following table for the effect. The effect lasts for the mission or until you rest at a rendezvous point. Multiple transcendent effects are cumulative.
+Whenever your character becomes transcendent, roll 1D6 and consult the following table for the effect. The effect lasts for the duration of the mission or until you heal or rest at a rendezvous point. Multiple transcendent effects are cumulative.
 
 | D6 | Effect |
 | :-: | :- |

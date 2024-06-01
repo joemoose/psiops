@@ -2,7 +2,7 @@
 
 One person is the game master (GM), and the rest are players.
 
-- **GM**: Guides the story and presents challenges to the group. Be a fan of the players. Ask them questions and fill the world with their answers. Split complex challenges or impending danger into progress *clocks*.
+- **GM**: Guides the story, arbitrates rulings, and presents challenges to the group. Be a fan of the players. Ask them questions and fill the world with their answers.
 - **Players**: Narrate what your character does. Make *action rolls* when things are risky. Give everyone time to shine. Fill the world with your ideas. Take risks, and rise up from failures.
 
 ## Action Rolls
@@ -33,7 +33,7 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 
 ## Momentum
 
-When a player makes an *action roll*, that roll can generate *momentum*. You start every session with 2 points of *momentum* and generate more when you make successful *action rolls*. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
+When a player makes an *action roll*, that roll can generate *momentum*. You start each mission session with 2 points of *momentum* and generate more when you make successful *action rolls*. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
 
 Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
@@ -43,7 +43,7 @@ Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
 ### Accumulating Momentum
 
-Your momentum score accumulates throughout the mission until you spend it and persists between sessions. 
+Your momentum score accumulates throughout the mission and persists between sessions. 
 
 Momentum resets to its starting value at **between missions** or whenever you **heal or rest** at a rendezvous point. 
 
@@ -107,7 +107,7 @@ To add tension to your *action roll*, ask the GM, "What would adding tension loo
 
 **If you accept the additional consequence**, your *action roll* has an *advantage*.
 
-Accepting or rejecting this "Devil's Bargain" is always a free choice. If you don't like the stated *consequence*, reject it (or suggest how to alter it so you might consider taking it). Alternatively, you could consume your *momentum* to push yourself for an *advantage* on the *action roll* rather than add tension. 
+Accepting or rejecting this "Devil's Bargain" is always a free choice. If you don't like the stated *consequence*, reject it (or suggest how to alter it so you might consider taking it). Alternatively, you could spend your *momentum* to push yourself for an *advantage* on the *action roll* rather than add tension. 
 
-In some scenarios, adding tension isn't an option. In that case, the GM will communicate that to you so that you can look into other ways to even the odds.
+In some narrative circumstances, adding tension isn't an option. In that case, the GM will communicate that to you so that you can look into other ways to even the odds.
 
