@@ -105,7 +105,7 @@ Players are safe as long as they remain at the rendezvous point. Each player at 
 
 ## Swarms
 
-When you’re battling many relatively weak, identical enemies, such as zombies, thugs, or guard drones, the GM will group the individual opponents into a single unit or *swarm*. 
+When battling many relatively weak, identical enemies, such as zombies, thugs, or guard drones, the GM will group the individual opponents into a single unit or *swarm*. 
 
 HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its ARMOR, DAMAGE, and the number of attacks, as described in the following table. The swarm’s extra attacks can’t be used on the same target.
 
@@ -119,5 +119,5 @@ HP for the swarm equals the number of opponents in the swarm. The size of the sw
 
 Damage to the swarm’s HP reduces the swarm’s size and stats—each HP of damage reduces the swarm’s number by 1.
 
-For example, you’re up against a swarm of 14 opponents. With its stats of 14 HP, 3 ARMOR, and +2 DAMAGE, this swarm can launch attacks on up to 4 targets. However, after the swarm sustains 5 HP of damage, its size and stats are reduced. The new stats for the swarm would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
+For example, you’re up against a swarm of 14 opponents. With 14 HP, 3 ARMOR, and +2 DAMAGE, this swarm can launch attacks on up to 4 targets. However, its size and stats are reduced after the swarm sustains 5 HP of damage. The new stats for the swarm would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
 

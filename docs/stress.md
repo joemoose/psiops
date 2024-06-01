@@ -16,12 +16,12 @@ There are also several ways to gain stress outside of combat, for example:
 
 - Seeing a team member panic 
 - Going without rest or food and water for 24 hours
-- Being plunged into complete darkness in hostile territory
+- Being plunged into total darkness in hostile territory
 - Failing action rolls
 
 Supernatural or horrifying creatures, events, and locations can sometimes cause stress by simply interacting with them or seeing them.
 
-Per the GM, each occurrence adds 1 point of stress to your total.
+Per the GM, each occurrence adds 1 stress point to your total.
 
 ## Reducing Stress
 
