@@ -37,6 +37,12 @@ Whenever you make an *action roll*, you gain additional *momentum* as follows:
 - On a **10–12**, you gain 2 *momentum*.
 - On a **13 or greater**, you gain 3 *momentum*.
 
+### Accumulating Momentum
+
+Your momentum score accumulates throughout the mission until you spend it and persists between sessions. 
+
+Momentum resets to its starting value at **between missions** or whenever you **heal or rest** at a rendezvous point. 
+
 ### Spending Momentum
 
 You can spend your *momentum* to receive bonuses or resist incoming consequences.
@@ -45,12 +51,12 @@ You can spend your *momentum* to receive bonuses or resist incoming consequences
 
 	When you spend *momentum* on a roll, that roll can’t, in turn, generate *momentum*.
 
-**ASSIST**: Consume 1 point of *momentum* to add *advantage* to an ally’s *action roll*. Doing this also exposes your character to the same risks.
+**ASSIST**: Consume 1 point of *momentum* to add *advantage* to an ally’s *action roll*. Doing this exposes your character to the same risks.
 
 **PUSH YOURSELF**: Consume 2 points of  *momentum* per push to gain one of the following effects:
 
 - Roll your *action roll* with *advantage*.
-- Increase the *effect* of your action.
+- Increase the *effect* of your action beyond what would have been achieved otherwise.
 - Take another action.
 
 **DETERMINATION ROLL**: If your character suffers a *consequence* that you don’t like as a player, you can try to resist it. You do so by calling for a *determination roll* to see how well you resist the *consequence*.
