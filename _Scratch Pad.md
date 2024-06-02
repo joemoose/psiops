@@ -3,6 +3,21 @@ hide:
   - navigation
 ---
 
+"I kick down the door and fire my shotgun at anything I see." (Roll +FORCEFUL)
+"I knock on the door, wait for someone to open it, then wave at them and fire when they do." (Roll +CREATIVE)
+"I go around to the side of the house, flanking them, and fire through the window." (Roll +TACTICAL)
+"I run through the house, slide into cover, and fire from there." (Roll +REFLEXIVE)
+
+---
+
+- self-defense: +2 on shots taken at melee range, -2 otherwise
+- assault: +2 to shots taken while under fire, -2 otherwise
+- marksman: +2 to shots taken at sniper range, -2 otherwise
+- cover fire: +2 to shots taken to suppress targets, -2
+- otherwise antitank: +2 to shots taken against vehicles, -2 otherwise
+- bunker buster: +2 to shots taken to destroy buildings or cover, -2 otherwise
+
+
 # Forked Choices
 
 **Source**: GRASP by Richard Kelly, CC BY 3.0.
