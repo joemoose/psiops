@@ -105,7 +105,7 @@ Players are safe as long as they remain at the rendezvous point. Each player at 
 
 ## Swarms
 
-When battling many relatively weak, identical enemies, such as zombies, thugs, or guard drones, the GM will group the opponents into a single unit or *swarm*. 
+When battling many relatively weak, identical enemies, such as zombies, thugs, or guard drones, the GM may group the opponents into a single unit or *swarm*. 
 
 HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its ARMOR, DAMAGE, and the number of attacks, as described in the following table. The swarm’s extra attacks can’t be used on the same target.
 
