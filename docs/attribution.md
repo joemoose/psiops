@@ -26,4 +26,4 @@ Additional character *Traits* and *Roles* adapted from the following publication
 
 ## License
 
-This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). 
+PSIOPS by Zachary Taylor is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). 
