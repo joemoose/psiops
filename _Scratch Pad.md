@@ -3,6 +3,13 @@ hide:
   - navigation
 ---
 
+- advantage: *edge*
+- disadvantage: 
+- skills: *competencies*
+- attributes: *aptitudes*
+- 
+---
+
 "I kick down the door and fire my shotgun at anything I see." (Roll +FORCEFUL)
 "I knock on the door, wait for someone to open it, then wave at them and fire when they do." (Roll +CREATIVE)
 "I go around to the side of the house, flanking them, and fire through the window." (Roll +TACTICAL)
