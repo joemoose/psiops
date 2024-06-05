@@ -19,6 +19,3 @@ Regarding the game’s narrative content and subject matter, you can define the 
 Pause or rewind the game if something uncomfortable happens during a session. Always make sure everyone's comfortable with the direction of the story.
 
 Be respectful, be kind, and have fun!
-
-> [!Note]
-> Text String
