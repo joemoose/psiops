@@ -1,4 +1,4 @@
-*Version 1.22*
+*Version 1.3*
 
 **Change Log**:
 
@@ -7,6 +7,7 @@
 - 1.2: Added *Stress* mechanic; changed *initiative roll* to +TACTICAL
 - 1.21: Choose *languages* during character creation
 - 1.22: Clarified *momentum* accumulation and maximum dice roll modifiers
+- 1.3: Replaced *Traits* with new *Psionic Powers*; renamed *Roles* to *Drives*; changed character creation to use *random attribute starting values*; removed traits-based *starting gear*
 
 # Introduction
 
