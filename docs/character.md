@@ -17,7 +17,7 @@ To create a new character, follow these steps.
 7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your CREATIVE or TACTICAL score.
 8. Choose your character’s **codename**.
 
-## Psionic Powers
+### Psionic Powers
 
 Each time you use a psionic power, roll +CREATIVE. **On a 7+**, the power manifests, and you may continue to use it. **On a failure**, the power is no longer available until you rest at a rendezvous point or between missions.
 
@@ -62,7 +62,7 @@ If you roll a duplicate power, you can either re-roll for a new one or work with
 | 65 | Vampire | You must make a normal unarmed attack at close range. The Vampire power inflicts a +1 damage modifier on the target and instantly heals you half the amount of damage. |
 | 66 | Zombie | You can control one body of a creature killed in the past 24 hours. The target creature must be within Near range, and the power lasts up to 1D6 combat rounds. The corpse may act, speak, and attack as you desire while maintaining concentration. The creature’s abilities might be limited depending on the amount and kind of damage it suffered when it died. |
 
-## Drives
+### Drives
 
 Each member of the team must have a unique drive. Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
 
