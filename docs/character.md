@@ -1,15 +1,15 @@
 # Your Character
 
-You’re an elite military operative who doesn’t fit into mainstream society. You’re the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can teleport or lift objects with your mind. The paranormal secrets of the Cold War are your cornerstone, and you fight for your country alongside others like you.
+You’re an elite military operative who doesn’t fit into mainstream society. You’re the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can read a person’s thoughts or lift objects with your mind. The paranormal secrets of the Cold War are your cornerstone, and you fight for your country alongside others like you.
 
 ## Creating a Character
 
 To create a new character, follow these steps.
 
-1. In order, roll **(1D3+1) - (1D3)** for each of the four attributes: **FORCEFUL**, **CREATIVE**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 2 and then a 1, your attribute score would be a 2. You may swap one with another. 
+1. Roll **(1D3+1) - (1D3)** for each of your character’s four attributes: **FORCEFUL**, **CREATIVE**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 2 and then a 1, your attribute score would be a 2. You may swap one with another. 
 2. Randomly determine 2 starting **Psionic Powers** from the following list.
 3. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
-4. In addition to the standard loadout listed on your character sheet, add **2 items of standard-issue military gear** of your choosing to your inventory.
+4. In addition to the standard loadout listed on your character sheet, add **2 items of military gear** of your choosing to your inventory.
 5. Set your **Armor** equal to the armor bonuses supplied by your gear.
 6. Randomly determine your character’s **Drive** from the following list.
 	- Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
@@ -19,9 +19,9 @@ To create a new character, follow these steps.
 
 ### Psionic Powers
 
-Each time you use a psionic power, roll +CREATIVE. **On a 7+**, the power manifests, and you may continue to use it. **On a failure**, the power is no longer available until you rest at a rendezvous point or between missions.
+Each time you use a psionic power, roll +CREATIVE. **On a 7 or greater**, the power manifests, and you may continue to use it. **On a failure**, the power is no longer available until you rest at a rendezvous point or between missions.
 
-If you roll a duplicate power, you can either re-roll for a new one or work with the GM on how your base power is improved.
+If you roll a duplicate power, you can either re-roll for a new one or work with the GM on how your power is improved.
 
 | D66 | Power |
 | :-: | :- |
@@ -31,13 +31,13 @@ If you roll a duplicate power, you can either re-roll for a new one or work with
 | 14 | **Blink**: Teleport once to any point within Far distance, as long as they have a line of sight to it or they have been there previously. |
 | 15 | **Choke**: Telekinetically grab one humanoid creature by its throat (or analogous body part) and strangle them for 1D6 damage, ignoring armor. |
 | 16 | **Clairvoyance**: Psionically watch and listen at a spot you choose within Far distance. This power ignores solid objects, and you do not have to be familiar with the location in question. |
-| 21 | **Cryokinesis**: You can freeze up to 5 cubic meters of material for 10 minutes. Cryokinesis can also be used offensively: attack a target within Near range with a +4 damage modifier. |
+| 21 | **Cryokinesis**: You can freeze up to 5 cubic meters of material for 10 minutes. Cryokinesis can also be used offensively: attack a target within Near range with a +3 damage modifier. |
 | 22 | **Electrokinesis**: You can manipulate electrical energy in their vicinity. You may use this power to recharge batteries, short-circuit electrical devices, or generate spectacular light shows. You may also attack a target within Near range with lightning: attack a target within Near range with a +4 damage modifier. Mechanical or electronic targets grant an advantage to your attack. |
 | 23 | **Emotion**: You can evoke powerful emotions in a target at Near range; fear, joy, or friendliness are typical emotions. It is obvious to everyone, affected or not, that something has happened. This power can force a Morale check among enemy (or friendly) forces. This effect lasts until the end of the battle or for 1D6x10 minutes. |
 | 24 | **Empathy**: You can read a target’s emotions and subtly affect them. This includes changing a Near target’s NPC Reaction Roll result by one category up or down, the player’s choice. |
 | 25 | **False Perception**: You can cause a single target within Near range to hallucinate. This effect lasts as long as you concentrate to maintain it. The details of the False Perception are left to you but can range from a typical illusion or distraction to something that closely resembles a drug-fueled fugue state. |
 | 26 | **Hibernation**: You can enter a trance-like state and meditate for up to 7 days. While meditating, you do not require food, water, or air. You remain aware of your surroundings and may end your hibernation at will. |
-| 31 | **Inspiration**: You gain +2D3 to your next roll, regardless of what the roll is for. This power may only be used once per day. |
+| 31 | **Intuition**: You gain +2D3 to your next roll, regardless of what the roll is for. This power may only be used once per day. |
 | 32 | **Invisibility**: You can conceal yourself from nearby onlookers. While invisible, organic targets within Near range will not see you. This power works on electronic sensors and video cameras within Near range. You must concentrate on this power to be effective. Attacking any target immediately terminates this effect. |
 | 33 | **Kinetic Blast**: You generate a powerful, invisible blast of telekinetic force: attack up to Far range with a +3 damage modifier. |
 | 34 | **Kinetic Shield**: Gain +1 armor for the duration of the battle. |
@@ -55,7 +55,7 @@ If you roll a duplicate power, you can either re-roll for a new one or work with
 | 54 | **Recover**: You can remove 1 negative effect on a target, such as poisoning, burning, or 1D6 stress. |
 | 55 | **Second Wind**: You can ignore stress or fatigue for 1 hour. |
 | 56 | **Suggestion**: You can plant a simple hypnotic suggestion in one target. This effect will last until the target has performed their suggested task or ten minutes have passed. Victims will not obey suggestions to harm themselves directly or indirectly. |
-| 61 | **Telekinesis**: You can move objects up to 100kg with the power of your brain. Telekinetics can also be used offensively: attack a target within Near range with a +4 damage modifier. |
+| 61 | **Telekinesis**: You can move objects up to 100kg with the power of your mind. Telekinetics can also be used offensively: attack a target within Near range with a +3 damage modifier. |
 | 62 | **Telepathy**: You can read a Near target’s surface thoughts for one minute. |
 | 63 | **Thousand Faces**: You can change the Near target's appearance and biometric data to those of any target of the same or similar species for 10 minutes. To mimic the specific biometric data of another person, you must have a sample of the target’s DNA. |
 | 64 | **Truth**: You can force one Near target to answer questions truthfully. They must be able to speak or communicate with you, and the questions can be about anything—the target will fully answer to the best of their ability. |
@@ -81,7 +81,7 @@ Each member of the team must have a unique drive. Your drive reflects something 
 | 25 | **Flux**: Describe why your motivations and worldview are constantly in flux. When each mission begins, roll a random role (D66), answer the "describe" section as briefly as possible, and play as though that role were yours for the duration of the mission.
 | 26 | **Fugitive**: Describe a high-caliber crime: one that you did or didn't commit (and if so, who framed you). Advance if something you did made significant progress towards clearing your name or if you fought off the long arm of the law.
 | 31 | **Gladiator**: Describe an honorable, legendary warrior you admire and aspire to emulate. Advance if you fought and bested a powerful enemy using their combat philosophy.
-| 32 | **Guardian**: Describe a person or concept you wish to keep safe and what you seek to safeguard them from. Advance when you prevent something from happening that would have caused them considerable harm or when you take significant steps to ensure that they will be better protected in the future.
+| 32 | **Guardian**: Describe a person or concept you wish to keep safe and what you seek to safeguard them from. Advance when you prevent something from happening that, would have caused them considerable harm or when you take significant steps to ensure that they will be better protected in the future.
 | 33 | **Healer**: Describe your medical philosophy and tell the table the story of your teacher, a renowned and unconventional medicine practitioner. Advance if none of your teammates died under your watch.
 | 34 | **Icon**: Describe how you want to go down in history. Advance if something you did brought you closer to becoming a legend or ensured a group would always remember your name.
 | 35 | **Mask**: Describe your vice as you would for the WILDCARD role, and describe why you pretend to be eccentric and unpredictable. Advance if you removed the mask to protect someone in your path of chaos without giving your true nature away to your enemies.

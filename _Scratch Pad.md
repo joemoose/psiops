@@ -10,6 +10,38 @@ hide:
 - 
 ---
 
+## Tactical Supplies
+
+Tactical supplies are an abstract collection of mission-related standard-issue military gear such as rope, flashlights, multitools, and ammunition. You can restock supplies between missions back at base. 
+
+Whenever you need a specific piece of gear during a mission, you declare what you need, and the game master determines if the item can be classified as standard tactical supplies; if the GM approves, you mark off one Supply and gain the use of the item.
+
+Supplies mean you don’t have to decide beforehand all the sundry gear your character needs to pack before embarking on their mission.
+
+Examples of gear classified as standard Tactical Supplies:
+
+- ammunition
+- bandages
+- gun-mounted flashlight
+- food and water
+- sleeping bag
+- night-vision goggles
+- paracord
+- walkie-talkie
+- wire cutters
+- zip-ties
+
+Examples of gear NOT classified as standard Tactical Supplies:
+
+- aerial drones
+- explosives
+- firearms
+- heavy weapons
+- satellite transceivers
+- vehicles
+
+---
+
 ## Inventory
 
 Characters have 10 inventory slots: a backpack with six slots and four slots for their body (such as carried weapons, chest, legs, feet, head, etc.)
@@ -56,7 +88,7 @@ Implementing Forked Choices requires the Referee to invest a little more effort,
 
 **Source**: HECATONCHEIRES by Moth
 
-When battling a large number of relatively weak identical enemies, such as zombies, thugs, or guard drones, the GM will group the individual opponents into a single unit or swarm. 
+When battling many relatively weak identical enemies, such as zombies, thugs, or guard drones, the GM will group the individual opponents into a single unit or swarm. 
 
 HP represents how many opponents are in the swarm. Every four opponents add an ARMOR and DAMAGE and allow the swarm to attack one extra target. Extra attacks can’t be used on the same target at once.
 
@@ -75,10 +107,10 @@ For example, a swarm of fourteen opponents would be presented as (14 HP, 3 ARMOR
 
 ## FIST Ammo 
 
-Abstract ammo tracking Ranged weapons have a new stat called AMMO, set to 6 at the beginning of each mission. After making an attack with a ranged weapon, roll 1D6:
+Abstract ammo tracking Ranged weapons have a new stat called AMMO, set to 6 at the beginning of each mission. After attacking with a ranged weapon, roll 1D6:
 
 - If your roll was lower than the AMMO score, decrease the weapon’s AMMO score by 1.
-- If your roll was higher than the AMMO score, the weapon is out of ammo and cannot be used until it's refilled (0 AMMO).
+- If your roll exceeds the AMMO score, the weapon is out of ammo and cannot be used until it's refilled (0 AMMO).
 - If the roll was equal, keep AMMO the same.
 
 Finding more ammo for a weapon increases its score by 1, and choosing RESTOCK during a rendezvous can refill one weapon’s AMMO to 6 instead of refilling a limited-use item.
@@ -89,7 +121,7 @@ Finding more ammo for a weapon increases its score by 1, and choosing RESTOCK du
 
 During the **first round of combat**, each player must make a +REFLEXIVE roll to act before the opponents. Exceptional circumstances, abilities, items, or skills may negate this requirement. Players who fail this roll **lose their turn** for the first round.
 
-The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
 The results of each side’s actions occur **simultaneously**. As such, all players declare their actions for a turn before determining the results of those actions.
 
