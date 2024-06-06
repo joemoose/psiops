@@ -14,14 +14,13 @@ A primary source of stress is combat, for example:
 
 There are also several ways to gain stress outside of combat, for example:
 
+- Failing action rolls
 - Seeing a team member panic 
 - Going without rest or food and water for 24 hours
 - Being plunged into total darkness in hostile territory
-- Failing action rolls
+- Seeing or interacting with supernatural or horrifying creatures, events, and locations
 
-Supernatural or horrifying creatures, events, and locations can sometimes cause stress by simply interacting with them or seeing them.
-
-Per the GM, each occurrence adds 1 stress point to your total.
+ Each occurrence can add 1 stress point to your total, at the GM's discretion.
 
 ## Reducing Stress
 
@@ -33,7 +32,7 @@ You can reduce your stress level during a mission in several ways:
 
 ## Reaching Maximum Stress
 
-When you reach 6 stress points, you must make an action roll +CREATIVE to avoid any adverse effects.
+Whenever you reach 6 stress points or more, you must make an action roll +CREATIVE to avoid any adverse effects.
 
 - On a **6 or less**, you *panic*. To determine the effect, roll 1D6 and consult the following Panic Table for the result.
 - On a **7–9**, you keep it together and remove 1 stress point.
