@@ -10,6 +10,19 @@ hide:
 - 
 ---
 
+## Inventory
+
+Characters have 10 inventory slots: a backpack with six slots and four slots for their body (such as carried weapons, chest, legs, feet, head, etc.)
+
+Most items take up one slot, and small items may sometimes be bundled together. Slots are abstract and can be rearranged at the GM’s discretion.
+
+- Bulky items take up two slots and are typically two-handed or awkward to carry.
+- Unwieldy and heavy items cannot be carried by one person or in your inventory. Additional means of transportation must be arranged.
+
+You cannot carry more items than your inventory allows.
+
+---
+
 "I kick down the door and fire my shotgun at anything I see." (Roll +FORCEFUL)
 "I knock on the door, wait for someone to open it, then wave at them and fire when they do." (Roll +CREATIVE)
 "I go around to the side of the house, flanking them, and fire through the window." (Roll +TACTICAL)

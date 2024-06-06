@@ -84,6 +84,15 @@ If your action is more difficult than typical through circumstances in the narra
 
 	If the roll has both an *advantage* and a *disadvantage*, they cancel each other out; roll 2D6 +Attribute as usual.
 
+## Adding Tension
+
+To add tension to your *action roll*, ask the GM, "What would adding tension look like here?". The GM then offers an additional *consequence* for failure, such as checking off additional segments on a danger clock, inflicting collateral damage, or adding more drama to the narrative.
+
+**If you accept the additional consequence**, your *action roll* has an *advantage*.
+
+Accepting or rejecting this "Devil's Bargain" is always a free choice. If you don't like the stated *consequence*, reject it (or suggest how to alter it so you might consider taking it). Alternatively, you could spend your *momentum* to push yourself for an *advantage* on the *action roll* rather than add tension. 
+
+In some narrative circumstances, adding tension isn't an option. In that case, the GM will communicate that to you so that you can look into other ways to even the odds.
 
 ## Challenges and Danger
 
@@ -101,13 +110,12 @@ As the players attempt to overcome the obstacle with *action rolls*, progress is
 
 Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM checks off segments on the *clock* if players fail *action rolls* or partially succeed. The danger comes to fruition when all the segments are checked off—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
-## Adding Tension
+## Reaction Roll
 
-To add tension to your *action roll*, ask the GM, "What would adding tension look like here?". The GM then offers an additional *consequence* for failure, such as checking off additional segments on a danger clock, inflicting collateral damage, or adding more drama to the narrative.
+When the PCs encounter an NPC whose reaction to the party is not obvious, the GM may roll 2d6 and consult the following table:
 
-**If you accept the additional consequence**, your *action roll* has an *advantage*.
+| 2 | 3–5 | 6–8 | 9–11 | 12 |
+| :-: | :-: | :-: | :-: | :-: |
+| Hostile | Wary | Curious | Friendly | Helpful |
 
-Accepting or rejecting this "Devil's Bargain" is always a free choice. If you don't like the stated *consequence*, reject it (or suggest how to alter it so you might consider taking it). Alternatively, you could spend your *momentum* to push yourself for an *advantage* on the *action roll* rather than add tension. 
-
-In some narrative circumstances, adding tension isn't an option. In that case, the GM will communicate that to you so that you can look into other ways to even the odds.
 
