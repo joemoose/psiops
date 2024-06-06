@@ -1,10 +1,10 @@
 # Project information
 
-site_name: "PSIOPS RPG"
-site_url: https://joemoose.github.io/enigma/
+site_name: "PSIOPS"
+site_url: https://joemoose.github.io/psiops/
 site_author: Zachary Taylor
 site_description: An Adventure Roleplaying Game of Paranormal Special Forces Operatives
-site_dir: ../joemoose.github.io/enigma
+site_dir: ../joemoose.github.io/psiops/
 
 # Repo
 
