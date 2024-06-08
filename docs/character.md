@@ -148,11 +148,11 @@ Examples of gear NOT classified as standard Tactical Supplies:
 - satellite transceivers
 - vehicles
 
-### Equipment
+## Equipment
 
 Before each mission, you’ll choose any specialized gear you require. You’ll always start with your basic kit. Examples of other types of equipment follow.
 
-#### Basic Kit
+### Basic Kit
 
 - Combat knife (+1 DAMAGE)
 - 2 Grenades (specify type, Frag +1 DAMAGE or Smoke)
@@ -169,7 +169,7 @@ Before each mission, you’ll choose any specialized gear you require. You’ll 
 - Radio, Squad (range 1-5km)
 - Snacks (energy bars, etc.)
 
-#### Weapons
+### Weapons
 
 | Item | Description |
 | - | - |
@@ -181,7 +181,7 @@ Before each mission, you’ll choose any specialized gear you require. You’ll 
 | M18 Claymore +3 DAMAGE, 1/1 | Directional mine, with command-wire |
 | Sniper Rifle +3 DAMAGE, 6/6 AMMO | Precision rifle of your unit |
 
-#### Additional Gear
+### Additional Gear
 
 | Item | Description |
 | - | - |
