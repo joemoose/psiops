@@ -118,7 +118,7 @@ Most items take up one slot, and small items may sometimes be bundled together. 
 
 You cannot carry more items than your inventory allows.
 
-### Tactical Supplies
+## Tactical Supplies
 
 Tactical supplies are an abstract collection of mission-related standard-issue military gear such as rope, flashlights, multitools, and ammunition. You can restock supplies between missions back at base. 
 
