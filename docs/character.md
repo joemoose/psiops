@@ -1,31 +1,33 @@
 # Your Character
 
-You’re an elite military operative who doesn’t fit into mainstream society. You’re the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can read a person’s thoughts or lift objects with your mind. The paranormal secrets of the Cold War are your cornerstone, and you fight for your country alongside others like you.
+Imagine you’re an elite military operative, but you don’t fit the typical mold. You find yourself in the thick of things, facing the harsh realities of secret proxy wars against oppressive forces and supernatural dangers. Perhaps you even possess extraordinary talents like mind-reading or telekinesis. Your world revolves around the paranormal mysteries of the Cold War, where you stand shoulder to shoulder with fellow extraordinary individuals, fighting for your country.
 
 ## Creating a Character
 
 To create a new character, follow these steps.
 
-1. Roll **(1D3+1) - (1D3)** for each of your character’s four attributes: **FORCEFUL**, **CREATIVE**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 2 and then a 1, your attribute score would be a 2. You may swap one with another. 
-2. Randomly determine 2 starting **Psionic Powers** from the following list.
+1. Roll **(1D3+1) - 1D3** for each of your character’s four attributes: **FORCEFUL**, **CREATIVE**, **TACTICAL**, and **REFLEXIVE**. For instance, if you first rolled a 2 and then a 1, your attribute score would be a 2. You may swap one with another. 
+	- Attribute scores range from a minimum of -1 to a maximum of 3.
+2. Randomly select 2 starting **Psionic Talents** from the following list.
+	- Psionics are latent mental powers that defy the laws of physics.
 3. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
-4. In addition to the standard loadout listed on your character sheet, add **2 items of military gear** of your choosing to your inventory.
-5. Set your **Armor** equal to the armor bonuses supplied by your gear.
-6. Randomly determine your character’s **Drive** from the following list.
+4. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choosing to your inventory.
+5. Set your **Armor** equal to the total armor bonuses supplied by your gear.
+6. Randomly select your character’s **Drive** from the following list.
 	- Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t choose a drive that another player on the team already has. 
 7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your CREATIVE or TACTICAL score.
 8. Choose your character’s **codename**.
 
-### Psionic Powers
+### Psionic Talent
 
-Each time you use a psionic power, roll +CREATIVE. **On a 7 or greater**, the power manifests, and you may continue to use it. **On a failure**, the power is no longer available until you rest at a rendezvous point or between missions.
+Psionics are latent mental powers that defy the laws of physics. Each time you use one of your psionic talents, roll +CREATIVE. **On a 7 or greater**, the power manifests, and you may continue to use it. **On a failure**, the power is no longer available until you rest at a rendezvous point or between missions.
 
-If you roll a duplicate power, you can either re-roll for a new one or work with the GM on how your power is improved.
+If you roll a duplicate talent, you can either re-roll for a new one or work with the GM on how your existing talent is improved.
 
-| D66 | Power |
+| D66 | Psionic Talent |
 | :-: | :- |
-| 11 | **Attribute Increase**: Permanently increase one attribute score by 1 point, up to a maximum of 3. This power can be used only once but may be selected multiple times. |
+| 11 | **Attribute Increase**: Permanently increase one attribute score by 1 point, up to a maximum of 3. This power is applied immediately and can be used only once but may be selected multiple times. |
 | 12 | **Augmented Speed**: Move to a Far distance in half the number of Move Actions customarily required. This power lasts for 3 combat rounds. |
 | 13 | **Augmented Strength**: Gain +1D3 to +FORCEFUL rolls, as well as all melee and unarmed damage rolls for the rest of the battle. |
 | 14 | **Blink**: Teleport once to any point within Far distance, as long as they have a line of sight to it or they have been there previously. |
@@ -57,7 +59,7 @@ If you roll a duplicate power, you can either re-roll for a new one or work with
 | 56 | **Suggestion**: You can plant a simple hypnotic suggestion in one target. This effect will last until the target has performed their suggested task or ten minutes have passed. Victims will not obey suggestions to harm themselves directly or indirectly. |
 | 61 | **Telekinesis**: You can move objects up to 100kg with the power of your mind. Telekinetics can also be used offensively: attack a target within Near range with a +3 damage modifier. |
 | 62 | **Telepathy**: You can read a Near target’s surface thoughts for one minute. |
-| 63 | **Thousand Faces**: You can change the Near target's appearance and biometric data to those of any target of the same or similar species for 10 minutes. To mimic the specific biometric data of another person, you must have a sample of the target’s DNA. |
+| 63 | **Thousand Faces**: You can change a Near target's appearance and biometric data to those of any target of the same or similar species for 10 minutes. To mimic the specific biometric data of another person, you must have a sample of the target’s DNA. |
 | 64 | **Truth**: You can force one Near target to answer questions truthfully. They must be able to speak or communicate with you, and the questions can be about anything—the target will fully answer to the best of their ability. |
 | 65 | **Vampire**: You must make a normal unarmed attack at close range. The Vampire power inflicts a +1 damage modifier on the target and instantly heals you half the amount of damage. |
 | 66 | **Zombie**: You can control one body of a creature killed in the past 24 hours. The target creature must be within Near range, and the power lasts up to 1D6 combat rounds. The corpse may act, speak, and attack as you desire while maintaining concentration. The creature’s abilities might be limited depending on the amount and kind of damage it suffered when it died. |
@@ -105,11 +107,118 @@ Each member of the team must have a unique drive. Your drive reflects something 
 | 65 | **Wildcard**: Describe your primary vice or source of pleasure, such as money, romance, thrills, or pain. Advance if you got your fix during a mission in a way nobody, including yourself, expected.
 | 66 | **Wretch**: Describe the misfortune that has befallen you. Advance if something happens to you that makes your suffering poetically worse or if you give your misery some company.
 
+## Inventory
+
+Characters have 10 inventory slots: a backpack with six slots and four slots for their body (such as carried weapons, chest, legs, feet, head, etc.)
+
+Most items take up one slot, and small items may sometimes be bundled together. Slots are abstract and can be rearranged at the GM’s discretion.
+
+- Bulky items take up two slots and are typically two-handed or awkward to carry.
+- Unwieldy and heavy items cannot generally be carried by one person or in your inventory. Additional means of transportation must be arranged.
+
+You cannot carry more items than your inventory allows.
+
+### Tactical Supplies
+
+Tactical supplies are an abstract collection of mission-related standard-issue military gear such as rope, flashlights, multitools, and ammunition. You can restock supplies between missions back at base. 
+
+Whenever you need a specific piece of gear during a mission, you declare what you need, and the game master determines if the item can be classified as standard tactical supplies; if the GM approves, you remove one Supply from your inventory and you now have that item.
+
+Supplies mean you don’t have to decide beforehand all the sundry gear your character needs to pack before embarking on their mission.
+
+Examples of gear classified as standard Tactical Supplies:
+
+- ammunition
+- bandages
+- food and water
+- gun-mounted flashlight
+- night-vision goggles
+- paracord
+- sleeping bag
+- walkie-talkie
+- wire cutters
+- zip-ties
+
+Examples of gear NOT classified as standard Tactical Supplies:
+
+- aerial or robotic drones
+- explosives
+- firearms
+- heavy weapons
+- satellite transceivers
+- vehicles
+
+### Equipment
+
+Before each mission, you’ll choose any specialized gear you require. You’ll always start with your basic kit. Examples of other types of equipment follow.
+
+#### Basic Kit
+
+- Combat knife (+1 DAMAGE)
+- 2 Grenades (specify type, Frag +1 DAMAGE or Smoke)
+- Handgun (+1 DAMAGE, 6/6 AMMO)
+- Body Armor (1 ARMOR)
+- Helmet (+1 ARMOR)
+- Backpack
+- Boots
+- Combat Fatigues
+- Hydro-Pack 2L
+- Individual First Aid Kit
+- Paracord, 20m
+- Poncho
+- Radio, Squad (range 1-5km)
+- Snacks (energy bars, etc.)
+
+#### Weapons
+
+| Item | Description |
+| - | - |
+| Assault Rifle, +2 DAMAGE, 6/6 AMMO | Military rifle of your unit |
+| Anti-Tank Missile +2 DAMAGE, 1/1 | Portable, unguided missile |
+| Grenade, Frag +1 DAMAGE 1/1| Anti-personnel fragmentation grenade |
+| Grenade Launcher | Single grenade under-barrel launcher |
+| Handgun +1 DAMAGE, 6/6 AMMO | Service pistol of your unit |
+| M18 Claymore +3 DAMAGE, 1/1 | Directional mine, with command-wire |
+| Sniper Rifle +3 DAMAGE, 6/6 AMMO | Precision rifle of your unit |
+
+#### Additional Gear
+
+| Item | Description |
+| - | - |
+| Backpack Radio | VHF platoon radio; range 10km |
+| Binoculars | Pocket-sized binoculars |
+| Bolt Cutters | Cuts wires or bolts up to 6mm thick |
+| C-4 Demolition Kit | 3 x 500g C4 blocks with detonators, command wires, and firing trigger |
+| Camcorder | For recon use or evidence gathering |
+| Compass & Maps | Often used with a GPS tracker |
+| Detcord | Used to breach doors or walls |
+| Dive Equipment | Complete SCUBA gear with tank |
+| Entrenching Tool | Folding spade |
+| Extended Operations Kit | Extra fatigues, mess kit, rations for 2 days, extra 4 liters of water |
+| Flashlight | Attaches to gun barrel |
+| Grenade, Smoke | Used for signaling or as cover |
+| Ladder, Folding | Used to scale low walls; 2.5m long |
+| Laser Designator | Laser target designator on a short tripod |
+| Machete | For clearing vegetation |
+| Medical Bag | Used by combat medics |
+| Multi-tool | Used for equipment repairs |
+| Night-Vision Device | For vision during darkness |
+| Notebook and Pen | Notes, frequencies, coordinates, etc. |
+| Parachute | Steerable parachute, with reserve |
+| Poncho Liner | A warm waterproof blanket/mattress/camo hide/shelter |
+| Protective Mask | Protects against tear, mustard & chlorine gas, not nerve agents |
+| Rations, one day | Two pre-cooked meals, eaten hot/cold |
+| Rope | 25 meters of 1cm-thick nylon rope |
+| Sleeping Bag | Used for overnight recon missions |
+| Stretcher, Folding | Used for casualty evacuation |
+| Suppressor | Quietens the shot. Pistol/SMG suppressors may aid stealth. Rifle suppressors help conceal a sniper's position. |
+| Survival Belt Pouch | Fishing kit, fire-lighting, compass, water purification, saw, needle & thread, mylar blanket, etc. |
+
 ## Character Advancement
 
 Characters advance when they act according to their *drive*. For instance, a CRUSADER advances if they behaved ethically during their mission. After advancing, you can choose a new drive between missions if you feel you’ve reached natural closure for your current drive. 
 
 **After your character advances** and you return to base, choose one of the following rewards: 
 
-- A new random psionic power
+- A new random psionic talent
 - +1D6 maximum HP

@@ -7,11 +7,11 @@ One person is the game master (GM), and the rest are players.
 
 ## Action Rolls
 
-When you need to overcome a challenge, and there’s a risk of failure, make an *action roll*. This roll resolves the action for your character and any GM-controlled characters involved.
+When you need to overcome a challenge and there’s a risk of failure, make an *action roll*. This roll resolves the action for your character and any GM-controlled characters involved.
 
 ### 1. Choose an Attribute
 
-The GM will ask you which attribute you’re using for your *action roll*, or they might decide for you if the answer is unclear. Before you roll, you can ask the GM for possible outcomes of your action to get an idea of what you’re up against.
+The GM will ask you which attribute you’re using for your *action roll* or they might decide for you if the answer is unclear. Before you roll, you can ask the GM for possible outcomes of your action to get an idea of what you’re up against.
 
 - Roll +**FORCEFUL** for displays of strength, like kicking in doors, intimidating others, or using clunky, powerful weapons.
 - Roll +**TACTICAL** for applications of logic, like maintaining a disguise, hacking into a database, or operating machinery.
@@ -37,7 +37,7 @@ When a player makes an *action roll*, that roll can generate *momentum*. You sta
 
 Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
-- On a **7–9**, you gain 1 *momentum*.
+- On a **7-9**, you gain 1 *momentum*.
 - On a **10–12**, you gain 2 *momentum*.
 - On a **13 or greater**, you gain 3 *momentum*.
 
@@ -112,7 +112,7 @@ Similarly, impending danger, such as the alert level of guards, may also be trac
 
 ## Reaction Roll
 
-When the PCs encounter an NPC whose reaction to the party is not obvious, the GM may roll 2d6 and consult the following table:
+When you encounter an NPC whose reaction to your team is not obvious, the GM may roll 2D6 and consult the following table:
 
 | 2 | 3–5 | 6–8 | 9–11 | 12 |
 | :-: | :-: | :-: | :-: | :-: |

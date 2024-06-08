@@ -10,6 +10,10 @@ hide:
 - 
 ---
 
+You’re an elite military operative who doesn’t fit into mainstream society. You’re the boots on the ground caught up in the death and destruction of secret proxy wars against oppressive establishments and supernatural threats. You may also be someone who can read a person’s thoughts or lift objects with your mind. The paranormal secrets of the Cold War are your cornerstone, and you fight for your country alongside others like you.
+
+---
+
 ## Tactical Supplies
 
 Tactical supplies are an abstract collection of mission-related standard-issue military gear such as rope, flashlights, multitools, and ammunition. You can restock supplies between missions back at base. 
@@ -40,6 +44,8 @@ Examples of gear NOT classified as standard Tactical Supplies:
 - satellite transceivers
 - vehicles
 
+When creating your character and before each mission, you can choose 2 pieces of non-standard military gear, such as weapons and explosives.
+
 ---
 
 ## Inventory
@@ -49,7 +55,7 @@ Characters have 10 inventory slots: a backpack with six slots and four slots for
 Most items take up one slot, and small items may sometimes be bundled together. Slots are abstract and can be rearranged at the GM’s discretion.
 
 - Bulky items take up two slots and are typically two-handed or awkward to carry.
-- Unwieldy and heavy items cannot be carried by one person or in your inventory. Additional means of transportation must be arranged.
+- Unwieldy and heavy items cannot generally be carried by one person or in your inventory. Additional means of transportation must be arranged.
 
 You cannot carry more items than your inventory allows.
 
