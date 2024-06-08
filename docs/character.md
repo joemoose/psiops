@@ -196,7 +196,10 @@ Before each mission, you’ll choose any specialized gear you require. You’ll 
 | Entrenching Tool | Folding spade |
 | Extended Operations Kit | Extra fatigues, mess kit, rations for 2 days, extra 4 liters of water |
 | Flashlight | Attaches to gun barrel |
+| Ghillie Suit | Camouflaged over-suit designed to resemble background foliage |
+| Grenade, Riot Agent | Tear gas |
 | Grenade, Smoke | Used for signaling or as cover |
+| Grende, Stun | Flashbang |
 | Ladder, Folding | Used to scale low walls; 2.5m long |
 | Laser Designator | Laser target designator on a short tripod |
 | Machete | For clearing vegetation |
