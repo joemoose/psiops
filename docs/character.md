@@ -122,7 +122,7 @@ You cannot carry more items than your inventory allows.
 
 Tactical supplies are an abstract collection of mission-related standard-issue military gear such as rope, flashlights, multitools, and ammunition. You can restock supplies between missions back at base. 
 
-Whenever you need a specific piece of gear during a mission, you declare what you need, and the game master determines if the item can be classified as standard tactical supplies; if the GM approves, you remove one Supply from your inventory and you now have that item.
+Whenever you need a specific piece of gear during a mission, you declare what you need, and the game master determines if the item can be classified as standard tactical supplies; if the GM approves, remove one Supply from your inventory, and you now have that item.
 
 Supplies mean you don’t have to decide beforehand all the sundry gear your character needs to pack before embarking on their mission.
 
