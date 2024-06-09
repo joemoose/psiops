@@ -29,7 +29,7 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 
 !!! note
 
-	Regardless of attribute values, traits, or circumstances in the narrative, the maximum dice roll modifier is +3, and the minimum is -2.
+	Regardless of attribute values, traits, or circumstances in the narrative, the maximum dice roll modifier is +4, and the minimum is -3.
 
 ## Momentum
 

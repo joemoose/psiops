@@ -182,6 +182,7 @@ Before each mission, you’ll choose any specialized gear and weapons you requir
 | Grenade Launcher | Single grenade under-barrel launcher |
 | Handgun +1 DAMAGE, 6/6 AMMO | Service pistol of your unit |
 | M18 Claymore +3 DAMAGE, BLAST, 1/1 | Directional mine, with command-wire |
+| Shotgun, +2 DAMAGE, 6/6 AMMO | Close combat shotgun of your unit | 
 | Sniper Rifle +3 DAMAGE, 6/6 AMMO | Precision rifle of your unit |
 
 ### Additional Gear

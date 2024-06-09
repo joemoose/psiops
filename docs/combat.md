@@ -10,6 +10,52 @@ The opposing side then takes its turn and the first round ends. The next round b
 
 The results of each side’s actions occur **simultaneously**. As such, all players declare their actions for a turn before determining the results of those actions.
 
+## Time, Actions, and Ranges
+
+A combat round represents 6 seconds of in-game time during which characters have **two Actions** each. An Action may be an attack, movement, using a psionic talent, or any similar act taking up to 6 seconds.
+
+**Interrupting Actions**: You can hold your action and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you may act instantly, interrupting the opponent’s action.
+
+**Movement**: In-combat movement is abstracted to determine ranges to targets. However, in some cases, it is helpful to have a more concrete measurement. When a character spends an Action moving on foot, they move around 10m.
+
+**Falling prone** requires no Action and may be done freely on the character’s turn; getting up from a prone position takes one Action.
+
+**Attacks of Opportunity**: Should a combatant engaged in Close range attempt to retreat from combat, their opponent may make a free melee attack if they have a melee weapon at the ready. To safely disengage from Close range, a combatant must spend one action to Disengage, and then they must make a +REFLEXIVE roll to retreat without risk.
+
+**Attacking**: Make an *action roll* with the following modifiers based on the range to target.
+
+### Ranges
+
+Ranges are abstracted to facilitate “theater of mind” gaming.
+
+**Close**: Up to 2 meters away. Melee range. A character may move this distance without using any Combat Actions.
+
+**Near**: Handgun range. A character may move anywhere within this distance by expanding one Combat Action.
+
+**Far**: Rifle range. A character must expend between 2 and 4 Combat Actions to traverse this distance at the GM’s discretion.
+
+**Distant**: Beyond rifle range. A character usually cannot traverse such a distance within the short timespan of personal combat.
+
+### Attack Modifiers
+
+Apply the following range modifiers to the attack *action roll*.
+
+| Weapon | Close | Near | Far | Distant |
+| - | :-: | :-: | :-: | :-: |
+| Handgun | – | – | -2 | impossible |
+| Assault | -1 | – | -1 | -2 |
+| Rifle | -2 | – | – | -1 |
+| Shotgun | – | -1 | -2 | impossible |
+| Melee | – | impossible | impossible | impossible |
+| Heavy Weapon | impossible | -1 | – | – |
+| Thrown | – | -1 | impossible | impossible |
+
+**Two Attacks**: You may use both Actions in a round to attack, in which case the second attack incurs a *disadvantage*.
+
+**Aiming**: You may use one action to aim and the other to attack, gaining +1 on the *action roll*.
+
+**Prone**: Attacks from a prone position gain a +1, whereas attacks against a prone target incur a -1.
+
 ## Dealing Damage
 
 When an *action roll* to attack succeeds:
@@ -105,11 +151,13 @@ For example, you’re up against a swarm of 14 opponents. With 14 HP, 3 ARMOR, a
 
 ## Morale Checks
 
-Enemies must pass a morale check to avoid fleeing when they take their first casualty and again when they lose half their number. Fanatical or mindless opponents do not check morale.
+Opponents must pass a morale check to avoid fleeing when they take their first casualty and again when they lose half their number. Morale checks are also required for opponents to take any action under suppressing fire. Fanatical or mindless opponents do not check morale.
 
-Opponent’s morale is rated from 1, an untrained, scared rabble, to 6, a stolid trained professional. Roll 1D6; if the result equals or exceeds the opponent’s morale score, they rout.
+Opponent’s morale is rated from 1, an untrained, scared rabble, to 6, a stolid trained professional. Roll 1D6; if the result equals or exceeds the opponent’s morale score, they rout or fail to act under suppressing fire.
 
 Some groups may use their leader’s morale in place of their own. Lone foes must save when they first take damage and again when they lose half of their HP. Morale does not affect player characters.
+
+
 
 ## Retreat
 
