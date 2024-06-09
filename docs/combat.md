@@ -79,7 +79,7 @@ Unless fanatical or mindless, suppressed targets generally hide behind cover and
 
 ## Multiple Attackers
 
-If multiple attackers target the same target, determine all damage and keep the highest result each round.
+If multiple attackers target the same target, determine all damage and keep only the highest result each round.
 
 ## Blast Damage
 
@@ -89,7 +89,7 @@ Attacks with the *blast* quality affect all targets in the noted area. Blast ref
 
 When battling many relatively weak, identical enemies, such as zombies, thugs, or guard drones, the GM may group the opponents into a single unit or *swarm*. 
 
-HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its ARMOR, DAMAGE, and the number of attacks, as described in the following table. The swarm’s extra attacks can’t be used on the same target.
+HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its ARMOR, DAMAGE, and the number of attacks, as described in the following table.
 
 | #/HP | ARMOR | DAMAGE | Attacks |
 | :- | :-: | :-: | :-: |
@@ -102,6 +102,18 @@ HP for the swarm equals the number of opponents in the swarm. The size of the sw
 Damage to the swarm’s HP reduces the swarm’s size and stats—each HP of damage reduces the swarm’s number by 1.
 
 For example, you’re up against a swarm of 14 opponents. With 14 HP, 3 ARMOR, and +2 DAMAGE, this swarm can launch attacks on up to 4 targets. However, its size and stats are reduced after the swarm sustains 5 HP of damage. The new stats for the swarm would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
+
+## Morale Checks
+
+Enemies must pass a morale check to avoid fleeing when they take their first casualty and again when they lose half their number. Fanatical or mindless opponents do not check morale.
+
+Opponent’s morale is rated from 1, an untrained, scared rabble, to 6, a stolid trained professional. Roll 1D6; if the result equals or exceeds the opponent’s morale score, they rout.
+
+Some groups may use their leader’s morale in place of their own. Lone foes must save when they first take damage and again when they lose half of their HP. Morale does not affect player characters.
+
+## Retreat
+
+Running away from a dire situation always requires a successful roll +REFLEXIVE, as well as a safe destination to run to.
 
 ## Damage, Injuries, and Dying
 

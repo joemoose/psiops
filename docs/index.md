@@ -1,4 +1,4 @@
-*Version 1.31*
+*Version 1.32*
 
 **Change Log**:
 
@@ -9,6 +9,7 @@
 - 1.22: Clarified *momentum* accumulation and maximum dice roll modifiers
 - 1.3: Renamed game to *PSIOPS*; replaced *Traits* with new *Psionic Talents*; renamed *Roles* to *Drives*; changed character creation to use *random attribute starting values*; removed traits-based *starting gear*
 - 1.31: Added *Reaction Roll*, *Inventory*, *Tactical Supplies*, and *Equipment* sections
+- 1.32: 1.32: Added *Armor*, *Multiple Attackers*, *Blast Damage*, *Morale Checks*, and *Retreat* sections.
 
 # Introduction
 
