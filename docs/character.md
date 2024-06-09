@@ -1,17 +1,18 @@
 # Your Character
 
-Imagine you’re an elite military operative, but you don’t fit the typical mold. You find yourself in the thick of things, facing the harsh realities of secret proxy wars against oppressive forces and supernatural dangers. Perhaps you even possess extraordinary talents like mind-reading or telekinesis. Your world revolves around the paranormal mysteries of the Cold War, where you stand shoulder to shoulder with fellow extraordinary individuals, fighting for your country.
+Imagine you’re an elite military operative, but you don’t fit the typical mold. You find yourself in the thick of things, facing the harsh realities of secret proxy wars against oppressive forces and supernatural dangers. Perhaps you even possess extraordinary talents like mind-reading or telekinesis. Your world revolves around the paranormal mysteries of the Cold War, where you stand shoulder to shoulder with fellow extraordinary individuals, fighting for your country and humankind.
 
 ## Creating a Character
 
 To create a new character, follow these steps.
 
-1. Roll **(1D3+1) - 1D3** for each of your character’s four attributes: **FORCEFUL**, **CREATIVE**, **TACTICAL**, and **REFLEXIVE**. For instance, if you first rolled a 2 and then a 1, your attribute score would be a 2. You may swap one with another. 
+1. Roll **(1D3+1) - 1D3** for each of your character’s four attributes: **FORCEFUL**, **CREATIVE**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 2 and then a 1, your attribute score would be a 2. You may swap one with another. 
 	- Attribute scores range from a minimum of -1 to a maximum of 3.
 2. Randomly select 2 starting **Psionic Talents** from the following list.
-	- Psionics are latent mental powers that defy the laws of physics.
+	- Psionics are latent mental powers your character possesses that defy the laws of physics.
 3. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
 4. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choosing to your inventory.
+	- See the following equipment lists for examples.
 5. Set your **Armor** equal to the total armor bonuses supplied by your gear.
 6. Randomly select your character’s **Drive** from the following list.
 	- Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
@@ -109,18 +110,18 @@ Each member of the team must have a unique drive. Your drive reflects something 
 
 ## Inventory
 
-Characters have 10 inventory slots: a backpack with six slots and four slots for their body (such as carried weapons, chest, legs, feet, head, etc.)
+Characters have 10 inventory slots: a backpack with six slots and four slots for their body (such as carried weapons or armor).
 
 Most items take up one slot, and small items may sometimes be bundled together. Slots are abstract and can be rearranged at the GM’s discretion.
 
-- Bulky items take up two slots and are typically two-handed or awkward to carry.
-- Unwieldy and heavy items cannot generally be carried by one person or in your inventory. Additional means of transportation must be arranged.
+- Bulky items that require two hands to carry take up two slots.
+- Unwieldy and heavy items that cannot generally be carried by one person can’t be placed in your inventory. Other means of transportation must be arranged.
 
 You cannot carry more items than your inventory allows.
 
 ## Tactical Supplies
 
-Tactical supplies are an abstract collection of mission-related standard-issue military gear such as rope, flashlights, multitools, and ammunition. You can restock supplies between missions back at base. 
+Tactical supplies are an abstract collection of small, mission-related standard-issue military gear such as rope, flashlights, multitools, and ammunition. You generally start each mission with several units of tactical supplies. Spent supplies are restocked between missions back at base. 
 
 Whenever you need a specific piece of gear during a mission, you declare what you need, and the game master determines if the item can be classified as standard tactical supplies; if the GM approves, remove one Supply from your inventory, and you now have that item.
 
@@ -133,7 +134,7 @@ Examples of gear classified as standard Tactical Supplies:
 - food and water
 - gun-mounted flashlight
 - night-vision goggles
-- paracord
+- rope
 - sleeping bag
 - walkie-talkie
 - wire cutters
@@ -145,17 +146,19 @@ Examples of gear NOT classified as standard Tactical Supplies:
 - explosives
 - firearms
 - heavy weapons
-- satellite transceivers
+- parachute
+- satellite transceiver
+- SCUBA gear and air tank
 - vehicles
 
 ## Equipment
 
-Before each mission, you’ll choose any specialized gear you require. You’ll always start with your basic kit. Examples of other types of equipment follow.
+Before each mission, you’ll choose any specialized gear and weapons you require. You’ll always start with your basic kit. Examples of other types of equipment follow.
 
 ### Basic Kit
 
 - Combat knife (+1 DAMAGE)
-- 2 Grenades (specify type, Frag +1 DAMAGE or Smoke)
+- 2 Grenades (specify type: Frag +1 DAMAGE, Riot Agent, Smoke, or Stun)
 - Handgun (+1 DAMAGE, 6/6 AMMO)
 - Body Armor (1 ARMOR)
 - Helmet (+1 ARMOR)
@@ -174,11 +177,11 @@ Before each mission, you’ll choose any specialized gear you require. You’ll 
 | Item | Description |
 | - | - |
 | Assault Rifle, +2 DAMAGE, 6/6 AMMO | Military rifle of your unit |
-| Anti-Tank Missile +2 DAMAGE, 1/1 | Portable, unguided missile |
-| Grenade, Frag +1 DAMAGE 1/1| Anti-personnel fragmentation grenade |
+| Anti-Tank Missile +2 DAMAGE, BLAST, 1/1 | Portable, unguided missile |
+| Grenade, Frag +1 DAMAGE, BLAST, 1/1| Anti-personnel fragmentation grenade |
 | Grenade Launcher | Single grenade under-barrel launcher |
 | Handgun +1 DAMAGE, 6/6 AMMO | Service pistol of your unit |
-| M18 Claymore +3 DAMAGE, 1/1 | Directional mine, with command-wire |
+| M18 Claymore +3 DAMAGE, BLAST, 1/1 | Directional mine, with command-wire |
 | Sniper Rifle +3 DAMAGE, 6/6 AMMO | Precision rifle of your unit |
 
 ### Additional Gear
@@ -188,19 +191,20 @@ Before each mission, you’ll choose any specialized gear you require. You’ll 
 | Backpack Radio | VHF platoon radio; range 10km |
 | Binoculars | Pocket-sized binoculars |
 | Bolt Cutters | Cuts wires or bolts up to 6mm thick |
-| C-4 Demolition Kit | 3 x 500g C4 blocks with detonators, command wires, and firing trigger |
+| C-4 Demolition Kit | 3 x 500g blocks of plastic explosives with detonators, command wires, and firing trigger |
 | Camcorder | For recon use or evidence gathering |
 | Compass & Maps | Often used with a GPS tracker |
 | Detcord | Used to breach doors or walls |
 | Dive Equipment | Complete SCUBA gear with tank |
 | Entrenching Tool | Folding spade |
+| Escape and Evasion Kit | Gold coin, lock picks, universal handcuff key, local currency, phrase book, and map, etc. |
 | Extended Operations Kit | Extra fatigues, mess kit, rations for 2 days, extra 4 liters of water |
 | Flashlight | Attaches to gun barrel |
 | Ghillie Suit | Camouflaged over-suit designed to resemble background foliage |
 | Grenade, Riot Agent | Tear gas |
 | Grenade, Smoke | Used for signaling or as cover |
 | Grende, Stun | Flashbang |
-| Ladder, Folding | Used to scale low walls; 2.5m long |
+| Ladder, Folding | Used to scale low walls |
 | Laser Designator | Laser target designator on a short tripod |
 | Machete | For clearing vegetation |
 | Medical Bag | Used by combat medics |
@@ -210,12 +214,15 @@ Before each mission, you’ll choose any specialized gear you require. You’ll 
 | Parachute | Steerable parachute, with reserve |
 | Poncho Liner | A warm waterproof blanket/mattress/camo hide/shelter |
 | Protective Mask | Protects against tear, mustard & chlorine gas, not nerve agents |
-| Rations, one day | Two pre-cooked meals, eaten hot/cold |
+| Rations, one day | Two pre-cooked meals, eaten hot or cold |
 | Rope | 25 meters of 1cm-thick nylon rope |
-| Sleeping Bag | Used for overnight recon missions |
 | Stretcher, Folding | Used for casualty evacuation |
 | Suppressor | Quietens the shot. Pistol/SMG suppressors may aid stealth. Rifle suppressors help conceal a sniper's position. |
 | Survival Belt Pouch | Fishing kit, fire-lighting, compass, water purification, saw, needle & thread, mylar blanket, etc. |
+
+## Deprivation and Fatigue
+
+A character deprived of a crucial need (such as food, warmth, or rest) is unable to recover damage when resting. Anyone deprived for more than a day adds *fatigue* to their inventory, one for each day. You can also gain *fatigue* in other ways during play such as from ability use and specific events. Each *fatigue* occupies one slot and lasts until they are able to recuperate (such as a full night’s rest in a safe spot).
 
 ## Character Advancement
 

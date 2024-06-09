@@ -51,6 +51,14 @@ When your character makes an *action roll* to defend against damage, they take d
 - On a **10–12**, you suffer no damage.
 - On a **13 or greater**, you suffer no damage, and your next *action roll* has an *advantage*.
 
+## Armor
+
+Before calculating damage to HP, subtract the target’s armor value from the result of damage rolls. No one can have more than 3 points of armor.
+
+Worn armor is usually listed as Armor 1, Armor 2, etc., and will usually only benefit from a secondary armor source if it is a bonus (+1 Armor) or makes sense fictionally.
+
+Shields and similar items provide bonus defense (e.g., +1 armor), but only while the item is held or worn.
+
 ## Cover and Suppression
 
 If you take cover behind something, you gain an armor bonus against attacks that your cover would block. Low, medium, and high cover grants 1, 2, and 3 armor, respectively. Attacks that ignore armor don’t ignore the armor bonus provided by cover. 
@@ -68,6 +76,32 @@ When you deal damage with a ranged weapon to an enemy behind cover, you may choo
 Suppressed targets who leave cover or perform a risky action, such as returning fire, take the damage of the suppressing attack without the armor benefit of cover.
 
 Unless fanatical or mindless, suppressed targets generally hide behind cover and remain pinned down until the suppressing fire ceases.
+
+## Multiple Attackers
+
+If multiple attackers target the same target, determine all damage and keep the highest result each round.
+
+## Blast Damage
+
+Attacks with the *blast* quality affect all targets in the noted area. Blast refers to anything from explosions to massive cleaving onslaughts. If unsure how many targets can be affected, roll 1D6 plus the damage modifier.
+
+## Swarms
+
+When battling many relatively weak, identical enemies, such as zombies, thugs, or guard drones, the GM may group the opponents into a single unit or *swarm*. 
+
+HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its ARMOR, DAMAGE, and the number of attacks, as described in the following table. The swarm’s extra attacks can’t be used on the same target.
+
+| #/HP | ARMOR | DAMAGE | Attacks |
+| :- | :-: | :-: | :-: |
+1–4 | 0 | -1 | 1
+5–8 | 1 | +0 | 2
+9–12 | 2 | +1 | 3
+13–16 | 3 | +2 | 4
+17–20 | 4 | +3 | 5
+
+Damage to the swarm’s HP reduces the swarm’s size and stats—each HP of damage reduces the swarm’s number by 1.
+
+For example, you’re up against a swarm of 14 opponents. With 14 HP, 3 ARMOR, and +2 DAMAGE, this swarm can launch attacks on up to 4 targets. However, its size and stats are reduced after the swarm sustains 5 HP of damage. The new stats for the swarm would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
 
 ## Damage, Injuries, and Dying
 
@@ -102,22 +136,3 @@ Players are safe as long as they remain at the rendezvous point. Each player at 
 - **INTEL**: Receive one useful fact about the mission from the GM.
 - **REST**: Remove 1D6 STRESS.
 - **RESUPPLY**: Restock one limited-use item or ammo for a ranged weapon.
-
-## Swarms
-
-When battling many relatively weak, identical enemies, such as zombies, thugs, or guard drones, the GM may group the opponents into a single unit or *swarm*. 
-
-HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its ARMOR, DAMAGE, and the number of attacks, as described in the following table. The swarm’s extra attacks can’t be used on the same target.
-
-| #/HP | ARMOR | DAMAGE | Attacks |
-| :- | :-: | :-: | :-: |
-1–4 | 0 | -1 | 1
-5–8 | 1 | +0 | 2
-9–12 | 2 | +1 | 3
-13–16 | 3 | +2 | 4
-17–20 | 4 | +3 | 5
-
-Damage to the swarm’s HP reduces the swarm’s size and stats—each HP of damage reduces the swarm’s number by 1.
-
-For example, you’re up against a swarm of 14 opponents. With 14 HP, 3 ARMOR, and +2 DAMAGE, this swarm can launch attacks on up to 4 targets. However, its size and stats are reduced after the swarm sustains 5 HP of damage. The new stats for the swarm would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
-
