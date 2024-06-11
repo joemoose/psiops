@@ -6,7 +6,7 @@ Imagine you’re an elite military operative, but you don’t fit the typical mo
 
 To create a new character, follow these steps:
 
-1. Roll a D3 and add 1. Then roll a second D3 and subtract that from the previous result. The resulting number is your attribute score. Do this in order for each of your character’s four attributes: **FORCEFUL**, **CREATIVE**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 1 and then a 3, your attribute score would be -1. Afterward, you may optionally swap two scores. 
+1. Roll a D3 and add 1. Then roll a second D3 and subtract that from the previous result. The resulting number is your attribute score. Do this in order for each of your character’s four attributes: **FORCEFUL**, **WILLPOWER**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 1 and then a 3, your attribute score would be -1. Afterward, you may optionally swap two scores. 
 	- Attribute scores range from a minimum of -1 to a maximum of 3.
 2. Roll D66 twice to select two starting **Psionic Talents** from the following Psionic Talents list.
 	- Psionic talents are latent mental powers that defy the laws of physics.
@@ -17,12 +17,12 @@ To create a new character, follow these steps:
 6. Roll D66 to select your character’s **Drive** from the following Drives list.
 	- Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t select a drive that another player on the team already has—reroll duplicates. 
-7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your CREATIVE or TACTICAL score.
+7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICAL score.
 8. Choose your character’s **codename**.
 
 ### Psionic Talent
 
-Psionic talents are latent mental powers that defy the laws of physics. Each time you use one of your psionic talents, roll +CREATIVE. **On a 7 or greater**, the power manifests, and you may continue to use it. **On a 6 or less**, the power doesn’t manifest and is not available again until you rest at a rendezvous point or between missions.
+Psionic talents are latent mental powers that defy the laws of physics. Each time you use one of your psionic talents, roll +WILLPOWER. **On a 7 or greater**, the power manifests, and you may continue to use it. **On a 6 or less**, the power doesn’t manifest and is not available again until you rest at a rendezvous point or between missions.
 
 If you roll a duplicate talent, you can either re-roll for a new one or work with the GM on how your existing talent is improved.
 

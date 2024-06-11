@@ -15,7 +15,7 @@ The GM will ask you which attribute you’re using for your *action roll* or the
 
 - Roll +**FORCEFUL** for displays of strength, like kicking in doors, intimidating others, or using clunky, powerful weapons.
 - Roll +**TACTICAL** for applications of logic, like maintaining a disguise, hacking into a database, or operating machinery.
-- Roll +**CREATIVE** for expressions of will, like persuasive speeches, off-the-cuff bluffing, or psionic powers.
+- Roll +**WILLPOWER** for expressions of will, like persuasive speeches, off-the-cuff bluffing, or psionic talentsWILLPOWER.
 - Roll +**REFLEXIVE** for feats of agility, like dodging bullets, evading enemy attacks, or using light, precise weapons.
 
 ### 2. Roll the Dice
