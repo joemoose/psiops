@@ -20,13 +20,13 @@ To create a new character, follow these steps:
 7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICS score.
 8. Choose your character’s **codename**.
 
-### Psionic Talent
+### Psionic Talents
 
 Psionic talents are latent mental powers that defy the laws of physics. Each time you use one of your psionic talents, roll +WILLPOWER. **On a 7 or greater**, the power manifests, and you may continue to use it. **On a 6 or less**, the power doesn’t manifest and is unavailable again until you rest at a rendezvous point or between missions.
 
 If you roll a duplicate talent, you can either re-roll for a new one or work with the GM on how your existing talent is improved.
 
-| D66 | Psionic Talent |
+| D66 | Psionic Talents |
 | :-: | :- |
 | 11 | **Attribute Boost**: Increase all attribute scores by 1 point for your next action. |
 | 12 | **Augmented Speed**: Move twice as fast for 10 minutes. |
