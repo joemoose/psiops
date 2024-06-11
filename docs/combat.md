@@ -4,7 +4,7 @@ Combat works the same as doing anything else that's risky. Make an *action roll*
 
 ## Initiative
 
-During the **first round of combat**, each player must make a +TACTICAL roll to act before the opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** for the first round.
+During the **first round of combat**, each player must make a +TACTICS roll to act before the opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** for the first round.
 
 The opposing side then takes its turn, and then the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
@@ -20,7 +20,7 @@ A combat round represents 6 seconds of in-game time during which characters have
 
 - **Falling prone** requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes one *action*.
 
-- **Attacks of Opportunity**: If a combatant who's engaged in *close range* attempts to retreat from combat, their opponent can make a free melee attack if they have a melee weapon at the ready. To safely disengage from *close range*, a combatant must spend one *action* to disengage, and then they must make a +REFLEXIVE roll to retreat without risk.
+- **Attacks of Opportunity**: If a combatant who's engaged in *close range* attempts to retreat from combat, their opponent can make a free melee attack if they have a melee weapon at the ready. To safely disengage from *close range*, a combatant must spend one *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
 
 - **Attacking**: Make an *action roll* with the following modifiers based on the range to target and other modifiers.
 
@@ -162,14 +162,14 @@ Some groups can use their leader’s morale in place of their own. Lone foes mus
 
 ## Retreat
 
-Running away from a dire situation always requires a successful roll +REFLEXIVE, as well as a safe destination to run to.
+Running away from a dire situation always requires a successful roll +REFLEXES, as well as a safe destination to run to.
 
 ## Damage, Injuries, and Dying
 
-If you take damage but have at least 1 HP remaining, you’re still on your feet and in the fight. However, if you drop to 0 or less HP, you must roll **2D6 + FORCEFUL** *minus* any damage past zero to see how bad it is:
+If you take damage but have at least 1 HP remaining, you’re still on your feet and in the fight. However, if you drop to 0 or less HP, you must roll **2D6 + STRENGTH** *minus* any damage past zero to see how bad it is:
 
 - On a **6 or less**, for a lethal attack, such as a gunshot, you’re **dead**. If not, you’re at 0 HP, incapacitated, and gain an *injury*. Incapacitated characters will die in 10 minutes if left unattended. 
-- On a **7-12**, you remain alive with 1 HP and gain an *injury*. You must make a successful **+FORCEFUL** roll or be knocked unconscious. An ally can revive unconscious characters.
+- On a **7-12**, you remain alive with 1 HP and gain an *injury*. You must make a successful **+STRENGTH** roll or be knocked unconscious. An ally can revive unconscious characters.
 - On a **13 or more**, you gain an *injury* but rally with HP equal to the lowest D6 rolled, up to your maximum HP.
 
 ### Injuries

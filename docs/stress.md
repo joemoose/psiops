@@ -60,10 +60,10 @@ Whenever your character becomes transcendent, roll 1D6 and consult the following
 | D6 | Effect |
 | :-: | :- |
 | 1 |  **Courageous**:  Whenever you *succeed* at an *action roll*, allies within sight remove 2 stress. |
-| 2 | **Cunning**: *Advantage* on all +TACTICAL rolls.  |
-| 3 | **Dexterous**: *Advantage* on all +REFLEXIVE rolls. |
+| 2 | **Cunning**: *Advantage* on all +TACTICS rolls.  |
+| 3 | **Dexterous**: *Advantage* on all +REFLEXES rolls. |
 | 4 | **Focused**: *Advantage* on all +WILLPOWER rolls. |
-| 5 | **Powerful**: *Advantage* on all +FORCEFUL rolls. |
+| 5 | **Powerful**: *Advantage* on all +STRENGTH rolls. |
 | 6 | **Stalwart**: You gain +1 ARMOR. |
 
 

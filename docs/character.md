@@ -6,7 +6,7 @@ Imagine you’re an elite military operative, but you don’t fit the typical mo
 
 To create a new character, follow these steps:
 
-1. Roll a D3 and add 1. Then, roll a second D3 and subtract that from the previous result. The resulting number is your attribute score. Do this in order for each of your character’s four attributes: **FORCEFUL**, **WILLPOWER**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 1 and then a 3, your attribute score would be -1. Afterward, you may optionally swap two scores. 
+1. Roll a D3 and add 1. Then, roll a second D3 and subtract that from the previous result. The resulting number is your attribute score. Do this in order for each of your character’s four attributes: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**. For example, if you first rolled a 1 and then a 3, your attribute score would be -1. Afterward, you may optionally swap two scores. 
 	- Attribute scores range from a minimum of -1 to a maximum of 3.
 2. Roll D66 twice to select two starting **Psionic Talents** from the following Psionic Talents list.
 	- Psionic talents are latent mental powers that defy the laws of physics.
@@ -17,7 +17,7 @@ To create a new character, follow these steps:
 6. Roll D66 to select your character’s **Drive** from the following Drives list.
 	- Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t select a drive that another player on the team already has—reroll duplicates. 
-7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICAL score.
+7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICS score.
 8. Choose your character’s **codename**.
 
 ### Psionic Talent
@@ -30,7 +30,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | :-: | :- |
 | 11 | **Attribute Boost**: Increase all attribute scores by 1 point for your next action. |
 | 12 | **Augmented Speed**: Move twice as fast for 10 minutes. |
-| 13 | **Augmented Strength**: Gain +1D3 to +FORCEFUL rolls, as well as all melee and unarmed damage rolls for 10 minutes. |
+| 13 | **Augmented Strength**: Gain +1D3 to +STRENGTH rolls, as well as all melee and unarmed damage rolls for 10 minutes. |
 | 14 | **Blink**: Teleport once to any point within 1 kilometer, as long as you have a direct line of sight to it or have been there previously. |
 | 15 | **Choke**: Telekinetically grab one humanoid creature by its throat (or analogous body part) and strangle them for 1D6 damage, ignoring armor. |
 | 16 | **Clairvoyance**: Psionically watch and listen at a spot you choose within 1 kilometer. This power ignores solid objects, and you do not have to be familiar with the location in question—you can specify a location by simply stating the direction and distance. |

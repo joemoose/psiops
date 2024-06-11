@@ -13,23 +13,23 @@ When you need to overcome a challenge, and there’s a risk of failure, make an 
 
 The GM will ask you which attribute you’re using for your *action roll* or they might decide for you if the answer is unclear. Before you roll, you can ask the GM for possible outcomes of your action to get an idea of what you’re up against.
 
-- Roll +**FORCEFUL** for displays of strength, like kicking in doors, intimidating others, or using clunky, powerful weapons.
-- Roll +**TACTICAL** for applications of logic, like maintaining a disguise, hacking into a database, or operating machinery.
-- Roll +**WILLPOWER** for expressions of will, like persuasive speeches, off-the-cuff bluffing, or psionic talentsWILLPOWER.
-- Roll +**REFLEXIVE** for feats of agility, like dodging bullets, evading enemy attacks, or using light, precise weapons.
+- Roll +**STRENGTH** for displays of brawn and power, like kicking in doors, intimidating others, or using clunky, powerful weapons.
+- Roll +**REFLEXES** for feats of agility and speed, like dodging bullets, evading enemy attacks, or using light, precise weapons.
+- Roll +**TACTICS** for applications of logic and training, like maintaining a disguise, hacking into a database, or operating machinery.
+- Roll +**WILLPOWER** for expressions of presence and will, like persuasive speeches, off-the-cuff bluffing, or psionic powers.
 
 ### 2. Roll the Dice
 
 Roll **2D6 + Attribute**. The total determines your degree of success as follows.
 
 - On a **6 or less**, it’s a **failure**. Things go poorly. You don't achieve your goal, and you suffer a consequence.
-- On a **7–9**, it’s a **partial success**. You achieve your goal, but there’s a complication.
+- On a **7–9**, it’s a **partial success**. You achieve your goal, but there’s a potential complication.
 - On a **10–12**, it’s a **success**. Things go well, and you achieve your goal.
-- On a **13 or greater**, it’s a **critical success**. Things go better than expected. You achieve your goal with an added benefit.
+- On a **13 or greater**, it’s a **critical success**. Things go better than expected. You achieve your goal with an added bonus.
 
 !!! note
 
-	Regardless of attribute values, traits, or circumstances in the narrative, the maximum dice roll modifier is +4, and the minimum is -3.
+	Regardless of attribute values, talents, or circumstances in the narrative, the maximum dice roll modifier is +4, and the minimum is -3.
 
 ## Momentum
 
