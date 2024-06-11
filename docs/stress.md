@@ -1,6 +1,6 @@
 # Stress
 
-During a mission, your character will accumulate stress. The maximum stress level is 6. When your character reaches the maximum level, you must make an action roll +WILLPOWER to avoid panicking or to possibly rise to the occasion with transcendent zeal.
+During a mission, your character will accumulate stress. The maximum stress level is 6. When your character reaches the maximum level, you must make an *action roll* +WILLPOWER to avoid panicking or to possibly rise to the occasion with transcendent zeal.
 
 ## Sources of Stress
 
@@ -20,7 +20,7 @@ There are also several ways to gain stress outside of combat, for example:
 - Being plunged into total darkness in hostile territory
 - Seeing or interacting with supernatural or horrifying creatures, events, and locations
 
- Each occurrence can add 1 stress point to your total, at the GM's discretion.
+ Each occurrence adds 1 stress point to your total at the GM's discretion.
 
 ## Reducing Stress
 
@@ -32,7 +32,7 @@ You can reduce your stress level during a mission in several ways:
 
 ## Reaching Maximum Stress
 
-Whenever you reach 6 stress points or more, you must make an action roll +WILLPOWER to avoid any adverse effects.
+Whenever you reach 6 stress points or more, you must roll +WILLPOWER to avoid any adverse effects.
 
 - On a **6 or less**, you *panic*. To determine the effect, roll 1D6 and consult the following Panic Table for the result.
 - On a **7–9**, you keep it together and remove 1 stress point.
