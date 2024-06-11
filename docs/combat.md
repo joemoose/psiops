@@ -1,40 +1,40 @@
 # Combat
 
-Combat works the same as doing anything else risky. Make an *action roll* to attack and to deal damage if you succeed. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
+Combat works the same as doing anything else that's risky. Make an *action roll* to attack and to deal damage if you succeed. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
 
 ## Initiative
 
 During the **first round of combat**, each player must make a +TACTICAL roll to act before the opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** for the first round.
 
-The opposing side then takes its turn and the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+The opposing side then takes its turn, and then the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
-The results of each side’s actions occur **simultaneously**. As such, all players declare their actions for a turn before determining the results of those actions.
+The results of each side’s actions occur **simultaneously**. As a result, all players declare their actions for a turn before the results of those actions are determined.
 
 ## Time, Actions, and Ranges
 
-A combat round represents 6 seconds of in-game time during which characters have **two actions** each. An *action* may be an attack, movement, using a psionic talent, or any similar act taking up to 6 seconds.
+A combat round represents 6 seconds of in-game time during which characters have two *actions* each. An *action* can be an attack, a movement, using a psionic talent, or any similar act that takes up to 6 seconds.
 
-**Interrupting Actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you may act instantly, interrupting the opponent’s action.
+- **Interrupting Actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 
-**Movement**: In-combat movement is abstracted to determine ranges to targets. However, in some cases, it is helpful to have a more concrete measurement. When a character spends an Action moving on foot, they move around 10m.
+- **Movement**: In-combat movement is abstracted to determine ranges to targets. However, in some cases, it's helpful to have a more concrete measurement. When a character spends an *action* moving on foot, they move about 10 meters.
 
-**Falling prone** requires no Action and may be done freely on the character’s turn; getting up from a prone position takes one Action.
+- **Falling prone** requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes one *action*.
 
-**Attacks of Opportunity**: Should a combatant engaged in Close range attempt to retreat from combat, their opponent may make a free melee attack if they have a melee weapon at the ready. To safely disengage from Close range, a combatant must spend one action to Disengage, and then they must make a +REFLEXIVE roll to retreat without risk.
+- **Attacks of Opportunity**: If a combatant who's engaged in *close range* attempts to retreat from combat, their opponent can make a free melee attack if they have a melee weapon at the ready. To safely disengage from *close range*, a combatant must spend one *action* to disengage, and then they must make a +REFLEXIVE roll to retreat without risk.
 
-**Attacking**: Make an *action roll* with the following modifiers based on the range to target.
+- **Attacking**: Make an *action roll* with the following modifiers based on the range to target.
 
 ### Ranges
 
 Ranges are abstracted to facilitate “theater of mind” gaming.
 
-**Close**: Up to 2 meters away. Melee range. A character may move this distance without using any Combat Actions.
+- **Close**: Melee range, up to 2 meters away. A character can move this distance without using any *actions*.
 
-**Near**: Handgun range. A character may move anywhere within this distance by expanding one Combat Action.
+- **Near**: Handgun range. A character can move anywhere within this distance by using one *action*.
 
-**Far**: Rifle range. A character must expend between 2 and 4 Combat Actions to traverse this distance at the GM’s discretion.
+- **Far**: Rifle range. A character must expend between 2 and 4 *actions* to traverse this distance, at the GM’s discretion.
 
-**Distant**: Beyond rifle range. A character usually cannot traverse such a distance within the short timespan of personal combat.
+- **Distant**: Beyond rifle range. A character usually can't traverse such a distance within the short timespan of personal combat.
 
 ### Attack Modifiers
 
@@ -47,14 +47,16 @@ Apply the following range modifiers to the attack *action roll*.
 | Rifle | -2 | – | – | -1 |
 | Shotgun | – | -1 | -2 | impossible |
 | Melee | – | impossible | impossible | impossible |
-| Heavy Weapon | impossible | -1 | – | – |
+| Heavy weapon | impossible | -1 | – | – |
 | Thrown | – | -1 | impossible | impossible |
 
-**Two Attacks**: You may use both Actions in a round to attack, in which case the second attack incurs a *disadvantage*.
+The following modifiers can also apply to attacks:
 
-**Aiming**: You may use one action to aim and the other to attack, gaining +1 on the *action roll*.
+- **Two Attacks**: You may use both *actions* in a round to attack, in which case the second attack incurs a *disadvantage*.
 
-**Prone**: Attacks from a prone position gain a +1, whereas attacks against a prone target incur a -1.
+- **Aiming**: You may use one action to aim and the other to attack, gaining +1 on the *action roll*.
+
+- **Prone**: Attacks from a prone position gain a +1, whereas attacks against a prone target incur a -1.
 
 ## Dealing Damage
 
@@ -101,7 +103,7 @@ When your character makes an *action roll* to defend against damage, they take d
 
 Before calculating damage to HP, subtract the target’s armor value from the result of damage rolls. No one can have more than 3 points of armor.
 
-Worn armor is usually listed as Armor 1, Armor 2, etc., and will usually only benefit from a secondary armor source if it is a bonus (+1 Armor) or makes sense fictionally.
+Worn armor is usually listed as Armor 1, Armor 2, and so on. You usually only benefit from a secondary armor source only if it's a bonus (for example, +1 Armor) or makes sense fictionally.
 
 Shields and similar items provide bonus defense (e.g., +1 armor), but only while the item is held or worn.
 
@@ -129,15 +131,15 @@ If multiple attackers target the same target, determine all damage and keep only
 
 ## Blast Damage
 
-Attacks with the *blast* quality affect all targets in the noted area. Blast refers to anything from explosions to massive cleaving onslaughts. If unsure how many targets can be affected, roll 1D6 plus the damage modifier.
+Attacks with the *blast* quality affect all targets in the noted area. Blast refers to anything from explosions to massive cleaving onslaughts. If you're unsure how many targets can be affected, roll 1D6 plus the damage modifier.
 
 ## Swarms
 
-When battling many relatively weak, identical enemies, such as zombies, thugs, or guard drones, the GM may group the opponents into a single unit or *swarm*. 
+When you're battling many relatively weak, identical enemies—such as zombies, thugs, or guard drones—the GM may group the opponents into a single unit or *swarm*. 
 
-HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its ARMOR, DAMAGE, and the number of attacks, as described in the following table.
+HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its armor, damage, and the number of attacks, as described in the following table:
 
-| #/HP | ARMOR | DAMAGE | Attacks |
+| #/HP | Armor | Damage | Attacks |
 | :- | :-: | :-: | :-: |
 1–4 | 0 | -1 | 1
 5–8 | 1 | +0 | 2
@@ -151,13 +153,11 @@ For example, you’re up against a swarm of 14 opponents. With 14 HP, 3 ARMOR, a
 
 ## Morale Checks
 
-Opponents must pass a morale check to avoid fleeing when they take their first casualty and again when they lose half their number. Morale checks are also required for opponents to take any action under suppressing fire. Fanatical or mindless opponents do not check morale.
+Opponents must pass a morale check to avoid fleeing when they take their first casualty and again when they lose half their number. Morale checks are also required for opponents to be able to take any action under suppressing fire. Fanatical or mindless opponents don't check morale.
 
-Opponent’s morale is rated from 1, an untrained, scared rabble, to 6, a stolid trained professional. Roll 1D6; if the result equals or exceeds the opponent’s morale score, they rout or fail to act under suppressing fire.
+An opponent’s morale is rated from 1, an untrained, scared rabble, to 6, a stolid trained professional. Roll 1D6; if the result equals or exceeds the opponent’s morale score, they rout or fail to act under suppressing fire.
 
-Some groups may use their leader’s morale in place of their own. Lone foes must save when they first take damage and again when they lose half of their HP. Morale does not affect player characters.
-
-
+Some groups can use their leader’s morale in place of their own. Lone foes must save when they first take damage and again when they lose half of their HP. Morale doesn't affect player characters.
 
 ## Retreat
 
