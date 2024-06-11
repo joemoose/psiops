@@ -59,7 +59,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 55 | **Second Wind**: You can ignore stress or fatigue for 1 hour. |
 | 56 | **Suggestion**: You can plant a simple hypnotic suggestion in one target. This effect will last until the target has performed their suggested task or ten minutes have passed. Victims will not obey suggestions to harm themselves directly or indirectly. |
 | 61 | **Telekinesis**: You can move objects up to 100 kilograms with the power of your mind. Telekinetics can also be used offensively: attack a target within handgun range with a +3 damage modifier. |
-| 62 | **Telepathy**: You can read target’s surface thoughts for one minute. |
+| 62 | **Telepathy**: You can read a target’s surface thoughts for one minute. |
 | 63 | **Thousand Faces**: You can change a target's appearance and biometric data to those of any target of the same or similar species for 10 minutes. To mimic the specific biometric data of another person, you must have a sample of the target’s DNA. |
 | 64 | **Truth**: You can force one target to answer questions truthfully. They must be able to speak or communicate with you, and the questions can be about anything—the target will fully answer to the best of their ability. |
 | 65 | **Vampire**: You must make a normal unarmed attack at melee range. The Vampire power inflicts a +1 damage modifier on the target and instantly heals you half the amount of damage. |
