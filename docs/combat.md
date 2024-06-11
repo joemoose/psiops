@@ -63,9 +63,9 @@ The following modifiers can also apply to attacks:
 When your character makes an *action roll* to attack an opponent, they deal damage as follows:
 
 - On a **6 or less**, you deal no damage; the attack misses.
-- On a **7–9**, you deal damage equal to the **lowest D6 result + weapon damage modifier**.
-- On a **10–12**, you deal damage equal to the **highest D6 result + weapon damage modifier**.
-- On a **13 or greater**, you deal damage equal to **both dice results + weapon damage modifier**.
+- On a **7–9**, you deal damage equal to the **lowest D6 result** + weapon damage modifier.
+- On a **10–12**, you deal damage equal to the **highest D6 result** + weapon damage modifier.
+- On a **13 or greater**, you deal damage equal to **both dice results** + weapon damage modifier.
 
 ### Weapon Damage Modifiers
 
@@ -95,8 +95,8 @@ When *ammo* is reduced to 0, the weapon is out of ammunition and can’t be used
 
 When your character makes an *action roll* to defend against damage, they take damage as follows:
 
-- On a **6 or less**, you suffer damage equal to the **highest D6 result + enemy damage modifier**.
-- On a **7–9**, you suffer damage equal to the **lowest D6 result + enemy damage modifier**.
+- On a **6 or less**, you suffer damage equal to the **highest D6 result** + enemy damage modifier.
+- On a **7–9**, you suffer damage equal to the **lowest D6 result** + enemy damage modifier.
 - On a **10–12**, you suffer no damage.
 - On a **13 or greater**, you suffer no damage, and your next *action roll* has an *advantage*.
 
