@@ -6,7 +6,7 @@ Imagine you’re an elite military operative, but you don’t fit the typical mo
 
 To create a new character, follow these steps:
 
-1. Roll a D3 and add 1. Then roll a second D3 and subtract that from the previous result. The resulting number is your attribute score. Do this in order for each of your character’s four attributes: **FORCEFUL**, **WILLPOWER**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 1 and then a 3, your attribute score would be -1. Afterward, you may optionally swap two scores. 
+1. Roll a D3 and add 1. Then, roll a second D3 and subtract that from the previous result. The resulting number is your attribute score. Do this in order for each of your character’s four attributes: **FORCEFUL**, **WILLPOWER**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 1 and then a 3, your attribute score would be -1. Afterward, you may optionally swap two scores. 
 	- Attribute scores range from a minimum of -1 to a maximum of 3.
 2. Roll D66 twice to select two starting **Psionic Talents** from the following Psionic Talents list.
 	- Psionic talents are latent mental powers that defy the laws of physics.
@@ -22,7 +22,7 @@ To create a new character, follow these steps:
 
 ### Psionic Talent
 
-Psionic talents are latent mental powers that defy the laws of physics. Each time you use one of your psionic talents, roll +WILLPOWER. **On a 7 or greater**, the power manifests, and you may continue to use it. **On a 6 or less**, the power doesn’t manifest and is not available again until you rest at a rendezvous point or between missions.
+Psionic talents are latent mental powers that defy the laws of physics. Each time you use one of your psionic talents, roll +WILLPOWER. **On a 7 or greater**, the power manifests, and you may continue to use it. **On a 6 or less**, the power doesn’t manifest and is unavailable again until you rest at a rendezvous point or between missions.
 
 If you roll a duplicate talent, you can either re-roll for a new one or work with the GM on how your existing talent is improved.
 
@@ -38,15 +38,15 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 22 | **Electrokinesis**: You can manipulate electrical energy in their vicinity. You may use this power to recharge batteries, short-circuit electrical devices, or generate spectacular light shows. You may also attack a target within handgun range with lightning: attack a target within handgun range with a +3 damage modifier. Mechanical or electronic targets grant an *advantage* to your attack. |
 | 23 | **Emotion**: You can evoke powerful emotions in a target within 10 meters; fear, joy, or friendliness are typical emotions. It is obvious to everyone, affected or not, that something has happened. This power can force a Morale check among enemy (or friendly) forces. This effect lasts until the end of the battle or for 1D6x10 minutes. |
 | 24 | **Empathy**: You can read a target’s emotions and subtly affect them. This includes changing a target’s *reaction roll* result by one category up or down. |
-| 25 | **False Perception**: You can cause a single target within 10 meters to hallucinate. This effect lasts as long as you concentrate to maintain it. The details of the False Perception are left to you but can range from a typical illusion or distraction to something that closely resembles a drug-fueled fugue state. |
+| 25 | **False Perception**: You can cause a single target within 10 meters to hallucinate. This effect lasts as long as you concentrate on maintaining it. The details of the False Perception are left to you but can range from a typical illusion or distraction to something that closely resembles a drug-fueled fugue state. |
 | 26 | **Hibernation**: You can enter a trance-like state and meditate for up to 7 days. While meditating, you do not require food, water, or air. You remain aware of your surroundings and may end your hibernation at will. |
 | 31 | **Intuition**: You gain +1D3 to your next roll, regardless of what the roll is for. |
-| 32 | **Invisibility**: You can conceal yourself from nearby onlookers. While invisible, organic targets range will not see you. This power works on electronic sensors and video cameras within 10 meters range. You must concentrate on this power to be effective. Attacking any target immediately terminates this effect. |
+| 32 | **Invisibility**: You can conceal yourself from nearby onlookers. While invisible, organic targets range will not see you. This power works on electronic sensors and video cameras within a 10-meter range. You must concentrate on this power to be effective. Attacking any target immediately terminates this effect. |
 | 33 | **Kinetic Blast**: You generate a powerful, invisible blast of telekinetic force: attack up to rifle range with a +2 damage modifier. |
 | 34 | **Kinetic Shield**: Gain +1 armor for the duration of the battle. |
 | 35 | **Levitation**: You can fly at a speed of one move *action* per round for 6 rounds in any direction desired. |
 | 36 | **Life Detection**: You can detect all living beings within a rifle range instinctively. This power cannot pinpoint the exact whereabouts of a target but will give you a general sense of the location of a hidden interlocutor or sniper. |
-| 41 | **Memory Block**: To use this power, you must be within the 10 meters of a target. Roll an attack, and if the attack succeeds, you may block up to 15 minutes of the target’s memories. Additional memories must be targeted with an attack for each use of this power. The memories can only be unblocked by another psion using Memory Block on the target. |
+| 41 | **Memory Block**: To use this power, you must be within 10 meters of a target. Roll an attack, and if the attack succeeds, you may block up to 15 minutes of the target’s memories. Additional memories must be targeted with an attack for each use of this power. The memories can only be unblocked by another psion using Memory Block on the target. |
 | 42 | **Microkinesis**: You gain telekinetic control of tiny or microscopic objects. Gain an *advantage* on any roll involving components or systems containing tiny or microscopic objects. |
 | 43 | **Mind Blast**: This powerful telepathic blast stuns a target within 10 meters for 1D6 rounds. |
 | 44 | **Mind Control**: You gain control of a target within 10 meters, who becomes your ally for 1D6 rounds. The target of Mind Control will only perform tasks a typical ally would do and will not perform any action that would harm themselves. |
@@ -54,7 +54,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 46 | **Mind Shield**: You erect an invisible mental shield that protects yourself and all allies within 10 meters range from any mind-affecting power or psionic ability. The Mind Shield will last for ten minutes. |
 | 51 | **Precognition**: This power allows you to ask the GM one question about what may happen to their character in the next 24 hours. The GM will respond truthfully with either “yes” or “no.” Precognition may only be used once per session. |
 | 52 | **Psychic Healing**: You heal 1D3 points of damage on an injured target. The target cannot receive healing again until they suffer subsequent damage. |
-| 53 | **Pyrokinesis**: You can ignite a flammable object within 10 meters range. Pyrokinesis can also be used offensively: attack a target within handgun range with a +2 damage modifier. The target, if hit, is also *burning*. Burning causes 1 point of damage each round for 1D3 rounds or until extinguished. |
+| 53 | **Pyrokinesis**: You can ignite a flammable object within 10 meters. Pyrokinesis can also be used offensively: attack a target within handgun range with a +2 damage modifier. The target, if hit, is also *burning*. Burning causes 1 point of damage each round for 1D3 rounds or until extinguished. |
 | 54 | **Recover**: You can remove 1 negative effect on a target, such as poisoning, burning, fatigue, or 1D6 stress. |
 | 55 | **Second Wind**: You can ignore stress or fatigue for 1 hour. |
 | 56 | **Suggestion**: You can plant a simple hypnotic suggestion in one target. This effect will last until the target has performed their suggested task or ten minutes have passed. Victims will not obey suggestions to harm themselves directly or indirectly. |
@@ -62,8 +62,8 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 62 | **Telepathy**: You can read a target’s surface thoughts for one minute. |
 | 63 | **Thousand Faces**: You can change a target's appearance and biometric data to those of any target of the same or similar species for 10 minutes. To mimic the specific biometric data of another person, you must have a sample of the target’s DNA. |
 | 64 | **Truth**: You can force one target to answer questions truthfully. They must be able to speak or communicate with you, and the questions can be about anything—the target will fully answer to the best of their ability. |
-| 65 | **Vampire**: You must make a normal unarmed attack at melee range. The Vampire power inflicts a +1 damage modifier on the target and instantly heals you half the amount of damage. |
-| 66 | **Zombie**: You can control one body of a creature killed in the past 24 hours. The target creature must be within 10 meters range, and the power lasts up to 1D6 combat rounds. The corpse may act, speak, and attack as you desire while maintaining concentration. The creature’s abilities might be limited depending on the amount and kind of damage it suffered when it died. |
+| 65 | **Vampire**: You must make a normal unarmed attack at melee range. The Vampire power inflicts a +1 damage modifier on the target and instantly heals you half the damage. |
+| 66 | **Zombie**: You can control one body of a creature killed in the past 24 hours. The target creature must be within 10 meters, and the power lasts up to 1D6 combat rounds. The corpse may act, speak, and attack as you desire while maintaining concentration. The creature’s abilities might be limited depending on the amount and kind of damage it suffered when it died. |
 
 ### Drives
 
@@ -115,13 +115,13 @@ Characters have 10 inventory slots: a backpack with six slots and four slots for
 Most items take up one slot, and small items may sometimes be bundled together. Slots are abstract and can be rearranged at the GM’s discretion.
 
 - Bulky items that require two hands to carry take up two slots.
-- Unwieldy and heavy items that cannot generally be carried by one person can’t be placed in your inventory. Other means of transportation must be arranged.
+- Unwieldy and heavy items that one person cannot generally carry can’t be placed in your inventory. Other means of transportation must be arranged.
 
 You cannot carry more items than your inventory allows.
 
 ## Tactical Supplies
 
-Tactical supplies are an abstract collection of small, mission-related standard-issue military gear such as rope, flashlights, multitools, and ammunition. You generally start each mission with several units of tactical supplies. Spent supplies are restocked between missions back at base. 
+Tactical supplies are an abstract collection of small, mission-related, standard-issue military gear such as rope, flashlights, multitools, and ammunition. You generally start each mission with several units of tactical supplies. Spent supplies are restocked between missions back at base. 
 
 Whenever you need a specific piece of gear during a mission, you declare what you need, and the game master determines if the item can be classified as standard tactical supplies; if the GM approves, remove one Supply from your inventory, and you now have that item.
 
@@ -153,7 +153,7 @@ Examples of gear NOT classified as standard Tactical Supplies:
 
 ## Equipment
 
-Before each mission, you’ll choose any specialized gear and weapons you require. You’ll always start with your basic kit. Examples of other types of equipment follow.
+Before each mission, you’ll choose any required specialized gear and weapons. You’ll always start with your basic kit. Examples of other types of equipment follow.
 
 ### Basic Kit
 
@@ -223,7 +223,7 @@ Before each mission, you’ll choose any specialized gear and weapons you requir
 
 ## Deprivation and Fatigue
 
-A character deprived of a crucial need (such as food, warmth, or rest) is unable to recover damage when resting at a rendezvous point. Anyone deprived for more than a day adds *fatigue* to their inventory, one for each day. You can also gain *fatigue* in other ways during play such as from ability use and specific events. Each *fatigue* occupies one invrntory slot and lasts until they are able to recuperate (such as a full night’s rest in a safe spot).
+A character deprived of a crucial need (such as food, warmth, or rest) cannot recover HP when resting at a rendezvous point. Anyone deprived for more than a day adds *fatigue* to their inventory, one for each day. You can also gain *fatigue* in other ways during play, such as from ability use, specific events in the narrative, or failed *action rolls*. Each *fatigue* occupies one inventory slot and lasts until you can rest at a rendezvous point or between missions.
 
 ## Character Advancement
 

@@ -191,9 +191,9 @@ If your character dies, create a new character while the play continues. When yo
 
 Once per mission, the team can send a *rendezvous signal*. When the signal is activated, the GM describes a nearby rendezvous point and the obstacles to reaching it.
 
-Players are safe as long as they remain at the rendezvous point. Each player at the point chooses one of the following bonuses:
+Players are safe as long as they remain at the rendezvous point. Each player at the point chooses **one** of the following bonuses:
 
 - **HEAL**: Recover 1D6 HP.
 - **INTEL**: Receive one useful fact about the mission from the GM.
-- **REST**: Remove 1D6 STRESS.
-- **RESUPPLY**: Restock one limited-use item or ammo for a ranged weapon.
+- **REST**: Remove 1D6 *stress* and 1 *fatigue*.
+- **RESUPPLY**: Restock one limited-use item or *ammo* for a ranged weapon.
