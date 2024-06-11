@@ -1,4 +1,4 @@
-*Version 1.4*
+*Version 1.41*
 
 **Change Log**:
 
@@ -11,6 +11,7 @@
 - 1.31: Added *Reaction Roll*, *Inventory*, *Tactical Supplies*, and *Equipment* sections
 - 1.32: Added *Armor*, *Multiple Attackers*, *Blast Damage*, *Morale Checks*, and *Retreat* sections
 - 1.4: Added *Time, Actions, and Ranges* section with two actions mechanic and attack modifiers; clarified *Morale* and *Swarms*
+- 1.41 copy edits
 
 # Introduction
 

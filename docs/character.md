@@ -232,4 +232,5 @@ Characters advance when they act according to their *drive*. For instance, a CRU
 **After your character advances** and you return to base, choose one of the following rewards: 
 
 - A new random psionic talent
+- Add 1 point to an attribute score, to a maximum of 3
 - +1D6 maximum HP
