@@ -16,9 +16,9 @@ edit_uri: blob/main/docs
 nav:
   - 'Introduction': index.md
   - 'Playing the Game': playing.md
+  - 'Your Character': character.md
   - combat.md
   - stress.md
-  - 'Your Character': character.md
   - attribution.md
     
 # Theme

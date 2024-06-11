@@ -184,8 +184,8 @@ If your character dies, create a new character while the play continues. When yo
 
 - On a **6 or less**, your deployment suffers a complication.
 - On a **7–9**, you deploy normally.
-- On a **10–12**, you deploy normally with an extra standard-issue item of military gear.
-- On a **13 or greater**, you deploy normally with an extra standard-issue item of military gear, and your next *action roll* has an *advantage*.
+- On a **10–12**, you deploy normally with an extra tactical supply.
+- On a **13 or greater**, you deploy normally with an extra tactical supply, and your next *action roll* has an *advantage*.
 
 ## Recovery
 
