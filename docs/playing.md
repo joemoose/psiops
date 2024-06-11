@@ -7,7 +7,7 @@ One person is the game master (GM), and the rest are players.
 
 ## Action Rolls
 
-When you need to overcome a challenge and there’s a risk of failure, make an *action roll*. This roll resolves the action for your character and any GM-controlled characters involved.
+When you need to overcome a challenge, and there’s a risk of failure, make an *action roll*. This roll resolves the action for your character and any GM-controlled characters involved.
 
 ### 1. Choose an Attribute
 
@@ -90,7 +90,7 @@ To add tension to your *action roll*, ask the GM, "What would adding tension loo
 
 **If you accept the additional consequence**, your *action roll* has an *advantage*.
 
-Accepting or rejecting this "Devil's Bargain" is always a free choice. If you don't like the stated *consequence*, reject it (or suggest how to alter it so you might consider taking it). Alternatively, you could spend your *momentum* to push yourself for an *advantage* on the *action roll* rather than add tension. 
+Accepting or rejecting this "Devil's Bargain" is always a free choice. If you don't like the stated *consequence*, reject it (or suggest how to alter it so you might consider taking it). Alternatively, you could spend your *momentum* to push yourself to gain an *advantage* rather than adding tension. 
 
 In some narrative circumstances, adding tension isn't an option. In that case, the GM will communicate that to you so that you can look into other ways to even the odds.
 

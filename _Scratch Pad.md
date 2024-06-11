@@ -3,12 +3,7 @@ hide:
   - navigation
 ---
 
-morale to act under suppression
-
-Nomads action rules
-
-- 2 actions 
-- ranges and ranged combat modifiers
+Save, Solve, or Survive
 
 Terminology
 
