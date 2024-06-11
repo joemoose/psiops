@@ -12,7 +12,7 @@ The results of each side’s actions occur **simultaneously**. As a result, all 
 
 ## Time, Actions, and Ranges
 
-A combat round represents 6 seconds of in-game time during which characters have two *actions* each. An *action* can be an attack, a movement, using a psionic talent, or any similar act that takes up to 6 seconds.
+A combat round represents 6 seconds of in-game time during which characters have **two *actions*** each. An *action* can be an attack, a movement, using a psionic talent, or any similar act that takes up to 6 seconds.
 
 - **Interrupting Actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 
@@ -22,7 +22,7 @@ A combat round represents 6 seconds of in-game time during which characters have
 
 - **Attacks of Opportunity**: If a combatant who's engaged in *close range* attempts to retreat from combat, their opponent can make a free melee attack if they have a melee weapon at the ready. To safely disengage from *close range*, a combatant must spend one *action* to disengage, and then they must make a +REFLEXIVE roll to retreat without risk.
 
-- **Attacking**: Make an *action roll* with the following modifiers based on the range to target.
+- **Attacking**: Make an *action roll* with the following modifiers based on the range to target and other modifiers.
 
 ### Ranges
 
@@ -52,7 +52,7 @@ Apply the following range modifiers to the attack *action roll*.
 
 The following modifiers can also apply to attacks:
 
-- **Two Attacks**: You may use both *actions* in a round to attack, in which case the second attack incurs a *disadvantage*.
+- **Two Attacks**: You may use both *actions* in a round to attack, in which case the second attack incurs a *disadvantage* on your *action roll*.
 
 - **Aiming**: You may use one action to aim and the other to attack, gaining +1 on the *action roll*.
 
@@ -60,11 +60,12 @@ The following modifiers can also apply to attacks:
 
 ## Dealing Damage
 
-When an *action roll* to attack succeeds:
+When your character makes an *action roll* to attack an opponent, they deal damage as follows:
 
-**Damage dealt = lowest D6 result + weapon damage modifier**
-
-A *critical success* uses the highest D6 result.
+- On a **6 or less**, you deal no damage; the attack misses.
+- On a **7–9**, you deal damage equal to the **lowest D6 result + weapon damage modifier**.
+- On a **10–12**, you deal damage equal to the **highest D6 result + weapon damage modifier**.
+- On a **13 or greater**, you deal damage equal to **both dice results + weapon damage modifier**.
 
 ### Weapon Damage Modifiers
 
@@ -77,18 +78,18 @@ Add the following damage modifier based on the type of weapon:
 - **Heavy** weapons (RPGs, miniguns, and sniper rifles) deal +3 damage.
 - **Anomalous** weapons (enchanted, alien, or divine) deal +4 damage.
 
-Some weapons, such as explosives, may damage all targets in a close area rather than a single target.
+Some weapons with the *blast* quality, such as explosives, may damage all targets in a close area rather than a single target.
 
 ### Ammo
 
-Ranged weapons have an AMMO score set to 6 at the beginning of each mission. 
+Ranged weapons have an *ammo* score set to 6 at the beginning of each mission. 
 
-**Check off 1 AMMO** for any attack that *fails* or *partially succeeds*. 
+**Check off 1 ammo** for any attack roll that *fails* with a 6 or less or *partially succeeds* with a 7 to 9. 
 
-When  AMMO is reduced to 0, the weapon is out of ammunition and can’t be used until restocked.
+When *ammo* is reduced to 0, the weapon is out of ammunition and can’t be used until restocked.
 
-- Finding ammunition for a weapon during a mission increases AMMO by 1.
-- Choosing RESUPPLY during a rendezvous, as described in the Recovery section, can refill one weapon’s AMMO to 6.
+- Finding ammunition for a weapon during a mission increases *ammo* by 1.
+- Choosing *resupply* during a rendezvous, as described in the Recovery section, can refill one weapon’s *ammo* to 6.
 
 ## Taking Damage
 
@@ -101,7 +102,7 @@ When your character makes an *action roll* to defend against damage, they take d
 
 ## Armor
 
-Before calculating damage to HP, subtract the target’s armor value from the result of damage rolls. No one can have more than 3 points of armor.
+Before calculating damage to HP, subtract the target’s armor value from the result of damage rolls. You can have more than 3 points of armor.
 
 Worn armor is usually listed as Armor 1, Armor 2, and so on. You usually only benefit from a secondary armor source only if it's a bonus (for example, +1 Armor) or makes sense fictionally.
 
@@ -119,7 +120,7 @@ Characters who attack from behind cover should subtract the armor bonus that the
 
 ### Suppressing Fire
 
-When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressing fire checks off 1 use of AMMO regardless of the attack roll.
+When you deal damage with a ranged weapon to an enemy behind cover, you may choose to lay down *suppressing fire* instead. Suppressing fire checks off 1 use of *ammo* regardless of the attack roll.
 
 Suppressed targets who leave cover or perform a risky action, such as returning fire, take the damage of the suppressing attack without the armor benefit of cover.
 

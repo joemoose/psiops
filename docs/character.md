@@ -8,13 +8,13 @@ To create a new character, follow these steps:
 
 1. Roll a D3 and add 1. Then roll a second D3 and subtract that from the previous result. The resulting number is your attribute score. Do this in order for each of your character’s four attributes: **FORCEFUL**, **CREATIVE**, **TACTICAL**, and **REFLEXIVE**. For example, if you first rolled a 1 and then a 3, your attribute score would be -1. Afterward, you may optionally swap two scores. 
 	- Attribute scores range from a minimum of -1 to a maximum of 3.
-2. Roll D66 twice to select two starting **Psionic Talents** from the following list.
+2. Roll D66 twice to select two starting **Psionic Talents** from the following Psionic Talents list.
 	- Psionic talents are latent mental powers that defy the laws of physics.
 3. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
 4. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choosing to your inventory.
 	- See the following equipment lists for examples.
 5. Set your **Armor** equal to the total armor bonuses supplied by your gear.
-6. Roll D66 to select your character’s **Drive** from the following list.
+6. Roll D66 to select your character’s **Drive** from the following Drives list.
 	- Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t select a drive that another player on the team already has—reroll duplicates. 
 7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your CREATIVE or TACTICAL score.
@@ -223,7 +223,7 @@ Before each mission, you’ll choose any specialized gear and weapons you requir
 
 ## Deprivation and Fatigue
 
-A character deprived of a crucial need (such as food, warmth, or rest) is unable to recover damage when resting. Anyone deprived for more than a day adds *fatigue* to their inventory, one for each day. You can also gain *fatigue* in other ways during play such as from ability use and specific events. Each *fatigue* occupies one slot and lasts until they are able to recuperate (such as a full night’s rest in a safe spot).
+A character deprived of a crucial need (such as food, warmth, or rest) is unable to recover damage when resting at a rendezvous point. Anyone deprived for more than a day adds *fatigue* to their inventory, one for each day. You can also gain *fatigue* in other ways during play such as from ability use and specific events. Each *fatigue* occupies one invrntory slot and lasts until they are able to recuperate (such as a full night’s rest in a safe spot).
 
 ## Character Advancement
 
