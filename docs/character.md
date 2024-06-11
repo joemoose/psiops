@@ -6,15 +6,17 @@ Imagine you’re an elite military operative, but you don’t fit the typical mo
 
 To create a new character, follow these steps:
 
-1. Roll a D3 and add 1. Then, roll a second D3 and subtract that from the previous result. The resulting number is your attribute score. Do this in order for each of your character’s four attributes: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**. For example, if you first rolled a 1 and then a 3, your attribute score would be -1. Afterward, you may optionally swap two scores. 
+1. Roll a D3 and add 1 to the result. Then, roll a second D3 and subtract that result from the previous total. The resulting number is your attribute score. For example, if you first rolled a 1 (1+1=2) and then you roll a 3, your attribute score is -1.
+
+	Repeat this step in order for each of your character’s four attributes: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**.  Afterward, you may optionally swap two of the scores. 
 	- Attribute scores range from a minimum of -1 to a maximum of 3.
-2. Roll D66 twice to select two starting **Psionic Talents** from the following Psionic Talents list.
+2. Roll a D66 twice to select two starting **Psionic Talents** from the following Psionic Talents list.
 	- Psionic talents are latent mental powers that defy the laws of physics.
 3. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
 4. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choosing to your inventory.
 	- See the following equipment lists for examples.
 5. Set your **Armor** equal to the total armor bonuses supplied by your gear.
-6. Roll D66 to select your character’s **Drive** from the following Drives list.
+6. Roll a D66 to select your character’s **Drive** from the following Drives list.
 	- Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t select a drive that another player on the team already has—reroll duplicates. 
 7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICS score.
@@ -22,48 +24,50 @@ To create a new character, follow these steps:
 
 ### Psionic Talents
 
-Psionic talents are latent mental powers that defy the laws of physics. Each time you use one of your psionic talents, roll +WILLPOWER. **On a 7 or greater**, the power manifests, and you may continue to use it. **On a 6 or less**, the power doesn’t manifest and is unavailable again until you rest at a rendezvous point or between missions.
+Psionic talents are latent mental powers that defy the laws of physics. Each time you want to use one of your psionic talents, roll +WILLPOWER:
+- **On a 7 or greater**, the power manifests, and you can use it again.
+- **On a 6 or less**, the power doesn’t manifest and you can't use it again until you rest at a rendezvous point or between missions.
 
-If you roll a duplicate talent, you can either re-roll for a new one or work with the GM on how your existing talent is improved.
+If you roll a duplicate talent, you can either re-roll for a new one or work with the GM to determine how your existing talent is improved.
 
 | D66 | Psionic Talents |
 | :-: | :- |
-| 11 | **Attribute Boost**: Increase all attribute scores by 1 point for your next action. |
-| 12 | **Augmented Speed**: Move twice as fast for 10 minutes. |
-| 13 | **Augmented Strength**: Gain +1D3 to +STRENGTH rolls, as well as all melee and unarmed damage rolls for 10 minutes. |
+| 11 | **Attribute boost**: Increase all attribute scores by 1 point for your next action. |
+| 12 | **Augmented speed**: Move twice as fast for 10 minutes. |
+| 13 | **Augmented strength**: Gain +1D3 to +STRENGTH rolls, as well as all melee and unarmed damage rolls for the duration of the battle. |
 | 14 | **Blink**: Teleport once to any point within 1 kilometer, as long as you have a direct line of sight to it or have been there previously. |
-| 15 | **Choke**: Telekinetically grab one humanoid creature by its throat (or analogous body part) and strangle them for 1D6 damage, ignoring armor. |
-| 16 | **Clairvoyance**: Psionically watch and listen at a spot you choose within 1 kilometer. This power ignores solid objects, and you do not have to be familiar with the location in question—you can specify a location by simply stating the direction and distance. |
+| 15 | **Choke**: Telekinetically grab one humanoid creature by its throat (or analogous body part) and strangle them for 1D6 damage, ignoring their armor. |
+| 16 | **Clairvoyance**: Psionically watch and listen at a spot that you choose within 1 kilometer. This power ignores solid objects, and you don't have to be familiar with the location in question—you can specify a location by simply stating the direction and distance. |
 | 21 | **Cryokinesis**: You can freeze up to 5 cubic meters of material for 10 minutes. Cryokinesis can also be used offensively: attack a target within handgun range with a +3 damage modifier. |
-| 22 | **Electrokinesis**: You can manipulate electrical energy in their vicinity. You may use this power to recharge batteries, short-circuit electrical devices, or generate spectacular light shows. You may also attack a target within handgun range with lightning: attack a target within handgun range with a +3 damage modifier. Mechanical or electronic targets grant an *advantage* to your attack. |
-| 23 | **Emotion**: You can evoke powerful emotions in a target within 10 meters; fear, joy, or friendliness are typical emotions. It is obvious to everyone, affected or not, that something has happened. This power can force a Morale check among enemy (or friendly) forces. This effect lasts until the end of the battle or for 1D6x10 minutes. |
-| 24 | **Empathy**: You can read a target’s emotions and subtly affect them. This includes changing a target’s *reaction roll* result by one category up or down. |
-| 25 | **False Perception**: You can cause a single target within 10 meters to hallucinate. This effect lasts as long as you concentrate on maintaining it. The details of the False Perception are left to you but can range from a typical illusion or distraction to something that closely resembles a drug-fueled fugue state. |
-| 26 | **Hibernation**: You can enter a trance-like state and meditate for up to 7 days. While meditating, you do not require food, water, or air. You remain aware of your surroundings and may end your hibernation at will. |
+| 22 | **Electrokinesis**: You can manipulate electrical energy in your vicinity. You can use this power to recharge batteries, short-circuit electrical devices, or generate spectacular light shows. Electrokinesis can also be used offensively: attack a target within handgun range with a +3 damage modifier. Mechanical or electronic targets grant an *advantage* to your attack. |
+| 23 | **Emotion**: You can evoke powerful emotions in a target within 10 meters; fear, joy, or friendliness are typical emotions. It's obvious to everyone, affected or not, that something has happened. This power can force a *morale check* among enemy (or friendly) forces. This effect lasts until the end of the battle or for 1D6x10 minutes. |
+| 24 | **Empathy**: You can read a target’s emotions and subtly affect them. This effect includes changing a target’s *reaction roll* result by one category up or down. |
+| 25 | **False perception**: You can cause a single target within 10 meters to hallucinate. This effect lasts as long as you concentrate on maintaining it. The details of the false perception are up to you, but it can range from a typical illusion or distraction to something that closely resembles a drug-fueled fugue state. |
+| 26 | **Hibernation**: You can enter a trance-like state and meditate for up to 7 days. While meditating, you don't require food, water, or air. You remain aware of your surroundings and can end your hibernation at will. |
 | 31 | **Intuition**: You gain +1D3 to your next roll, regardless of what the roll is for. |
-| 32 | **Invisibility**: You can conceal yourself from nearby onlookers. While invisible, organic targets range will not see you. This power works on electronic sensors and video cameras within a 10-meter range. You must concentrate on this power to be effective. Attacking any target immediately terminates this effect. |
-| 33 | **Kinetic Blast**: You generate a powerful, invisible blast of telekinetic force: attack up to rifle range with a +2 damage modifier. |
-| 34 | **Kinetic Shield**: Gain +1 armor for the duration of the battle. |
+| 32 | **Invisibility**: You can conceal yourself from nearby onlookers. While invisible, organic targets can't see you. This power works on electronic sensors and video cameras within a 10-meter range. You must concentrate on this power to be effective. Attacking any target immediately terminates this effect. |
+| 33 | **Kinetic blast**: You generate a powerful, invisible blast of telekinetic force: attack a target within rifle range with a +2 damage modifier. |
+| 34 | **Kinetic shield**: Gain +1 armor for the duration of the battle. |
 | 35 | **Levitation**: You can fly at a speed of one move *action* per round for 6 rounds in any direction desired. |
-| 36 | **Life Detection**: You can detect all living beings within a rifle range instinctively. This power cannot pinpoint the exact whereabouts of a target but will give you a general sense of the location of a hidden interlocutor or sniper. |
-| 41 | **Memory Block**: To use this power, you must be within 10 meters of a target. Roll an attack, and if the attack succeeds, you may block up to 15 minutes of the target’s memories. Additional memories must be targeted with an attack for each use of this power. The memories can only be unblocked by another psion using Memory Block on the target. |
+| 36 | **Life detection**: You can instinctively detect all living beings within a rifle range. This power can't pinpoint the exact whereabouts of a target but it gives you a general sense of the location of a hidden interlocutor or sniper. |
+| 41 | **Memory block**: To use this talent, you must be within 10 meters of a target. Roll an attack, and if the attack succeeds, you can block up to 15 minutes of the target’s memories. Additional memories can be targeted with an attack for each use of this talent. This talent is reversible and blocked memories can be restored by a psion using memory block on the target. |
 | 42 | **Microkinesis**: You gain telekinetic control of tiny or microscopic objects. Gain an *advantage* on any roll involving components or systems containing tiny or microscopic objects. |
-| 43 | **Mind Blast**: This powerful telepathic blast stuns a target within 10 meters for 1D6 rounds. |
-| 44 | **Mind Control**: You gain control of a target within 10 meters, who becomes your ally for 1D6 rounds. The target of Mind Control will only perform tasks a typical ally would do and will not perform any action that would harm themselves. |
-| 45 | **Mind Lock**: A target within 10 meters is paralyzed for 1D6 combat rounds and may not move. They may still speak. |
-| 46 | **Mind Shield**: You erect an invisible mental shield that protects yourself and all allies within 10 meters range from any mind-affecting power or psionic ability. The Mind Shield will last for ten minutes. |
-| 51 | **Precognition**: This power allows you to ask the GM one question about what may happen to their character in the next 24 hours. The GM will respond truthfully with either “yes” or “no.” Precognition may only be used once per session. |
-| 52 | **Psychic Healing**: You heal 1D3 points of damage on an injured target. The target cannot receive healing again until they suffer subsequent damage. |
+| 43 | **Mind blast**: This powerful telepathic blast stuns a target within 10 meters for 1D6 rounds. |
+| 44 | **Mind control**: You gain control of a target within 10 meters, and the target becomes your ally for 1D6 rounds. The target of the mind control will perform only tasks that a typical ally would perform and won't do anything to harm themselves. |
+| 45 | **Mind lock**: A target within 10 meters is paralyzed for 1D6 combat rounds and can't move. They can still speak. |
+| 46 | **Mind shield**: You erect an invisible mental shield centered on yourself that protects yourself and all allies within close range from any mind-affecting power or psionic ability. The mind shield lasts for the duration of the battle. |
+| 51 | **Precognition**: Ask the GM one question about what might happen to your character in the next 24 hours. The GM will respond truthfully with either “yes” or “no.” Precognition can be used only once per session. |
+| 52 | **Psychic healing**: You heal 1D3 points of damage on an injured target. The target can't receive healing again until they suffer subsequent damage. |
 | 53 | **Pyrokinesis**: You can ignite a flammable object within 10 meters. Pyrokinesis can also be used offensively: attack a target within handgun range with a +2 damage modifier. The target, if hit, is also *burning*. Burning causes 1 point of damage each round for 1D3 rounds or until extinguished. |
 | 54 | **Recover**: You can remove 1 negative effect on a target, such as poisoning, burning, fatigue, or 1D6 stress. |
-| 55 | **Second Wind**: You can ignore stress or fatigue for 1 hour. |
-| 56 | **Suggestion**: You can plant a simple hypnotic suggestion in one target. This effect will last until the target has performed their suggested task or ten minutes have passed. Victims will not obey suggestions to harm themselves directly or indirectly. |
-| 61 | **Telekinesis**: You can move objects up to 100 kilograms with the power of your mind. Telekinetics can also be used offensively: attack a target within handgun range with a +3 damage modifier. |
+| 55 | **Second wind**: You can ignore stress or fatigue for 1 hour. |
+| 56 | **Suggestion**: You can plant a simple hypnotic suggestion in one target. This effect lasts until the target has performed their suggested task or 10 minutes have passed. Targets won't obey suggestions to harm themselves directly or indirectly. |
+| 61 | **Telekinesis**: You can move objects that weigh up to 100 kilograms with the power of your mind. Telekinesis can also be used offensively: attack a target within handgun range with a +3 damage modifier. |
 | 62 | **Telepathy**: You can read a target’s surface thoughts for one minute. |
-| 63 | **Thousand Faces**: You can change a target's appearance and biometric data to those of any target of the same or similar species for 10 minutes. To mimic the specific biometric data of another person, you must have a sample of the target’s DNA. |
-| 64 | **Truth**: You can force one target to answer questions truthfully. They must be able to speak or communicate with you, and the questions can be about anything—the target will fully answer to the best of their ability. |
-| 65 | **Vampire**: You must make a normal unarmed attack at melee range. The Vampire power inflicts a +1 damage modifier on the target and instantly heals you half the damage. |
-| 66 | **Zombie**: You can control one body of a creature killed in the past 24 hours. The target creature must be within 10 meters, and the power lasts up to 1D6 combat rounds. The corpse may act, speak, and attack as you desire while maintaining concentration. The creature’s abilities might be limited depending on the amount and kind of damage it suffered when it died. |
+| 63 | **Thousand faces**: You can change a target's appearance and biometric data to those of any other target of the same or similar species for 10 minutes. To mimic the specific biometric data of another person, you must have a sample of the target’s DNA. |
+| 64 | **Truth**: You can force a target to answer questions truthfully. The target must be able to speak or communicate with you, and the questions can be about anything—the target will fully answer to the best of their ability. |
+| 65 | **Vampire**: When you make an unarmed attack at melee range, the vampire talent inflicts a +1 damage modifier on the target and instantly heals you half the damage. |
+| 66 | **Zombie**: You can control the body of a creature killed in the past 24 hours. The target creature must be within 10 meters, and the power lasts up to 1D6 combat rounds. The corpse acts, speaks, and attacks as you want while you're maintaining concentration. The creature’s abilities might be limited depending on the amount and kind of damage that it suffered when it died. |
 
 ### Drives
 
