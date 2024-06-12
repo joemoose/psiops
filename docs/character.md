@@ -6,7 +6,9 @@ Imagine you’re an elite military operative, but you don’t fit the typical mo
 
 To create a new character, follow these steps:
 
-1. Roll a D3 and add 1 to the result. Then, roll a second D3 and subtract that result from the previous total. The resulting number is your attribute score. For example, if you first rolled a 1 (1+1=2) and then rolled a 3, your attribute score is -1. Repeat this step in order for each of your character’s four attributes: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**. Afterward, you may optionally swap two of the scores. 
+1. Roll a D3 and add 1 to the result. Then, roll a second D3 and subtract that result from the previous total. The resulting number is your attribute score. For example, if you first rolled a 1 (1+1=2) and then rolled a 3, your attribute score is -1.  
+	Repeat this step in order for each of your character’s four attributes: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**.  
+	Afterward, you may optionally swap two of the scores. 
 	- Attribute scores range from a minimum of -1 to a maximum of 3.
 2. Roll a D66 twice to select two starting **Psionic Talents** from the following Psionic Talents list.
 	- Psionic talents are latent mental powers that defy the laws of physics.
