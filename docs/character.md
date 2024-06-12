@@ -26,8 +26,8 @@ To create a new character, follow these steps:
 
 Psionic talents are latent mental powers that defy the laws of physics. Each time you want to use one of your psionic talents, roll +WILLPOWER:
 
-- **On a 7 or greater**, the power manifests, and you can use it again.
 - **On a 6 or less**, the power doesn’t manifest, and you can't use it again until you rest at a rendezvous point or between missions.
+- **On a 7 or greater**, the power manifests, and you can use it again.
 
 If you roll a duplicate talent, you can either re-roll for a new one or work with the GM to determine how your existing talent is improved.
 
@@ -236,6 +236,6 @@ Characters advance when they act according to their *drive*. For instance, a CRU
 
 **After your character advances** and you return to base, choose one of the following rewards: 
 
-- A new random psionic talent
 - Add 1 point to an attribute score, to a maximum of 3
+- A new random psionic talent
 - +1D6 maximum HP
