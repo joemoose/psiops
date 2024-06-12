@@ -25,6 +25,7 @@ To create a new character, follow these steps:
 ### Psionic Talents
 
 Psionic talents are latent mental powers that defy the laws of physics. Each time you want to use one of your psionic talents, roll +WILLPOWER:
+
 - **On a 7 or greater**, the power manifests, and you can use it again.
 - **On a 6 or less**, the power doesn’t manifest, and you can't use it again until you rest at a rendezvous point or between missions.
 
