@@ -20,7 +20,7 @@ The GM will ask you which attribute you’re using for your *action roll* or the
 
 ### 2. Roll the Dice
 
-Roll **2D6 + Attribute**. The total determines your degree of success as follows.
+Roll **2D6 + Attribute**. The total determines your degree of success as follows:
 
 - On a **6 or less**, it’s a **failure**. Things go poorly. You don't achieve your goal, and you suffer a consequence.
 - On a **7–9**, it’s a **partial success**. You achieve your goal, but there’s a potential complication.
