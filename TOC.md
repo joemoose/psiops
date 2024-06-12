@@ -1,13 +1,11 @@
-TOC
-
 index.md
 
 playing.md
 
+character.md
+
 combat.md
 
 stress.md
-
-character.md
 
 attribution.md
