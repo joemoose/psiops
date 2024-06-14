@@ -228,7 +228,7 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 
 ## Deprivation and Fatigue
 
-A character deprived of a crucial need (such as food, warmth, or rest) cannot recover HP when resting at a rendezvous point. Anyone deprived for more than a day adds *fatigue* to their inventory, one for each day. You can also gain *fatigue* in other ways during play, such as from ability use, specific events in the narrative, or failed *action rolls*. Each *fatigue* occupies one inventory slot and lasts until you can rest at a rendezvous point or between missions.
+A character deprived of a crucial need (such as food, warmth, or rest) cannot heal HP when recovering at a rendezvous point. Anyone deprived for more than a day adds *fatigue* to their inventory, one for each day. You can also gain *fatigue* in other ways during play, such as from ability use, specific events in the narrative, or failed *action rolls*. Each *fatigue* occupies one inventory slot and lasts until you can rest at a rendezvous point or between missions.
 
 ## Character Advancement
 
