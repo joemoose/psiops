@@ -16,7 +16,7 @@ A combat round represents 6 seconds of in-game time during which characters have
 
 - **Interrupting Actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 
-- **Movement**: In-combat movement is abstracted to determine ranges to targets. However, it's helpful to have a more concrete measurement in some cases. When a character spends an *action* moving on foot, they move about 10 meters.
+- **Movement**: In-combat movement is abstracted to determine ranges to targets. However, it's helpful to have a more concrete measurement in some cases. When a character spends an *action* moving on foot, they move 10 meters.
 
 - **Falling prone** requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes one *action*.
 
