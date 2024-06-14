@@ -16,13 +16,13 @@ A combat round represents 6 seconds of in-game time during which characters have
 
 - **Interrupting Actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 
-- **Movement**: In-combat movement is abstracted to determine ranges to targets. However, in some cases, it's helpful to have a more concrete measurement. When a character spends an *action* moving on foot, they move about 10 meters.
+- **Movement**: In-combat movement is abstracted to determine ranges to targets. However, it's helpful to have a more concrete measurement in some cases. When a character spends an *action* moving on foot, they move about 10 meters.
 
 - **Falling prone** requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes one *action*.
 
 - **Attacks of Opportunity**: If a combatant who's engaged in *close range* attempts to retreat from combat, their opponent can make a free melee attack if they have a melee weapon at the ready. To safely disengage from *close range*, a combatant must spend one *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
 
-- **Attacking**: Make an *action roll* with the following modifiers based on the range to target and other modifiers.
+- **Attacking**: Make an *action roll* with the following modifiers based on the range to target.
 
 ### Ranges
 
@@ -32,7 +32,7 @@ Ranges are abstracted to facilitate “theater of mind” gaming.
 
 - **Near**: Handgun range. A character can move anywhere within this distance by using one *action*.
 
-- **Far**: Rifle range. A character must expend between 2 and 4 *actions* to traverse this distance, at the GM’s discretion.
+- **Far**: Rifle range. A character must expend between 2 and 4 *actions* to traverse this distance at the GM’s discretion.
 
 - **Distant**: Beyond rifle range. A character usually can't traverse such a distance within the short timespan of personal combat.
 
@@ -104,7 +104,7 @@ When your character makes an *action roll* to defend against damage, they take d
 
 Before calculating damage to HP, subtract the target’s armor value from the result of damage rolls. You can have more than 3 points of armor.
 
-Worn armor is usually listed as Armor 1, Armor 2, and so on. You usually only benefit from a secondary armor source only if it's a bonus (for example, +1 Armor) or makes sense fictionally.
+Worn armor is usually listed as Armor 1, Armor 2, etc. You usually only benefit from a secondary armor source if it's a bonus (for example, +1 Armor) or makes sense fictionally.
 
 Shields and similar items provide bonus defense (e.g., +1 armor), but only while the item is held or worn.
 
@@ -144,7 +144,7 @@ Some groups can use their leader’s morale in place of their own. Lone foes mus
 
 ## Retreat
 
-Running away from a dire situation always requires a successful roll +REFLEXES, as well as a safe destination to run to.
+Running away from a dire situation always requires a successful roll +REFLEXES and a safe destination to run to.
 
 ## Swarms
 
