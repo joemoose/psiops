@@ -34,13 +34,13 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | D66 | Psionic Talents |
 | :-: | :- |
 | 11 | **Attribute boost**: Increase all attribute scores by 1 point for your next action. |
-| 12 | **Augmented speed**: Move twice as fast for 10 minutes. |
+| 12 | **Augmented speed**: Move twice as fast while you maintain concentration. |
 | 13 | **Augmented strength**: Gain +1D3 to +STRENGTH rolls, as well as all melee and unarmed damage rolls for the duration of the battle. |
 | 14 | **Blink**: Teleport once to any point within 1 kilometer, as long as you have a direct line of sight to it or have been there previously. |
 | 15 | **Choke**: Telekinetically grab one humanoid creature by its throat (or analogous body part) and strangle them for 1D6 damage, ignoring their armor. |
-| 16 | **Clairvoyance**: Psionically watch and listen at a spot that you choose within 1 kilometer. This power ignores solid objects, and you don't have to be familiar with the location in question—you can specify a location by simply stating the direction and distance. |
-| 21 | **Cryokinesis**: You can freeze up to 5 cubic meters of material for 10 minutes. Cryokinesis can also be used offensively: attack a target within handgun range with a +3 damage modifier. |
-| 22 | **Electrokinesis**: You can manipulate electrical energy in your vicinity. You can use this power to recharge batteries, short-circuit electrical devices, or generate spectacular light shows. Electrokinesis can also be used offensively: attack a target within handgun range with a +3 damage modifier. Mechanical or electronic targets grant an *advantage* to your attack. |
+| 16 | **Clairvoyance**: Psionically watch and listen at a spot that you choose within 1 kilometer while you maintain concentration. This power ignores solid objects, and you don't have to be familiar with the location in question—you can specify a location by simply stating the direction and distance. |
+| 21 | **Cryokinesis**: You can freeze up to 5 cubic meters of material. Cryokinesis can also be used offensively: attack a target within handgun range with a +3 damage modifier. |
+| 22 | **Electrokinesis**: You can manipulate electrical energy in your vicinity while you maintain concentration. You can use this power to recharge batteries, short-circuit electrical devices, or generate spectacular light shows. Electrokinesis can also be used offensively: attack a target within handgun range with a +3 damage modifier. Mechanical or electronic targets grant an *advantage* to your attack. |
 | 23 | **Emotion**: You can evoke powerful emotions in a target within 10 meters; fear, joy, or friendliness are typical emotions. It's obvious to everyone, affected or not, that something has happened. This power can force a *morale check* among enemy (or friendly) forces. This effect lasts until the end of the battle or for 1D6x10 minutes. |
 | 24 | **Empathy**: You can read a target’s emotions and subtly affect them. This effect includes changing a target’s *reaction roll* result by one category up or down. |
 | 25 | **False perception**: You can cause a single target within 10 meters to hallucinate. This effect lasts as long as you concentrate on maintaining it. The details of the false perception are up to you, but it can range from a typical illusion or distraction to something that closely resembles a drug-fueled fugue state. |
@@ -72,7 +72,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 
 ### Drives
 
-Each member of the team must have a unique drive. Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
+Each member of the team must have a unique drive. Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve their abilities.
 
 | D66 | Drive |
 | :-: | :- |

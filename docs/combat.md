@@ -12,7 +12,7 @@ The results of each side’s actions occur **simultaneously**. As a result, all 
 
 ## Time, Actions, and Ranges
 
-A combat round represents 6 seconds of in-game time during which characters have **two *actions*** each. An *action* can be an attack, a movement, using a psionic talent, or any similar act that takes up to 6 seconds.
+A combat round represents 6 seconds of in-game time during which characters have **two *actions*** each. An *action* can be an attack, movement, using a psionic talent, or any similar act that takes up to 6 seconds.
 
 - **Interrupting Actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 
