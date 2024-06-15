@@ -11,13 +11,11 @@ To create a new character, follow these steps:
 	For example, if you first rolled a 1 (1+1=2) and then rolled a 3, your attribute score is -1.   
 	Afterward, you may optionally swap two of the scores. 
 2. Roll a D66 twice to select two starting **Psionic Talents** from the following Psionic Talents table.
-	- Psionic talents are latent mental powers that defy the laws of physics.
 3. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
 4. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choosing to your inventory.
 	- See the following equipment lists for examples.
 5. Set your **Armor** equal to the total armor bonuses supplied by your gear.
 6. Roll a D66 to select your character’s **Drive** from the following Drives table.
-	- Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t select a drive that another player on the team already has—reroll duplicates. 
 7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICS score.
 8. Choose your character’s **codename**.
@@ -68,7 +66,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 52 | **Psychic healing**: You heal 1D3 points of damage on an injured target. The target can't receive psychic healing again until they suffer subsequent damage. |
 | 53 | **Pyrokinesis**: You can ignite a flammable object within 10 meters. Pyrokinesis can also be used offensively: attack a target within handgun range with a +2 damage modifier. The target, if hit, is also *burning*. Burning causes 1 point of damage each round for 1D3 rounds or until extinguished. |
 | 54 | **Recover**: You can remove 1 negative effect on a target, such as poisoning, burning, fatigue, or 1D6 stress. |
-| 55 | **Second wind**: You can ignore stress or fatigue for 1 hour. |
+| 55 | **Second wind**: You can ignore stress and fatigue for 1 hour. |
 | 56 | **Suggestion**: You can plant a simple hypnotic suggestion in one target. This effect lasts until the target has performed their suggested task or 10 minutes have passed. Targets won't obey suggestions to harm themselves directly or indirectly. |
 | 61 | **Telekinesis**: You can move objects that weigh up to 100 kilograms with the power of your mind. Telekinesis can also be used offensively by hurling an object: attack a target within handgun range with a +3 damage modifier. |
 | 62 | **Telepathy**: You can read a target’s surface thoughts for one minute. |
