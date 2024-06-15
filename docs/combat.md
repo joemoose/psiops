@@ -16,11 +16,11 @@ A combat round represents 6 seconds of in-game time during which characters have
 
 - **Interrupting Actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 
-- **Movement**: In-combat movement is abstracted to determine ranges to targets. However, it's helpful to have a more concrete measurement in some cases. When a character spends an *action* moving on foot, they move 10 meters.
+- **Movement**: In-combat movement is abstracted to determine ranges to targets. However, having a more concrete measurement in some cases is helpful. When a character spends an *action* moving on foot, they move 10 meters.
 
 - **Falling prone** requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes one *action*.
 
-- **Attacks of Opportunity**: If a combatant who's engaged in *close range* attempts to retreat from combat, their opponent can make a free melee attack if they have a melee weapon at the ready. To safely disengage from *close range*, a combatant must spend one *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
+- **Attacks of Opportunity**: If a combatant engaged in *close range* attempts to retreat from combat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must spend one *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
 
 - **Attacking**: Make an *action roll* with the following modifiers based on the range to target.
 
@@ -196,4 +196,8 @@ Players are safe as long as they remain at the rendezvous point. Each player at 
 - **HEAL**: Recover 1D6 HP.
 - **INTEL**: Receive one useful fact about the mission from the GM.
 - **REST**: Remove 1D6 *stress* and 1 *fatigue*.
-- **RESUPPLY**: Restock one limited-use item or *ammo* for a ranged weapon.
+- **RESUPPLY**: Restock either one limited-use item or *ammo* for a single ranged weapon.
+
+## Deprivation and Fatigue
+
+A character can’t heal HP when recovering at a rendezvous point if deprived of a crucial need (such as food, water, or warmth). Anyone deprived for more than a day adds *fatigue* to their inventory, one unit of *fatigue* each day. Characters can also gain *fatigue* in other ways during play, such as from ability use, specific events in the narrative, or failed *action rolls*. Each unit of *fatigue* occupies one inventory slot and lasts until the character rests at a rendezvous point or between missions.

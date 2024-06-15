@@ -6,17 +6,17 @@ Imagine you’re an elite military operative, but you don’t fit the typical mo
 
 To create a new character, follow these steps:
 
-1. Roll in order each of your character’s four attribute scores: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**.  
+1. Roll each of your character’s four attribute scores in the following order: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**.  
 	Roll a D3 and add 1 to the result. Then, roll a second D3 and subtract that result from the previous total. The resulting number is your attribute score.  
 	For example, if you first rolled a 1 (1+1=2) and then rolled a 3, your attribute score is -1.   
 	Afterward, you may optionally swap two of the scores. 
-2. Roll a D66 twice to select two starting **Psionic Talents** from the following Psionic Talents list.
+2. Roll a D66 twice to select two starting **Psionic Talents** from the following Psionic Talents table.
 	- Psionic talents are latent mental powers that defy the laws of physics.
 3. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
 4. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choosing to your inventory.
 	- See the following equipment lists for examples.
 5. Set your **Armor** equal to the total armor bonuses supplied by your gear.
-6. Roll a D66 to select your character’s **Drive** from the following Drives list.
+6. Roll a D66 to select your character’s **Drive** from the following Drives table.
 	- Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve.
 	- You can’t select a drive that another player on the team already has—reroll duplicates. 
 7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICS score.
@@ -58,14 +58,14 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 34 | **Kinetic shield**: Gain +1 armor for the duration of the battle. |
 | 35 | **Levitation**: You can fly at a speed of one move *action* per round for 6 rounds in any direction desired. |
 | 36 | **Life detection**: You can instinctively detect all living beings within a rifle range. This power can't pinpoint the exact whereabouts of a target, but it gives you a general sense of the location of a hidden interlocutor or sniper. |
-| 41 | **Memory block**: To use this talent, you must be within 10 meters of a target. Roll an attack, and if the attack succeeds, you can block up to 15 minutes of the target’s memories. Additional memories can be targeted with an attack for each use of this talent. This talent is reversible, and blocked memories can be restored by a psion using memory block on the target. |
+| 41 | **Memory block**: To use this talent, you must be within 10 meters of a target. Roll an attack, and if the attack succeeds, you can block up to 15 minutes of the target’s memories. Additional memories can be targeted with an attack for each use of this talent. This talent is reversible, and blocked memories can be restored. |
 | 42 | **Microkinesis**: You gain telekinetic control of tiny or microscopic objects. Gain an *advantage* on any roll involving components or systems containing tiny or microscopic objects. |
 | 43 | **Mind blast**: This powerful telepathic blast stuns a target within 10 meters for 1D6 rounds. |
 | 44 | **Mind control**: You gain control of a target within 10 meters, and the target becomes your ally for 1D6 rounds. The target of the mind control will perform only tasks that a typical ally would perform and won't do anything to harm themselves. |
 | 45 | **Mind lock**: A target within 10 meters is paralyzed for 1D6 combat rounds and can't move. They can still speak. |
-| 46 | **Mind shield**: You erect an invisible mental shield centered on yourself that protects yourself and all allies within close range from any mind-affecting power or psionic ability. The mind shield lasts for the duration of the battle. |
+| 46 | **Mind shield**: You erect an invisible mental shield centered on yourself that protects yourself and all allies within close range from any mind-affecting power or psionic ability. The mind shield lasts for the duration of the battle. Roll +CREATIVE to block a psionic attack. If the roll fails, the shield collapses. |
 | 51 | **Precognition**: Ask the GM one question about what might happen to your character in the next 24 hours. The GM will respond truthfully with either “yes” or “no.” Precognition can be used only once per session. |
-| 52 | **Psychic healing**: You heal 1D3 points of damage on an injured target. The target can't receive healing again until they suffer subsequent damage. |
+| 52 | **Psychic healing**: You heal 1D3 points of damage on an injured target. The target can't receive psychic healing again until they suffer subsequent damage. |
 | 53 | **Pyrokinesis**: You can ignite a flammable object within 10 meters. Pyrokinesis can also be used offensively: attack a target within handgun range with a +2 damage modifier. The target, if hit, is also *burning*. Burning causes 1 point of damage each round for 1D3 rounds or until extinguished. |
 | 54 | **Recover**: You can remove 1 negative effect on a target, such as poisoning, burning, fatigue, or 1D6 stress. |
 | 55 | **Second wind**: You can ignore stress or fatigue for 1 hour. |
@@ -81,89 +81,87 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 
 Each member of the team must have a unique drive. Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve their abilities.
 
-The following drive descriptions include a backstory element you create for your character and the conditions to be met during a mission to advance.
+Each drive description includes a backstory element that you create for your character and a condition that must be met during the mission to advance.
 
 | D66 | Drive |
 | :-: | :- |
 | 11 | **Abandoned**: Describe the war-torn country where you learned to live on nothing and fought to survive as a child. Advance if you adequately contributed your part to the mission without anybody else's help.
-| 12 | **Amnesiac**: Describe the most recent event you remember (like waking up in a vat a week ago or learning your name from the unfamiliar wallet in your coat). Advance if your understanding of yourself or the world changes dramatically throughout the mission.
+| 12 | **Amnesiac**: Describe the most recent event you remember, such as waking up in a vat a week ago or learning your name from the unfamiliar wallet in your coat. Advance if your understanding of yourself or the world changes dramatically throughout the mission.
 | 13 | **Avenger**: Describe someone who wronged you and what they did. Advance if something you did brought you closer to exacting your revenge or decisively stopped a similar injustice.
 | 14 | **Chessmaster**: Describe what you plan to do with absolute power. Advance if something you did brought you closer, on a long-term scale, to holding a position of extreme power over a large group of people.
 | 15 | **Cleanup**: Describe a far-reaching and complex catastrophe that you are responsible for. Advance if you meaningfully healed some piece of its aftermath or the aftermath of a similar catastrophe.
-| 16 | **Crusader**: Describe an ethical ideal you hold dear that is not easy to achieve. Advance if something you did aligned with this ethical ideal, even though sticking to your scruples made your life harder.
+| 16 | **Crusader**: Describe an ethical ideal you hold dear but that’s not easy to achieve. Advance if something you did aligned with this ethical ideal, even though sticking to your scruples made your life harder.
 | 21 | **Cultist**: Describe the esoteric religious sect you belong to and the chilling prophecy you believe in. Advance if you drafted someone of importance or power into your cult or turned the cosmic clock closer to your hallowed day of reckoning.
 | 22 | **Dealmaker**: Describe your foolproof strategy to close any deal. Advance if you end the mission with significantly more wealth, influence, or capital than you had initially.
 | 23 | **Diplomat**: Describe the relationships you like to form. Advance if you forged a brand new relationship or kept one that was in jeopardy intact, and it changed the course of the mission.
 | 24 | **Firebrand**: Describe your hot-blooded hopes for the future. Advance if an event during the mission was a crucial moment in your coming-of-age or if you proved your competence to a more experienced teammate.
 | 25 | **Flux**: Describe why your motivations and worldview are constantly in flux. When each mission begins, roll a random drive, answer the "describe" section as briefly as possible, and play as though that drive were yours for the duration of the mission.
 | 26 | **Fugitive**: Describe a high-caliber crime that you did or didn't commit (and if so, who framed you). Advance if something you did made significant progress towards clearing your name or if you fought off the long arm of the law.
-| 31 | **Gladiator**: Describe an honorable, legendary warrior you admire and aspire to emulate. Advance if you fought and bested a powerful enemy using their combat philosophy.
+| 31 | **Gladiator**: Describe an honorable, legendary warrior you admire and aspire to emulate. Advance if you fought and bested a powerful enemy using that warrior’s combat philosophy.
 | 32 | **Guardian**: Describe a person or concept you wish to keep safe and what you seek to safeguard them from. Advance when you prevent something from happening that would have caused them considerable harm or when you take significant steps to ensure that they will be better protected in the future.
 | 33 | **Healer**: Describe your medical philosophy and tell the table the story of your teacher, a renowned and unconventional medicine practitioner. Advance if none of your teammates died under your watch.
 | 34 | **Icon**: Describe how you want to go down in history. Advance if something you did brought you closer to becoming a legend or ensured a group would always remember your name.
-| 35 | **Mask**: Describe your vice as you would for the *Wildcard* drive, and describe why you pretend to be eccentric and unpredictable. Advance if you removed the mask to protect someone in your path of chaos without giving your true nature away to your enemies.
-| 36 | **Maverick**: Describe when you lost faith in everyone else. Advance if you did something during a mission that no one else did in a way that no one will ever forget.
+| 35 | **Mask**: Describe your vice as you would for the *Wildcard* drive, and then describe why you pretend to be eccentric and unpredictable. Advance if you removed the mask to protect someone in your path of chaos without giving your true nature away to your enemies.
+| 36 | **Maverick**: Describe when you lost faith in everyone else but yourself. Advance if you did something during a mission that no one else did in a way that no one will ever forget.
 | 41 | **Mercenary**: Describe how you ended up working with the rest of these bleeding-heart weirdos on your team. Advance if you completed the mission according to its original parameters—no funny business—and made sure to collect your pay.
 | 42 | **Muddler**: Describe a piece of simple, common knowledge that is, in fact, wrong and attempt to describe the infinitely more complex correct answer. Advance if you made things more complicated in a significant way or catastrophically obfuscated the truth about something important.
 | 43 | **Nihilist**: Describe how you reached the ultimate conclusion—nothing truly matters. Advance if you showed no fear of death and no self-preservation instinct at any point during the mission.
-| 44 | **Partisan**: Describe your experiences with the creation, mistreatment, or erasure of ultrahuman beings. Advance if you proved that ultrahumans could and should stand independently or if you liberated another ultrahuman.
+| 44 | **Partisan**: Describe your experiences with the creation, mistreatment, or erasure of psionically enabled humans. Advance if you proved that they could and should stand independently or if you liberated another psionically enabled human.
 | 45 | **Peacemaker**: Describe your vision for a world without war and your opinion on using violence. Advance if you prevented, stopped, or eased a violent conflict.
 | 46 | **Punk**: Describe a long-standing oppressive establishment that hurt you. Advance if something you did weakened that establishment or meaningfully helped people who are also being oppressed by it
-| 51 | **Provider**: Describe the person or entity that cannot survive without you and your work. Advance if you found something that would make them deeply happy and brought it to the end of the mission.
+| 51 | **Provider**: Describe the person or entity that can’t survive without you and your work. Advance if you found something that would make them deeply happy and brought it to the end of the mission.
 | 52 | **Repentant**: Describe a shameful and horrible decision from your past. Advance if something you did atoned for your sins wholly or meaningfully changed the context in which you view your past deeds.
-| 53 | **Representative**: Describe your vision for a world where the ultrahuman condition has been publicized and normalized. Advance if you created empathy and understanding between ultrahumans and the world.
-| 54 | **Return**: Describe the faraway place or time from which you hail and the improbable circumstances that found you stranded here. Advance if you made progress on your quest to go home or if you made contact with someone from the place before.
+| 53 | **Representative**: Describe your vision for a world where psionic abilities have been publicized and normalized. Advance if you created empathy and understanding between psionically enabled humans and the world.
+| 54 | **Return**: Describe the faraway place or time from which you hail and the improbable circumstances that found you stranded here. Advance if you made progress on your quest to go home or if you made contact with someone from that place before.
 | 55 | **Retired**: Describe your past exploits, your retirement, how you ended up back in action, and why you can't go home yet. Advance if you made significant progress toward returning home or showed how an old dog can still learn new tricks.
 | 56 | **Rookie**: Describe your ideal "first mission" experience. Advance (and choose a new role) if a mission goes precisely how you'd hoped. If it doesn't, advance (and keep this role) if your teammates stepped in at the last moment to save you from certain death.
 | 61 | **Scholar**: Describe the esoteric and obscure subject you are most curious about. Advance if something you learned brought you closer to unlocking the ultimate secrets of that subject or if you brought a prize specimen to the end of the mission.
-| 62 | **Skeptic**: Describe your rational and meticulously vetted worldview. Advance if you venture an honest, reasonable explanation for something paranormal and unfamiliar you encounter (and you’re proven correct).
-| 63 | **Unknown**: Describe how difficult it is to find a cause, a purpose, or something to fight for. Advance if you overcame a challenge or secured a valuable item far beyond your expected ability level.
+| 62 | **Skeptic**: Describe your rational and meticulously vetted worldview. Advance if you venture an honest, reasonable explanation for something paranormal and unfamiliar that you encounter (and you’re proven correct).
+| 63 | **Slacker**: Describe how difficult it is to find a cause, a purpose, or something to fight for. Advance if you overcame a challenge or secured a valuable item far beyond your expected ability level.
 | 64 | **Wanderer**: Describe the event that sent you drifting from place to place. Advance if you have left behind no trace of your presence by the end of a mission or if someone you met will always miss you.
 | 65 | **Wildcard**: Describe your primary vice or source of pleasure, such as money, romance, thrills, or pain. Advance if you got your fix during a mission in a way nobody, including yourself, expected.
 | 66 | **Wretch**: Describe the misfortune that has befallen you. Advance if something happens to you that makes your suffering poetically worse or if you give your misery some company.
 
 ## Inventory
 
-Characters have 10 inventory slots: a backpack with 6 slots and 4 slots for their body (such as ready weapons or armor).
+Characters have 10 inventory slots: a backpack with six slots and four slots on their body (such as ready weapons or armor).
 
 Most items take up one slot, and small items may sometimes be bundled together. Slots are abstract and can be rearranged at the GM’s discretion.
 
 - Bulky items that require two hands to carry take up two slots.
-- Unwieldy and heavy items that one person cannot generally carry can’t be placed in your inventory. Other means of transportation must be arranged.
+- Unwieldy and heavy items that one person can’t generally lift can’t be placed in your inventory. Other means of transportation must be arranged.
 
-You cannot carry more items than your inventory allows.
+You can’t carry more items than your inventory allows.
 
 ## Tactical Supplies
 
 Tactical supplies are an abstract collection of small, mission-related, standard-issue military gear such as rope, flashlights, multitools, and ammunition. You generally start each mission with two units of tactical supplies. Spent supplies are restocked between missions back at base. 
 
-Whenever you need a specific piece of gear during a mission, you declare what you need, and the game master determines if the item can be classified as standard tactical supplies; if the GM approves, remove one Supply from your inventory, and you now have that item.
-
-Supplies mean you don’t have to decide beforehand all the sundry gear your character needs to pack before embarking on their mission.
+Supplies mean you don’t have to decide beforehand all the sundry gear your character needs to pack before embarking on their mission. Whenever you need a specific piece of gear during a mission, you declare what you need, and the GM determines if the item can be classified as a standard tactical supply. If the GM approves, remove one *tactical supply* from your inventory, and you now have that item. 
 
 Examples of gear classified as standard Tactical Supplies:
 
-- ammunition
-- bandages
-- food and water
-- gun-mounted flashlight
-- night-vision goggles
-- rope
-- sleeping bag
-- walkie-talkie
-- wire cutters
-- zip-ties
+- Ammunition
+- Bandages
+- Food and water
+- Gun-mounted flashlight
+- Night-vision goggles
+- Rope
+- Sleeping bag
+- Walkie-talkie
+- Wire cutters
+- Zip-ties
 
-Examples of gear NOT classified as standard Tactical Supplies:
+Examples of gear *not* classified as standard Tactical Supplies:
 
-- aerial or robotic drones
-- explosives
-- firearms
-- heavy weapons
-- parachute
-- satellite transceiver
+- Aerial or robotic drones
+- Explosives
+- Firearms
+- Heavy weapons
+- Parachute
+- Satellite transceiver
 - SCUBA gear and air tank
-- vehicles
+- Vehicles
 
 ## Equipment
 
@@ -172,79 +170,75 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 ### Basic Kit
 
 - Combat knife (+1 DAMAGE)
-- 2 Grenades (specify type: Frag +1 DAMAGE, Riot Agent, Smoke, or Stun)
+- Two grenades (specify type: frag +1 DAMAGE, riot agent, smoke, or stun)
 - Handgun (+1 DAMAGE, 6/6 AMMO)
-- Body Armor (1 ARMOR)
+- Body armor (1 ARMOR)
 - Helmet (+1 ARMOR)
 - Backpack
 - Boots
-- Combat Fatigues
-- Hydro-Pack 2L
-- Individual First Aid Kit
+- Combat fatigues
+- Hydro-pack 2L
+- Individual first-aid kit
 - Paracord, 20m
 - Poncho
-- Radio, Squad (range 1-5km)
+- Radio, squad (range 1km-5km)
 - Snacks (energy bars, etc.)
 
 ### Weapons
 
 | Item | Description |
 | - | - |
-| Assault Rifle, +2 DAMAGE, 6/6 AMMO | Military rifle of your unit |
-| Anti-Tank Missile +2 DAMAGE, BLAST, 1/1 | Portable, unguided missile |
-| Grenade, Frag +1 DAMAGE, BLAST, 1/1| Anti-personnel fragmentation grenade |
-| Grenade Launcher | Single grenade under-barrel launcher |
-| Handgun +1 DAMAGE, 6/6 AMMO | Service pistol of your unit |
-| M18 Claymore +3 DAMAGE, BLAST, 1/1 | Directional mine, with command-wire |
-| Shotgun, +2 DAMAGE, 6/6 AMMO | Close combat shotgun of your unit | 
-| Sniper Rifle +3 DAMAGE, 6/6 AMMO | Precision rifle of your unit |
+| Assault rifle (+2 DAMAGE, 6/6 AMMO) | Military rifle of your unit |
+| Antitank missile (+2 DAMAGE, BLAST, 1/1) | Portable, unguided missile |
+| Grenade, frag (+1 DAMAGE, BLAST, 1/1) | Anti-personnel fragmentation grenade |
+| Grenade launcher | Underbarrel single-grenade launcher |
+| Handgun (+1 DAMAGE, 6/6 AMMO) | Service pistol of your unit |
+| M18 claymore (+3 DAMAGE, BLAST, 1/1) | Directional mine, with command-wire |
+| Shotgun (+2 DAMAGE, 6/6 AMMO) | Close combat shotgun of your unit | 
+| Sniper rifle (+3 DAMAGE, 6/6 AMMO) | Precision rifle of your unit |
 
 ### Additional Gear
 
 | Item | Description |
 | - | - |
-| Backpack Radio | VHF platoon radio; range 10km |
+| Backpack radio | VHF platoon radio; range 10km |
 | Binoculars | Pocket-sized binoculars |
-| Bolt Cutters | Cuts wires or bolts up to 6mm thick |
-| C-4 Demolition Kit | 3 x 500g blocks of plastic explosives with detonators, command wires, and firing trigger |
+| Bolt cutters | Cuts wires or bolts up to 6mm thick |
+| C-4 demolition kit | 3 x 500g blocks of plastic explosives with detonators, command wires, and firing trigger |
 | Camcorder | For recon use or evidence gathering |
-| Compass & Maps | Often used with a GPS tracker |
+| Compass and maps | Often used with a GPS tracker |
 | Detcord | Used to breach doors or walls |
-| Dive Equipment | Complete SCUBA gear with tank |
-| Entrenching Tool | Folding spade |
-| Escape and Evasion Kit | Gold coin, lock picks, universal handcuff key, local currency, phrase book, and map, etc. |
-| Extended Operations Kit | Extra fatigues, mess kit, rations for 2 days, extra 4 liters of water |
-| Flashlight | Attaches to gun barrel |
-| Ghillie Suit | Camouflaged over-suit designed to resemble background foliage |
-| Grenade, Riot Agent | Tear gas |
-| Grenade, Smoke | Used for signaling or as cover |
-| Grende, Stun | Flashbang |
-| Ladder, Folding | Used to scale low walls |
-| Laser Designator | Laser target designator on a short tripod |
+| Dive equipment | Complete SCUBA gear with tank |
+| Entrenching tool | Folding spade |
+| Escape and evasion kit | Gold coin, lock picks, universal handcuff key, local currency, phrase book, and map, etc. |
+| Extended operations kit | Extra fatigues, mess kit, rations for 2 days, extra 4 liters of water |
+| Flashlight | Attaches to a gun barrel |
+| Ghillie suit | Camouflaged over-suit designed to resemble background foliage |
+| Grenade, riot agent | Tear gas |
+| Grenade, smoke | Used for signaling or as cover |
+| Grenade, stun | Flashbang |
+| Ladder, folding | Used to scale low walls |
+| Laser designator | Laser target designator on a short tripod |
 | Machete | For clearing vegetation |
-| Medical Bag | Used by combat medics |
+| Medical bag | Used by combat medics |
 | Multi-tool | Used for equipment repairs |
-| Night-Vision Device | For vision during darkness |
-| Notebook and Pen | Notes, frequencies, coordinates, etc. |
+| Night-vision device | For vision during darkness |
+| Notebook and pen | For taking notes, frequencies, coordinates, etc. |
 | Parachute | Steerable parachute, with reserve |
-| Poncho Liner | A warm waterproof blanket/mattress/camo hide/shelter |
-| Protective Mask | Protects against tear, mustard & chlorine gas, not nerve agents |
+| Poncho liner | A warm waterproof liner that can act as a blanket, mattress, camo hide, or shelter |
+| Protective mask | Protects against tear, mustard, and chlorine gas, but not nerve agents |
 | Rations, one day | Two pre-cooked meals, eaten hot or cold |
 | Rope | 25 meters of 1cm-thick nylon rope |
-| Stretcher, Folding | Used for casualty evacuation |
+| Stretcher, folding | Used for casualty evacuation |
 | Suppressor | Quietens the shot. Pistol/SMG suppressors may aid stealth. Rifle suppressors help conceal a sniper's position. |
-| Survival Belt Pouch | Fishing kit, fire-lighting, compass, water purification, saw, needle & thread, mylar blanket, etc. |
-
-## Deprivation and Fatigue
-
-A character deprived of a crucial need (such as food, warmth, or rest) cannot heal HP when recovering at a rendezvous point. Anyone deprived for more than a day adds *fatigue* to their inventory, one for each day. You can also gain *fatigue* in other ways during play, such as from ability use, specific events in the narrative, or failed *action rolls*. Each *fatigue* occupies one inventory slot and lasts until you can rest at a rendezvous point or between missions.
+| Survival belt pouch | Fishing kit, fire-lighting tools, compass, water purification, saw, needle and thread, mylar blanket, etc. |
 
 ## Character Advancement
 
-Characters advance when they act according to their *drive*. For instance, a CRUSADER advances if they behaved ethically during their mission. After advancing, you can choose a new drive between missions if you feel you’ve reached natural closure for your current drive. 
+Characters advance when they act according to their *drive*. For example, a crusader advances if they behave ethically during their mission. After advancing, you can choose a new drive between missions if you feel you’ve reached natural closure for your current drive. 
 
 **After your character advances** and you return to base, choose one of the following rewards: 
 
 - Add 1 point to an attribute score, to a maximum of 3
-- A new random psionic talent
-- +1D6 maximum HP
+- Choose a new random psionic talent
+- Add 1D6 to your maximum HP
