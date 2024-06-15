@@ -81,7 +81,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 
 Each member of the team must have a unique drive. Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve their abilities.
 
-The following drive descriptions include a backstory element you create and the conditions to be met during a mission to advance.
+The following drive descriptions include a backstory element you create for your character and the conditions to be met during a mission to advance.
 
 | D66 | Drive |
 | :-: | :- |
@@ -124,7 +124,7 @@ The following drive descriptions include a backstory element you create and the 
 
 ## Inventory
 
-Characters have 10 inventory slots: a backpack with six slots and four slots for their body (such as carried weapons or armor).
+Characters have 10 inventory slots: a backpack with 6 slots and 4 slots for their body (such as ready weapons or armor).
 
 Most items take up one slot, and small items may sometimes be bundled together. Slots are abstract and can be rearranged at the GM’s discretion.
 
