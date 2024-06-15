@@ -18,6 +18,13 @@ The GM will ask you which attribute you’re using for your *action roll* or the
 - Roll +**TACTICS** for applications of logic and training, like maintaining a disguise, hacking into a database, or operating machinery.
 - Roll +**WILLPOWER** for expressions of presence and will, like persuasive speeches, off-the-cuff bluffing, or psionic powers.
 
+**Examples**:
+
+- “I kick down the door and fire my shotgun at anything I see." (Roll +STRENGTH)
+- "I run through the house, slide behind cover, and fire from there." (Roll +REFLEXES)
+- "I go around to the side of the house, flanking them, and fire through the window." (Roll +TACTICS)
+- "I knock on the door, wait for someone to open it, say ‘Hi!’ and fire when they respond.” (Roll +WILLPOWER)
+
 ### 2. Roll the Dice
 
 Roll **2D6 + Attribute**. The total determines your degree of success as follows:
