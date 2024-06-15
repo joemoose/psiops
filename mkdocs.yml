@@ -14,9 +14,9 @@ edit_uri: blob/main/docs
 # Navigation
 
 nav:
-  - 'PSIOPS RPG': index.md
-  - 'Playing the Game': playing.md
-  - 'Your Character': character.md
+  - 'Introduction': index.md
+  - playing.md
+  - character.md
   - combat.md
   - stress.md
   - attribution.md
