@@ -99,30 +99,30 @@ Each drive description includes a backstory element that you create for your cha
 | 32 | **Guardian**: Describe a person or concept you wish to keep safe and what you seek to safeguard them from. Advance when you prevent something from happening that would have caused them considerable harm or when you take significant steps to ensure that they will be better protected in the future.
 | 33 | **Healer**: Describe your medical philosophy and tell the table the story of your teacher, a renowned and unconventional medicine practitioner. Advance if none of your teammates died under your watch.
 | 34 | **Icon**: Describe how you want to go down in history. Advance if something you did brought you closer to becoming a legend or ensured a group would always remember your name.
-| 35 | **Mask**: Describe your vice as you would for the *Wildcard* drive, and then describe why you pretend to be eccentric and unpredictable. Advance if you removed the mask to protect someone in your path of chaos without giving your true nature away to your enemies.
-| 36 | **Maverick**: Describe when you lost faith in everyone else but yourself. Advance if you did something during a mission that no one else did in a way that no one will ever forget.
-| 41 | **Mercenary**: Describe how you ended up working with the rest of these bleeding-heart weirdos on your team. Advance if you completed the mission according to its original parameters—no funny business—and made sure to collect your pay.
-| 42 | **Muddler**: Describe a piece of simple, common knowledge that is, in fact, wrong and attempt to describe the infinitely more complex correct answer. Advance if you made things more complicated in a significant way or catastrophically obfuscated the truth about something important.
-| 43 | **Nihilist**: Describe how you reached the ultimate conclusion—nothing truly matters. Advance if you showed no fear of death and no self-preservation instinct at any point during the mission.
-| 44 | **Partisan**: Describe your experiences with the creation, mistreatment, or erasure of psionically enabled humans. Advance if you proved that they could and should stand independently or if you liberated another psionically enabled human.
-| 45 | **Peacemaker**: Describe your vision for a world without war and your opinion on using violence. Advance if you prevented, stopped, or eased a violent conflict.
-| 46 | **Punk**: Describe a long-standing oppressive establishment that hurt you. Advance if something you did weakened that establishment or meaningfully helped people who are also being oppressed by it
-| 51 | **Provider**: Describe the person or entity that can’t survive without you and your work. Advance if you found something that would make them deeply happy and brought it to the end of the mission.
-| 52 | **Repentant**: Describe a shameful and horrible decision from your past. Advance if something you did atoned for your sins wholly or meaningfully changed the context in which you view your past deeds.
-| 53 | **Representative**: Describe your vision for a world where psionic abilities have been publicized and normalized. Advance if you created empathy and understanding between psionically enabled humans and the world.
-| 54 | **Return**: Describe the faraway place or time from which you hail and the improbable circumstances that found you stranded here. Advance if you made progress on your quest to go home or if you made contact with someone from that place before.
-| 55 | **Retired**: Describe your past exploits, your retirement, how you ended up back in action, and why you can't go home yet. Advance if you made significant progress toward returning home or showed how an old dog can still learn new tricks.
-| 56 | **Rookie**: Describe your ideal "first mission" experience. Advance (and choose a new role) if a mission goes precisely how you'd hoped. If it doesn't, advance (and keep this role) if your teammates stepped in at the last moment to save you from certain death.
-| 61 | **Scholar**: Describe the esoteric and obscure subject you are most curious about. Advance if something you learned brought you closer to unlocking the ultimate secrets of that subject or if you brought a prize specimen to the end of the mission.
-| 62 | **Skeptic**: Describe your rational and meticulously vetted worldview. Advance if you venture an honest, reasonable explanation for something paranormal and unfamiliar that you encounter (and you’re proven correct).
-| 63 | **Slacker**: Describe how difficult it is to find a cause, a purpose, or something to fight for. Advance if you overcame a challenge or secured a valuable item far beyond your expected ability level.
+| 35 | **Maverick**: Describe when you lost faith in everyone else but yourself. Advance if you did something during a mission that no one else did in a way that no one will ever forget.
+| 36 | **Mercenary**: Describe how you ended up working with the rest of these bleeding-heart weirdos on your team. Advance if you completed the mission according to its original parameters—no funny business—and made sure to collect your pay.
+| 41 | **Muddler**: Describe a piece of simple, common knowledge that is, in fact, wrong and attempt to describe the infinitely more complex correct answer. Advance if you made things more complicated in a significant way or catastrophically obfuscated the truth about something important.
+| 42 | **Nihilist**: Describe how you reached the ultimate conclusion—nothing truly matters. Advance if you showed no fear of death and no self-preservation instinct at any point during the mission.
+| 43 | **Partisan**: Describe your experiences with the creation, mistreatment, or erasure of psionically enabled humans. Advance if you proved that they could and should stand independently or if you liberated another psionically enabled human.
+| 44 | **Peacemaker**: Describe your vision for a world without war and your opinion on using violence. Advance if you prevented, stopped, or eased a violent conflict.
+| 45 | **Punk**: Describe a long-standing oppressive establishment that hurt you. Advance if something you did weakened that establishment or meaningfully helped people who are also being oppressed by it
+| 46 | **Provider**: Describe the person or entity that can’t survive without you and your work. Advance if you found something that would make them deeply happy and brought it to the end of the mission.
+| 51 | **Repentant**: Describe a shameful and horrible decision from your past. Advance if something you did atoned for your sins wholly or meaningfully changed the context in which you view your past deeds.
+| 52 | **Representative**: Describe your vision for a world where psionic abilities have been publicized and normalized. Advance if you created empathy and understanding between psionically enabled humans and the world.
+| 53 | **Return**: Describe the faraway place or time from which you hail and the improbable circumstances that found you stranded here. Advance if you made progress on your quest to go home or if you made contact with someone from that place before.
+| 54 | **Retired**: Describe your past exploits, your retirement, how you ended up back in action, and why you can't go home yet. Advance if you made significant progress toward returning home or showed how an old dog can still learn new tricks.
+| 55 | **Rookie**: Describe your ideal "first mission" experience. Advance (and choose a new role) if a mission goes precisely how you'd hoped. If it doesn't, advance (and keep this role) if your teammates stepped in at the last moment to save you from certain death.
+| 56 | **Scholar**: Describe the esoteric and obscure subject you are most curious about. Advance if something you learned brought you closer to unlocking the ultimate secrets of that subject or if you brought a prize specimen to the end of the mission.
+| 61 | **Skeptic**: Describe your rational and meticulously vetted worldview. Advance if you venture an honest, reasonable explanation for something paranormal and unfamiliar that you encounter (and you’re proven correct).
+| 62 | **Slacker**: Describe how difficult it is to find a cause, a purpose, or something to fight for. Advance if you overcame a challenge or secured a valuable item far beyond your expected ability level.
+| 63 | **Undercover**: Describe a vice you pretend to have and why you pretend to have it. Advance if you removed this mask to protect someone without giving your true nature away to your enemies.
 | 64 | **Wanderer**: Describe the event that sent you drifting from place to place. Advance if you have left behind no trace of your presence by the end of a mission or if someone you met will always miss you.
 | 65 | **Wildcard**: Describe your primary vice or source of pleasure, such as money, romance, thrills, or pain. Advance if you got your fix during a mission in a way nobody, including yourself, expected.
 | 66 | **Wretch**: Describe the misfortune that has befallen you. Advance if something happens to you that makes your suffering poetically worse or if you give your misery some company.
 
 ## Inventory
 
-Characters have 10 inventory slots: a backpack with six slots and four slots on their body (such as ready weapons or armor).
+Characters have 10 inventory slots: a backpack with six slots and four slots on their body (such as ready weapons or equipped armor).
 
 Most items take up one slot, and small items may sometimes be bundled together. Slots are abstract and can be rearranged at the GM’s discretion.
 
