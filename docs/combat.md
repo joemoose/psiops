@@ -4,7 +4,7 @@ Combat works the same as doing anything else that's risky. Make an *action roll*
 
 ## Initiative
 
-During the **first round of combat**, each player must make a +TACTICS roll to act before the opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** for the first round.
+During the **first round of combat**, each player must make a +TACTICS roll to act before the opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** and do not act in the first round.
 
 The opposing side then takes its turn, and then the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
@@ -29,11 +29,8 @@ A combat round represents 6 seconds of in-game time during which characters have
 Ranges are abstracted to facilitate “theater of mind” gaming.
 
 - **Close**: Melee range, up to 2 meters away. A character can move this distance without using any *actions*.
-
 - **Near**: Handgun range. A character can move anywhere within this distance by using one *action*.
-
 - **Far**: Rifle range. A character must expend between 2 and 4 *actions* to traverse this distance at the GM’s discretion.
-
 - **Distant**: Beyond rifle range. A character usually can't traverse such a distance within the short timespan of personal combat.
 
 ### Attack Modifiers
@@ -53,9 +50,7 @@ Apply the following range modifiers to the attack *action roll*.
 The following modifiers can also apply to attacks:
 
 - **Two Attacks**: You may use both *actions* in a round to attack, in which case the second attack incurs a *disadvantage* on your *action roll*.
-
 - **Aiming**: You may use one action to aim and the other to attack, gaining +1 on the *action roll*.
-
 - **Prone**: Attacks from a prone position gain a +1, whereas attacks against a prone target incur a -1.
 
 ## Dealing Damage
