@@ -13,7 +13,7 @@
 - 0.4: Added *Time, Actions, and Ranges* section with two actions mechanic and attack modifiers; clarified *Morale* and *Swarms*
 - 0.41 copy edits; renamed attributes
 
-# Introduction
+# PSIOPS RPG
 
 PSIOPS isn't your typical adventure role-playing game. It’s a unique squad-level experience in which you embody modern special forces operatives with paranormal abilities who face off against supernatural threats and enemies. The rules are designed to be minimal, fostering a narrative-based approach to role-play.
 
