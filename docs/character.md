@@ -68,7 +68,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 63 | **Thousand faces**: You can change a target's appearance and biometric data to those of any other target of the same or similar species for 10 minutes. To mimic the specific biometric data of another person, you must have a sample of the target’s DNA. |
 | 64 | **Truth**: You can force a target to answer questions truthfully. The target must be able to speak or communicate with you, and the questions can be about anything—the target will fully answer to the best of their ability. |
 | 65 | **Vampire**: When you make an unarmed attack at melee range, the vampire talent inflicts a +1 damage modifier on the target and instantly heals you half the damage. |
-| 66 | **Zombie**: You can control the body of a creature killed in the past 24 hours. The target creature must be within 10 meters, and the power lasts up to 1D6 combat rounds. The corpse acts, speaks, and attacks as you want while you're maintaining concentration. The creature’s abilities might be limited depending on the amount and kind of damage that it suffered when it died. |
+| 66 | **Zombie**: You can control the body of a creature killed in the past 24 hours. The target creature must be within 10 meters, and the power lasts up to 1D6 combat rounds. The corpse acts, speaks, and attacks as you want while you maintain concentration. The creature’s abilities might be limited depending on the amount and kind of damage that it suffered when it died. |
 
 ### Drives
 
