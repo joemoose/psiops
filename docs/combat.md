@@ -101,7 +101,9 @@ Before calculating damage to HP, subtract the target’s armor value from the re
 
 Worn armor is usually listed as Armor 1, Armor 2, etc. You usually only benefit from a secondary armor source if it's a bonus (for example, +1 Armor) or makes sense fictionally.
 
-Shields and similar items provide bonus defense (e.g., +1 armor), but only while the item is held or worn.
+Shields, helmets, and similar items provide bonus defense (e.g., +1 armor), but only while the item is held or worn.
+
+Items with an armor bonus can be voluntarily destroyed to block all damage from a single attack.
 
 ## Cover and Suppression
 
