@@ -12,7 +12,7 @@
 - 0.32: Added *Armor*, *Multiple Attackers*, *Blast Damage*, *Morale Checks*, and *Retreat* sections
 - 0.4: Added *Time, Actions, and Ranges* section with two actions mechanic and attack modifiers; clarified *Morale* and *Swarms*
 - 0.41 copy edits; renamed attributes
-- 0.42 Clarified *Armor*
+- 0.42 Clarified *Armor* and *Microkinesis* talent.
 
 # Introduction
 
