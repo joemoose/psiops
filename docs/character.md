@@ -57,7 +57,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 35 | **Levitation**: You can fly at a speed of one move *action* per round for 6 rounds in any direction desired. |
 | 36 | **Life detection**: You can instinctively detect all living beings within a rifle range. This power can't pinpoint the exact whereabouts of a target, but it gives you a general sense of the location of a hidden interlocutor or sniper. |
 | 41 | **Memory block**: To use this talent, you must be within 10 meters of a target. Roll an attack, and if the attack succeeds, you can block up to 15 minutes of the target’s memories. Additional memories can be targeted with an attack for each use of this talent. This talent is reversible, and blocked memories can be restored. |
-| 42 | **Microkinesis**: You gain telekinetic control of tiny or microscopic objects. Gain an *advantage* on any roll involving components or systems containing tiny or microscopic objects. |
+| 42 | **Microkinesis**: You gain telekinetic control of tiny or microscopic objects. Gain an *advantage* on any roll involving components or systems containing tiny or microscopic objects. Microkinesis can also be used offensively: attack a target at close range with a +1 damage modifier. |
 | 43 | **Mind blast**: This powerful telepathic blast stuns a target within 10 meters for 1D6 rounds. |
 | 44 | **Mind control**: You gain control of a target within 10 meters, and the target becomes your ally for 1D6 rounds. The target of the mind control will perform only tasks that a typical ally would perform and won't do anything to harm themselves. |
 | 45 | **Mind lock**: A target within 10 meters is paralyzed for 1D6 combat rounds and can't move. They can still speak. |
