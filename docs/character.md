@@ -68,7 +68,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 54 | **Recover**: You can remove 1 negative effect on a target, such as poisoning, burning, fatigue, or 1D6 stress. |
 | 55 | **Second wind**: You can ignore stress and fatigue for 1 hour. |
 | 56 | **Suggestion**: You can plant a simple hypnotic suggestion in one target. This effect lasts until the target has performed their suggested task or 10 minutes have passed. Targets won't obey suggestions to harm themselves directly or indirectly. |
-| 61 | **Telekinesis**: You can move objects that weigh up to 100 kilograms with the power of your mind. Telekinesis can also be used offensively by hurling an object: attack a target within handgun range with a +3 damage modifier. |
+| 61 | **Telekinesis**: You can move objects that weigh up to 100 kilograms with the power of your mind. Telekinesis can also be used offensively by hurling an object: attack a target within handgun range with a +0 to +3 damage modifier, depending on the size of the hurled object, per the GM’s discretion. |
 | 62 | **Telepathy**: You can read a target’s surface thoughts for one minute. |
 | 63 | **Thousand faces**: You can change a target's appearance and biometric data to those of any other target of the same or similar species for 10 minutes. To mimic the specific biometric data of another person, you must have a sample of the target’s DNA. |
 | 64 | **Truth**: You can force a target to answer questions truthfully. The target must be able to speak or communicate with you, and the questions can be about anything—the target will fully answer to the best of their ability. |
