@@ -197,4 +197,6 @@ Players are safe as long as they remain at the rendezvous point. Each player at 
 
 ## Deprivation and Fatigue
 
-A character can’t heal HP when recovering at a rendezvous point if deprived of a crucial need (such as food, water, or warmth). Anyone deprived for more than a day adds *fatigue* to their inventory, one unit of *fatigue* each day. Characters can also gain *fatigue* in other ways during play, such as from ability use, specific events in the narrative, or failed *action rolls*. Each unit of *fatigue* occupies one inventory slot and lasts until the character rests at a rendezvous point or between missions.
+A character can’t heal HP when recovering at a rendezvous point if deprived of a crucial need (such as food, water, or warmth). Anyone deprived for more than a day adds *fatigue* to their inventory, one unit of *fatigue* each day. 
+
+Characters can also gain *fatigue* in other ways during play, such as from ability use, specific events in the narrative, or failed *action rolls*. Each unit of *fatigue* occupies one inventory slot and lasts until the character rests at a rendezvous point or between missions.
