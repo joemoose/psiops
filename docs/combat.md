@@ -97,11 +97,11 @@ When your character makes an *action roll* to defend against damage, they take d
 
 ## Armor
 
-Before calculating damage to HP, subtract the target’s armor value from the result of damage rolls. You can have more than 3 points of armor.
+Before calculating damage to HP, subtract the target’s armor value from the result of damage rolls. You can have at most 3 points of armor.
 
-Worn armor is usually listed as Armor 1, Armor 2, etc. You usually only benefit from a secondary armor source if it's a bonus (for example, +1 Armor) or makes sense fictionally.
+Worn armor is usually listed as Armor 1, Armor 2, etc. You only benefit from a secondary armor source if it's a bonus (for example, +1 Armor) or makes sense fictionally.
 
-Shields, helmets, and similar items provide bonus defense (e.g., +1 armor), but only while the item is held or worn.
+Shields and helmets provide bonus defense (e.g., +1 Armor), but only while the item is held or worn.
 
 Items with an armor bonus can be voluntarily destroyed to block all damage from a single attack.
 
