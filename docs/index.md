@@ -1,4 +1,4 @@
-*Version 0.42 Playtest*
+*Version 0.43 Playtest*
 
 **Change Log**:
 
@@ -13,6 +13,7 @@
 - 0.4: Added *Time, Actions, and Ranges* section with two actions mechanic and attack modifiers; clarified *Morale* and *Swarms*
 - 0.41 copy edits; renamed attributes
 - 0.42 Clarified *Armor* and *Memory Block*, *Microkinesis*, and *Telekinesis* talents.
+- 0.43 Clarified *Inventory*
 
 # Introduction
 

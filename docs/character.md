@@ -122,10 +122,10 @@ Each drive description includes a backstory element that you create for your cha
 
 ## Inventory
 
-Characters have 10 inventory slots: a backpack with six slots and four slots on their body (such as ready weapons or equipped armor).
+Characters have **12 inventory slots**: two carried in their hands, four slots on their body (such as weapons or equipped armor), and a backpack with six slots. Items in a backpack require an action to retrieve.
 
 Most items take up one slot, and small items may sometimes be bundled together. Slots are abstract and can be rearranged at the GM’s discretion.
-
+ 
 - Bulky items that require two hands to carry take up two slots.
 - Unwieldy and heavy items that one person can’t generally lift can’t be placed in your inventory. Other means of transportation must be arranged.
 

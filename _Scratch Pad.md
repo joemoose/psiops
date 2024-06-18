@@ -84,3 +84,20 @@ Near: Pistol range. A character may move anywhere within this distance by expand
 Far: Rifle range. A character must expend between 2 and 4 Combat Actions to traverse this distance, at the Referee’s discretion.
 
 Distant: Beyond rifle range. A character usually cannot traverse such a distance within the short time span of personal combat.
+
+---
+
+https://itch.io/t/420866/what-is-an-osr-anyway#post-709298
+
+zedecksiew
+
+1. This is a game about interacting with this world as if it were a place that exists.
+2. Killing things is not the goal.
+3. There is nothing that is "supposed" to happen.
+4. Unknowability and consequence make everything interesting.
+5. You play as your character, not as the screenwriter writing your character.
+6. It's your job to make your character interesting and to make the game interesting for you.
+7. If you find yourself in a fair fight, your tactics suck.
+8. The answer is not on your character sheet.
+9 .Things are swingy.
+10. You will die
