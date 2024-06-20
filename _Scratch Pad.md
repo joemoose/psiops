@@ -101,3 +101,23 @@ zedecksiew
 8. The answer is not on your character sheet.
 9 .Things are swingy.
 10. You will die
+
+---
+
+Squad Combat Role
+
+You also trained in a specific **squad combat role** for your PsiOps unit. Pick one of the squad roles in the following table and gain the associated background training and equipment.
+
+Each squad can have only one of each combat role, with the exception of Trooper, so the players should coordinate their selections. 
+
+| Role | Training | Special Kit|
+| :- | :- | :- |
+| Anti-Tank Specialist | Anti-Tank Weapon |
+| Assistant Gunner | Extra Ammo Pack |
+| Combat Medic | Medical Kit |
+| Demolitions | Explosives |
+| Grenadier | Grenade Launcher |
+| Gunner | Light Machinegun |
+| Radio Operator | Backpack Radio |
+| Sniper | Sniper Rifle, anti-material |
+| Trooper | Choose: Extended Operations Pack or Extra Ammo Pack |
