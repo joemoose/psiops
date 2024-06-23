@@ -85,7 +85,7 @@ You can spend your *momentum* to receive bonuses or resist incoming consequences
 
 When your *action roll* has an ***advantage***, such as pushing yourself with *momentum*, roll 3D6 +Attribute and drop the *lowest* D6 result.
 
-If your action is more difficult or complicated than typical through circumstances in the narrative, the roll may have a ***disadvantage*** per the GM; roll 3D6 +Attribute and drop the *highest* D6 result.
+If your action is more difficult than typical through circumstances in the narrative, the roll may have a ***disadvantage*** per the GM; roll 3D6 +Attribute and drop the *highest* D6 result.
 
 !!! note
 
