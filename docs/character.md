@@ -17,8 +17,9 @@ To create a new character, follow these steps:
 5. Set your **Armor** equal to the total armor bonuses supplied by your gear.
 6. Roll a D66 to select your character’s **Drive** from the following Drives table.
 	- You can’t select a drive that another player on the team already has—reroll duplicates. 
-7. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICS score.
-8. Choose your character’s **codename**.
+7. Roll a D66 twice to select two starting **Skills** from the following Skills table.
+8. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICS score.
+9. Choose your character’s **codename**.
 
 ### Psionic Talents
 
@@ -119,6 +120,49 @@ Each drive description includes a backstory element that you create for your cha
 | 64 | **Wanderer**: Describe the event that sent you drifting from place to place. Advance if you have left behind no trace of your presence by the end of a mission or if someone you met will always miss you.
 | 65 | **Wildcard**: Describe your primary vice or source of pleasure, such as money, romance, thrills, or pain. Advance if you got your fix during a mission in a way nobody, including yourself, expected.
 | 66 | **Wretch**: Describe the misfortune that has befallen you. Advance if something happens to you that makes your suffering poetically worse or if you give your misery some company.
+
+## Skills
+
+Each skill represents an area of trained expertise. Unlike attributes, skills do not have an associated number. You either have a skill, or you don’t. When you make an *action roll* and have an applicable skill, you may re-roll one of the dice. You must accept the second result.
+
+| D66 | Skill |
+| :-: | :- |
+| 11 | **Admin**: Business administration, forgery, and dealing with bureaucracies and the law. |
+| 12 | **Aircraft**: Piloting and maintaining aircraft. |
+| 13 | **Animals**: The care and training of animals and general agriculture. |
+| 14 | **Athletics**: The ability to exert oneself physically, such as running, jumping, or swimming. |
+| 15 | **Bribery**: Experience bribing officials to circumvent regulations or ignore cumbersome laws. |
+| 16 | **Carousing**: The art of mingling and gambling in social settings to achieve your goals. |
+| 21 | **Comms**: Usage, repair, and maintenance of communications and sensor devices. |
+| 22 | **Computers**: Programming, working with computer hardware, and hacking. |
+| 23 | **Deception**: Convincingly avoiding the truth and misleading others. |
+| 24 | **Demolitions**: Using explosives to destroy things and defuse explosives. |
+| 25 | **Electronics**: Installation, maintenance, repair, and creation of electronic devices and equipment. |
+| 26 | **Engineering**: Designing large electronic and mechanical devices and structures. |
+| 31 | **Ground vehicles**: Expert at driving and maintaining ground-based vehicles. |
+| 32 | **Gun combat, pistol**: Expertise with using, maintaining, and modifying handguns. |
+| 33 | **Gun combat, rifle**: Expertise with using, maintaining, and modifying assault rifles and sniper rifles. |
+| 34 | **Gun combat, shotgun**: Expertise with using, maintaining, and modifying shotguns. |
+| 35 | **Gunnery**: Expertise with vehicle-mounted weapons. |
+| 36 | **Heavy weapons**: Expertise with portable support weapons such as grenade launchers and rocket launchers. |
+| 41 | **Investigation**: This skill combines keen observation, forensics, research, and detailed analysis. |
+| 42 | **Leadership**: Motivating and directing others effectively. |
+| 43 | **Liaison**: The art and practice of negotiation and diplomacy in various social situations. This skill covers diplomatic meetings, haggling in business negotiations, or talking down a gunman who is holding hostages. |
+| 44 | **Machine gun**: Expertise with squad-support light, general-purpose, and heavy machine guns. |
+| 45 | **Mechanics**: Installation, maintenance, repair, and creation of mechanical devices and equipment. |
+| 46 | **Medicine**: Training in the medical sciences, from diagnosis to surgery. |
+| 51 | **Melee combat**: Fighting hand-to-hand, either with a weapon or unarmed. |
+| 52 | **Navigation**: Expertise in navigation, plotting courses, using a compass, and coordinating infantry support assets, such as artillery and strike aircraft. |
+| 53 | **Parachute**: Expertise in all forms of static-line or steerable parachutes, including HALO and HAHO. |
+| 54 | **Recon**: Scouting for danger and spotting threats. |
+| 55 | **Science**: When gaining this skill, choose Life, Physical, or Social science as the skill you gain. Each time you gain this skill, you can select a new science skill. The three sciences represent broad-based knowledge in each category. |
+| 56 | **Stealth**: Moving unseen and unheard. |
+| 61 | **Streetwise**: Familiarity with underworld society and its working methods. |
+| 62 | **Subaqua**: Expertise using self-contained underwater breathing apparatus (SCUBA).|
+| 63 | **Survival**: Staying alive in the wilderness. This also covers outdoor skills such as tracking, foraging, hunting, and fishing. |
+| 64 | **Tactics**: Tactical planning, decision-making, insights on defensive positions, and gaining the initiative or advantage on the battlefield. |
+| 65 | **Tracking**: Training to identify tracks and follow the paths of men or animals from the physical signs left on the ground or through vegetation. |
+| 66 | **Watercraft**: Operating and maintaining watercraft, including submarines. |
 
 ## Inventory
 
@@ -238,5 +282,6 @@ Characters advance when they act according to their *drive*. For example, a crus
 **After your character advances** and you return to base, choose one of the following rewards: 
 
 - Add 1 point to an attribute score, to a maximum of 3
-- Choose a new random psionic talent
 - Add 1D6 to your maximum HP
+- Choose a new random *psionic talent*
+- Choose a new *skill*
