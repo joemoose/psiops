@@ -26,12 +26,12 @@ A combat round represents 6 seconds of in-game time during which characters have
 
 ### Ranges
 
-Ranges are abstracted to facilitate “theater of mind” gaming.
+Distance in combat is simplified into four bands: Close, Nearby, Far, and Remote.
 
-- **Close**: Melee range, up to 2 meters away. A character can move this distance without using any *actions*.
-- **Near**: Handgun range. A character can move anywhere within this distance by using one *action*.
-- **Far**: Rifle range. A character must expend between 2 and 4 *actions* to traverse this distance at the GM’s discretion.
-- **Distant**: Beyond rifle range. A character usually can't traverse such a distance within the short timespan of personal combat.
+- **Close**: Melee range, up to 2 meters away. A character can move this distance freely. Characters can whisper and be heard.
+- **Nearby**: Handgun range. A character can move anywhere within this distance by using one movement action. Characters can talk and be heard.
+- **Far**: Rifle range. A character must expend between 2 and 4 movement actions to traverse this distance at the GM’s discretion. Characters can shout and be heard.
+- **Remote**: Beyond rifle range. A character usually can't traverse such a distance within the short timespan of personal combat. Too far away for verbal communication.
 
 ### Attack Modifiers
 
