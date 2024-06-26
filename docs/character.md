@@ -8,20 +8,63 @@ Imagine you’re an elite military operative, but you don’t fit the typical mo
 
 To create a new character, follow these steps:
 
-1. Roll each of your character’s four attribute scores in the following order: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**.  
-	Roll a D3 and add 1 to the result. Then, roll a second D3 and subtract that result from the previous total. The resulting number is your attribute score.  
-	For example, if you first rolled a 1 (1+1=2) and then rolled a 3, your attribute score is -1.   
-	Afterward, you may optionally swap two of the scores. 
-2. Roll a D66 twice to select two starting **Psionic Talents** from the following Psionic Talents table.
-3. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
-4. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choosing to your inventory.
+1. Assign each of the following scores to your four attributes—STRENGTH, REFLEXES, TACTICS, and WILLPOWER—in any order you want: **2**, **1**, **0**, and **-1**.
+2. Roll a D66 to select your character’s **Drive** from the following Drives table.
+	- You can’t select a drive that another player on the team already has—reroll duplicates.
+3. Roll a D66 twice to select two starting **Psionic Talents** from the following Psionic Talents table.
+4. Roll a D66 twice to select two starting **Skills** from the following Skills table.
+5. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
+6. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choosing to your inventory.
 	- See the following equipment lists for examples.
-5. Set your **Armor** equal to the total armor bonuses supplied by your gear.
-6. Roll a D66 to select your character’s **Drive** from the following Drives table.
-	- You can’t select a drive that another player on the team already has—reroll duplicates. 
-7. Roll a D66 twice to select two starting **Skills** from the following Skills table.
-8. Choose your native **language** and a second language that you’re fluent in. Choose additional languages equal to your WILLPOWER or TACTICS score.
+7. Set your **Armor** equal to the total armor bonuses supplied by your gear.
+8. Choose your native **language** and a second language that you’re fluent in.
+	- Choose an additional number of languages equal to either your WILLPOWER or TACTICS score, if greater than zero.
 9. Choose your character’s **codename**.
+
+### Drives
+
+Each member of the team must have a unique drive. Your drive reflects something that your character wants to accomplish during missions, and doing it lets them advance and improve their abilities.
+
+Each drive description includes a backstory element that you create for your character and a condition that must be met during the mission to advance.
+
+| D66 | Drive |
+| :-: | :- |
+| 11 | **Abandoned**: Describe the war-torn country where you learned to live on nothing and fought to survive as a child. Advance if you adequately contributed your part to the mission without anybody else's help.
+| 12 | **Amnesiac**: Describe the most recent event you remember, such as waking up in a vat a week ago or learning your name from the unfamiliar wallet in your coat. Advance if your understanding of yourself or the world changes dramatically throughout the mission.
+| 13 | **Avenger**: Describe someone who wronged you and what they did. Advance if something you did brought you closer to exacting your revenge or decisively stopped a similar injustice.
+| 14 | **Chessmaster**: Describe what you plan to do with absolute power. Advance if something you did brought you closer, on a long-term scale, to holding a position of extreme power over a large group of people.
+| 15 | **Cleanup**: Describe a far-reaching and complex catastrophe that you are responsible for. Advance if you meaningfully healed some piece of its aftermath or the aftermath of a similar catastrophe.
+| 16 | **Crusader**: Describe an ethical ideal you hold dear but that’s not easy to achieve. Advance if something you did aligned with this ethical ideal, even though sticking to your scruples made your life harder.
+| 21 | **Cultist**: Describe the esoteric religious sect you belong to and the chilling prophecy you believe in. Advance if you drafted someone of importance or power into your cult or turned the cosmic clock closer to your hallowed day of reckoning.
+| 22 | **Dealmaker**: Describe your foolproof strategy to close any deal. Advance if you end the mission with significantly more wealth, influence, or capital than you had initially.
+| 23 | **Diplomat**: Describe the relationships you like to form. Advance if you forged a brand new relationship or kept one that was in jeopardy intact, and it changed the course of the mission.
+| 24 | **Firebrand**: Describe your hot-blooded hopes for the future. Advance if an event during the mission was a crucial moment in your coming-of-age or if you proved your competence to a more experienced teammate.
+| 25 | **Flux**: Describe why your motivations and worldview are constantly in flux. When each mission begins, roll a random drive, answer the "describe" section as briefly as possible, and play as though that drive were yours for the duration of the mission.
+| 26 | **Fugitive**: Describe a high-caliber crime that you did or didn't commit (and if so, who framed you). Advance if something you did made significant progress towards clearing your name or if you fought off the long arm of the law.
+| 31 | **Gladiator**: Describe an honorable, legendary warrior you admire and aspire to emulate. Advance if you fought and bested a powerful enemy using that warrior’s combat philosophy.
+| 32 | **Guardian**: Describe a person or concept you wish to keep safe and what you seek to safeguard them from. Advance when you prevent something from happening that would have caused them considerable harm or when you take significant steps to ensure that they will be better protected in the future.
+| 33 | **Healer**: Describe your medical philosophy and tell the table the story of your teacher, a renowned and unconventional medicine practitioner. Advance if none of your teammates died under your watch.
+| 34 | **Icon**: Describe how you want to go down in history. Advance if something you did brought you closer to becoming a legend or ensured a group would never forget your name.
+| 35 | **Maverick**: Describe when you lost faith in everyone else but yourself. Advance if you did something during a mission that no one else did in a way that no one will ever forget.
+| 36 | **Mercenary**: Describe how you ended up working with the rest of these bleeding-heart weirdos on your team. Advance if you completed the mission according to its original parameters—no funny business—and made sure to collect your pay.
+| 41 | **Muddler**: Describe a piece of simple, common knowledge that is, in fact, wrong and attempt to describe the infinitely more complex correct answer. Advance if you made things more complicated in a significant way or catastrophically obfuscated the truth about something important.
+| 42 | **Nihilist**: Describe how you reached the ultimate conclusion—nothing truly matters. Advance if you showed no fear of death and no self-preservation instinct at any point during the mission.
+| 43 | **Partisan**: Describe your experiences with the creation, mistreatment, or erasure of psionically enabled humans. Advance if you proved that they could and should stand independently or if you liberated another psionically enabled human.
+| 44 | **Peacemaker**: Describe your vision for a world without war and your opinion on using violence. Advance if you prevented, stopped, or eased a violent conflict.
+| 45 | **Punk**: Describe a long-standing oppressive establishment that hurt you. Advance if something you did weakened that establishment or meaningfully helped people who are also being oppressed by it
+| 46 | **Provider**: Describe the person or entity that can’t survive without you and your work. Advance if you found something that would make them deeply happy and brought it to the end of the mission.
+| 51 | **Repentant**: Describe a shameful and horrible decision from your past. Advance if something you did atoned for your sins wholly or meaningfully changed the context in which you view your past deeds.
+| 52 | **Representative**: Describe your vision for a world where psionic abilities have been publicized and normalized. Advance if you created empathy and understanding between psionically enabled humans and the world.
+| 53 | **Return**: Describe the faraway place or time from which you hail and the improbable circumstances that found you stranded here. Advance if you made progress on your quest to go home or if you made contact with someone from that place before.
+| 54 | **Retired**: Describe your past exploits, your retirement, how you ended up back in action, and why you can't go home yet. Advance if you made significant progress toward returning home or showed how an old dog can still learn new tricks.
+| 55 | **Rookie**: Describe your ideal "first mission" experience. Advance (and choose a new role) if a mission goes precisely how you'd hoped. If it doesn't, advance (and keep this role) if your teammates stepped in at the last moment to save you from certain death.
+| 56 | **Scholar**: Describe the esoteric and obscure subject you are most curious about. Advance if something you learned brought you closer to unlocking the ultimate secrets of that subject or if you brought a prize specimen to the end of the mission.
+| 61 | **Skeptic**: Describe your rational and meticulously vetted worldview. Advance if you venture an honest, reasonable explanation for something paranormal and unfamiliar that you encounter (and you’re proven correct).
+| 62 | **Slacker**: Describe how difficult it is to find a cause, a purpose, or something to fight for. Advance if you overcame a challenge or secured a valuable item far beyond your expected ability level.
+| 63 | **Undercover**: Describe a vice you pretend to have and why you pretend to have it. Advance if you removed this mask to protect someone without giving your true nature away to your enemies.
+| 64 | **Wanderer**: Describe the event that sent you drifting from place to place. Advance if you have left behind no trace of your presence by the end of a mission or if someone you met will always miss you.
+| 65 | **Wildcard**: Describe your primary vice or source of pleasure, such as money, romance, thrills, or pain. Advance if you got your fix during a mission in a way nobody, including yourself, expected.
+| 66 | **Wretch**: Describe the misfortune that has befallen you. Advance if something happens to you that makes your suffering poetically worse or if you give your misery some company.
 
 ### Psionic Talents
 
@@ -78,51 +121,6 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 65 | **Vampire**: When you make an unarmed attack at melee range, the vampire talent inflicts a +1 damage modifier on the target and instantly heals you half the damage. |
 | 66 | **Zombie**: You can control the body of a creature killed in the past 24 hours. The target creature must be within 10 meters, and the power lasts up to 1D6 combat rounds. The corpse acts, speaks, and attacks as you want while you maintain concentration. The creature’s abilities might be limited depending on the amount and kind of damage that it suffered when it died. |
 
-### Drives
-
-Each member of the team must have a unique drive. Your drive reflects something that your character wants to achieve during missions, and doing it lets them advance and improve their abilities.
-
-Each drive description includes a backstory element that you create for your character and a condition that must be met during the mission to advance.
-
-| D66 | Drive |
-| :-: | :- |
-| 11 | **Abandoned**: Describe the war-torn country where you learned to live on nothing and fought to survive as a child. Advance if you adequately contributed your part to the mission without anybody else's help.
-| 12 | **Amnesiac**: Describe the most recent event you remember, such as waking up in a vat a week ago or learning your name from the unfamiliar wallet in your coat. Advance if your understanding of yourself or the world changes dramatically throughout the mission.
-| 13 | **Avenger**: Describe someone who wronged you and what they did. Advance if something you did brought you closer to exacting your revenge or decisively stopped a similar injustice.
-| 14 | **Chessmaster**: Describe what you plan to do with absolute power. Advance if something you did brought you closer, on a long-term scale, to holding a position of extreme power over a large group of people.
-| 15 | **Cleanup**: Describe a far-reaching and complex catastrophe that you are responsible for. Advance if you meaningfully healed some piece of its aftermath or the aftermath of a similar catastrophe.
-| 16 | **Crusader**: Describe an ethical ideal you hold dear but that’s not easy to achieve. Advance if something you did aligned with this ethical ideal, even though sticking to your scruples made your life harder.
-| 21 | **Cultist**: Describe the esoteric religious sect you belong to and the chilling prophecy you believe in. Advance if you drafted someone of importance or power into your cult or turned the cosmic clock closer to your hallowed day of reckoning.
-| 22 | **Dealmaker**: Describe your foolproof strategy to close any deal. Advance if you end the mission with significantly more wealth, influence, or capital than you had initially.
-| 23 | **Diplomat**: Describe the relationships you like to form. Advance if you forged a brand new relationship or kept one that was in jeopardy intact, and it changed the course of the mission.
-| 24 | **Firebrand**: Describe your hot-blooded hopes for the future. Advance if an event during the mission was a crucial moment in your coming-of-age or if you proved your competence to a more experienced teammate.
-| 25 | **Flux**: Describe why your motivations and worldview are constantly in flux. When each mission begins, roll a random drive, answer the "describe" section as briefly as possible, and play as though that drive were yours for the duration of the mission.
-| 26 | **Fugitive**: Describe a high-caliber crime that you did or didn't commit (and if so, who framed you). Advance if something you did made significant progress towards clearing your name or if you fought off the long arm of the law.
-| 31 | **Gladiator**: Describe an honorable, legendary warrior you admire and aspire to emulate. Advance if you fought and bested a powerful enemy using that warrior’s combat philosophy.
-| 32 | **Guardian**: Describe a person or concept you wish to keep safe and what you seek to safeguard them from. Advance when you prevent something from happening that would have caused them considerable harm or when you take significant steps to ensure that they will be better protected in the future.
-| 33 | **Healer**: Describe your medical philosophy and tell the table the story of your teacher, a renowned and unconventional medicine practitioner. Advance if none of your teammates died under your watch.
-| 34 | **Icon**: Describe how you want to go down in history. Advance if something you did brought you closer to becoming a legend or ensured a group would never forget your name.
-| 35 | **Maverick**: Describe when you lost faith in everyone else but yourself. Advance if you did something during a mission that no one else did in a way that no one will ever forget.
-| 36 | **Mercenary**: Describe how you ended up working with the rest of these bleeding-heart weirdos on your team. Advance if you completed the mission according to its original parameters—no funny business—and made sure to collect your pay.
-| 41 | **Muddler**: Describe a piece of simple, common knowledge that is, in fact, wrong and attempt to describe the infinitely more complex correct answer. Advance if you made things more complicated in a significant way or catastrophically obfuscated the truth about something important.
-| 42 | **Nihilist**: Describe how you reached the ultimate conclusion—nothing truly matters. Advance if you showed no fear of death and no self-preservation instinct at any point during the mission.
-| 43 | **Partisan**: Describe your experiences with the creation, mistreatment, or erasure of psionically enabled humans. Advance if you proved that they could and should stand independently or if you liberated another psionically enabled human.
-| 44 | **Peacemaker**: Describe your vision for a world without war and your opinion on using violence. Advance if you prevented, stopped, or eased a violent conflict.
-| 45 | **Punk**: Describe a long-standing oppressive establishment that hurt you. Advance if something you did weakened that establishment or meaningfully helped people who are also being oppressed by it
-| 46 | **Provider**: Describe the person or entity that can’t survive without you and your work. Advance if you found something that would make them deeply happy and brought it to the end of the mission.
-| 51 | **Repentant**: Describe a shameful and horrible decision from your past. Advance if something you did atoned for your sins wholly or meaningfully changed the context in which you view your past deeds.
-| 52 | **Representative**: Describe your vision for a world where psionic abilities have been publicized and normalized. Advance if you created empathy and understanding between psionically enabled humans and the world.
-| 53 | **Return**: Describe the faraway place or time from which you hail and the improbable circumstances that found you stranded here. Advance if you made progress on your quest to go home or if you made contact with someone from that place before.
-| 54 | **Retired**: Describe your past exploits, your retirement, how you ended up back in action, and why you can't go home yet. Advance if you made significant progress toward returning home or showed how an old dog can still learn new tricks.
-| 55 | **Rookie**: Describe your ideal "first mission" experience. Advance (and choose a new role) if a mission goes precisely how you'd hoped. If it doesn't, advance (and keep this role) if your teammates stepped in at the last moment to save you from certain death.
-| 56 | **Scholar**: Describe the esoteric and obscure subject you are most curious about. Advance if something you learned brought you closer to unlocking the ultimate secrets of that subject or if you brought a prize specimen to the end of the mission.
-| 61 | **Skeptic**: Describe your rational and meticulously vetted worldview. Advance if you venture an honest, reasonable explanation for something paranormal and unfamiliar that you encounter (and you’re proven correct).
-| 62 | **Slacker**: Describe how difficult it is to find a cause, a purpose, or something to fight for. Advance if you overcame a challenge or secured a valuable item far beyond your expected ability level.
-| 63 | **Undercover**: Describe a vice you pretend to have and why you pretend to have it. Advance if you removed this mask to protect someone without giving your true nature away to your enemies.
-| 64 | **Wanderer**: Describe the event that sent you drifting from place to place. Advance if you have left behind no trace of your presence by the end of a mission or if someone you met will always miss you.
-| 65 | **Wildcard**: Describe your primary vice or source of pleasure, such as money, romance, thrills, or pain. Advance if you got your fix during a mission in a way nobody, including yourself, expected.
-| 66 | **Wretch**: Describe the misfortune that has befallen you. Advance if something happens to you that makes your suffering poetically worse or if you give your misery some company.
-
 ### Skills
 
 Your character is a steely professional and can attempt almost any action, but if you’re trained in a relevant skill, you have a better chance of success. Each of the following skills represents an area of expertise. Unlike attributes, skills don’t have an associated number—you either have a skill or you don’t. When you attempt an action with an applicable skill and make an *action roll*, you can re-roll one of the dice, but you must use the second result.
@@ -147,7 +145,7 @@ Your character is a steely professional and can attempt almost any action, but i
 | 34 | **Gun combat, rifle**: Using, maintaining, and modifying assault and sniper rifles. |
 | 35 | **Gun combat, shotgun**: Using, maintaining, and modifying shotguns. |
 | 36 | **Gunnery**: Using, maintaining, and modifying vehicle-mounted weapons. |
-| 41 | **Heavy weapons**: Using, maintaining, and modifying portable support weapons such as grenade launchers and rocket launchers. |
+| 41 | **Heavy weapons**: Using, maintaining, and modifying portable heavy infantry support weapons such as grenade launchers and anti-tank missiles. |
 | 42 | **Investigation**: Keen observation, forensics, research, and detailed analysis. |
 | 43 | **Leadership**: Motivating and directing others effectively. |
 | 44 | **Liaison**: Negotiation and diplomacy in various social situations. This skill covers diplomatic meetings, haggling in business negotiations, or talking down a gunman who is holding hostages. |
@@ -272,6 +270,7 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 | Poncho liner | A warm waterproof liner that can act as a blanket, mattress, camo hide, or shelter |
 | Protective mask | Protects against tear, mustard, and chlorine gas, but not nerve agents |
 | Rations, one day | Two pre-cooked meals, eaten hot or cold |
+| Riot Shield | +1 armor |
 | Rope | 25 meters of 1cm-thick nylon rope |
 | Stretcher, folding | Used for casualty evacuation |
 | Suppressor | Quietens the shot. Pistol/SMG suppressors may aid stealth. Rifle suppressors help conceal a sniper's position. |
@@ -279,11 +278,11 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 
 ## Character Advancement
 
-Characters advance when they act according to their *drive*. For example, a crusader advances if they behave ethically during their mission. After advancing, you can choose a new drive between missions if you feel you’ve reached natural closure for your current drive. 
+Characters advance when they act according to their *drive*. For example, a *crusader* advances if they behave ethically during their mission. After advancing, you can choose a new drive between missions if you feel you’ve reached natural closure for your current drive. 
 
 **After your character advances** and you return to base, choose one of the following rewards: 
 
 - Add 1 point to an attribute score, to a maximum of 3
 - Add 1D6 to your maximum HP
-- Choose a new random *psionic talent*
+- Randomly select a new *psionic talent*
 - Choose a new *skill*

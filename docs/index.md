@@ -1,4 +1,4 @@
-*Version 0.5 Playtest*
+*Version 0.51 Playtest*
 
 **Change Log**:
 
@@ -15,6 +15,7 @@
 - 0.42: Clarified *Armor* and *Memory Block*, *Microkinesis*, and *Telekinesis* talents.
 - 0.43: Clarified *Inventory*
 - 0.5: Added *Skills* section; renamed *swarms* to *mobs*
+- 0.51: Changed starting attribute scores to set array rather than random rolls
 
 # Introduction
 

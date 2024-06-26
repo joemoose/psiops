@@ -121,3 +121,10 @@ Each squad can have only one of each combat role, with the exception of Trooper,
 | Radio Operator | Backpack Radio |
 | Sniper | Sniper Rifle, anti-material |
 | Trooper | Choose: Extended Operations Pack or Extra Ammo Pack |
+
+---
+
+1. Roll each of your character’s four attribute scores in the following order: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**.  
+	Roll a D3 and add 1 to the result. Then, roll a second D3 and subtract that result from the previous total. The resulting number is your attribute score.  
+	For example, if you first rolled a 1 (1+1=2) and then rolled a 3, your attribute score is -1.   
+	Afterward, you may optionally swap two of the scores.
