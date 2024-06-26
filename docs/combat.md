@@ -145,11 +145,11 @@ Some groups can use their leader’s morale in place of their own. Lone foes mus
 
 Running away from a dire situation always requires a successful roll +REFLEXES and a safe destination to run to.
 
-## Swarms
+## Mobs
 
-When you're battling many relatively weak, identical enemies—such as zombies, thugs, or guard drones—the GM may group the opponents into a single unit or *swarm*. 
+When you're battling many relatively weak, identical enemies—such as zombies, thugs, or guard drones—the GM may group the opponents into a single unit or *mob*. 
 
-HP for the swarm equals the number of opponents in the swarm. The size of the swarm determines its armor, damage, and the number of attacks, as described in the following table:
+HP for the mob equals the number of opponents in the mob. The size of the mob determines its armor, damage, and the number of attacks, as described in the following table:
 
 | #/HP | Armor | Damage | Attacks |
 | :- | :-: | :-: | :-: |
@@ -159,9 +159,9 @@ HP for the swarm equals the number of opponents in the swarm. The size of the sw
 13–16 | 3 | +2 | 4
 17–20 | 4 | +3 | 5
 
-Damage to the swarm’s HP reduces the swarm’s size and stats—each HP of damage reduces the swarm’s number by 1.
+Damage to the mob’s HP reduces the mob’s size and stats—each HP of damage reduces the mob’s number by 1.
 
-For example, you’re up against a swarm of 14 opponents. With 14 HP, 3 ARMOR, and +2 DAMAGE, this swarm can launch attacks on up to 4 targets. However, its size and stats are reduced after the swarm sustains 5 HP of damage. The new stats for the swarm would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
+For example, you’re up against a mob of 14 opponents. With 14 HP, 3 ARMOR, and +2 DAMAGE, this mob can launch attacks on up to 4 targets. However, its size and stats are reduced after the mob sustains 5 HP of damage. The new stats for the mob would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
 
 ## Damage, Injuries, and Dying
 

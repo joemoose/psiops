@@ -14,7 +14,7 @@
 - 0.41: copy edits; renamed attributes
 - 0.42: Clarified *Armor* and *Memory Block*, *Microkinesis*, and *Telekinesis* talents.
 - 0.43: Clarified *Inventory*
-- 0.5: Added *Skills* section
+- 0.5: Added *Skills* section; renamed *swarms* to *mobs*
 
 # Introduction
 
