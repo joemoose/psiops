@@ -34,9 +34,11 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 - On a **10–12**, it’s a **success**. Things go well, and you achieve your goal.
 - On a **13 or greater**, it’s a **critical success**. Things go better than expected. You achieve your goal with an added bonus.
 
-!!! note
+!!! note "Notes"
 
-	Regardless of attribute values, talents, or circumstances in the narrative, the maximum dice roll modifier is +4, and the minimum is -3.
+	- Given sufficient time, relevant skill, and the proper equipment, your actions will generally always succeed—the GM won't call for an action roll.
+	- However, if one of these three requirements is missing, an action roll would be required to determine an outcome.
+	- The action would generally be impossible if two or more of these requirements were missing. It's time to think of a new approach!
 
 ## Momentum
 

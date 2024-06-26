@@ -99,7 +99,7 @@ Each drive description includes a backstory element that you create for your cha
 | 31 | **Gladiator**: Describe an honorable, legendary warrior you admire and aspire to emulate. Advance if you fought and bested a powerful enemy using that warrior’s combat philosophy.
 | 32 | **Guardian**: Describe a person or concept you wish to keep safe and what you seek to safeguard them from. Advance when you prevent something from happening that would have caused them considerable harm or when you take significant steps to ensure that they will be better protected in the future.
 | 33 | **Healer**: Describe your medical philosophy and tell the table the story of your teacher, a renowned and unconventional medicine practitioner. Advance if none of your teammates died under your watch.
-| 34 | **Icon**: Describe how you want to go down in history. Advance if something you did brought you closer to becoming a legend or ensured a group would always remember your name.
+| 34 | **Icon**: Describe how you want to go down in history. Advance if something you did brought you closer to becoming a legend or ensured a group would never forget your name.
 | 35 | **Maverick**: Describe when you lost faith in everyone else but yourself. Advance if you did something during a mission that no one else did in a way that no one will ever forget.
 | 36 | **Mercenary**: Describe how you ended up working with the rest of these bleeding-heart weirdos on your team. Advance if you completed the mission according to its original parameters—no funny business—and made sure to collect your pay.
 | 41 | **Muddler**: Describe a piece of simple, common knowledge that is, in fact, wrong and attempt to describe the infinitely more complex correct answer. Advance if you made things more complicated in a significant way or catastrophically obfuscated the truth about something important.
@@ -123,45 +123,45 @@ Each drive description includes a backstory element that you create for your cha
 
 ## Skills
 
-Each skill represents an area of trained expertise. Unlike attributes, skills do not have an associated number. You either have a skill, or you don’t. When you make an *action roll* and have an applicable skill, you may re-roll one of the dice. You must accept the second result.
+Your character is a steely professional and can attempt almost any action, but if you’re trained in a relevant skill, you have a better chance of success. Each of the following skills represents an area of expertise. Unlike attributes, skills don’t have an associated number—you either have a skill or you don’t. When you attempt an action with an applicable skill and make an *action roll*, you can re-roll one of the dice, but you must use the second result.
 
 | D66 | Skill |
 | :-: | :- |
 | 11 | **Admin**: Business administration, forgery, and dealing with bureaucracies and the law. |
 | 12 | **Aircraft**: Piloting and maintaining aircraft. |
-| 13 | **Animals**: The care and training of animals and general agriculture. |
+| 13 | **Animals**: The care and training of animals. |
 | 14 | **Athletics**: The ability to exert oneself physically, such as running, jumping, or swimming. |
-| 15 | **Bribery**: Experience bribing officials to circumvent regulations or ignore cumbersome laws. |
-| 16 | **Carousing**: The art of mingling and gambling in social settings to achieve your goals. |
+| 15 | **Bribery**: Bribing officials to circumvent regulations or ignore cumbersome laws. |
+| 16 | **Carousing**: The art of mingling and gambling to achieve your goals in social settings. |
 | 21 | **Comms**: Usage, repair, and maintenance of communications and sensor devices. |
 | 22 | **Computers**: Programming, working with computer hardware, and hacking. |
 | 23 | **Deception**: Convincingly avoiding the truth and misleading others. |
-| 24 | **Demolitions**: Using explosives to destroy things and defuse explosives. |
-| 25 | **Electronics**: Installation, maintenance, repair, and creation of electronic devices and equipment. |
-| 26 | **Engineering**: Designing large electronic and mechanical devices and structures. |
-| 31 | **Ground vehicles**: Expert at driving and maintaining ground-based vehicles. |
-| 32 | **Gun combat, pistol**: Expertise with using, maintaining, and modifying handguns. |
-| 33 | **Gun combat, rifle**: Expertise with using, maintaining, and modifying assault rifles and sniper rifles. |
-| 34 | **Gun combat, shotgun**: Expertise with using, maintaining, and modifying shotguns. |
-| 35 | **Gunnery**: Expertise with vehicle-mounted weapons. |
-| 36 | **Heavy weapons**: Expertise with portable support weapons such as grenade launchers and rocket launchers. |
-| 41 | **Investigation**: This skill combines keen observation, forensics, research, and detailed analysis. |
-| 42 | **Leadership**: Motivating and directing others effectively. |
-| 43 | **Liaison**: The art and practice of negotiation and diplomacy in various social situations. This skill covers diplomatic meetings, haggling in business negotiations, or talking down a gunman who is holding hostages. |
-| 44 | **Machine gun**: Expertise with squad-support light, general-purpose, and heavy machine guns. |
-| 45 | **Mechanics**: Installation, maintenance, repair, and creation of mechanical devices and equipment. |
+| 24 | **Demolitions**: Using explosives to destroy things and defusing explosives. |
+| 25 | **Electronics**: Installing, maintaining, repairing, and creating electronic devices and equipment. |
+| 26 | **Engineering**: Designing, maintaining, and repairing large mechanical devices and structures. |
+| 31 | **Ground vehicles**: Driving and maintaining ground-based vehicles. |
+| 32 | **Gun combat, machine gun**: Using, maintaining, and modifying squad-support light, general-purpose, and heavy machine guns. |
+| 33 | **Gun combat, pistol**: Using, maintaining, and modifying handguns. |
+| 34 | **Gun combat, rifle**: Using, maintaining, and modifying assault and sniper rifles. |
+| 35 | **Gun combat, shotgun**: Using, maintaining, and modifying shotguns. |
+| 36 | **Gunnery**: Using, maintaining, and modifying vehicle-mounted weapons. |
+| 41 | **Heavy weapons**: Using, maintaining, and modifying portable support weapons such as grenade launchers and rocket launchers. |
+| 42 | **Investigation**: Keen observation, forensics, research, and detailed analysis. |
+| 43 | **Leadership**: Motivating and directing others effectively. |
+| 44 | **Liaison**: Negotiation and diplomacy in various social situations. This skill covers diplomatic meetings, haggling in business negotiations, or talking down a gunman who is holding hostages. |
+| 45 | **Mechanics**: Installing, maintaining, repairing, and creating small mechanical devices, engines, and equipment. |
 | 46 | **Medicine**: Training in the medical sciences, from diagnosis to surgery. |
 | 51 | **Melee combat**: Fighting hand-to-hand, either with a weapon or unarmed. |
-| 52 | **Navigation**: Expertise in navigation, plotting courses, using a compass, and coordinating infantry support assets, such as artillery and strike aircraft. |
-| 53 | **Parachute**: Expertise in all forms of static-line or steerable parachutes, including HALO and HAHO. |
+| 52 | **Navigation**: Navigating, plotting courses, using a compass, and coordinating infantry support assets, such as artillery and strike aircraft. |
+| 53 | **Parachute**: Using all static-line and steerable parachutes, including high-altitude, low-opening (HALO) and high-altitude, high-opening (HAHO) insertions. |
 | 54 | **Recon**: Scouting for danger and spotting threats. |
-| 55 | **Science**: When gaining this skill, choose Life, Physical, or Social science as the skill you gain. Each time you gain this skill, you can select a new science skill. The three sciences represent broad-based knowledge in each category. |
+| 55 | **Science**: When gaining this skill, choose a category of broad-based knowledge, such as physical or social sciences.  |
 | 56 | **Stealth**: Moving unseen and unheard. |
 | 61 | **Streetwise**: Familiarity with underworld society and its working methods. |
-| 62 | **Subaqua**: Expertise using self-contained underwater breathing apparatus (SCUBA).|
-| 63 | **Survival**: Staying alive in the wilderness. This also covers outdoor skills such as tracking, foraging, hunting, and fishing. |
-| 64 | **Tactics**: Tactical planning, decision-making, insights on defensive positions, and gaining the initiative or advantage on the battlefield. |
-| 65 | **Tracking**: Training to identify tracks and follow the paths of men or animals from the physical signs left on the ground or through vegetation. |
+| 62 | **Subaquatic**: Using a self-contained underwater breathing apparatus (SCUBA) and swimming.|
+| 63 | **Survival**: Staying alive in the wilderness. |
+| 64 | **Tactics**: Tactical planning and gaining insights on defensive positions. |
+| 65 | **Tracking**: Identifying tracks and following the paths of people or animals from the physical signs left on the ground or through vegetation. |
 | 66 | **Watercraft**: Operating and maintaining watercraft, including submarines. |
 
 ## Inventory
