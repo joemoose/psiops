@@ -1,4 +1,4 @@
-*Version 0.43 Playtest*
+*Version 0.5 Playtest*
 
 **Change Log**:
 

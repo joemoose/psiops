@@ -1,5 +1,7 @@
 # Combat
 
+## Introduction
+
 Combat works the same as doing anything else that's risky. Make an *action roll* to attack and to deal damage if you succeed. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
 
 ## Initiative

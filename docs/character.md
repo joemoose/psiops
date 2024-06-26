@@ -1,5 +1,7 @@
 # Your Character
 
+## Introduction
+
 Imagine you’re an elite military operative, but you don’t fit the typical mold. You find yourself in the thick of things, facing the harsh realities of secret proxy wars against oppressive forces and supernatural dangers. Perhaps you even possess extraordinary talents like mind-reading or telekinesis. Your world revolves around the paranormal mysteries of the Cold War, where you stand shoulder to shoulder with fellow extraordinary individuals, fighting for your country and humankind.
 
 ## Creating a Character

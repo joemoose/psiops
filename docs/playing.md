@@ -1,5 +1,7 @@
 # Playing the Game
 
+## Introduction
+
 One person is the game master (GM), and the rest are players.
 
 - **GM**: Guides the story, arbitrates rulings, and presents challenges to the group. Be a fan of the players. Ask them questions and fill the world with their answers.

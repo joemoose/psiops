@@ -1,5 +1,7 @@
 # Stress
 
+## Introduction
+
 During a mission, your character will accumulate stress. The maximum stress level is 6. When your character reaches the maximum level, you must make an *action roll* +WILLPOWER to avoid panicking or to possibly rise to the occasion with transcendent zeal.
 
 ## Sources of Stress
