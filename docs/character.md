@@ -121,7 +121,7 @@ Each drive description includes a backstory element that you create for your cha
 | 65 | **Wildcard**: Describe your primary vice or source of pleasure, such as money, romance, thrills, or pain. Advance if you got your fix during a mission in a way nobody, including yourself, expected.
 | 66 | **Wretch**: Describe the misfortune that has befallen you. Advance if something happens to you that makes your suffering poetically worse or if you give your misery some company.
 
-## Skills
+### Skills
 
 Your character is a steely professional and can attempt almost any action, but if you’re trained in a relevant skill, you have a better chance of success. Each of the following skills represents an area of expertise. Unlike attributes, skills don’t have an associated number—you either have a skill or you don’t. When you attempt an action with an applicable skill and make an *action roll*, you can re-roll one of the dice, but you must use the second result.
 
