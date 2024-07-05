@@ -64,9 +64,9 @@ If players and opponents are still in combat, repeat steps 1 through 4.
 
 ## Surprise
 
-Whether by chance or design, players and their opponents may sometimes get the drop on one another. If one side surprises the other, they get a free **action point** in which the other side is unable to act. Afterward, the normal combat phases occur with declared actions and fast or slow rounds.
+Whether by chance or design, players and their opponents might sometimes get the drop on one another. If one side surprises the other, they get a free **action point** in which the other side can’t act. Afterward, the typical combat phases occur with declared actions and fast or slow rounds.
 
-Opponents who are aware of their enemy’s position cannot be surprised. This means that characters attempting to ambush an opponent must be hidden or in darkness (assuming the opponent does not have night vision capabilities).
+Opponents who are aware of their enemy’s position can’t be surprised. This means that characters attempting to ambush an opponent must be hidden or in darkness (assuming the opponent doesn’t have night vision capabilities).
 
 ## Ranges
 
