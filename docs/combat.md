@@ -12,13 +12,13 @@ Possible actions include:
 
 - **Interrupting Actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 
-- **Movement**: In-combat movement is abstracted to determine ranges to targets. However, having a more concrete measurement in some cases is helpful. When a character spends an *action* moving on foot, they move 10 meters.
+- **Movement**: In-combat movement is abstracted to determine ranges to targets as described in the following Ranges section. However, having a more concrete measurement in some cases is helpful. When a character spends an *action* moving on foot, they move 10 meters.
 
 - **Falling prone** requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes one *action*.
 
 - **Attacks of Opportunity**: If a combatant engaged in *close range* attempts to retreat from combat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must spend one *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
 
-- **Attacking**: Make an *action roll* with the modifiers based on the range to the target as described in the Ranges section.
+- **Attacking**: Make an *action roll* with the modifiers based on the range to the target as described in the following Ranges section.
 
 Any action within reason based on your character’s resources and situation that can be accomplished in six seconds of combat is possible.
 
