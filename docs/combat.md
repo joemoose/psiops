@@ -2,71 +2,37 @@
 
 ## Introduction
 
-Combat works the same as doing anything else that's risky. Make an *action roll* to attack and to deal damage if you succeed. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
+Combat works the same way as doing anything else that's risky. Make an *action roll* to attack and to deal damage if you succeed. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
 
-## Actions
+## Initiative
 
-A combat round represents six seconds of in-game time during which characters can spend up to **two Action Points (AP)**. Action points represent the maximum number of actions you can take during a single round of combat. You can spend your AP on activities like movement, attacks, or psionic abilities. AP can be spent in any order, such as move and attack, attack, then move, or attack twice. After you use your AP, you’re done taking further action in the current round of combat.
+During the **first round of combat**, each player must make a +TACTICS roll to act before the opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** and do not act in the first round.
 
-Possible actions include:
+The opposing side then takes its turn, and then the first round ends. The next round begins with all players taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
 
-- **Interrupting Actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
-
-- **Movement**: In-combat movement is abstracted to determine ranges to targets as described in the following Ranges section. However, having a more concrete measurement in some cases is helpful. When a character spends an *action* moving on foot, they move 10 meters.
-
-- **Falling prone** requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes one *action*.
-
-- **Attacks of Opportunity**: If a combatant engaged in *close range* attempts to retreat from combat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must spend one *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
-
-- **Attacking**: Make an *action roll* with the modifiers based on the range to the target as described in the following Ranges section.
-
-Any action within reason based on your character’s resources and situation that can be accomplished in six seconds of combat is possible.
-
-Insignificant actions, such as shouting a command or dropping an item, are free actions that don’t require an action point.  
-
-## Turn Order
-
-When combat occurs, a turn order is established for all the combatants, both the players and their opponents. Turns allow every player to participate (no hogging the limelight) and provide possible tactical opportunities during combat. Actions are resolved in turn order. Follow these steps to establish the turn order and resolve actions.
-
-### Step 1: Declare Actions
-
-The GM describes the opponents’ actions at the beginning of every combat round. All players then react and declare their character’s actions for the round before rolling any dice. 
-
-### Step 2: Determine Fast or Slow Rounds
-
-The declared actions for each combatant are either ***fast*** or ***slow***.
-
-- **Fast rounds**: Spending only **one** action point.
-- **Slow rounds**: Spending **two** action points.
-
-### Step 3: Resolve Actions by Phase
-
-After determining who’s rounds will be *fast* or *slow*, the order of phases for resolving declared actions is as follows:
-
-1. Resolve all **fast** rounds.
-2. Resolve the *first* action point of  **slow** rounds.
-3. Resolve the *second* action point of **slow** rounds.
-4. Resolve **end-of-round** effects, typically conditions such as bleeding or burning and ongoing psionic effects.
-
-!!! Note
-
-	If players and opponents **both** act in the same phase, the players must make a +TACTICS roll to act before the opponents. Otherwise, players act after the opponents. Exceptional circumstances, items, or abilities may negate this requirement.
-
-### Step 4. Repeat
-
-If players and opponents are still in combat, repeat steps 1 through 4.
-
-!!! tip
-
-	Use fast rounds tactically.
-	
-	- If the GM indicates your opponent will take a slow round, you can act first with a single decisive action as a fast round.
+The results of each side’s actions occur **simultaneously**. As a result, all players declare their actions for a turn before the results of those actions are determined.
 
 ## Surprise
 
-Whether by chance or design, players and their opponents might sometimes get the drop on one another. If one side surprises the other, they get a free **action point** in which the other side can’t act. Afterward, the typical combat phases occur with declared actions and fast or slow rounds.
+Whether by chance or design, players and their opponents might sometimes get the drop on one another. If one side surprises the other, they take a free round of combat in which the other side can’t act. 
 
 Opponents who are aware of their enemy’s position can’t be surprised. This means that characters attempting to ambush an opponent must be hidden or in darkness (assuming the opponent doesn’t have night vision capabilities).
+
+## Actions
+
+A combat round represents 6 seconds of in-game time during which characters can **move** and take **one action**. An *action* can be an attack, moving for a second time, using a psionic talent, or any similar activity that takes up to 6 seconds.
+
+Details on specific actions follow:
+
+- **Interrupting actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
+- **Movement**: In-combat movement is abstracted to determine ranges to targets as described in the following Ranges section. However, having a more concrete measurement in some cases is helpful. When a character spends an *action* moving on foot, they move 10 meters.
+- **Falling prone**: Falling to the ground requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes an *action*.
+- **Attacks of opportunity**: If a combatant engaged in *close range* (up to two meters away) attempts to retreat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must take an *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
+- **Attacking**: Make an *action roll* with the modifiers based on the range to the target as described in the following Ranges section.
+
+Any action within reason is possible as long as it’s based on your character’s resources and situation and can be accomplished in six seconds of combat.
+
+Insignificant actions, such as shouting a command, opening a door, or dropping an item, are free actions and don’t require an AP.
 
 ## Ranges
 
@@ -77,15 +43,15 @@ Distance in combat is simplified into four bands: Close, Nearby, Far, and Remote
 - **Far**: Rifle range. A character must expend between 2 and 4 movement actions to traverse this distance at the GM’s discretion. Characters can shout and be heard.
 - **Remote**: Beyond effective rifle range. A character usually can't traverse such a distance within the short timespan of personal combat. Too far away for verbal communication.
 
-### Range Attack Modifiers
+### Attack Modifiers
 
-Apply the following range modifiers to the attack *action roll* based on the type of weapon used and range to the target.
+Apply the following modifiers to the attack *action roll* based on the type of weapon and range of the target.
 
 | Weapon | Close | Near | Far | Distant |
 | - | :-: | :-: | :-: | :-: |
 | Handgun | – | – | -2 | impossible |
-| Assault | -1 | – | -1 | -2 |
-| Rifle | -2 | – | – | -1 |
+| Assault Rifle | -1 | – | -1 | -2 |
+| Sniper Rifle | -2 | – | – | -1 |
 | Shotgun | – | -1 | -2 | impossible |
 | Melee | – | impossible | impossible | impossible |
 | Heavy weapon | impossible | -1 | – | – |
@@ -93,8 +59,7 @@ Apply the following range modifiers to the attack *action roll* based on the typ
 
 The following modifiers can also apply to attacks:
 
-- **Two Attacks**: You may use both *actions* in a round to attack, in which case the second attack incurs a *disadvantage* on your *action roll*.
-- **Aiming**: You may use one action to aim and the other to attack, gaining +1 on the *action roll*.
+- **Aiming**: You may use one action to aim and subsequent attacks on the same target gain +1 on the *action roll*.
 - **Prone**: Attacks from a prone position gain a +1, whereas attacks against a prone target incur a -1.
 
 ## Dealing Damage
@@ -125,7 +90,7 @@ Ranged weapons have an *ammo* score set to 6 at the beginning of each mission.
 
 **Check off 1 ammo** for any attack roll that *fails* with a 6 or less or *partially succeeds* with a 7 to 9. 
 
-When *ammo* is reduced to 0, the weapon is out of ammunition and can’t be used until it’s restocked.
+When *ammo* is reduced to 0, the weapon is out of ammunition and can’t be used until restocked.
 
 - Finding ammunition for a weapon during a mission increases *ammo* by 1.
 - Choosing *resupply* during a rendezvous, as described in the Recovery section, can refill one weapon’s *ammo* to 6.
