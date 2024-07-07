@@ -59,7 +59,7 @@ Apply the following modifiers to the attack *action roll* based on the type of w
 
 The following modifiers can also apply to attacks:
 
-- **Aiming**: You may use one action to aim and subsequent attacks on the same target gain +1 on the *action roll*.
+- **Aiming**: You may use one *action* to aim and subsequent attacks on the same target gain +1 on the *action roll*.
 - **Prone**: Attacks from a prone position gain a +1, whereas attacks against a prone target incur a -1.
 
 ## Dealing Damage
@@ -88,9 +88,9 @@ Some weapons with the *blast* quality, such as explosives, may damage all target
 
 Ranged weapons have an *ammo* score set to 6 at the beginning of each mission. 
 
-**Check off 1 ammo** for any attack roll that *fails* with a 6 or less or *partially succeeds* with a 7 to 9. 
+**Check off 1 ammo** for all attack rolls of 9 or less. 
 
-When *ammo* is reduced to 0, the weapon is out of ammunition and can’t be used until restocked.
+When *ammo* is reduced to 0, the weapon is out of ammunition and can’t be used until it’s restocked.
 
 - Finding ammunition for a weapon during a mission increases *ammo* by 1.
 - Choosing *resupply* during a rendezvous, as described in the Recovery section, can refill one weapon’s *ammo* to 6.
@@ -122,7 +122,7 @@ If you take cover behind something, you gain an armor bonus against attacks that
 - **Medium** cover protects at least half of the body and often requires crouching (for example, a car, a highway divider, or a barrel).
 - **High** cover protects the whole body and allows free positioning (for example, a wall, a thick tree trunk, or a train car).
 
-Characters who attack from behind cover should subtract the armor bonus that their cover grants from the damage they deal (this also applies to enemies).
+Characters who attack from behind cover should subtract the armor bonus that their cover grants from the damage they deal (this also applies to opponents).
 
 ### Suppressing Fire
 
@@ -168,7 +168,7 @@ HP for the mob equals the number of opponents in the mob. The size of the mob de
 
 Damage to the mob’s HP reduces the mob’s size and stats—each HP of damage reduces the mob’s number by 1.
 
-For example, you’re up against a mob of 14 opponents. With 14 HP, 3 ARMOR, and +2 DAMAGE, this mob can launch attacks on up to 4 targets. However, its size and stats are reduced after the mob sustains 5 HP of damage. The new stats for the mob would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
+For example, you’re up against a mob of 14 opponents. With 14 HP, 3 ARMOR, and +2 DAMAGE, this mob can attack up to 4 targets. After 5 HP of damage, the new stats for the mob would be 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
 
 ## Damage, Injuries, and Dying
 
