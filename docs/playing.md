@@ -18,7 +18,7 @@ The GM will ask you which attribute you’re using for your *action roll* or the
 - Roll +**STRENGTH** for displays of brawn and power, like kicking in doors, intimidating others, or using clunky, powerful weapons.
 - Roll +**REFLEXES** for feats of agility and speed, like dodging bullets, evading enemy attacks, or using light, precise weapons.
 - Roll +**TACTICS** for applications of logic and training, like maintaining a disguise, hacking into a database, or operating machinery.
-- Roll +**WILLPOWER** for expressions of presence and will, like persuasive speeches, off-the-cuff bluffing, or psionic powers.
+- Roll +**WILLPOWER** for expressions of presence and control, like persuasive speeches, off-the-cuff bluffing, or psionic talents.
 
 **Examples**:
 
