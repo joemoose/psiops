@@ -17,6 +17,7 @@
 - 0.50: Added *Skills* section; renamed *swarms* to *mobs*
 - 0.51: Changed starting attribute scores to set array rather than random rolls
 - 0.52: Clarified *Combat Actions* and *Surprise*
+- 0.53: Clarified *momentum* bonus points accumulation.
 
 # Introduction
 

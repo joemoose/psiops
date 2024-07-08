@@ -48,15 +48,14 @@ When a player makes an *action roll*, that roll can generate *momentum*. You sta
 
 Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
-- On a **7-9**, you gain 1 *momentum*.
-- On a **10–12**, you gain 2 *momentum*.
-- On a **13 or greater**, you gain 3 *momentum*.
+- On a **10–12**, you gain 1 *momentum*.
+- On a **13 or greater**, you gain 2 *momentum*.
 
 ### Accumulating Momentum
 
 Your momentum score accumulates throughout the mission and persists between sessions. 
 
-Momentum resets to its starting value at **between missions** or whenever you **heal or rest** at a rendezvous point. 
+Momentum resets to its starting value **between missions** or whenever you **heal or rest** at a rendezvous point. 
 
 ### Spending Momentum
 
