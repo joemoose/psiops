@@ -1,4 +1,4 @@
-*Version 0.52 Playtest*
+*Version 0.60 Playtest*
 
 **Change Log**:
 
@@ -18,6 +18,7 @@
 - 0.51: Changed starting attribute scores to set array rather than random rolls
 - 0.52: Clarified *Combat Actions* and *Surprise*
 - 0.53: Clarified *Momentum* bonus points accumulation.
+- 0.60: Removed modifiers for attack *action rolls*
 
 # Introduction
 

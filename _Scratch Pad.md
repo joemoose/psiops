@@ -128,3 +128,24 @@ Each squad can have only one of each combat role, with the exception of Trooper,
 	Roll a D3 and add 1 to the result. Then, roll a second D3 and subtract that result from the previous total. The resulting number is your attribute score.  
 	For example, if you first rolled a 1 (1+1=2) and then rolled a 3, your attribute score is -1.   
 	Afterward, you may optionally swap two of the scores.
+	
+	---
+	
+	### Attack Modifiers
+
+Apply the following modifiers to the attack *action roll* based on the type of weapon and range of the target.
+
+| Weapon | Close | Near | Far | Distant |
+| - | :-: | :-: | :-: | :-: |
+| Handgun | – | – | -2 | impossible |
+| Assault Rifle | -1 | – | -1 | -2 |
+| Sniper Rifle | -2 | – | – | -1 |
+| Shotgun | – | -1 | -2 | impossible |
+| Melee | – | impossible | impossible | impossible |
+| Heavy weapon | impossible | -1 | – | – |
+| Thrown | – | -1 | impossible | impossible |
+
+The following modifiers can also apply to attacks:
+
+- **Aiming**: You may use one *action* to aim and subsequent attacks on the same target gain +1 on the *action roll*.
+- **Prone**: Attacks from a prone position gain a +1, whereas attacks against a prone target incur a -1.

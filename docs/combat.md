@@ -24,11 +24,11 @@ A combat round represents 6 seconds of in-game time during which characters can 
 
 Details on specific actions follow:
 
+- **Attacking**: Ready a weapon and make an action roll as described in the following Dealing Damage section.
+- **Attacks of opportunity**: If a combatant engaged in *close range* (up to two meters away) attempts to retreat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must take an *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
+- **Falling prone**: Falling to the ground behind cover requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes an *action*.
 - **Interrupting actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 - **Movement**: In-combat movement is abstracted to determine ranges to targets as described in the following Ranges section. However, having a more concrete measurement in some cases is helpful. When a character spends an *action* moving on foot, they move 10 meters.
-- **Falling prone**: Falling to the ground requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes an *action*.
-- **Attacks of opportunity**: If a combatant engaged in *close range* (up to two meters away) attempts to retreat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must take an *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
-- **Attacking**: Make an *action roll* with the modifiers based on the range to the target as described in the following Ranges section.
 
 Any action within reason is possible as long as it’s based on your character’s resources and situation and can be accomplished in six seconds of combat.
 
@@ -41,26 +41,7 @@ Distance in combat is simplified into four bands: Close, Nearby, Far, and Remote
 - **Close**: Melee range, up to 2 meters away. A character can move this distance freely. Characters can whisper and be heard.
 - **Nearby**: Handgun range. A character can move anywhere within this distance by using one movement action. Characters can talk and be heard.
 - **Far**: Rifle range. A character must expend between 2 and 4 movement actions to traverse this distance at the GM’s discretion. Characters can shout and be heard.
-- **Remote**: Beyond effective rifle range. A character usually can't traverse such a distance within the short timespan of personal combat. Too far away for verbal communication.
-
-### Attack Modifiers
-
-Apply the following modifiers to the attack *action roll* based on the type of weapon and range of the target.
-
-| Weapon | Close | Near | Far | Distant |
-| - | :-: | :-: | :-: | :-: |
-| Handgun | – | – | -2 | impossible |
-| Assault Rifle | -1 | – | -1 | -2 |
-| Sniper Rifle | -2 | – | – | -1 |
-| Shotgun | – | -1 | -2 | impossible |
-| Melee | – | impossible | impossible | impossible |
-| Heavy weapon | impossible | -1 | – | – |
-| Thrown | – | -1 | impossible | impossible |
-
-The following modifiers can also apply to attacks:
-
-- **Aiming**: You may use one *action* to aim and subsequent attacks on the same target gain +1 on the *action roll*.
-- **Prone**: Attacks from a prone position gain a +1, whereas attacks against a prone target incur a -1.
+- **Remote**: Beyond rifle range. A character usually can't traverse such a distance within the short timespan of personal combat. Too far away for verbal communication.
 
 ## Dealing Damage
 
