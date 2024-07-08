@@ -4,9 +4,9 @@
 
 - 0.00: Draft complete; playtest
 - 0.10: Added *Swarms* mechanic; clarified *Suppressing Fire*; copy edits
-- 0.20: Added *Stress* mechanic; changed *initiative roll* to +TACTICS
-- 0.21: Choose *languages* during character creation
-- 0.22: Clarified *momentum* accumulation and maximum dice roll modifiers
+- 0.20: Added *Stress* mechanic; changed *Initiative roll* to +TACTICS
+- 0.21: Choose *Languages* during character creation
+- 0.22: Clarified *Momentum* accumulation and maximum dice roll modifiers
 - 0.30: Renamed game to *PSIOPS*; replaced *Traits* with new *Psionic Talents*; renamed *Roles* to *Drives*; changed character creation to use *random attribute starting values*; removed traits-based *starting gear*
 - 0.31: Added *Reaction Roll*, *Inventory*, *Tactical Supplies*, and *Equipment* sections
 - 0.32: Added *Armor*, *Multiple Attackers*, *Blast Damage*, *Morale Checks*, and *Retreat* sections
@@ -17,7 +17,7 @@
 - 0.50: Added *Skills* section; renamed *swarms* to *mobs*
 - 0.51: Changed starting attribute scores to set array rather than random rolls
 - 0.52: Clarified *Combat Actions* and *Surprise*
-- 0.53: Clarified *momentum* bonus points accumulation.
+- 0.53: Clarified *Momentum* bonus points accumulation.
 
 # Introduction
 

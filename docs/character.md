@@ -153,14 +153,14 @@ Your character is a steely professional and can attempt almost any action, but i
 | 46 | **Medicine**: Training in the medical sciences, from diagnosis to surgery. |
 | 51 | **Melee combat**: Fighting hand-to-hand, either with a weapon or unarmed. |
 | 52 | **Navigation**: Navigating, plotting courses, using a compass, and coordinating infantry support assets, such as artillery and strike aircraft. |
-| 53 | **Parachute**: Using all static-line and steerable parachutes, including high-altitude, low-opening (HALO) and high-altitude, high-opening (HAHO) insertions. |
+| 53 | **Parachute**: Using all static-line and steerable parachutes, including high-altitude, low-opening (HALO), and high-altitude, high-opening (HAHO) insertions. |
 | 54 | **Recon**: Scouting for danger and spotting threats. |
 | 55 | **Science**: When gaining this skill, choose a category of broad-based knowledge, such as physical or social sciences.  |
 | 56 | **Stealth**: Moving unseen and unheard. |
-| 61 | **Streetwise**: Familiarity with underworld society and its working methods. |
-| 62 | **Subaquatic**: Using a self-contained underwater breathing apparatus (SCUBA) and swimming.|
-| 63 | **Survival**: Staying alive in the wilderness. |
-| 64 | **Tactics**: Tactical planning and gaining insights on defensive positions. |
+| 61 | **Strategy**: Tactical planning, gaining advantage on the battlefield, and insights on defensive positions. |
+| 62 | **Streetwise**: Familiarity with underworld society and its working methods. |
+| 63 | **Subaquatic**: Using a self-contained underwater breathing apparatus (SCUBA) and swimming.|
+| 64 | **Survival**: Staying alive in the wilderness. |
 | 65 | **Tracking**: Identifying tracks and following the paths of people or animals from the physical signs left on the ground or through vegetation. |
 | 66 | **Watercraft**: Operating and maintaining watercraft, including submarines. |
 
