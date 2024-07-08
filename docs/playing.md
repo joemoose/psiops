@@ -116,7 +116,7 @@ As the players attempt to overcome the obstacle with *action rolls*, progress is
 - For a *complete success*, check off 2 segments.
 - For a *critical success*, check off 3 segments.
 
- When all segments are checked off, the obstacle is overcome.
+When all segments are checked off, the obstacle is overcome.
 
 Similarly, impending danger, such as the alert level of guards, may also be tracked on a *clock*. The GM checks off segments on the *clock* if players fail *action rolls* or partially succeed. The danger comes to fruition when all the segments are checked off—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
 
