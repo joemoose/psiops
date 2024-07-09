@@ -43,6 +43,20 @@ Distance in combat is simplified into four bands: Close, Nearby, Far, and Remote
 - **Far**: Rifle range. A character must expend between 2 and 4 movement actions to traverse this distance at the GM’s discretion. Characters can shout and be heard.
 - **Remote**: Heavy weapons range. A character usually can't traverse such a distance within the short timespan of personal combat. Too far away for verbal communication.
 
+### Weapon Attack Modifiers
+
+Based on the type of weapon used and the range of the target, an attack *action roll* may incur a *disadvantage* or not be possible.
+
+| Weapon | Close | Near | Far | Distant |
+| - | :-: | :-: | :-: | :-: |
+| Assault Rifle | disadvantage | – | – | impossible |
+| Handgun | – | – | disadvantage | impossible |
+| Heavy weapon | impossible | disadvantage | – | – |
+| Melee | – | impossible | impossible | impossible 
+| Shotgun | – | – | disadvantage | impossible |
+| Sniper Rifle | impossible | disadvantage | – | disadvantage |
+| Thrown | – | – | impossible | impossible |
+
 ## Dealing Damage
 
 When your character makes an *action roll* to attack an opponent, they deal damage as follows:

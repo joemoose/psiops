@@ -18,7 +18,7 @@
 - 0.51: Changed starting attribute scores to set array rather than random rolls
 - 0.52: Clarified *Combat Actions* and *Surprise*
 - 0.53: Clarified *Momentum* bonus points accumulation.
-- 0.60: Removed numerical range modifiers on attack *action rolls*
+- 0.60: Replaced numerical range modifiers on attack *action rolls* with *disadvantage*
 
 # Introduction
 
