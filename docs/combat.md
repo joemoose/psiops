@@ -25,12 +25,12 @@ A combat round represents 6 seconds of in-game time during which characters can 
 Details on specific actions follow:
 
 - **Attacking**: Ready a weapon and make an action roll as described in the following Dealing Damage section.
-- **Attacks of opportunity**: If a combatant engaged in *close range* (up to two meters away) attempts to retreat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must take an *action* to disengage, and then they must make a +REFLEXES roll to retreat without risk.
+- **Attacks of opportunity**: If a combatant engaged in *close range* (up to two meters away) attempts to retreat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must take an *action* to disengage and make a +REFLEXES roll to retreat without risk.
 - **Falling prone**: Falling to the ground behind cover requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes an *action*.
 - **Interrupting actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 - **Movement**: In-combat movement is abstracted to determine ranges to targets as described in the following Ranges section. However, having a more concrete measurement in some cases is helpful. When a character spends an *action* moving on foot, they move 10 meters.
 
-Any action within reason is possible as long as it’s based on your character’s resources and situation and can be accomplished in six seconds of combat.
+Any action within reason is possible if it’s based on your character’s resources and situation and can be accomplished in six seconds of combat.
 
 Insignificant actions, such as shouting a command, opening a door, or dropping an item, are free actions and don’t require an AP.
 
@@ -43,9 +43,9 @@ Distance in combat is simplified into four bands: Close, Nearby, Far, and Remote
 - **Far**: Rifle range. A character must expend between 2 and 4 movement actions to traverse this distance at the GM’s discretion. Characters can shout and be heard.
 - **Remote**: Heavy weapons range. A character usually can't traverse such a distance within the short timespan of personal combat. Too far away for verbal communication.
 
-### Weapon Attack Modifiers
+### Weapon Range Modifiers
 
-Based on the type of weapon used and the range of the target, an attack *action roll* may incur a *disadvantage* or not be possible.
+Based on the type of weapon and target range, an attack *action roll* may incur a *disadvantage* or not be possible.
 
 | Weapon | Close | Near | Far | Distant |
 | - | :-: | :-: | :-: | :-: |
@@ -203,4 +203,4 @@ Players are safe as long as they remain at the rendezvous point. Each player at 
 
 A character can’t heal HP when recovering at a rendezvous point if deprived of a crucial need (such as food, water, or warmth). Anyone deprived for more than a day adds *fatigue* to their inventory, one unit of *fatigue* each day. 
 
-Characters can also gain *fatigue* in other ways during play, such as from ability use, specific events in the narrative, or failed *action rolls*. Each unit of *fatigue* occupies one inventory slot and lasts until the character rests at a rendezvous point or between missions.
+Characters can also gain *fatigue* during play, such as from ability use, specific events in the narrative, or failed *action rolls*. Each unit of *fatigue* occupies one inventory slot and lasts until the character rests at a rendezvous point or between missions.

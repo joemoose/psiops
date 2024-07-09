@@ -6,6 +6,6 @@ PSIOPS isn't your typical adventure role-playing game. It’s a unique squad-lev
 
 Regarding the game’s narrative content and subject matter, you can establish boundaries that should not be crossed. These boundaries define the content excluded from the story and omitted during play.
 
-Feel free to pause or rewind the game if something makes anyone uncomfortable during a session. It’s important to ensure that everyone is on board with the storyline.
+Feel free to pause or rewind the game if something makes anyone uncomfortable during a session. It’s essential to ensure that everyone is on board with the storyline.
 
 Be respectful, be kind, and have fun!

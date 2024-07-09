@@ -8,7 +8,7 @@ Imagine you’re an elite military operative, but you don’t fit the typical mo
 
 To create a new character, follow these steps:
 
-1. Assign each of the following scores to your four attributes—STRENGTH, REFLEXES, TACTICS, and WILLPOWER—in any order you want: **2**, **1**, **0**, and **-1**.
+1. Assign the following scores to your four attributes—STRENGTH, REFLEXES, TACTICS, and WILLPOWER—in any order you want: **2**, **1**, **0**, and **-1**.
 2. Roll a D66 to select your character’s **Drive** from the following Drives table.
 	- You can’t select a drive that another player on the team already has—reroll duplicates.
 3. Roll a D66 twice to select two starting **Psionic Talents** from the following Psionic Talents table.
@@ -33,7 +33,7 @@ Each drive description includes a backstory element that you create for your cha
 | 12 | **Amnesiac**: Describe the most recent event you remember, such as waking up in a vat a week ago or learning your name from the unfamiliar wallet in your coat. Advance if your understanding of yourself or the world changes dramatically throughout the mission.
 | 13 | **Avenger**: Describe someone who wronged you and what they did. Advance if something you did brought you closer to exacting your revenge or decisively stopped a similar injustice.
 | 14 | **Chessmaster**: Describe what you plan to do with absolute power. Advance if something you did brought you closer, on a long-term scale, to holding a position of extreme power over a large group of people.
-| 15 | **Cleanup**: Describe a far-reaching and complex catastrophe that you are responsible for. Advance if you meaningfully healed some piece of its aftermath or the aftermath of a similar catastrophe.
+| 15 | **Cleanup**: Describe a far-reaching and complex catastrophe for which you are responsible. Advance if you meaningfully healed some piece of its aftermath or the aftermath of a similar catastrophe.
 | 16 | **Crusader**: Describe an ethical ideal you hold dear but that’s not easy to achieve. Advance if something you did aligned with this ethical ideal, even though sticking to your scruples made your life harder.
 | 21 | **Cultist**: Describe the esoteric religious sect you belong to and the chilling prophecy you believe in. Advance if you drafted someone of importance or power into your cult or turned the cosmic clock closer to your hallowed day of reckoning.
 | 22 | **Dealmaker**: Describe your foolproof strategy to close any deal. Advance if you end the mission with significantly more wealth, influence, or capital than you had initially.
@@ -123,7 +123,11 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 
 ### Skills
 
-Your character is a steely professional and can attempt almost any action, but if you’re trained in a relevant skill, you have a better chance of success. Each of the following skills represents an area of expertise. Unlike attributes, skills don’t have an associated number—you either have a skill or you don’t. When you attempt an action with an applicable skill and make an *action roll*, you can re-roll one of the dice, but you must use the second result.
+Your character is a steely professional and can attempt almost any action, but if you’re trained in a relevant skill, you have a better chance of success.
+
+Each of the following skills represents an area of expertise. Unlike attributes, skills don’t have an associated number—you either have a skill or you don’t.
+
+When you attempt an action with an applicable skill and make an *action roll*, you can re-roll one of the dice, but you must use the second result.
 
 | D66 | Skill |
 | :-: | :- |
