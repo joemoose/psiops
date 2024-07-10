@@ -149,3 +149,8 @@ The following modifiers can also apply to attacks:
 
 - **Aiming**: You may use one *action* to aim and subsequent attacks on the same target gain +1 on the *action roll*.
 - **Prone**: Attacks from a prone position gain a +1, whereas attacks against a prone target incur a -1.
+
+
+## Multiple Attackers
+
+If multiple attackers target the same target, determine all damage and keep only the highest result each round.

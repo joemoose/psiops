@@ -38,36 +38,36 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 
 !!! note "Notes"
 
-	- Given sufficient time, relevant skill, and the proper equipment, your actions will generally always succeed—the GM won't call for an action roll.
-	- However, if one of these three requirements is missing, an action roll would be required to determine an outcome.
+	- Given sufficient *time*, relevant *skill*, and the proper *equipment(), your actions will generally always succeed—the GM won't call for an *action roll*.
+	- However, if one of these three requirements is missing, an *action roll* would be required to determine an outcome.
 	- The action would generally be impossible if two or more of these requirements were missing. It’s time to consider a new approach!
 
 ## Momentum
 
-When a player makes an *action roll*, that roll can generate *momentum*. You start each mission session with 2 *momentum*  points and generate more when you make successful *action rolls*. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
+When a player makes an *action roll*, that roll can generate *momentum*. You start each mission session with 2 momentum points and generate more when you make successful *action rolls*. You can spend your *momentum* to receive various bonuses or resist incoming consequences.
 
 Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
-- On a **10–12**, you gain 1 *momentum* point.
-- On a **13 or greater**, you gain 2 *momentum* points.
+- On a **10–12**, you gain 1 momentum point.
+- On a **13 or greater**, you gain 2 momentum points.
 
 ### Accumulating Momentum
 
-Your momentum score accumulates throughout the mission and persists between sessions. 
+Your momentum points accumulate throughout the mission and persist between sessions. 
 
-Momentum resets to its starting value **between missions** or whenever you **heal or rest** at a rendezvous point. 
+Your momentum points reset to their starting value **between missions** or whenever you **heal or rest** at a rendezvous point. 
 
 ### Spending Momentum
 
-You can spend your *momentum* to receive bonuses or resist incoming consequences.
+You can spend your momentum points to receive bonuses or resist incoming consequences.
 
 !!! note 
 
 	When you spend *momentum* on a roll, that roll can’t, in turn, generate *momentum*.
 
-- **ASSIST**: Spend 1 *momentum* point to add *advantage* to an ally’s *action roll*. Doing this exposes your character to the same risks.
+- **ASSIST**: Spend 1 momentum point to add *advantage* to an ally’s *action roll*. Doing this exposes your character to the same risks.
 
-- **PUSH YOURSELF**: Spend 2 *momentum* points per push to gain one of the following effects:
+- **PUSH YOURSELF**: Spend 2 momentum points per push to gain one of the following effects:
 
 	- Gain an *advantage* on your *action roll*.
 	- Increase the *effect* of your action beyond what would have been achieved otherwise.
@@ -75,24 +75,26 @@ You can spend your *momentum* to receive bonuses or resist incoming consequences
 
 - **DETERMINATION ROLL**: If your character suffers a *consequence* that you don’t like as a player, you can try to resist it. You do so by calling for a *determination roll* to see how well you resist the *consequence*.
 
-    Spend 3 *momentum* points to resist or limit your or someone else’s *consequence* from a failed roll. Roll **2D6 + Attribute**:
+    Spend 3 momentum points to resist or limit your or someone else’s *consequence* from a failed roll. Roll **2D6 + Attribute**:
 
 	- On a **6 or less**, the *consequence* still happens.
 	- On a **7–9**, the *consequence* is reduced.
 	- On a **10–12**, the *consequence* is avoided.
 	- On a **13 or greater**, the *consequence* is avoided, and your next *action roll* has an *advantage*.
 
-- **FLASHBACKS**: Spend 4 *momentum* points to call for a scene that has happened in the past to affect what hasn’t been established in the fiction yet.
+- **FLASHBACKS**: Spend 4 momentum points to call for a scene that has happened in the past to affect what hasn’t been established in the fiction yet.
 
 ## Advantages and Disadvantages
 
 When your *action roll* has an ***advantage***, such as pushing yourself with *momentum*, roll 3D6 +Attribute and drop the *lowest* D6 result.
 
-If your action is more difficult than typical through circumstances in the narrative, the roll may have a ***disadvantage*** per the GM; roll 3D6 +Attribute and drop the *highest* D6 result.
+If your action is more difficult than typical through circumstances in the narrative, such as firing a weapon beyond its effective range, the roll may have a ***disadvantage*** per the GM; roll 3D6 +Attribute and drop the *highest* D6 result.
 
-!!! note
+!!! note "Notes"
 
-	If the roll has both an *advantage* and a *disadvantage*, they cancel each other out; roll 2D6 +Attribute as usual.
+	- If the roll has both an *advantage* and a *disadvantage*, they cancel each other out; roll 2D6 +Attribute as usual.
+	- Multiple advantages don't stack; you roll 3D6 at most.
+	- However, an action with multiple advantages might not be considered risky and succeed automatically per the GM.
 
 ## Adding Tension
 
@@ -127,5 +129,3 @@ When you encounter an NPC whose reaction to your team is not obvious, the GM may
 | 2 | 3–5 | 6–8 | 9–11 | 12 |
 | :-: | :-: | :-: | :-: | :-: |
 | Hostile | Wary | Curious | Friendly | Helpful |
-
-

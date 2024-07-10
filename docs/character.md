@@ -13,7 +13,7 @@ To create a new character, follow these steps:
 	- You can’t select a drive that another player on the team already has—reroll duplicates.
 3. Roll a D66 twice to select two starting **Psionic Talents** from the following Psionic Talents table.
 4. Roll a D66 twice to select two starting **Skills** from the following Skills table.
-5. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum** to 2.
+5. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum Points (MP)** to 2.
 6. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choosing to your inventory.
 	- See the following equipment lists for examples.
 7. Set your **Armor** equal to the total armor bonuses supplied by your gear.
@@ -77,9 +77,9 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 
 !!! note
 
-	Some ongoing psionic talents require that you maintain concentration to enable your power.
+	Some ongoing psionic talents require that you maintain *concentration* to enable your power.
 	
-	- You must spend one *action* each round to concentrate on maintaining your power.
+	- You must spend an *action* each round to concentrate on maintaining your power.
 	- If you take damage or stop concentrating, your focus is broken, and the power ceases.
 
 | D66 | Psionic Talents |
@@ -127,7 +127,7 @@ Your character is a steely professional and can attempt almost any action, but i
 
 Each of the following skills represents an area of expertise. Unlike attributes, skills don’t have an associated number—you either have a skill or you don’t.
 
-When you attempt an action with an applicable skill and make an *action roll*, you can re-roll one of the dice, but you must use the second result.
+**When you attempt an action with an applicable skill** and make an *action roll*, you can re-roll one of the dice, but you must use the second result.
 
 | D66 | Skill |
 | :-: | :- |

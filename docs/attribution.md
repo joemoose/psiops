@@ -15,4 +15,4 @@
 
 ## License
 
-PSIOPS by Zachary Taylor is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). 
+PSIOPS by [Zachary Taylor](https://zacharytaylor.itch.io) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).

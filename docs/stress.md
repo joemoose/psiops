@@ -2,7 +2,7 @@
 
 ## Introduction
 
-During a mission, your character will accumulate stress. The maximum stress level is 6. When your character reaches the maximum level, you must make an *action roll* +WILLPOWER to avoid panicking or to possibly rise to the occasion with transcendent zeal.
+During a mission, your character will accumulate stress. The maximum stress level is 6. When your character meets or exceeds the maximum level, you must make an *action roll* +WILLPOWER to avoid panicking or to possibly rise to the occasion with transcendent zeal.
 
 ## Sources of Stress
 
@@ -67,8 +67,3 @@ Whenever your character becomes transcendent, roll 1D6 and consult the following
 | 4 | **Focused**: *Advantage* on all +WILLPOWER rolls. |
 | 5 | **Powerful**: *Advantage* on all +STRENGTH rolls. |
 | 6 | **Stalwart**: You gain +1 ARMOR. |
-
-
-
-
-

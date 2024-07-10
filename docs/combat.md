@@ -22,17 +22,17 @@ Opponents who are aware of their enemy’s position can’t be surprised. This m
 
 A combat round represents 6 seconds of in-game time during which characters can **move** and take **one action**. An *action* can be an attack, moving for a second time, using a psionic talent, or any similar activity that takes up to 6 seconds.
 
+Insignificant actions, such as shouting a command, opening a door, or dropping an item, are free actions.
+
 Details on specific actions follow:
 
-- **Attacking**: Ready a weapon and make an action roll as described in the following Dealing Damage section.
+- **Attacking**: With a ready a weapon, make an *action roll* as described in the following Dealing Damage section. The *action roll* may be at a *disadvantage* based on the type of weapon used and the target range. See the Ranges section for details.
 - **Attacks of opportunity**: If a combatant engaged in *close range* (up to two meters away) attempts to retreat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must take an *action* to disengage and make a +REFLEXES roll to retreat without risk.
 - **Falling prone**: Falling to the ground behind cover requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes an *action*.
 - **Interrupting actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
 - **Movement**: In-combat movement is abstracted to determine ranges to targets as described in the following Ranges section. However, having a more concrete measurement in some cases is helpful. When a character spends an *action* moving on foot, they move 10 meters.
 
 Any action within reason is possible if it’s based on your character’s resources and situation and can be accomplished in six seconds of combat.
-
-Insignificant actions, such as shouting a command, opening a door, or dropping an item, are free actions and don’t require an AP.
 
 ## Ranges
 
@@ -45,7 +45,7 @@ Distance in combat is simplified into four bands: Close, Nearby, Far, and Remote
 
 ### Weapon Range Modifiers
 
-Based on the type of weapon and target range, an attack *action roll* may incur a *disadvantage* or not be possible.
+Based on the type of weapon used and the target range, an attack *action roll* may incur a *disadvantage* or not be possible.
 
 | Weapon | Close | Near | Far | Distant |
 | - | :-: | :-: | :-: | :-: |
