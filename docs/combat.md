@@ -169,9 +169,9 @@ For example, you’re up against a mob of 14 opponents. With 14 HP, 3 ARMOR, and
 
 If you take damage but have at least 1 HP remaining, you’re still on your feet and in the fight. However, if you drop to 0 or less HP, you must roll **2D6 + STRENGTH** *minus* any damage past zero to see how bad it is:
 
-- On a **6 or less**, for a lethal attack, such as a gunshot, you’re **dead**. If not, you’re at 0 HP, incapacitated, and gain an *injury*. Incapacitated characters will die in 10 minutes if left unattended. 
-- On a **7-12**, you remain alive with 1 HP and gain an *injury*. You must make a successful **+STRENGTH** roll or be knocked unconscious. An ally can revive unconscious characters.
-- On a **13 or more**, you gain an *injury* but rally with HP equal to the lowest D6 rolled, up to your maximum HP.
+- On a **6 or less**, for a lethal attack, such as a gunshot, you’re **dead**. If not, you’re at 0 HP, incapacitated, and gain an *injury* and 1 point of *stress*. Incapacitated characters will die in 10 minutes if left unattended. 
+- On a **7-12**, you remain alive with 1 HP and gain an *injury* and 1 point of *stress*. You must make a successful **+STRENGTH** roll or be knocked unconscious. An ally can revive unconscious characters.
+- On a **13 or more**, you gain an *injury* and 1 point of *stress*, but rally with HP equal to the lowest D6 rolled, up to your maximum HP.
 
 ### Injuries
 

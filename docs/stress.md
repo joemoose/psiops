@@ -9,6 +9,7 @@ During a mission, your character will accumulate stress. The maximum stress leve
 A primary source of stress is combat, for example:
 
 - Suffering damage
+- Gaining an *injury*
 - Getting knocked unconscious
 - Seeing a team member or civilian die
 - Riding in a vehicle that takes a hit from a heavy weapon
@@ -28,7 +29,7 @@ There are also several ways to gain stress outside of combat, for example:
 
 You can reduce your stress level during a mission in several ways:
 
-- Spend 1 point of *momentum* to remove 1 stress point.
+- Spend 1 momentum point to remove 1 stress.
 - Rest at a rendezvous point to remove 1D6 stress.
 - Overcome a notable opponent or obstacle to remove 1 stress.
 
@@ -40,7 +41,6 @@ Whenever you reach 6 stress points or more, you must roll +WILLPOWER to avoid an
 - On a **7–9**, you keep it together and remove 1 stress point.
 - On a **10–12**, you keep it together and remove 2 stress points.
 - On a **13 or greater**, remove all stress and become *transcendent*. You’re in the zone. To determine the effect, roll 1D6 and consult the following Transcendent Table for the result.
-
 
 ### Panic Table
 
@@ -61,7 +61,7 @@ Whenever your character becomes transcendent, roll 1D6 and consult the following
 
 | D6 | Effect |
 | :-: | :- |
-| 1 |  **Courageous**:  Whenever you *succeed* at an *action roll*, allies within sight remove 2 stress. |
+| 1 |  **Courageous**:  Whenever you *succeed* at an *action roll*, allies within sight remove 1 stress. |
 | 2 | **Cunning**: *Advantage* on all +TACTICS rolls.  |
 | 3 | **Dexterous**: *Advantage* on all +REFLEXES rolls. |
 | 4 | **Focused**: *Advantage* on all +WILLPOWER rolls. |
