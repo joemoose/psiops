@@ -86,7 +86,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | :-: | :- |
 | 11 | **Attribute boost**: Increase all attribute scores by 1 point for your next action. |
 | 12 | **Augmented speed**: Move twice as fast while maintaining concentration. |
-| 13 | **Augmented strength**: Gain +1D3 to +STRENGTH rolls, as well as all melee and unarmed damage rolls for the duration of the battle. |
+| 13 | **Augmented strength**: Gain +1D3 to +STRENGTH rolls for the duration of a battle. |
 | 14 | **Blink**: Teleport once to any point within 1 kilometer, as long as you have a direct line of sight to it or have been there previously. |
 | 15 | **Choke**: Telekinetically grab one humanoid creature by its throat (or analogous body part) and strangle them for 1D6 damage, ignoring their armor. |
 | 16 | **Clairvoyance**: Psionically watch and listen at a spot that you choose within 1 kilometer while maintaining concentration. This power ignores solid objects, and you don't have to be familiar with the location in question—you can specify a location by simply stating the direction and distance. |
