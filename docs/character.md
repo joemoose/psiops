@@ -191,7 +191,7 @@ Examples of gear classified as standard Tactical Supplies:
 - Bandages
 - Food and water
 - Gun-mounted flashlight
-- Night-vision goggles
+- Night-vision device
 - Rope
 - Sleeping bag
 - Walkie-talkie
