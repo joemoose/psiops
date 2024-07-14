@@ -28,8 +28,8 @@ Details on specific actions follow:
 
 - **Attacking**: With a ready a weapon, make an *action roll* as described in the following Dealing Damage section. The *action roll* may be at a *disadvantage* based on the type of weapon used and the target range. See the Ranges section for details.
 - **Attacks of opportunity**: If a combatant engaged in *close range* (up to two meters away) attempts to retreat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must take an *action* to disengage and make a +REFLEXES roll to retreat without risk.
-- **Falling prone**: Falling to the ground behind cover requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes an *action*.
-- **Interrupting actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” When the conditions are met, you can act instantly, interrupting the opponent’s action.
+- **Falling prone**: Falling to the ground behind low cover requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes an *action*.
+- **Interrupting actions**: You can hold your *action* and specify under what conditions you’ll act. For example, “I hold my action until I see an enemy come around the corner.” If the conditions are met, you can act instantly, interrupting the opponent’s action.
 - **Movement**: In-combat movement is abstracted to determine ranges to targets as described in the following Ranges section. However, having a more concrete measurement in some cases is helpful. When a character spends an *action* moving on foot, they move 10 meters.
 
 Any action within reason is possible if it’s based on your character’s resources and situation and can be accomplished in six seconds of combat.
@@ -41,7 +41,7 @@ Distance in combat is simplified into four bands: Close, Nearby, Far, and Remote
 - **Close**: Melee range, up to 2 meters away. A character can move this distance freely. Characters can whisper and be heard.
 - **Nearby**: Handgun range. A character can move anywhere within this distance by using one movement action. Characters can talk and be heard.
 - **Far**: Rifle range. A character must expend between 2 and 4 movement actions to traverse this distance at the GM’s discretion. Characters can shout and be heard.
-- **Remote**: Heavy weapons range. A character usually can't traverse such a distance within the short timespan of personal combat. Too far away for verbal communication.
+- **Remote**: Heavy weapons range. A character usually can't traverse such a distance within the short timespan of personal combat but, if required, will take 8 or more movement actions at the GM’s discretion. Too far away for verbal communication.
 
 ### Weapon Range Modifiers
 
