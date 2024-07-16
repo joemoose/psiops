@@ -258,7 +258,7 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 | Entrenching tool | Folding spade |
 | Escape and evasion kit | Gold coin, lock picks, universal handcuff key, local currency, phrase book, and map, etc. |
 | Extended operations kit | Extra fatigues, mess kit, rations for 2 days, extra 4 liters of water |
-| Filter mask | Protects against tear, mustard, and chlorine gas, but not nerve agents |
+
 | Flashlight | Attaches to a gun barrel |
 | Ghillie suit | Camouflaged over-suit designed to resemble background foliage |
 | Grenade, riot agent | Tear gas |
@@ -273,6 +273,8 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 | Notebook and pen | For taking notes, frequencies, coordinates, etc. |
 | Parachute | Steerable parachute, with reserve |
 | Poncho liner | A warm waterproof liner that can act as a blanket, mattress, camo hide, or shelter |
+| Protective mask | Protects against tear, mustard, chlorine gas, or other respiratory agents. |
+| Protective suit | A full-body suit that protects against direct contact with and contamination by radioactive, biological, or chemical substances. |
 | Rations, one day | Two pre-cooked meals, eaten hot or cold |
 | Riot Shield | +1 armor |
 | Rope | 25 meters of 1cm-thick nylon rope |
