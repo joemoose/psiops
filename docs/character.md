@@ -273,7 +273,7 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 | Parachute | Steerable parachute, with reserve |
 | Poncho liner | A warm waterproof liner that can act as a blanket, mattress, camo hide, or shelter |
 | Protective mask | Protects against tear, mustard, chlorine gas, or other respiratory agents. |
-| Protective suit | A full-body suit that protects against direct contact with and contamination by radioactive, biological, or chemical substances. |
+| Protective suit | A full-body over-suit that protects against direct contact with and contamination by radioactive, biological, or chemical substances. |
 | Rations, one day | Two pre-cooked meals, eaten hot or cold |
 | Riot Shield | +1 armor |
 | Rope | 25 meters of 1cm-thick nylon rope |
