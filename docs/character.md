@@ -181,9 +181,9 @@ You can’t carry more items than your inventory allows.
 
 ## Tactical Supplies
 
-Tactical supplies are an abstract collection of small, mission-related, standard-issue military gear such as rope, flashlights, multitools, and ammunition. You generally start each mission with two units of tactical supplies. Spent supplies are restocked between missions back at base. 
+Tactical supplies are an abstract collection of small, mission-related, standard-issue military gear such as rope, flashlights, multitools, and ammunition. You generally start each mission with three units of tactical supplies. Spent supplies are restocked between missions back at base. 
 
-Supplies mean you don’t have to decide beforehand all the sundry gear your character needs to pack before embarking on their mission. Whenever you need a specific piece of gear during a mission, you declare what you need, and the GM determines if the item can be classified as a standard tactical supply. If the GM approves, remove one *tactical supply* from your inventory, and you now have that item. 
+Supplies mean you don’t have to decide beforehand all the sundry gear your character needs to pack before embarking on their mission. Whenever you need a specific piece of gear during a mission, you declare what you need, and the GM determines if the item can be classified as a standard tactical supply. If the GM approves, mark off one usage of *tactical supply* from your inventory, and you now have that item. 
 
 Examples of gear classified as standard Tactical Supplies:
 
@@ -227,7 +227,7 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 - Individual first-aid kit
 - Paracord, 20m
 - Poncho
-- Radio, squad (range 1km-5km)
+- Radio, squad (range 1km)
 - Snacks (energy bars, etc.)
 
 ### Weapons
@@ -252,19 +252,18 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 | Bolt cutters | Cuts wires or bolts up to 6mm thick |
 | C-4 demolition kit | 3 x 500g blocks of plastic explosives with detonators, command wires, and firing trigger |
 | Camcorder | For recon use or evidence gathering |
-| Compass and maps | Often used with a GPS tracker |
+| Compass and maps | Overland navigation |
 | Detcord | Used to breach doors or walls |
-| Dive equipment | Complete SCUBA gear with tank |
+| Dive equipment | Complete SCUBA gear with air tank |
 | Entrenching tool | Folding spade |
 | Escape and evasion kit | Gold coin, lock picks, universal handcuff key, local currency, phrase book, and map, etc. |
 | Extended operations kit | Extra fatigues, mess kit, rations for 2 days, extra 4 liters of water |
-
 | Flashlight | Attaches to a gun barrel |
 | Ghillie suit | Camouflaged over-suit designed to resemble background foliage |
 | Grenade, riot agent | Tear gas |
 | Grenade, smoke | Used for signaling or as cover |
 | Grenade, stun | Flashbang |
-| Ladder, folding | Used to scale low walls |
+| Ladder, folding | Used to scale walls |
 | Laser designator | Laser target designator on a short tripod |
 | Machete | For clearing vegetation |
 | Medical bag | Used by combat medics |
