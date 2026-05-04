@@ -15,10 +15,11 @@ edit_uri: blob/main/docs
 
 nav:
   - 'Introduction': index.md
-  - playing.md
   - character.md
+  - playing.md
   - combat.md
   - stress.md
+  - summary.md
   - attribution.md
     
 # Theme

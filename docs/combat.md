@@ -55,6 +55,11 @@ Depending on the weapon type and target range, an attack *action roll* may be at
 | Sniper Rifle | impossible | disadvantage | – | disadvantage |
 | Thrown | – | – | impossible | impossible |
 
+The following modifiers also apply to attacks.
+
+- **Aiming**: You may use one *action* to aim, and subsequent attacks against the same target gain *advantage*.
+- **Prone**: Attacks from a prone position gain *advantage*, whereas attacks against a prone target incur *disadvantage*.
+
 ## Dealing Damage
 
 When your character makes an *action roll* to attack an opponent, they deal damage as follows:

@@ -65,7 +65,7 @@ You can spend your momentum points to gain bonuses or resist incoming consequenc
 
 	When you spend *momentum* on a roll, that roll can’t, in turn, generate *momentum*.
 
-- **ASSIST**: Spend 1 momentum point to give *advantage* to an ally’s *action roll*. Doing so exposes your character to the same risks.
+- **ASSIST**: Consume 1 point of *momentum* to grant *advantage* on an ally’s *action roll*. Doing so exposes your character to the same risks.
 
 - **PUSH YOURSELF**: Spend 2 momentum points per push to gain one of the following effects:
 
@@ -92,7 +92,7 @@ If your action is more difficult than usual due to narrative circumstances, such
 
 !!! note "Notes"
 
-	- If the roll has both an *advantage* and a *disadvantage*, they cancel each other out; roll 2D6 +Attribute as usual.
+	- If the roll has both *advantage* and *disadvantage*, they cancel each other out; roll 2D6 +Attribute as usual.
 - Multiple advantages don't stack; you roll at most 3D6.
 - However, an action with multiple advantages might not be considered risky and could succeed automatically, at the GM's discretion.
 
