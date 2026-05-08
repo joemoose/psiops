@@ -44,12 +44,12 @@ Whenever you reach 6 or more stress points, you must roll +WILLPOWER to avoid ad
 
 ### Panic Table
 
-Whenever your character panics, roll 1D6 and consult the table below to determine the effect. The effect lasts for the duration of the mission or until you heal or rest at a rendezvous point. Multiple panic effects stack.
+Whenever your character panics, roll 1D6 and consult the table below to determine the effect. The effect lasts for the duration of the mission or until you heal or rest at a rendezvous point. Panic effects stack.
 
 | D6 | Effect |
 | :-: | :- |
 | 1 | **Fearful**: *Disadvantage* on all your *action rolls* in combat. |
-| 2 | **Frail**: You have -1 to armor. |
+| 2 | **Frail**: You have -1 to your armor. |
 | 3 | **Hopeless**: You fail all your *initiative rolls*. |
 | 4 | **Insulting**: Allies gain 1 stress whenever you see them fail an *action roll*. |
 | 5 | **Reckless**: You lose all your *momentum* and no longer gain any. |
@@ -57,12 +57,12 @@ Whenever your character panics, roll 1D6 and consult the table below to determin
 
 ### Transcendent Table
 
-Whenever your character becomes transcendent, roll 1D6 and consult the table below for the effect. The effect lasts for the duration of the mission or until you heal or rest at a rendezvous point. Multiple transcendent effects stack.
+Whenever your character becomes transcendent, roll 1D6 and consult the table below to determine the effect. The effect lasts for the duration of the mission or until you heal or rest at a rendezvous point. Multiple transcendent effects stack.
 
 | D6 | Effect |
 | :-: | :- |
-| 1 |  **Courageous**:  Whenever you *succeed* on an *action roll*, allies within sight remove 1 stress. |
-| 2 | **Cunning**: *Advantage* on all +TACTICS rolls.  |
+| 1 | **Courageous**: Whenever you *succeed* on an *action roll*, allies within sight remove 1 stress. |
+| 2 | **Cunning**: *Advantage* on all +TACTICS rolls. |
 | 3 | **Dexterous**: *Advantage* on all +REFLEXES rolls. |
 | 4 | **Focused**: *Advantage* on all +WILLPOWER rolls. |
 | 5 | **Powerful**: *Advantage* on all +STRENGTH rolls. |

@@ -4,12 +4,12 @@
 
 One person is the game master (GM), and the rest are players.
 
-- **GM**: Guide the story, make rulings, and present challenges to the group. Be a fan of the players. Ask them questions and fill the world with their answers.
-- **Players**: Narrate what your character does. Make *action rolls* when the situation is risky. Give everyone time to shine. Fill the world with your ideas. Take risks and rise from failure.
+- **GM**: Guide the story, make rulings, and present challenges to the group. Be a fan of the players. Ask them questions and flesh out the world with their answers.
+- **Players**: Narrate your character's actions. Make *action rolls* when the situation is risky. Give everyone time to shine. Fill the world with your ideas. Take risks and learn from failure.
 
 ## Action Rolls
 
-When you need to overcome a challenge with a risk of failure, make an *action roll*. This roll resolves the action for your character and any GM-controlled characters involved.
+When you need to overcome a challenge that carries a risk of failure, make an *action roll*. This roll resolves the action for your character and any GM-controlled characters involved.
 
 ### 1. Choose an Attribute
 
@@ -34,28 +34,28 @@ Roll **2D6 + Attribute**. The total determines your degree of success as follows
 - On a **6 or less**, it’s a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
 - On a **7–9**, it’s a **partial success**. You achieve your goal, but with an unexpected complication.
 - On a **10–12**, it’s a **success**. You achieve your goal.
-- On a **13 or greater**, it’s a **critical success**. You achieve your goal, and things go better than expected.
+- On a **13 or higher**, it’s a **critical success**. You achieve your goal, and things go better than expected.
 
 !!! note "Notes"
 
 	- With sufficient *time*, relevant *skill*, and the proper *equipment*, your actions will generally succeed—the GM won't call for an *action roll*.
 	- However, if any of these three requirements is missing, an *action roll* is required to determine the outcome.
-	- If two or more of these requirements are missing, the action is generally impossible. It’s time to consider a new approach!
+	- If two or more of these requirements are missing, the action is generally impossible. It’s time to consider a new approach.
 
 ## Momentum
 
-When a player makes an *action roll*, the roll can generate *momentum*. You start each mission session with 2 momentum points and gain more from successful *action rolls*. You can spend your *momentum* to gain bonuses or resist incoming consequences.
+When a player makes an *action roll*, the roll can generate *momentum*. You start each mission session with 2 momentum points and gain additional momentum from successful *action rolls*. You can spend your *momentum* to gain bonuses or resist incoming consequences.
 
 Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
 - On a **10–12**, you gain 1 momentum point.
-- On a **13 or greater**, you gain 2 momentum points.
+- On a **13 or higher**, you gain 2 momentum points.
 
 ### Accumulating Momentum
 
 Your momentum points accumulate throughout the mission and carry over between sessions. 
 
-Your momentum points reset to their starting value **between missions** or whenever you **heal or rest** at a rendezvous point. 
+They reset to their starting value **between missions** or whenever you **heal or rest** at a rendezvous point. 
 
 ### Spending Momentum
 
@@ -65,22 +65,22 @@ You can spend your momentum points to gain bonuses or resist incoming consequenc
 
 	When you spend *momentum* on a roll, that roll can’t, in turn, generate *momentum*.
 
-- **ASSIST**: Consume 1 point of *momentum* to grant *advantage* on an ally’s *action roll*. Doing so exposes your character to the same risks.
+- **ASSIST**: Consume 1 *momentum* point to grant *advantage* on an ally’s *action roll*. Doing so exposes your character to the same risks.
 
-- **PUSH YOURSELF**: Spend 2 momentum points per push to gain one of the following effects:
+- **PUSH YOURSELF**: Spend 2 *momentum* points per push to gain one of the following effects:
 
 	- Gain *advantage* on your *action roll*.
-	- Increase the *effect* of your action beyond what it would otherwise achieve.
+	- Increase the *effect* of your action beyond its normal outcome.
 	- Take another action.
 
 - **DETERMINATION ROLL**: If your character suffers a *consequence* you don’t like as a player, you can try to resist it. You do so by calling for a *determination roll* to see how well you resist the *consequence*.
 
-    Spend 3 momentum points to resist or limit your or someone else’s *consequence* resulting from a failed roll. Roll **2D6 + Attribute**:
+    Spend 3 momentum points to resist or limit your or someone else’s *consequence* from a failed roll. Roll **2D6 + Attribute**:
 
-	- On a **6 or less**, the *consequence* still happens.
-	- On a **7–9**, the *consequence* is reduced.
-	- On a **10–12**, the *consequence* is avoided.
-	- On a **13 or greater**, the *consequence* is avoided, and your next *action roll* has *advantage*.
+	- On a **6 or lower**, the *consequence* still occurs.
+- On a **7–9**, the *consequence* is reduced.
+- On a **10–12**, the *consequence* is avoided.
+- On a **13 or higher**, the *consequence* is avoided, and your next *action roll* has *advantage*.
 
 - **FLASHBACKS**: Spend 4 momentum points to recall a scene from your past, affecting what hasn’t yet been established in the fiction.
 
@@ -93,8 +93,8 @@ If your action is more difficult than usual due to narrative circumstances, such
 !!! note "Notes"
 
 	- If the roll has both *advantage* and *disadvantage*, they cancel each other out; roll 2D6 +Attribute as usual.
-- Multiple advantages don't stack; you roll at most 3D6.
-- However, an action with multiple advantages might not be considered risky and could succeed automatically, at the GM's discretion.
+	- Multiple advantages don't stack; you roll at most 3D6.
+	- However, an action with multiple advantages might not be considered risky and could succeed automatically at the GM's discretion.
 
 ## Adding Tension
 
@@ -102,7 +102,7 @@ To add tension to your *action roll*, ask the GM, “What would adding tension l
 
 **If you accept the additional consequence**, your *action roll* has *advantage*.
 
-Accepting or rejecting this “Devil’s Bargain” is always a free choice. If you don’t like the stated *consequence*, reject it (or suggest how to alter it so you might consider taking it). Alternatively, you could spend your *momentum* to push yourself and gain *advantage* rather than adding tension. 
+Accepting or rejecting this “Devil’s Bargain” is always a free choice. If you don’t like the stated *consequence*, reject it (or suggest altering it so you might consider taking it). Alternatively, you could spend your *momentum* to push yourself and gain *advantage* instead of adding tension. 
 
 In some narrative circumstances, adding tension isn’t an option. In that case, the GM will let you know so you can explore other ways to even the odds.
 
@@ -112,7 +112,7 @@ When the players face a complex obstacle, such as hacking into a mainframe or de
 
 *Clocks* are circles divided into 4, 6, or 8 segments—the more complex the problem, the more segments the *clock* has.
 
-As the players attempt to overcome the obstacle with *action rolls*, progress is tracked on the *clock* according to the outcomes:
+As the players attempt to overcome the obstacle with *action rolls*, progress is tracked on the *clock* based on the outcomes:
 
 - For a *partial success*, check off 1 segment.
 - For a *complete success*, check off 2 segments.
@@ -120,7 +120,7 @@ As the players attempt to overcome the obstacle with *action rolls*, progress is
 
 When all segments are checked off, the obstacle is overcome.
 
-Similarly, impending danger, such as the alert level of the guards, may be tracked on a *clock*. The GM checks off segments on the *clock* when players fail *action rolls* or achieve *partial success*. The danger comes to fruition when all segments are checked off—the guards hunt down the intruders, activate an alarm, release the hounds, etc.
+Similarly, impending danger, such as the alert level of the guards, may be tracked on a *clock*. The GM checks off segments on the *clock* when players fail *action rolls* or achieve *partial success*. The danger comes to fruition when all segments are checked off—the guards hunt down the intruders, sound an alarm, release the hounds, etc.
 
 ## Reaction Roll
 

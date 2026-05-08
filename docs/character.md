@@ -2,7 +2,15 @@
 
 ## Introduction
 
-Imagine you’re an elite military operative who doesn’t fit the typical mold. You find yourself in the thick of things, facing the harsh realities of covert proxy conflicts against supernatural threats and brutal adversaries. Maybe you have exceptional abilities such as mind-reading or telekinesis. Your world revolves around Cold War-era paranormal mysteries, where you stand shoulder to shoulder with other extraordinary individuals, fighting for your nation and humanity.
+PUNCHY INTRO TEXT
+
+draft
+
+==~~Imagine you’re an elite military operative who doesn’t quite fit the usual mold. You find yourself in the thick of things, facing the harsh realities of covert proxy conflicts against supernatural threats and brutal adversaries. Maybe you have exceptional abilities, such as mind-reading or telekinesis. Your world revolves around Cold War-era paranormal mysteries, where you stand shoulder to shoulder with other extraordinary individuals, fighting for your nation and humanity.~~==
+
+draft
+
+==You're the kind of soldier they don't write about. Black budget. No official record. The things you've seen — and the things you can do — don't fit inside normal chain-of-command briefings. The Cold War has a hidden front, and you're on it: psychic operatives, supernatural incursions, enemies that bleed but shouldn't exist. You won't be alone. But you won't be safe either.==
 
 ## Creating a Character
 
