@@ -15,29 +15,21 @@ Welcome to the unit, operator.
 To create a new character, follow these steps:
 
 1. Assign the following scores to your four attributes—**STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**—in any order you prefer: **2**, **1**, **0**, and **-1**.
-2. Roll a **D66** to select your character’s **Drive** from the Drive table below. ==What's a **d66**? Roll a **d6** twice, but don't add the rolls; instead, read the results in order. For example, if you roll a 2 first and then a 4, that's a 24 *(is this necessary explanation?)*==
-	- You *can’t select* a drive that another player on the team already has — reroll any duplicates.
+2. Roll a **D66** to select your character’s **Drive** from the Drive table below. What's a **d66**? Roll a **d6** twice, but don't add the rolls; instead, read the results in order. For example, if you roll a 2 first and then a 4, that's a 24.
+	- Each team member must have a unique drive — reroll any duplicates.
 3. Roll a **D66** twice to select two starting **Psionic Talents** from the Psionic Talents table below.
 4. Roll a **D66** twice to select two starting **Skills** from the Skills table below.
-5. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum Points (MP)** to 2.
+5. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum Points** to 2.
 6. In addition to the standard loadout listed on your character sheet, add **2 items of military equipment** of your choice to your inventory.
-	- See the equipment lists for examples ==add link==.
+	- See the equipment lists below for examples.
 7. Set your **Armor** to the total *armor bonus* from your gear.
-8. Choose your n**ative language** and a **second language** you’re fluent in.
-	- Choose an additional number of languages equal to your WILLPOWER or TACTICS score, whichever is higher and greater than zero.
+8. Choose your **native language** and a **second language** you’re fluent in.
+	- Choose additional languages equal to your higher score between WILLPOWER and TACTICS. If both are zero or lower, choose no additional languages.
 9. Choose your character’s **codename**.
 
 ### Drives
 
-Draft 1
-
-==Each team member must have a unique *drive*. Your drive reflects what your character aims to accomplish during missions, and fulfilling it lets you improve your abilities.==
-
-==Each drive description includes a backstory element you create for your character and a condition that must be met during the mission to advance and improve your abilities.==
-
-Draft 2
-
-==Each team member must have a unique *drive* reflecting their mission goals, which allows them to improve. Each drive includes a backstory element and a condition to meet during the mission to advance and enhance abilities.==
+Each team member in the unit has a unique drive — what your character is working toward. Each drive includes a backstory prompt and an advancement condition. Meet this condition during the mission, and your character improves.
 
 | D66 | Drive |
 | :-: | :- |
@@ -46,13 +38,13 @@ Draft 2
 | 13 | **Avenger**: Describe someone who wronged you and what they did. Advance if something you did brought you closer to exacting your revenge or decisively prevented a similar injustice.
 | 14 | **Chessmaster**: Describe what you plan to do with absolute power. Advance if something you did brought you closer, over the long term, to holding a position of extreme power over a large group of people.
 | 15 | **Cleanup**: Describe a far-reaching, complex catastrophe for which you are responsible. Advance if you meaningfully helped heal part of its aftermath or the aftermath of a similar catastrophe.
-| 16 | **Crusader**: Describe an ethical ideal you hold dear but that’s hard to achieve. Advance if something you did aligned with this ideal, even though sticking to your scruples made your life harder.
+| 16 | **Crusader**: Describe an ethical ideal you hold dear, but that’s hard to achieve. Advance if something you did aligned with this ideal, even though sticking to your scruples made your life harder.
 | 21 | **Cultist**: Describe the esoteric religious sect you belong to and the chilling prophecy you believe in. Advance if you drafted someone of importance or power into your cult or turned the cosmic clock closer to your hallowed day of reckoning.
 | 22 | **Dealmaker**: Describe your foolproof strategy for closing any deal. Advance if you end the mission with significantly more wealth, influence, or capital than you started with.
 | 23 | **Diplomat**: Describe the relationships you prefer to build. Advance if you forged a new relationship or preserved one in jeopardy, and if that action changed the course of the mission.
 | 24 | **Firebrand**: Describe your hot-blooded hopes for the future. Advance if an event during the mission was a crucial moment in your coming-of-age or if you proved your competence to a more experienced teammate.
-| 25 | **Flux**: Describe why your motivations and worldview are constantly in flux. At the start of each mission, roll a random drive, answer the “describe” section as briefly as possible, and play as though that drive were yours for the duration of the mission.
-| 26 | **Fugitive**: Describe a high-caliber crime you did or didn't commit (and, if so, who framed you). Advance if something you did significantly advanced the effort to clear your name or if you fought off the long arm of the law.
+| 25 | **Flux**: Describe why your motivations and worldview are constantly in flux. At the start of each mission, roll a random drive, answer the “describe” section as briefly as possible, and play as though that drive were yours for the duration of the mission. **Note**: The Flux drive doesn’t advance your character during a mission; instead, the random drive advancement requirement must be met.  
+| 26 | **Fugitive**: Describe a high-caliber crime you did or didn't commit (and, if so, who framed you). Advance if something you did significantly advanced the effort to clear your name, or if you fought off the long arm of the law.
 | 31 | **Gladiator**: Describe an honorable, legendary warrior you admire and aspire to emulate. Advance if you fought and defeated a powerful enemy by applying that warrior’s combat philosophy.
 | 32 | **Guardian**: Describe a person or concept you wish to protect and what you seek to shield them from. Advance when you prevent something that would have caused them considerable harm, or when you take significant steps to ensure they will be better protected in the future.
 | 33 | **Healer**: Describe your medical philosophy and tell the table the story of your teacher, a renowned and unconventional medical practitioner. Advance if no teammate died under your watch.
@@ -69,7 +61,7 @@ Draft 2
 | 52 | **Representative**: Describe your vision for a world where psionic abilities have been publicized and normalized. Advance if you fostered empathy and understanding between psionically enabled humans and the rest of the world.
 | 53 | **Return**: Describe the faraway place or time you hail from and the improbable circumstances that left you stranded here. Advance if you made progress toward returning home or made contact with someone from that place.
 | 54 | **Retired**: Describe your past exploits, your retirement, how you returned to action, and why you can't go home yet. Advance if you made significant progress toward returning home or demonstrated that an old dog can still learn new tricks.
-| 55 | **Rookie**: Describe your ideal "first mission" experience. Advance (and choose a new role) if a mission goes exactly as you'd hoped. If it doesn't, advance (and keep this role) if your teammates stepped in at the last moment to save you from certain death.
+| 55 | **Rookie**: Describe your ideal "first mission" experience. Advance (and choose a new drive) if a mission goes exactly as you'd hoped. If it doesn't, advance (and keep this drive) if your teammates stepped in at the last moment to save you from certain death.
 | 56 | **Scholar**: Describe the esoteric subject you’re most curious about. Advance if something you learned brought you closer to unlocking the ultimate secrets of that subject, or if you brought a prize specimen to the end of the mission.
 | 61 | **Skeptic**: Describe your meticulously vetted, rational worldview. Advance if you offer an honest, reasonable explanation for an unfamiliar paranormal phenomenon you encounter and are proven correct.
 | 62 | **Slacker**: Describe how difficult it is to find a cause, a purpose, or something to fight for. Advance if you overcame a challenge or secured a valuable item far beyond your expected ability.
@@ -95,7 +87,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 
 | D66 | Psionic Talents |
 | :-: | :- |
-| 11 | **Attribute boost**: Increase all attribute scores by 1 point for your next action. |
+| 11 | **Attribute boost**: Increase all attribute scores by 1 point for your next ==action (Need to sync this w/ combat section. Perhaps phase or other term besides action to not confuse w/ action rolls.)==. |
 | 12 | **Augmented speed**: Move twice as fast while maintaining concentration. |
 | 13 | **Augmented strength**: Gain +1D3 to +**STRENGTH** rolls for the duration of a battle. |
 | 14 | **Blink**: Teleport once to any point within 1 kilometer, provided you have a direct line of sight to it or have previously been there. |
@@ -118,13 +110,13 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 | 43 | **Mind blast**: This powerful telepathic blast stuns a target within 10 meters for **1D6** rounds. |
 | 44 | **Mind control**: You gain control of a target within 10 meters, making them your ally for 1D6 rounds. The target performs only tasks a typical ally would and won't harm themselves. |
 | 45 | **Mind lock**: A target within 10 meters is paralyzed for **1D6** combat rounds and can't move. They can still speak. |
-| 46 | **Mind shield**: You erect an invisible mental shield centered on you that protects you and all allies within close range from any mind-affecting power or psionic ability. The shield lasts for the duration of the battle. Roll +CREATIVE to block a psionic attack. If the roll fails, the shield collapses. |
+| 46 | **Mind shield**: You erect an invisible mental shield centered on you that protects you and all allies within close range from any mind-affecting power or psionic ability. The shield lasts for the duration of the battle. Roll +WILLPOWER to block a psionic attack. If the roll fails, the shield collapses. |
 | 51 | **Precognition**: Ask the GM one question about what might happen to your character in the next 24 hours. The GM will respond truthfully with either “yes” or “no.” Precognition can be used only once per session. |
 | 52 | **Psychic healing**: You heal 1D3 points of damage on an injured target. The target can't receive psychic healing again until they take additional damage. |
 | 53 | **Pyrokinesis**: You can ignite a flammable object within 10 meters. Pyrokinesis can also be used offensively: attack a target within handgun range with a +2 damage modifier. If the attack hits, the target is *burning*. Burning causes 1 point of damage each round for 1D3 rounds or until extinguished. |
 | 54 | **Recover**: You can remove 1 negative effect from a target, such as poisoning, burning, fatigue, or 1D6 stress. |
 | 55 | **Second wind**: You can ignore stress and fatigue for 1 hour. |
-| 56 | **Suggestion**: You can plant a simple hypnotic suggestion in a single target. The effect lasts until the target performs the suggested task or until 10 minutes pass. Targets won’t obey suggestions that would harm them, directly or indirectly. |
+| 56 | **Suggestion**: You can plant a simple hypnotic suggestion in a single target. The effect lasts until the target performs the suggested task or for 10 minutes. Targets won’t obey suggestions that would harm them, directly or indirectly. |
 | 61 | **Telekinesis**: You can move objects weighing up to 100 kilograms with your mind. Telekinesis can also be used offensively by hurling an object: attack a target within handgun range with a **+0** to **+3** damage modifier, depending on the hurled object’s size, at the GM’s discretion. |
 | 62 | **Telepathy**: You can read a target’s surface thoughts for one minute. |
 | 63 | **Thousand faces**: You can alter a target's appearance and biometric data to match those of any other target of the same or similar species for 10 minutes. To mimic another person’s specific biometric data, you must have a sample of that person’s DNA. |
@@ -138,7 +130,7 @@ Your character is a steely professional capable of attempting almost any action,
 
 Each of the following skills represents an area of expertise. Unlike attributes, skills don’t have a numerical rating—you either have a skill or you don’t.
 
-**When you attempt an action with an applicable skill** and make an *action roll*, you can re-roll one die, but you must use the second result.
+When you attempt an action with an applicable skill and make an *action roll*, you **re-roll one die**, but you must use the second result.
 
 | D66 | Skill |
 | :-: | :- |
@@ -170,7 +162,7 @@ Each of the following skills represents an area of expertise. Unlike attributes,
 | 52 | **Navigation**: Navigating, plotting courses, using a compass, and coordinating infantry support assets, such as artillery and strike aircraft. |
 | 53 | **Parachute**: Using static-line and steerable parachutes, including high-altitude, low-opening (HALO) and high-altitude, high-opening (HAHO) insertions. |
 | 54 | **Recon**: Scouting for danger and spotting threats. |
-| 55 | **Science**: When gaining this skill, choose a broad academic category, such as physics or chemistry. |
+| 55 | **Science**: Choose a broad academic category (such as physics or chemistry) when you take this skill. |
 | 56 | **Stealth**: Moving unseen and unheard. |
 | 61 | **Strategy**: Tactical planning, gaining an advantage on the battlefield, and insight into defensive positions. |
 | 62 | **Streetwise**: Familiarity with underworld society and its methods. |
@@ -181,19 +173,17 @@ Each of the following skills represents an area of expertise. Unlike attributes,
 
 ## Inventory
 
-Characters have **12 inventory slots**: two held in their hands, four on their body (such as weapons or equipped armor), and a backpack with six slots. Retrieving an item from a backpack requires an action.
+Characters have **12 inventory slots**: two held in their hands, four on their body (such as weapons or equipped armor), and a backpack with six slots. Retrieving an item from a backpack requires spending an ==action (Need to sync this w/ combat section. Perhaps phase or other term besides action to not confuse w/ action rolls.)== during combat.
 
 Most items take up one slot, and small items may sometimes be bundled. Slots are abstract and can be rearranged at the GM’s discretion.
 - Bulky items that require two hands to carry take up two slots.
 - Unwieldy and heavy items that one person can’t generally lift can’t be placed in your inventory. Other means of transportation must be arranged.
 
-You can’t carry more items than your inventory allows.
-
 ## Tactical Supplies
 
 Tactical supplies are a set of small, mission-related, standard-issue military gear, including rope, flashlights, multitools, and ammunition. You generally start each mission with three units of tactical supplies. Spent supplies are restocked at base between missions. 
 
-Tactical supplies mean you don’t have to decide beforehand what sundry gear your character needs to pack before embarking on a mission. Whenever you need a specific piece of gear during a mission, you declare what you need, and the GM determines whether the item qualifies as a standard tactical supply. If the GM approves, mark off one *tactical supply* from your inventory, and you now have that item. 
+Tactical supplies let you avoid deciding in advance what gear to pack. When you need a specific piece of gear on a mission, declare what you need, and the GM determines whether the item qualifies as a standard tactical supply. If the GM approves, mark off one *tactical supply* from your inventory, and you have that item. 
 
 Examples of gear classified as standard Tactical Supplies:
 
@@ -226,7 +216,7 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 ### Basic Kit
 
 - Combat knife (+1 DAMAGE)
-- Two grenades (specify type: frag (+1 DAMAGE), riot agent, smoke, or stun)
+- Two grenades (specify type: frag (+1 DAMAGE), riot agent, smoke, or stun (no damage modifiers)
 - Handgun (+1 DAMAGE, 6/6 AMMO)
 - Body armor (1 ARMOR)
 - Helmet (+1 ARMOR)
@@ -293,9 +283,9 @@ Before each mission, you’ll choose any required specialized gear and weapons. 
 
 ## Character Advancement
 
-Characters advance when they act in accordance with their *drive*. For example, a *crusader* advances if they act ethically during their mission. After advancing, you can choose a new drive between missions if you feel you’ve reached natural closure for your current drive. 
+Characters advance when they act in accordance with their *drive*. For example, a *crusader* advances if they act ethically during their mission. If your current drive feels played out, you can choose a new one after advancing. 
 
-**After your character advances** and you return to base, choose one of the following rewards: 
+After your character advances and you return to base, **choose one** of the following rewards: 
 
 - Add 1 point to an attribute score, up to a maximum of 3
 - Add 1D6 to your maximum HP
