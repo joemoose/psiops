@@ -14,7 +14,7 @@ Anyone at the table can say the following at any time, without explanation or ju
 
 - **Pause**: Step back from the current scene.
 - **Rewind**: Revisit a prior moment or decision.
-- **Stop**:Remove the scene entirely and steer elsewhere.
+- **Stop**: Remove the scene entirely and steer elsewhere.
 
 If someone calls a Stop, don't debate it. Move on.
 

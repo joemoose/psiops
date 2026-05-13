@@ -2,23 +2,23 @@
 
 ## Introduction
 
-Combat works the same way as any other risky action. Make an *action roll* to attack. If you succeed, you deal damage. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage.
+Combat works the same way as any other risky action. Make an *action roll* to attack. If you succeed, you deal damage. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage. If you fail, you receive damage. 
 
 ## Initiative
 
-During the **first round of combat**, each player must make a +TACTICS roll to act before opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** and do not act during the first round.
+During the **first round of combat**, each player must make a +TACTICS roll to act before opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** and do not act in the first round.
 
-The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turns, followed by their opponents, and so on until combat ends with one side defeated or fleeing.
+The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turns, followed by their opponents, and continues until combat ends with one side defeated or fleeing.
 
-The results of each side’s actions occur **simultaneously**. As a result, all players declare their actions for a turn before the outcomes of those actions are determined.
+The results of each side’s actions occur **simultaneously**. As a result, all players declare their actions for a turn before the outcomes of those actions are resolved.
 
 ## Surprise
 
-Whether by chance or design, players and their opponents might sometimes get the drop on each other. If one side surprises the other, they take a free round of combat in which the other side can’t act. 
+Whether by chance or design, players and their opponents might sometimes get the drop on each other. If one side surprises the other, the surprised side can’t act for a free round of combat. 
 
-## Actions
+## Combat Rounds
 
-A combat round represents 6 seconds of in-game time during which characters can **move** and take **one action**. An *action* can be an attack, a second move, using a psionic talent, or any similar activity that takes up to 6 seconds.
+A *combat round* represents 6 seconds of in-game time during which characters can **move** and take **one *action***. An action can be an attack, a second move, using a psionic talent, or any similar activity that takes up to 6 seconds.
 
 Insignificant actions, such as shouting a command, opening a door, or dropping an item, are free actions.
 

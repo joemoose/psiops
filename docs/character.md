@@ -14,9 +14,9 @@ Welcome to the unit, operator.
 
 To create a new character, follow these steps:
 
-1. Assign the following scores to your four attributes—**STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**—in any order you prefer: **2**, **1**, **0**, and **-1**.
+1. Assign the scores **2**, **1**, **0**, and **-1** to your four attributes — **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER** — in any order you prefer.
 2. Roll a **D66** to select your character’s **Drive** from the Drive table below. What's a **d66**? Roll a **d6** twice, but don't add the rolls; instead, read the results in order. For example, if you roll a 2 first and then a 4, that's a 24.
-	- Each team member must have a unique drive — reroll any duplicates.
+	- **Note**: Each character must have a unique drive. Reroll any duplicates.
 3. Roll a **D66** twice to select two starting **Psionic Talents** from the Psionic Talents table below.
 4. Roll a **D66** twice to select two starting **Skills** from the Skills table below.
 5. Set your maximum **Hit Points (HP)** to 6 and your starting **Momentum Points** to 2.
@@ -24,12 +24,12 @@ To create a new character, follow these steps:
 	- See the equipment lists below for examples.
 7. Set your **Armor** to the total *armor bonus* from your gear.
 8. Choose your **native language** and a **second language** you’re fluent in.
-	- Choose additional languages equal to your higher score between WILLPOWER and TACTICS. If both are zero or lower, choose no additional languages.
+	- Choose additional languages equal to the higher score between WILLPOWER and TACTICS. If both are zero or lower, choose no additional languages.
 9. Choose your character’s **codename**.
 
 ### Drives
 
-Each team member in the unit has a unique drive — what your character is working toward. Each drive includes a backstory prompt and an advancement condition. Meet this condition during the mission, and your character improves.
+Each team member in the unit has a unique drive — what motivates their character and what they are working toward. Each drive includes a backstory prompt and an advancement condition. Meet this condition during the mission, and your character improves.
 
 | D66 | Drive |
 | :-: | :- |
@@ -53,7 +53,7 @@ Each team member in the unit has a unique drive — what your character is worki
 | 36 | **Mercenary**: Describe how you ended up working with the rest of these bleeding-heart weirdos on your team. Advance if you completed the mission according to its original parameters — no funny business — and collected your pay.
 | 41 | **Muddler**: Describe a piece of simple, common knowledge that is, in fact, wrong, and attempt to explain the far more complex correct answer. Advance if you made things significantly more complicated or catastrophically obfuscated the truth about something important.
 | 42 | **Nihilist**: Describe how you reached the ultimate conclusion that nothing truly matters. Advance if you showed no fear of death and no self-preservation instinct at any point during the mission.
-| 43 | **Partisan**: Describe your experiences with the creation, mistreatment, or erasure of psionically enabled humans. Advance if you proved they could and should stand independently, or if you liberated another psionically enabled human.
+| 43 | **Partisan**: Describe your experiences with the creation, mistreatment, or erasure of psionically enabled humans. Advance if you proved they could and should stand on their own, or if you liberated another psionically enabled human.
 | 44 | **Peacemaker**: Describe your vision for a world without war and your stance on the use of violence. Advance if you prevented, stopped, or eased a violent conflict.
 | 45 | **Punk**: Describe a long-standing oppressive establishment that harmed you. Advance if something you did weakened that establishment or meaningfully helped people who are also being oppressed by it.
 | 46 | **Provider**: Describe the person or entity that can’t survive without you and your work. Advance if you found something that would make them deeply happy and brought it to the end of the mission.
@@ -79,23 +79,21 @@ Psionic talents are latent mental powers that defy the laws of physics. Each tim
 
 If you roll a duplicate talent, you can either re-roll for a new one or work with the GM to determine how your existing talent is improved.
 
-!!! note
-
-	Some ongoing psionic talents require you to maintain *concentration* to keep your power active.
-	- You must spend an *action* each round to maintain concentration.
-	- If you take damage or stop concentrating, your focus is broken, and the power ends.
+Some ongoing psionic talents require you to maintain *concentration* to keep your power active.
+- You must spend an ==action (Need to sync this w/ combat section. Perhaps phase or other term besides action to not confuse w/ action rolls.)== each round to maintain concentration.
+- If you take damage or stop concentrating, your focus is broken, and the power ends.
 
 | D66 | Psionic Talents |
 | :-: | :- |
 | 11 | **Attribute boost**: Increase all attribute scores by 1 point for your next ==action (Need to sync this w/ combat section. Perhaps phase or other term besides action to not confuse w/ action rolls.)==. |
 | 12 | **Augmented speed**: Move twice as fast while maintaining concentration. |
-| 13 | **Augmented strength**: Gain +1D3 to +**STRENGTH** rolls for the duration of a battle. |
+| 13 | **Augmented strength**: Gain **+1D3** to +**STRENGTH** rolls for the duration of a battle. |
 | 14 | **Blink**: Teleport once to any point within 1 kilometer, provided you have a direct line of sight to it or have previously been there. |
-| 15 | **Choke**: Telekinetically grab a humanoid creature by the throat (or an analogous body part) and strangle them for 1D6 damage, ignoring their armor. |
+| 15 | **Choke**: Telekinetically grab a humanoid creature by the throat (or an analogous body part) and strangle them for **1D6** damage, ignoring their armor. |
 | 16 | **Clairvoyance**: Psionically observe and listen at a location you choose within 1 kilometer while maintaining concentration. This power ignores solid objects, and you don't need to be familiar with the location—you can specify it by stating the direction and distance. |
-| 21 | **Cryokinesis**: You can freeze up to 5 cubic meters of material. Cryokinesis can also be used offensively: attack a target within handgun range with a +3 damage modifier. |
-| 22 | **Electrokinesis**: You can manipulate electrical energy in your vicinity while concentrating. You can use this power to recharge batteries, short-circuit electrical devices, or generate spectacular light shows. Electrokinesis can also be used offensively: attack a target within handgun range with a +3 damage modifier. Mechanical or electronic targets grant you *advantage* on your attack. |
-| 23 | **Emotion**: You can evoke powerful emotions in a target within 10 meters, such as fear, joy, or friendliness. It's obvious to everyone, whether affected or not, that something has happened. This power can force a *morale check* among enemy (or friendly) forces. This effect lasts until the end of the battle or for 1D6x10 minutes. |
+| 21 | **Cryokinesis**: You can freeze up to 5 cubic meters of material. Cryokinesis can also be used offensively: attack a target within ==handgun (sync terms with combat)== range, with a **+3 damage**. |
+| 22 | **Electrokinesis**: You can manipulate electrical energy in your vicinity while concentrating. You can use this power to recharge batteries, short-circuit electrical devices, or generate spectacular light shows. Electrokinesis can also be used offensively: attack a target within handgun range, with a **+3 damage** modifier. Mechanical or electronic targets grant you *advantage* on your attack. |
+| 23 | **Emotion**: You can evoke powerful emotions in a target within 10 meters, such as fear, joy, or friendliness. It's obvious to everyone, whether affected or not, that something has happened. This power can force a *morale check* among enemy (or friendly) forces. This effect lasts until the end of the battle or for **1D6x10** minutes. |
 | 24 | **Empathy**: You can read a target’s emotions and subtly influence them. This effect can shift a target’s *reaction roll* by one category up or down. |
 | 25 | **False perception**: You can cause a single target within 10 meters to hallucinate. This effect lasts as long as you concentrate on it. The details of the false perception are up to you, ranging from a typical illusion or distraction to something that closely resembles a drug-fueled fugue state. |
 | 26 | **Hibernation**: You can enter a trance-like state and meditate for up to 7 days. While meditating, you don't need food, water, or air. You remain aware of your surroundings and can end your hibernation at will. |
@@ -128,7 +126,7 @@ If you roll a duplicate talent, you can either re-roll for a new one or work wit
 
 Your character is a steely professional capable of attempting almost any action, but if you’re trained in a relevant skill, you’re more likely to succeed.
 
-Each of the following skills represents an area of expertise. Unlike attributes, skills don’t have a numerical rating—you either have a skill or you don’t.
+Each of the following skills represents an area of expertise. Unlike attributes, skills don’t have a numerical rating — you either have a skill, or you don’t.
 
 When you attempt an action with an applicable skill and make an *action roll*, you **re-roll one die**, but you must use the second result.
 
@@ -183,7 +181,7 @@ Most items take up one slot, and small items may sometimes be bundled. Slots are
 
 Tactical supplies are a set of small, mission-related, standard-issue military gear, including rope, flashlights, multitools, and ammunition. You generally start each mission with three units of tactical supplies. Spent supplies are restocked at base between missions. 
 
-Tactical supplies let you avoid deciding in advance what gear to pack. When you need a specific piece of gear on a mission, declare what you need, and the GM determines whether the item qualifies as a standard tactical supply. If the GM approves, mark off one *tactical supply* from your inventory, and you have that item. 
+Tactical supplies let you avoid having to decide in advance what gear to pack. When you need a specific piece of gear on a mission, declare what you need, and the GM determines whether the item qualifies as a standard tactical supply. If the GM approves, mark off one *tactical supply* from your inventory, and you have that item. 
 
 Examples of gear classified as standard Tactical Supplies:
 
@@ -287,7 +285,7 @@ Characters advance when they act in accordance with their *drive*. For example, 
 
 After your character advances and you return to base, **choose one** of the following rewards: 
 
-- Add 1 point to an attribute score, up to a maximum of 3
-- Add 1D6 to your maximum HP
-- Randomly select a new *psionic talent*
-- Choose a new *skill*
+- Add **1 point** to an *attribute score*, up to a maximum of 3
+- Add **1D6** to your *maximum HP*
+- Roll **D66** to randomly select a new *psionic talent* from the Psionic Talents table
+- Choose a new *skill* from the Skills table
