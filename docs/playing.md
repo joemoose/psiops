@@ -24,29 +24,29 @@ The GM will ask which of your character’s four attributes is most relevant to 
 
 **Examples**:
 
-- “I kick down the door and fire my shotgun at anything I see”: STRENGTH
-- “I run through the house, slide into cover, and fire from there”: REFLEXES
+- “I kick down the door and blast my shotgun at anything I see”: STRENGTH
+- “I run through the house, slide behind cover, and fire from there”: REFLEXES
 - “I go around to the side of the house, flank them, and fire through the window”: TACTICS
 - “I knock on the door, wait for someone to open it, say ‘Hi!’, then fire when they respond”: WILLPOWER
 
-### 2. Roll the Dice
+### Step 2. Roll the Dice
 
 When you create your character, you'll assign a *score* to each attribute. The higher the score, the greater your mastery of that attribute.
 
-Roll **2D6 + Attribute score**. The total determines your degree of success for your action as follows:
+Roll **2D6 +Attribute score**. The total determines your degree of success for your action as follows:
 
 - On a **6 or less**, it’s a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
 - On a **7–9**, it’s a **partial success**. You achieve your goal, but with an unexpected complication.
 - On a **10–12**, it’s a **success**. You achieve your goal.
 - On a **13 or higher**, it’s a **critical success**. You achieve your goal, and things go better than expected.
 
-	With sufficient *time*, relevant *skill*, and the proper *equipment*, your actions will generally succeed — the GM won't call for an action roll.
+	With sufficient time, relevant skill, and the proper equipment, your actions will generally succeed. The GM won't call for an action roll.
 	- If any one of these three requirements is missing, an *action roll* is typically required to determine the outcome.
 	- If two or more of these requirements are missing, the action may be impossible. Your GM will let you know. It’s time to consider a new approach.
 
 ## Momentum
 
-When a player makes an *action roll*, the roll can generate *momentum*. You start each mission session with **2 momentum points** and gain more momentum from successful *action rolls*. You can spend your momentum to gain bonuses or resist consequences.
+When your character makes an *action roll*, the roll can generate *momentum*. You start each mission with **2 momentum points** and gain more momentum from successful *action rolls*. You can spend your momentum to gain bonuses or resist the consequences of failed action rolls.
 
 Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
@@ -57,40 +57,40 @@ Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
 Your momentum points accumulate throughout the mission and carry over between game sessions. 
 
-Momentum resets to its starting value of 2 after **completing** a mission or when you **heal or rest** at a rendezvous point. 
+Momentum **resets** to its starting value of 2 after **completing a mission** or resting at a **rendezvous point**. 
 
 ### Spending Momentum
 
-You can spend your momentum points to gain bonuses or resist the consequences of partially successful or failed action rolls.
+You can spend your momentum points to gain bonuses or to resist the consequences of partially successful or failed action rolls.
 
 !!! note
 
-	When you spend *momentum* on a roll, that roll can’t, in turn, generate *momentum*.
+	When you spend momentum on an action roll, that roll can’t, in turn, generate momentum.
 
-- **ASSIST**: Consume 1 *momentum* point to grant *advantage* on an ally’s *action roll*. Doing so exposes your character to the same risks.
+- **ASSIST**: Spend 1 *momentum* point to grant *advantage* on an ally’s *action roll*. Doing so exposes your character to the same risks.
 
-- **PUSH YOURSELF**: Spend 2 *momentum* points per push to gain one of the following effects:
-
+- **PUSH YOURSELF**: Spend 2 *momentum* points per push to apply one of the effects below. You can push yourself multiple times to gain additional effects, spending 2 more *momentum* each time. 
 	- Gain *advantage* on your *action roll*.
 	- Increase the *effect* of your action beyond its normal outcome.
-	- Take another action.
+	- Take an *additional* action.
+ 
 
-- **DETERMINATION ROLL**: If your character suffers a *consequence* you don’t like as a player, you can try to resist it. You do so by calling for a *determination roll* to see how well you resist the *consequence*.
+- **DETERMINATION**: If your character faces a *consequence* from a failed action, you can try to resist or avoid it using a *action roll*. The outcome shows how successful you are. 
 
-    Spend 3 momentum points to resist or limit your or someone else’s *consequence* resulting from a failed roll. Roll **2D6 + Attribute**:
+	Spending 4 momentum points lets you resist or limit your or someone else’s *consequence* from a failed roll. Roll **2D6 +Attribute**:
 
-	- On a **6 or lower**, the *consequence* still occurs
-	- On a **7–9**, the *consequence* is reduced.
-	- On a **10–12**, the *consequence* is avoided.
-	- On a **13 or higher**, the *consequence* is avoided, and your next *action roll* has *advantage*.
+	- On a **6 or lower**, the consequence **still occurs** as is.
+	- On a **7–9**, the consequence is **reduced**.
+	- On a **10–12**, the consequence is **avoided**.
+	- On a **13 or higher**, the consequence is **avoided**, and your next *action roll* has *advantage*.
 
-- **FLASHBACKS**: Spend 4 momentum points to recall a scene from your past, affecting what hasn’t yet been established in the fiction.
+- **FLASHBACKS**: Spend 6 momentum points to establish that your character set something in motion before the mission began, retroactively adding those preparations to the story. For example, you could have prepared a weapons cache, forged a document, or arranged a contact at a location.
 
 ## Advantages and Disadvantages
 
-When your *action roll* has **advantage**, such as pushing yourself with *momentum*, roll **3D6 +Attribute** and drop the *lowest* D6.
+When your *action roll* has **advantage**, like pushing yourself with *momentum*, roll **3D6 + Attribute** and discard the **lowest** D6.
 
-If your action is more difficult than usual due to circumstances in the story, such as firing a weapon beyond its effective range, the GM may impose **disadvantage**; roll **3D6 +Attribute** and drop the *highest* D6.
+If your action becomes more challenging because of story circumstances, like firing a weapon in the dark, the GM might impose a **disadvantage**; you then roll **3D6 + Attribute** and discard the **highest** D6.
 
 !!! note "Notes"
 
@@ -98,40 +98,32 @@ If your action is more difficult than usual due to circumstances in the story, s
 	- Multiple advantages don't stack; you roll at most 3D6.
 	- However, an action with multiple advantages might not be considered risky and could succeed automatically at the GM's discretion.
 
-## Adding Tension
+## Mission Clocks
 
-You can gain advantage on your action rolls by adding *tension* to the scene. 
+### Challenges
 
-To add tension to an action, ask the GM, “What would adding tension look like here?” The GM then offers an additional *consequence* for failure, such as inflicting collateral damage or destroying equipment. If you accept, your *action roll* gains *advantage*.
+Your character might encounter a complex obstacle that involves several stages before it is overcome. For instance, hacking into a mainframe or defusing a bomb. In such cases, the GM could monitor your character’s advancement using a *progress clock* instead of resolving the challenge with just one *action roll*.
 
-Accepting or rejecting additional tension and consequences is always a free choice. If you don’t like the new consequence, you can decline it and make your action roll without an advantage.
-
-In some narrative situations, adding tension isn't an option. In that case, the GM will let you know so you can explore other ways to even the odds.
-
-Remember, you can also spend *momentum* to push yourself and gain *advantage* instead of adding tension with more consequences. 
-
-## Challenges and Danger
-
-Your character might sometimes face a complex obstacle with multiple phases before the action can be resolved. Examples include hacking into a mainframe computer or defusing a bomb. In these cases, the GM may split your character’s effort into a progress *clock* rather than resolving it with a single *action roll*.
-
-Clocks are divided into 4, 6, or 8 segments. The more complex the obstacle, the more segments the clock has.
+Clocks are segmented into 4, 6, or 8 parts. The difficulty of the obstacle correlates with the number of segments, with more complex obstacles having more segments.
 
 As players attempt to overcome the obstacle with *action rolls*, progress is tracked on the *clock* based on the outcomes:
 
-- For a *partial success*, check off 1 segment.
-- For a *complete success*, check off 2 segments.
-- For a *critical success*, check off 3 segments.
+- **Partial success** checks off 1 segment.
+- **Success** checks off 2 segments.
+- **Critical success** checks off 3 segments.
 
 When all segments on the clock are checked off, the obstacle is overcome.
 
-Similarly, the GM may track impending *danger* for your characters on a clock, such as a guard’s level of alertness as you sneak through a building or a bomb’s impending detonation you’re trying to locate. The GM checks off segments on the danger clock when players fail *action rolls* or achieve *partial success*. The danger comes to fruition when all segments are checked off: the guard sounds an alarm or the bomb detonates.
+### Dangers
 
-## ==Reaction Roll==
+Similarly, the GM might monitor imminent *danger* for your team on a clock, like a guard’s alertness level as you sneak through a building or the remaining time on a bomb you’re trying to find.
 
-==(Is this irrelevant to players; GM only?)==
+The GM checks off segments on the danger clock whenever players fail *action rolls* or achieve *partial success*. The danger occurs when all segments are checked off, at which point the guard sounds an alarm or the bomb detonates.
 
-==When you encounter an NPC whose reaction to your team is unclear, the GM may roll 2D6 and consult the table below.==
+## Reaction Roll
 
-==| 2 | 3–5 | 6–8 | 9–11 | 12 |==
-==| :-: | :-: | :-: | :-: | :-: |==
-==| Hostile | Wary | Curious | Friendly | Helpful |==
+When you face an NPC with an uncertain response to your team, the GM can roll 2D6 and refer to the table below to decide the NPC’s reaction.
+
+| 2 | 3–5 | 6–8 | 9–11 | 12 |
+| :-: | :-: | :-: | :-: | :-: |
+| Hostile | Wary | Curious | Friendly | Helpful |
