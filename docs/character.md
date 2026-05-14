@@ -2,17 +2,17 @@
 
 ## Introduction
 
-You're the kind of soldier they don't write about. Shadow programs. Off-ledger. The Cold War has a hidden front, and you're on it.
+You're the kind of soldier they don't write about. Shadow ops. Off-ledger. The Cold War has a hidden front, and you're on it.
 
-You've seen things that don't fit a debrief. You can do things that don't fit a chain of command. The threats you'll face might bleed — but they shouldn't exist.
+You've seen things that don't fit a debrief. You can do things that don't fit a chain of command. The threats you'll face might bleed, but they shouldn't exist.
 
 You won't be fighting alone. You won't be fighting safe.
 
 Welcome to the unit, operator. 
 
-## Creating a Character
+## Creating an Operative
 
-To create a new character, follow these steps:
+To create your new character, follow the steps below.
 
 1. Assign the scores **2**, **1**, **0**, and **-1** to your four attributes — **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER** — in any order you prefer.
 2. Roll a **D66** to select your character's **Drive** from the Drive table below. What's a **D66**? Roll a **D6** twice, but don't add the rolls; instead, read the results in order. For example, if you roll a 2 first and then a 4, that's a 24.
@@ -29,7 +29,7 @@ To create a new character, follow these steps:
 
 ### Drives
 
-Each team member in the unit has a unique drive — what motivates their character and what they are working toward. Each drive includes a backstory prompt and an advancement condition. Meet this condition during the mission, and your character improves.
+Each team member in the unit has a unique drive — what motivates them and what they’re working toward. Each drive includes a backstory prompt and an advancement condition. Meet this condition during the mission, and your character improves.
 
 | D66 | Drive |
 | :-: | :- |
@@ -72,16 +72,26 @@ Each team member in the unit has a unique drive — what motivates their charact
 
 ### Psionic Talents
 
-Psionic talents are latent mental powers that defy the laws of physics. Each time you use a psionic talent, roll +WILLPOWER:
+Psionic talents are hidden mental abilities that defy the laws of physics. You possess these paranormal powers.
 
-- On a **6 or lower**, the power doesn't manifest, and you can't use it again until you rest at a rendezvous point or between missions.
-- On a **7 or higher**, the power manifests, and you can use it again.
+#### ==Unleashing Psionic Talents==
 
-If you roll a duplicate talent, you can either re-roll for a new one or work with the GM to determine how your existing talent is improved.
+> ==*(MOVE this to playing.md)*==
 
-Some ongoing psionic talents require you to maintain *concentration* to keep your power active.
-- You must spend an action each round of combat to maintain concentration.
-- If you take damage or stop concentrating, your focus is broken, and the power ends.
+==\[**Action roll text**\]==
+
+- ==On a **6 or lower**, the power doesn't manifest, and you can't use it again until you rest at a rendezvous point or between missions.==
+- ==On a **7 or higher**, the power manifests, and you can use it again.==
+
+==If you roll a duplicate talent, you can either re-roll for a new one or work with the GM to determine how your existing talent is improved.==
+
+==Some ongoing psionic talents require you to maintain *concentration* to keep your power active.==
+- ==You must spend an action each round of combat to maintain concentration.==
+- ==If you take damage or stop concentrating, your focus is broken, and the power ends.==
+
+==Each time you use a psionic talent, roll +WILLPOWER:==
+
+#### Psionic Talent Descriptions
 
 | D66 | Psionic Talents |
 | :-: | :- |
