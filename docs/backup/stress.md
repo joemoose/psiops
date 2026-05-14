@@ -23,7 +23,7 @@ There are also several ways to gain stress outside of combat, for example:
 - Being plunged into total darkness in hostile territory
 - Seeing or interacting with supernatural or horrifying creatures, events, or locations
 
-At the GM's discretion, each occurrence adds 1 stress point to your total.
+At the GM’s discretion, each occurrence adds 1 stress point to your total.
 
 ## Reducing Stress
 
@@ -40,7 +40,7 @@ Whenever you reach 6 or more stress points, you must roll +WILLPOWER to avoid ad
 - On a **6 or less**, you *panic*. Roll 1D6 and consult the Panic Table to determine the effect.
 - On a **7–9**, you keep it together and remove 1 stress point.
 - On a **10–12**, you keep it together and remove 2 stress points.
-- On a **13 or greater**, remove all stress and become *transcendent*. You're in the zone. Roll 1D6 and consult the Transcendent Table to determine the effect.
+- On a **13 or greater**, remove all stress and become *transcendent*. You’re in the zone. Roll 1D6 and consult the Transcendent Table to determine the effect.
 
 ### Panic Table
 
@@ -61,7 +61,7 @@ Whenever your character becomes transcendent, roll 1D6 and consult the table bel
 
 | D6 | Effect |
 | :-: | :- |
-| 1 | **Courageous**: Whenever you succeed on an *action roll*, allies within sight remove 1 stress. |
+| 1 | **Courageous**: Whenever you *succeed* on an *action roll*, allies within sight remove 1 stress. |
 | 2 | **Cunning**: *Advantage* on all +TACTICS rolls. |
 | 3 | **Dexterous**: *Advantage* on all +REFLEXES rolls. |
 | 4 | **Focused**: *Advantage* on all +WILLPOWER rolls. |

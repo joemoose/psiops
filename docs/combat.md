@@ -2,44 +2,78 @@
 
 ## Introduction
 
-Combat works the same way as any other risky action. Make an *action roll* to attack. If you succeed, you deal damage. If you’re being attacked, make an *action roll* to dodge, block, parry, or otherwise avoid damage. If you fail, you receive damage. 
+Combat functions like any risky action:
+- Make an *action roll* to **attack**; success deals damage.
+- When attacked, make an *action roll* to **defend**; failure takes damage.
+
+Details follow.
 
 ## Initiative
 
-During the **first round of combat**, each player must make a +TACTICS roll to act before opponents. Exceptional circumstances, items, or abilities may negate this requirement. Players who fail this roll **lose their turn** and do not act in the first round.
+Who attacks first in combat is determined by an *initiative* roll.
 
-The opposing side then takes its turn, and the first round ends. The next round begins with all players taking their turns, followed by their opponents, and continues until combat ends with one side defeated or fleeing.
+### First Round of Combat 
 
-The results of each side’s actions occur **simultaneously**. As a result, all players declare their actions for a turn before the outcomes of those actions are resolved.
+During the **first round of combat**, you each make an **action roll +TACTICS**.
+- If you succeed, you act before your opponents.
+- If you fail, you **lose your turn** and do not act during the first round of combat.
+
+Circumstances in the story, items, or abilities may negate this initiative requirement. 
+
+### Subsequent Rounds
+
+The opposing side then takes its turn, ending the first round. After the opening round, no further initiative rolls are made. Combat continues with your team always acting first, followed by your opponents, until one side is defeated or flees.
+
+### Order of Actions in a Round
+
+Each side's actions happen **simultaneously** in combat. You all declare your actions before resolving outcomes.
 
 ## Surprise
 
-Whether by chance or design, players and their opponents might sometimes get the drop on each other. If one side surprises the other, the surprised side can’t act for a free round of combat. 
+Whether by chance or design, your team or opponents might get the drop on each other. If one side surprises the other, the surprised side **can't act** in the **first round**. 
 
 ## Combat Rounds
 
-A *combat round* represents 6 seconds of in-game time during which characters can **move** and take **one *action***. An action can be an attack, a second move, using a psionic talent, or any similar activity that takes up to 6 seconds.
+A *combat round* is 6 seconds of game time where you can **move** and take **one action**, like attacking, moving again, or using a psionic talent. Details are below. 
 
-Insignificant actions, such as shouting a command, opening a door, or dropping an item, are free actions.
+!!! note
+
+	Complex actions lasting more than 6 seconds may require multiple rounds, as determined by the GM. Minor actions, such as shouting, opening a door, or dropping an item, are free actions.
+
+### Action Descriptions
 
 Details on specific actions follow:
 
-- **Attacking**: With a weapon ready, make an *action roll* as described in the Dealing Damage section. The *action roll* may be at *disadvantage* based on the weapon type and target range. See the Ranges section for details.
-- **Attacks of opportunity**: If a combatant engaged in *close range* (up to two meters away) attempts to retreat, their opponent can make a free melee attack if they have a melee weapon ready. To safely disengage from *close range*, a combatant must take an *action* to disengage and make a +REFLEXES roll to retreat without risk.
-- **Falling prone**: Falling to the ground behind low cover requires no *action* and can be done freely on the character’s turn. Getting up from a prone position takes an *action*.
-- **Interrupting actions**: You can hold your *action* and specify the conditions under which you’ll act. For example, “I hold my action until I see an enemy come around the corner.” If the conditions are met, you can act instantly, interrupting the opponent’s action.
-- **Movement**: In-combat movement is abstracted to determine ranges to targets, as described in the Ranges section. However, a more concrete measurement is helpful in some cases. When a character spends an *action* moving on foot, they move 10 meters.
+**Attacking**: With a weapon ready, make an *action roll* as described in the Dealing Damage section below. It may be at *disadvantage* depending on the weapon type and range. See the Range Bands below for details.
 
-Any action within reason is possible if it’s based on your character’s resources and situation and can be accomplished within six seconds of combat.
+**Attacks of opportunity**: If you're engaged in hand-to-hand combat and your opponent retreats, you can make a free hand-to-hand attack. If you retreat, make an *action roll* +REFLEXES to determine the outcome.
+- On a **6 or lower**, your opponent makes a **free attack** on you.
+- On a **7–9**, you disengage but suffer a *complication*.
+- On a **10–12**, you disengage without mishap.
+- On a **13+**, you make a **free attack** on your opponent while disengaging.
 
-## Ranges
+**Falling prone**: It's a free action if you drop flat to the ground. Standing up requires an *action*.
 
-Combat distance is simplified into four bands: Close, Nearby, Far, and Distant.
+**Interrupting actions**: You can hold your *action* and specify conditions, like "I wait until I see an enemy." If met, you act instantly, interrupting your opponent.
 
-- **Close**: Melee range, up to 2 meters away. A character can move this distance freely. Characters can whisper and be heard.
-- **Nearby**: Handgun range. A character can move anywhere within this distance with one movement action. Characters can talk and be heard.
-- **Far**: Rifle range. A character must expend 2 to 4 movement actions to traverse this distance at the GM’s discretion. Characters can shout and be heard.
-- **Distant**: Heavy weapons range. A character usually can't traverse such a distance within the short timespan of personal combat, but if required, will take 8 or more movement actions at the GM’s discretion. Too far for verbal communication.
+**Movement**: In-combat movement is abstracted with range bands as described below, but sometimes a concrete measurement helps. When you use an *action* to move on foot, you move 10 meters.
+
+!!! note
+
+	Nearly any action is possible as long as you have the resources, skills, and the story's context. Don't hesitate to get creative!
+
+## Range Bands
+
+Combat distance is simplified into four range bands: *Close*, *Nearby*, *Far*, and *Distant*.
+
+- **Close**: Within hand-to-hand range, up to 2 meters away. You can move this distance freely. Your team can whisper and be heard.
+- **Nearby**: Sidearm range. You can move anywhere within this range with a single movement action. Your team can speak and be heard.
+- **Far**: Rifle range. You must spend **2 to 4** movement actions to cover this distance at the GM's discretion. Your team must shout to be heard.
+- **Distant**: Heavy weapons range. You usually can't traverse this distance within the short timespan of personal combat, but if required, will take **8 or more** movement actions at the GM's discretion. Too far for verbal communication.
+
+!!! note
+
+	If your team has squad radios, you can communicate quietly over distances usually up to 1 kilometer. 
 
 ### Weapon Range Modifiers
 
@@ -47,163 +81,196 @@ Depending on the weapon type and target range, an attack *action roll* may be at
 
 | Weapon | Close | Near | Far | Distant |
 | - | :-: | :-: | :-: | :-: |
-| Assault Rifle | disadvantage | – | – | impossible |
-| Handgun | – | – | disadvantage | impossible |
-| Heavy weapon | impossible | disadvantage | – | – |
-| Melee | – | impossible | impossible | impossible |
-| Shotgun | – | – | disadvantage | impossible |
-| Sniper Rifle | impossible | disadvantage | – | disadvantage |
-| Thrown | – | – | impossible | impossible |
+| **Assault rifle** | disadvantage | – | – |  impossible |
+| **Hand-to-hand** | – | impossible |  impossible | impossible |
+| **Heavy weapon** | impossible | disadvantage | – | – |
+| **LMG** | impossible | – | disadvantage |  disadvantage |
+| **Shotgun** | – | – | disadvantage |  impossible |
+| **Sidearm** | – | – | disadvantage | impossible |
+| **SMG** | – | advantage | disadvantage | impossible |
+| **Sniper rifle** | impossible | disadvantage | advantage | – |
+| **Thrown** | – | – |  impossible  |  impossible  |
 
 The following modifiers also apply to attacks.
 
-- **Aiming**: You may use one *action* to aim, and subsequent attacks against the same target gain *advantage*.
-- **Prone**: Attacks from a prone position gain *advantage*, whereas attacks against a prone target incur *disadvantage*.
+- **Aiming**: When you take an *action* to aim at a target, attacks gain *advantage* until you take a different action other than attacking the target.
+- **Prone**: When attacking from a prone position, you have *advantage*. Attacks against a prone target suffer *disadvantage*.
 
 ## Dealing Damage
 
-When your character makes an *action roll* to attack an opponent, they deal damage as follows:
+When you attack an opponent, you make an *action roll* and consult the following list to determine the result.
 
-- On a **6 or less**, you deal no damage; the attack misses.
-- On a **7–9**, you deal damage equal to the **lowest D6 result** plus the weapon's damage modifier.
-- On a **10–12**, you deal damage equal to the **highest D6 result** plus the weapon's damage modifier.
-- On a **13 or greater**, you deal damage equal to the **sum of both dice** plus the weapon's damage modifier.
+- On a **6 or lower**, you deal **no** damage; the attack misses.
+- On a **7–9**, you deal damage equal to the **lowest D6 roll** plus the weapon's **damage modifier**.
+- On a **10–12**, you deal damage equal to the **highest D6 roll** plus the weapon's **damage modifier**.
+- On a **13 or higher**, you deal damage equal to the **sum of both dice** plus the weapon's **damage modifier**.
 
 ### Weapon Damage Modifiers
 
-Apply the following damage modifiers by weapon type:
+Add damage modifiers to your attacks as listed in the table below.
 
-- **Unarmed** attacks deal -1 damage.
-- **Concealable** weapons (shivs and slingshots) deal +0 damage.
-- **Light** weapons (pistols and knives) deal +1 damage.
-- **Medium** weapons (rifles, shotguns, and swords) deal +2 damage.
-- **Heavy** weapons (RPGs, miniguns, and sniper rifles) deal +3 damage.
-- **Anomalous** weapons (enchanted, alien, or divine) deal +4 damage.
+- **Unarmed** attacks deal **-1** damage.
+- **Concealable** weapons (boot knives, brass knuckles) deal **+0** damage.
+- **Light** weapons (sidearms, combat knives) deal **+1** damage.
+- **Medium** weapons (rifles, shotguns, SMGs) deal **+2** damage.
+- **Heavy** weapons (antiarmor missiles, machine guns, sniper rifles) deal **+3** damage.
+- **Anomalous** weapons (paranormal artifacts) deal **+4** damage.
 
-Some weapons with the *blast* quality, such as explosives, may damage all targets in a nearby area rather than a single target.
+Some weapons have a *blast* quality, such as explosives, that may damage all targets in a *nearby* area rather than a single target.
 
 ### Ammo
 
-Ranged weapons start each mission with an *ammo* score of 6. 
+Each of your firearms starts the mission with an *ammo* score of 6. 
 
-**Check off 1 *ammo*** for all attack rolls of **9 or less**. 
+Mark off **1 ammo** for each attack roll of **9 or less**. When *ammo* reaches **0**, the weapon is out of use until restocked.
 
-When *ammo* reaches 0, the weapon is out of ammunition and can’t be used until it’s restocked.
-
-- Finding ammunition for a weapon during a mission increases *ammo* by 1.
-- Choosing *resupply* during a rendezvous, as described in the Recovery section, refills one weapon’s *ammo* to 6.
+- **Finding ammunition** for a weapon during a mission raises *ammo* by **1**.
+- Selecting **resupply** at a **rendezvous**, as explained in the Recovery section, restores a weapon's *ammo* to **6**.
 
 ## Taking Damage
 
-When your character makes an *action roll* to defend against damage, they take damage as follows:
+When you defend against an attack, make an *action roll* to determine the outcome:
 
-- On a **6 or less**, you take damage equal to the **highest D6 result** plus the enemy damage modifier.
-- On a **7–9**, you take damage equal to the **lowest D6 result** plus the enemy damage modifier.
-- On a **10–12**, you take no damage.
-- On a **13 or greater**, you take no damage, and your next *action roll* has *advantage*.
+- On a **6 or less**, you take **damage** equal to the **highest D6 result** plus the enemy damage modifier.
+- On a **7–9**, you take **damage** equal to the **lowest D6 result** plus the enemy damage modifier.
+- On a **10–12**, you take **no** damage.
+- On a **13 or higher**, you take **no** damage, and your next *action roll* has *advantage*.
 
-## Armor
+## Ballistic Armor
 
-Before calculating HP damage, subtract the target’s armor value from the damage roll. You can have at most 3 points of armor.
+Armor reduces the damage you take. It'll keep you alive in a firefight. 
+ 
+### Base Armor Rating
 
-Worn armor is usually listed as Armor 1, Armor 2, etc. You benefit from a secondary armor source only if it's a bonus (for example, +1 Armor) or if it makes sense in the fiction.
+Ballistic armor, when properly equipped, provides a base damage mitigation rating of **1**, **2**, or **3**. This value represents the number of points of damage deducted when you don't evade an enemy attack.
 
-Shields and helmets provide bonus defense (e.g., +1 Armor), but only while the item is held or worn.
+However, damage reduction is **capped at 3 points**, no matter the armor rating.
 
-Items with an armor bonus can be voluntarily destroyed to block all damage from a single attack.
+!!! note
 
-## Cover and Suppression
+	Some damage, such as intense flames, is **not reduced** by ballistic armor. 
 
-If you take cover behind something, you gain an armor bonus against attacks that your cover would block. Low, medium, and high cover grant 1, 2, and 3 armor, respectively. Attacks that ignore armor don’t ignore the armor bonus from cover. 
+### Secondary Armor Bonuses
 
-- **Low** cover offers minimal protection (for example, iron bars, thick foliage, or another person).
-- **Medium** cover protects at least half the body and often requires crouching (for example, a car, a highway divider, or a barrel).
-- **High** cover protects the whole body and allows free positioning (for example, a wall, a thick tree trunk, or a train car).
+Use secondary armor like a helmet or riot shield for a damage mitigation bonus of **+1** or **+2**. Add this bonus to your base armor to find the total armor rating. However, damage reduction is **capped at 3 points**, no matter the rating, after adding secondary bonuses.
 
-Characters who attack from behind cover should subtract the armor bonus their cover grants from the damage they deal (this also applies to opponents).
+!!! note
 
+	If you have a **riot shield** equipped, you can choose to destroy it to prevent **all** damage you'd otherwise take. 
+
+## Cover
+
+Hiding behind an object provides *cover*, reducing damage from attacks. It blocks **all** damage types, including those that ignore ballistic armor. 
+
+Cover is divided into three levels: *low*, *medium*, and *high*. Below is a description of each level and the damage it blocks.
+
+| Cover | Description | Examples | Block Rating |
+| - | - | - | :-: |
+| Low | Minimal protection and might require lying prone. | Thick foliage, another person | 1 |
+| Medium | Protects at least half the body and might require crouching. | Car hood, highway divider | 2 |
+| High | Protects the whole body. | Concrete wall, AFV hull | 3 |
+
+!!! Note
+
+	Attacking from behind cover reduces damage by the cover's **block rating**.
+	
 ### Suppressing Fire
 
-When you deal damage with a ranged weapon to an enemy behind cover, you may instead lay down *suppressing fire*. Suppressing fire consumes 1 use of *ammo*, regardless of the attack roll.
-
-Suppressed targets who leave cover or take a risky action, such as returning fire, take the damage from the suppressing attack without the armor benefit of cover.
-
-Unless fanatical or mindless, suppressed targets generally hide behind cover and remain pinned down until the suppressing fire ceases.
+When you deal ranged damage to an enemy **behind cover**, you can instead lay down *suppressing fire*. This uses **1 ammo**, deals no damage, and pins the target. You get a **free attack** against suppressed targets who leave cover or take risky actions while behind cover. The free attack's damage isn't reduced by cover. Unless opponents are fanatical or mindless, suppressed targets usually stay pinned behind cover until suppressing fire stops.
 
 ## Multiple Attackers
 
-If multiple attackers target the same target, determine all damage and keep only the highest result each round.
+If you and other teammates all attack the same opponent, determine the damage for each attack individually, but use only the **highest value**.
 
 ## Blast Damage
 
-Attacks with the *blast* quality affect all targets within the noted area. Blast refers to anything from explosions to massive cleaving onslaughts. If you're unsure how many targets can be affected, roll 1D6 plus the damage modifier.
+Attacks with the *blast* quality can affect all targets within an area. The GM may ask you to roll **1D6** plus the weapon's **damage modifier** to determine how many targets are affected.
+
+## Morale
+
+Not all opponents will fight to the bitter end. Sometimes they'll flee when the fight turns against them. 
 
 ## Morale Checks
 
-Opponents must pass a morale check to avoid fleeing when they take their first casualty and again when they lose half their number. Morale checks are also required for opponents to take any action under suppressing fire. Fanatical or mindless opponents don't make morale checks.
+When opponents suffer their **first casualty** or lose **half** their starting numbers, they make a *morale check*. A failed check causes them to rout. Fanatical or mindless opponents don't make morale checks.
 
-An opponent’s morale is rated from 1, an untrained, scared rabble, to 6, a stolid, trained professional. Roll 1D6; if the result equals or exceeds the opponent’s morale score, they rout or fail to act under suppressing fire.
+### Making a Morale Check
 
-Some groups can use their leader’s morale in place of their own. Lone foes must save when they first take damage and again when they lose half their HP. Morale doesn't affect player characters.
+An opponent's morale is rated from **1** (an untrained, scared rabble) to **5** (a well-trained, elite professional).
 
-## Retreat
+The GM will tell you when your opponent must make a *morale check* and their *morale rating*. Then, roll **1D6**. If the result exceeds their *morale rating*, they quit attacking and retreat. 
 
-Fleeing from a dire situation always requires a successful roll +REFLEXES and a safe destination.
+!!! note Notes
+
+	- If a group is led, use the **leader's** morale rating.
+	- **Lone foes** make a *morale check* when they first take damage and again when they lose **half** their hit points.
+	- Morale checks don't apply to player characters. You decide when to retreat.
+
+## Retreating
+
+Fleeing from a fight leaves you open to attack. 
 
 ## Mobs
 
-When you're facing many relatively weak, identical enemies—such as zombies, thugs, or guard drones—the GM may group them into a single unit or *mob*. 
+When facing many weak, similar opponents such as untrained guards or street thugs, the GM can merge them into a *mob*, which is treated as a single opponent in combat.
 
-The mob’s HP equals the number of opponents in the mob. Its size determines its armor, damage, and number of attacks, as shown in the table below:
+The **number of opponents** in a mob determines its **hit points**, **armor**, and **attacks** per round, as shown in the table below.
 
-| #/HP | Armor | Damage | Attacks |
-| :- | :-: | :-: | :-: |
-1–4 | 0 | -1 | 1
-5–8 | 1 | +0 | 2
-9–12 | 2 | +1 | 3
-13–16 | 3 | +2 | 4
-17–20 | 4 | +3 | 5
+If the mob attacks with **ranged** weapons, its damage modifier is **+1**. If it attacks **hand-to-hand**, the modifier is **+0**. 
 
-Damage to the mob’s HP reduces its size and stats—each point of damage reduces the mob’s number by 1.
+| #/HP | Armor | Attacks |
+| :- | :-: | :-: |
+| 1–4 | 0 | 1 |
+| 5–8 | 0 | 2 |
+| 9–12 | 1 | 3 |
+| 13–16 | 2 | 4 |
+| 17–20+ | 3 | 5 |
 
-For example, you’re up against a mob of 14 opponents. With 14 HP, 3 ARMOR, and +2 DAMAGE, this mob can attack up to 4 targets. After 5 HP of damage, the mob’s new stats are 9 HP, 2 ARMOR, and +1 DAMAGE, and it can now attack up to 3 targets.
+Each **point of damage** reduces the mob's **size** by **1**, along with its corresponding stats.
+
+> For example, imagine facing a mob of 14 enemies. The mob's stats are 14 HP and 2 ARMOR. Each round, the mob can attack up to 4 opponents. After taking 5 damage, the mob's size decreases to 9, and its stats change to 9 HP and 1 ARMOR. Consequently, the mob can now attack up to 3 targets each round.
 
 ## Damage, Injuries, and Dying
 
-If you take damage but have at least 1 HP remaining, you’re still on your feet and in the fight. However, if you drop to 0 or fewer HP, you must roll **2D6 + STRENGTH** *minus* any damage past zero to determine how severe it is:
+If you take damage but have at least **1 HP**, you're still in the fight. If your HP drops to **0 or less**, roll **2D6 +STRENGTH** ***minus*** damage below **zero** to determine wound severity, as shown in the table. 
 
-- On a **6 or less**, for a lethal attack, such as a gunshot, you’re **dead**. Otherwise, you’re at 0 HP, incapacitated, and gain an *injury* and 1 point of *stress*. Incapacitated characters will die in 10 minutes if left unattended. 
-- On a **7-12**, you remain alive with 1 HP, gain an *injury* and 1 point of *stress*, and must make a successful **+STRENGTH** roll or be knocked unconscious. An ally can revive unconscious characters.
-- On a **13 or more**, you gain an *injury* and 1 point of *stress*, but you rally with HP equal to the lower of the two D6s, up to your maximum HP.
+- On a **6 or less**, you're **dead**. Roll up a new operative.
+- On a **7–9**, you're *incapacitated* at **0 HP**. Take **2** *injuries* and **2** points of *stress*. You'll die in **10 minutes** unless a teammate stabilizes you.
+- On a **10–12**, you're *down* and stable at **1 HP**, unconscious. Take **1** *injury* and **1** point of *stress*. A teammate can get you back on your feet.
+- On a **13 or higher**, you take **1** *injury*, but **no** *stress*, and *rally* with **1D6 HP**, up to your current maximum. You're one tough SOB.
 
 ### Injuries
 
-Each *injury* you sustain reduces your maximum HP by 1. Injuries can’t be healed in the field and require medical attention at base between missions.
+Each *injury* reduces your **maximum HP** by **1** and can't be healed in the field. Injuries require medical treatment at base between missions.
 
-If accumulated injuries reduce your maximum HP to 0, your character dies. 
+If your total injuries reduce your maximum HP to **0**, your character dies. 
 
-## Emergency Insertion
+## Emergency Deployment
 
-If your character dies, create a new character while the play continues. When you’re ready to deploy, jump into the fray and roll **2D6 + Attribute**:
+If your character dies, create a new one while the game continues. When you're ready to re-enter, the GM will ask you to roll **2D6 +TACTICS** and refer to the list below. 
 
-- On a **6 or less**, your deployment suffers a complication.
+- On a **6 or lower**, your deployment suffers a **complication**. The GM will let you know. 
 - On a **7–9**, you deploy normally.
-- On a **10–12**, you deploy normally and gain an extra tactical supply.
-- On a **13 or greater**, you deploy normally, gain an extra tactical supply, and your next *action roll* has *advantage*.
+- On a **10–12**, you deploy normally and gain **one extra** tactical supply.
+- On a **13 or higher**, you deploy normally, gain **one extra** tactical supply, and your next *action roll* has *advantage*.
 
 ## Recovery
 
-Once per mission, the team can send a *rendezvous signal*. When activated, the GM describes a nearby rendezvous point and the obstacles to reaching it.
+Once per mission, your team can send a *rendezvous signal*. The GM then identifies a nearby rendezvous point and explains any obstacles to reaching it.
 
-Players are safe as long as they remain at the rendezvous point. Each player at the point selects **one** of the following bonuses:
+You are safe as long as you remain at the rendezvous point. Choose **one** bonus from the list below.
 
-- **HEAL**: Recover 1D6 HP.
-- **INTEL**: Receive one useful fact about the mission from the GM.
-- **REST**: Remove 1D6 *stress* and 1 *fatigue*.
-- **RESUPPLY**: Restock either one limited-use item or *ammo* for a single ranged weapon.
+- **HEAL**: Recover **1D6 HP**.
+- **INTEL**: Receive one useful **fact** about the mission from the GM.
+- **REST**: Remove **1D6** *stress* and 1 *fatigue*.
+- **RESUPPLY**: Restock either one **limited-use item** or *ammo* for a **ranged weapon**.
 
 ## Deprivation and Fatigue
 
-A character can’t heal HP while recovering at a rendezvous point if deprived of a crucial need (such as food or warmth). Anyone deprived for more than a day adds *fatigue* to their inventory, one unit per day. 
+You **cannot** restore **HP** while resting at a rendezvous point if deprived of essentials like food or warmth. Beyond a day, you gain **1** *fatigue* unit per extra day. 
 
-Characters can also gain *fatigue* during play, such as from ability use, specific narrative events, or failed *action rolls*. Each unit of *fatigue* occupies one inventory slot and persists until the character rests at a rendezvous point or between missions.
+Fatigue cannot be removed from your inventory except by resting at a **rendezvous point**.
+- If you don't have enough space for a new unit of *fatigue*, drop an item.
+- If your *fatigue* exceeds **12 units**, your character dies. 
+
+Besides deprivation, you can gain *fatigue* from story events or failed action rolls. The GM will let you know. 
