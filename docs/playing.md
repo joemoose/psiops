@@ -35,10 +35,16 @@ When you create your character, you'll assign a *score* to each attribute. The h
 
 Roll **2D6 +Attribute score**. The total determines your degree of success for your action as follows:
 
-- On a **6 or less**, it's a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
-- On a **7–9**, it's a **partial success**. You achieve your goal, but with an unexpected complication.
-- On a **10–12**, it's a **success**. You achieve your goal.
-- On a **13 or higher**, it's a **critical success**. You achieve your goal, and things go better than expected.
+<div class="roll-table">
+
+| Roll | Result |
+|------|--------|
+| 6– | it's a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence. |
+| 7–9 | it's a **partial success**. You achieve your goal, but with an unexpected complication. |
+| 10–12 | it's a **success**. You achieve your goal. |
+| 13+ | it's a **critical success**. You achieve your goal, and things go better than expected. |
+
+</div>
 
 	With sufficient time, relevant skill, and the proper equipment, your actions will generally succeed. The GM won't call for an action roll.
 	- If any one of these three requirements is missing, an *action roll* is typically required to determine the outcome.
@@ -50,8 +56,14 @@ When your character makes an *action roll*, the roll can generate *momentum*. Yo
 
 Whenever you make an *action roll*, you gain additional *momentum* as follows:
 
-- On a **10–12**, you gain **1 point** of momentum.
-- On a **13 or higher**, you gain **2 points** of momentum.
+<div class="roll-table">
+
+| Roll | Result |
+|------|--------|
+| 10–12 | you gain **1 point** of momentum. |
+| 13+ | you gain **2 points** of momentum. |
+
+</div>
 
 ### Accumulating Momentum
 
@@ -78,11 +90,17 @@ You can spend your momentum points to gain bonuses or to resist the consequences
 - **EVASION**: If your character faces a dangerous *consequence* from a failed action, you can attempt to resist or avoid it using your innate grit and training. 
 
 	Spending **4 momentum** points lets you reduce the impact of a single failed roll's consequence. Roll **2D6 + Attribute** to determine the outcome.
-	- On a roll of **1**, the consequence is **greater** than expected. 
-	- On a **2–6**, the consequence **still occurs** as expected.
-	- On a **7–9**, the consequence is **less** than expected.
-	- On a **10–12**, the consequence is **avoided**.
-	- On a **13 or higher**, the consequence is **avoided**, and your next *action roll* has *advantage*.
+	<div class="roll-table">
+
+	| Roll | Result |
+	|------|--------|
+	| 1 | the consequence is **greater** than expected. |
+	| 2–6 | the consequence **still occurs** as expected. |
+	| 7–9 | the consequence is **less** than expected. |
+	| 10–12 | the consequence is **avoided**. |
+	| 13+ | the consequence is **avoided**, and your next *action roll* has *advantage*. |
+
+	</div>
 
 - **FLASHBACKS**: Spend **6 momentum** points to establish that your character set something up before the mission began. This retroactively adds those preparations to the story. For example, you might have prepared a weapons cache, forged a document, or arranged a contact at your location.
 

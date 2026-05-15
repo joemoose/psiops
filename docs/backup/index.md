@@ -1,8 +1,8 @@
 # Introduction
 
-PSIOPS is a squad-based RPG set at the hidden edge of the Cold War. You and your fellow players are psychic operatives running black-budget missions against threats that don’t appear in any field manual. Your GM runs the world against you — and for you.
+PSIOPS is a squad-based RPG set at the hidden edge of the Cold War. You and your fellow players are psychic operatives running black-budget missions against threats that don't appear in any field manual. Your GM runs the world against you — and for you.
 
-The system is built on a single core mechanic: roll *2D6*, add an *attribute*, and see how well you manage the risk. That's it. Four attributes cover everything from brute force to psionic coercion. A *momentum* system rewards bold play. A *stress* track reminds you that what you see out there leaves a mark.
+The system is built on a single core mechanic: roll 2D6, add an *attribute*, and see how well you manage the risk. That's it. Four attributes cover everything from brute force to psionic coercion. A *momentum* system rewards bold play. A *stress* track reminds you that what you see out there leaves a mark.
 
 If you're new to narrative-forward RPGs, you'll find the learning curve gentle. If you're a veteran, you'll be up and running in minutes.
 
@@ -26,7 +26,3 @@ If someone calls a Stop, don't debate it. Move on.
 
 > Play your character like you're driving a stolen car.
 > — John Harper, *Blades in the Dark*
-
-
-
-

@@ -47,10 +47,16 @@ Details on specific actions follow:
 **Attacking**: With a weapon ready, make an *action roll* as described in the Dealing Damage section below. It may be at *disadvantage* depending on the weapon type and range. See the Range Bands below for details.
 
 **Attacks of opportunity**: If you're engaged in hand-to-hand combat and your opponent retreats, you can make a free hand-to-hand attack. If you retreat, make an *action roll* +REFLEXES to determine the outcome.
-- On a **6 or lower**, your opponent makes a **free attack** on you.
-- On a **7–9**, you disengage but suffer a *complication*.
-- On a **10–12**, you disengage without mishap.
-- On a **13+**, you make a **free attack** on your opponent while disengaging.
+<div class="roll-table">
+
+| Roll | Result |
+|------|--------|
+| 6– | your opponent makes a **free attack** on you. |
+| 7–9 | you disengage but suffer a *complication*. |
+| 10–12 | you disengage without mishap. |
+| 13+ | you make a **free attack** on your opponent while disengaging. |
+
+</div>
 
 **Falling prone**: It's a free action if you drop flat to the ground. Standing up requires an *action*.
 
@@ -100,10 +106,16 @@ The following modifiers also apply to attacks.
 
 When you attack an opponent, you make an *action roll* and consult the following list to determine the result.
 
-- On a **6 or lower**, you deal **no** damage; the attack misses.
-- On a **7–9**, you deal damage equal to the **lowest D6 roll** plus the weapon's **damage modifier**.
-- On a **10–12**, you deal damage equal to the **highest D6 roll** plus the weapon's **damage modifier**.
-- On a **13 or higher**, you deal damage equal to the **sum of both dice** plus the weapon's **damage modifier**.
+<div class="roll-table">
+
+| Roll | Result |
+|------|--------|
+| 6– | you deal **no** damage; the attack misses. |
+| 7–9 | you deal damage equal to the **lowest D6 roll** plus the weapon's **damage modifier**. |
+| 10–12 | you deal damage equal to the **highest D6 roll** plus the weapon's **damage modifier**. |
+| 13+ | you deal damage equal to the **sum of both dice** plus the weapon's **damage modifier**. |
+
+</div>
 
 ### Weapon Damage Modifiers
 
@@ -131,10 +143,16 @@ Mark off **1 ammo** for each attack roll of **9 or less**. When *ammo* reaches *
 
 When you defend against an attack, make an *action roll* to determine the outcome:
 
-- On a **6 or less**, you take **damage** equal to the **highest D6 result** plus the enemy damage modifier.
-- On a **7–9**, you take **damage** equal to the **lowest D6 result** plus the enemy damage modifier.
-- On a **10–12**, you take **no** damage.
-- On a **13 or higher**, you take **no** damage, and your next *action roll* has *advantage*.
+<div class="roll-table">
+
+| Roll | Result |
+|------|--------|
+| 6– | you take **damage** equal to the **highest D6 result** plus the enemy damage modifier. |
+| 7–9 | you take **damage** equal to the **lowest D6 result** plus the enemy damage modifier. |
+| 10–12 | you take **no** damage. |
+| 13+ | you take **no** damage, and your next *action roll* has *advantage*. |
+
+</div>
 
 ## Ballistic Armor
 
@@ -234,10 +252,16 @@ Each **point of damage** reduces the mob's **size** by **1**, along with its cor
 
 If you take damage but have at least **1 HP**, you're still in the fight. If your HP drops to **0 or less**, roll **2D6 +STRENGTH** ***minus*** damage below **zero** to determine wound severity, as shown in the table. 
 
-- On a **6 or less**, you're **dead**. Roll up a new operative.
-- On a **7–9**, you're *incapacitated* at **0 HP**. Take **2** *injuries* and **2** points of *stress*. You'll die in **10 minutes** unless a teammate stabilizes you.
-- On a **10–12**, you're *down* and stable at **1 HP**, unconscious. Take **1** *injury* and **1** point of *stress*. A teammate can get you back on your feet.
-- On a **13 or higher**, you take **1** *injury*, but **no** *stress*, and *rally* with **1D6 HP**, up to your current maximum. You're one tough SOB.
+<div class="roll-table">
+
+| Roll | Result |
+|------|--------|
+| 6– | you're **dead**. Roll up a new operative. |
+| 7–9 | you're *incapacitated* at **0 HP**. Take **2** *injuries* and **2** points of *stress*. You'll die in **10 minutes** unless a teammate stabilizes you. |
+| 10–12 | you're *down* and stable at **1 HP**, unconscious. Take **1** *injury* and **1** point of *stress*. A teammate can get you back on your feet. |
+| 13+ | you take **1** *injury*, but **no** *stress*, and *rally* with **1D6 HP**, up to your current maximum. You're one tough SOB. |
+
+</div>
 
 ### Injuries
 
@@ -249,10 +273,16 @@ If your total injuries reduce your maximum HP to **0**, your character dies.
 
 If your character dies, create a new one while the game continues. When you're ready to re-enter, the GM will ask you to roll **2D6 +TACTICS** and refer to the list below. 
 
-- On a **6 or lower**, your deployment suffers a **complication**. The GM will let you know. 
-- On a **7–9**, you deploy normally.
-- On a **10–12**, you deploy normally and gain **one extra** tactical supply.
-- On a **13 or higher**, you deploy normally, gain **one extra** tactical supply, and your next *action roll* has *advantage*.
+<div class="roll-table">
+
+| Roll | Result |
+|------|--------|
+| 6– | your deployment suffers a **complication**. The GM will let you know. |
+| 7–9 | you deploy normally. |
+| 10–12 | you deploy normally and gain **one extra** tactical supply. |
+| 13+ | you deploy normally, gain **one extra** tactical supply, and your next *action roll* has *advantage*. |
+
+</div>
 
 ## Recovery
 

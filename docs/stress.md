@@ -37,10 +37,16 @@ You can reduce your stress during a mission in several ways:
 
 Whenever you reach 6 or more stress points, you must roll +WILLPOWER to avoid adverse effects.
 
-- On a **6 or less**, you *panic*. Roll 1D6 and consult the Panic Table to determine the effect.
-- On a **7–9**, you keep it together and remove 1 stress point.
-- On a **10–12**, you keep it together and remove 2 stress points.
-- On a **13 or greater**, remove all stress and become *transcendent*. You're in the zone. Roll 1D6 and consult the Transcendent Table to determine the effect.
+<div class="roll-table">
+
+| Roll | Result |
+|------|--------|
+| 6– | you *panic*. Roll 1D6 and consult the Panic Table to determine the effect. |
+| 7–9 | you keep it together and remove 1 stress point. |
+| 10–12 | you keep it together and remove 2 stress points. |
+| 13+ | remove all stress and become *transcendent*. You're in the zone. Roll 1D6 and consult the Transcendent Table to determine the effect. |
+
+</div>
 
 ### Panic Table
 
