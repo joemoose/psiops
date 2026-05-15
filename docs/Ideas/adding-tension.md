@@ -8,4 +8,4 @@ Accepting or rejecting additional tension and consequences is always a free choi
 
 In some narrative situations, adding tension isn't an option. In that case, the GM will let you know so you can explore other ways to even the odds.
 
-Remember, you can also spend *momentum* to push yourself and gain *advantage* instead of adding tension with more consequences.
+Remember, you can also spend *momentum* to push yourself and gain *advantage* instead of adding tension with more consequences. 
