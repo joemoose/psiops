@@ -1,34 +1,75 @@
-Roll **2D6 + Attribute**. The total determines your degree of success as follows:
+<div class="roll-table" markdown="1">
 
-- **6–** it's a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
-- **7–9** it's a **partial success**. You achieve your goal, but with a complication.
-- **10–12** it's a **success**. You achieve your goal.
-- **13+** it's a **critical success**. You achieve your goal, and things go better than expected.
+| Roll | Result |
+|------|--------|
+| **6–** | text |
+| **7–9** | text |
+| **10–12** |text |
+| **13+** | text |
+
+</div>
+
+
+NEED 
+
+tier to body armor
+
+Reword neural weapons attack language, comparing to small arms
+
+a section on Abstract time: two modes, narrative and combat
+HP 
+fatigue section
+
+## Terms to change
+
+imperative section titles
+Tweak all action roll syntax.
+character (3rd person)
+links
+passive sentences
+
+## Replacement Words
+
+**Drive** - Core Drive. (shortened to Drives, later)
+**Skills** - Advanced Specialization (skills or specializations)
+**Psionic Talents/Powers** - Neural Weapons, Neural Combat Systems 
+**Psionics** - Anomalous Cognition and Cryptoneurology
+
+## Roll table
+
+
+
+
+
+### Continued Example — Managing a Load Out
+
+The operator must retrieve a safe box containing valuable intel. The safe box requires 1 inventory slot. 
 
 ---
 
-- **6–**&ensp;it's a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
-- **7–9**&ensp;it's a **partial success**. You achieve your goal, but with a complication.
-- **10–12**&emsp;it's a **success**. You achieve your goal.
-- **13+**&emsp;it's a **critical success**. You achieve your goal, and things go better than expected.
+**Important Caveat**
+
+This continuing example assumes the operator is evading an active threat while retrieving the safe box. As the tactical situation is now dangerous, the game switches to combat rounds, and the operator must declare all actions.
+
+If there were no risk in retrieving the box, the player would simply declare, "I grab the box," and it would happen. Inventory management is just quick bookkeeping on the character sheet — the box is added to the rucksack. The game is in open narrative mode with no active threats. 
 
 ---
 
-- **6–**, it's a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
-- **7–9**, it's a **partial success**. You achieve your goal, but with a complication.
-- **10–12**, it's a **success**. You achieve your goal.
-- **13+**, it's a **critical success**. You achieve your goal, and things go better than expected.
+However, given the active threat, combat has commenced, and the player now describes the operator's precise actions.
 
----
+- **First combat round**: The operator stows the sidearm back into the rucksack (1 action) and moves to the desk with the safe box (movement action). 1 rucksack slot still remains available because the sidearm is now back in the basic kit and no longer occupies a slot.
+- **Second combat round**: The operator retrieves the safe box (a free action) and stows it in the rucksack (1 action). The pack is now full.
+- **Third combat round**: The operator drops the riot shield and readies the rifle (free action), falls back to cover (move action), and engages the opposing force (1 action). 3 body slots are open.
 
-- **6–**: it's a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
-- **7–9**: it's a **partial success**. You achieve your goal, but with a complication.
-- **10–12**: it's a **success**. You achieve your goal.
-- **13+**: it's a **critical success**. You achieve your goal, and things go better than expected.
 
----
+| 22 | Flood | You can evoke strong emotions within 10 meters, like fear, joy, or friendliness. ~~This power can cause a *morale check* on the enemy or allies.~~ Its effect lasts until the end of the battle or for **1D6x10** minutes.  |
 
-- **6–** | it's a **failure**. Things go poorly. You don't achieve your goal and suffer a consequence.
-- **7–9** | it's a **partial success**. You achieve your goal, but with a complication.
-- **10–12** | it's a **success**. You achieve your goal.
-- **13+** | it's a **critical success**. You achieve your goal, and things go better than expected.
+> For example, imagine facing a mob of 14 enemies. The mob's stats are 14 HP and 2 ARMOR. Each round, the mob can attack up to 4 opponents. After taking 5 damage, the mob's size drops to 9, and its stats become 9 HP and 1 ARMOR. Consequently, the mob can now attack up to 3 targets each round.
+
+~~Like all hostiles, a mob must make a *morale check* when it loses its first member and again when it loses half its members.~~
+
+### Deprivation
+
+In addition to injuries, fatigue may be added to your inventory due to your mission's operational circumstances.
+- If you are *deprived* of essential needs, such as food or water, for more than 1 day, each additional day afterward adds **1** unit of fatigue.
+- Fatigue might also result from *failed* or *partially successful* action rolls.

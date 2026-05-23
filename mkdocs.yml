@@ -9,7 +9,7 @@ site_dir: ../joemoose.github.io/psiops/
 # Repo
 
 repo_url: https://github.com/joemoose/engigma/
-edit_uri: blob/main/docs
+edit_uri: edit/main/docs
 
 # Navigation
 
@@ -19,7 +19,8 @@ nav:
   - playing.md
   - combat.md
   - stress.md
-  - summary.md
+  - equipment.md
+  - appendix.md
   - attribution.md
     
 # Theme
@@ -28,8 +29,8 @@ theme:
   name: material
   language: en
   font: false
-  logo: logo.png
-  favicon: favicon.ico
+  logo: img/logo.png
+  favicon: img/favicon.ico
   icon:
     edit: octicons/pencil-24
   features:
@@ -59,6 +60,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - md_in_html
   - toc:
       permalink: true
       toc_depth: 3
@@ -66,8 +68,8 @@ markdown_extensions:
 # CSS
 
 extra_css:
-  - stylesheets/extra.css
-  - stylesheets/print.css
+  - css/extra.css
+  - css/print.css
 
 # Plugins
 

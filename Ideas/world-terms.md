@@ -2,21 +2,26 @@
 
 Lots of cool terms.
 
-Official:
+**Official**:
 
 Psi-Class Ordinance
 Anomalous Capabilities
 Psi Assets
-Unit slang:
+
+**Unit slang**:
 
 Tricks
 Brainburn
 The Other Kit
+
+
 Missions specifically using the powers:
 
-Directives: Enhanced Cognition Package (ECP)
-Slang: Ghostworks
-Civilians with the powers:
+*Directives*: Enhanced Cognition Package (ECP)
+*Slang*: Ghostworks
+
+
+**Civilians** with the powers:
 
 Unregistered Capabilities
 
@@ -46,7 +51,7 @@ Here are a few directions, each with a different tonal register:
 
 **Terse/evocative** *(shortest, most stylized)*
 
-> They called it Brainburn before anyone called it anything official. The Program gave it a designation. The designation gave it a budget. The budget found it in you. What follows is a complete inventory of known capabilities.
+They called it Brainburn before anyone officially named it. The Program gave it a designation. The designation gave it a budget. The budget found it in you. What follows is a complete inventory of known capabilities.
 
 ---
 

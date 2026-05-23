@@ -17,9 +17,10 @@
  *   Enable: Background graphics.
  *
  * KNOWN EXCEPTIONS (print-only layout with no Markdown equivalent):
- *   - Two-column random tables grid: print-only.
- *   - Title page full-page layout: handled in the standalone print HTML.
- *   These live only here, not in the source .md files.
+ *   - Two-column RW random tables grid: CSS classes .tables-grid /
+ *     .tables-grid-col / .table-unit are defined here and in tcp-print.html.
+ *     To use from MkDocs, add raw HTML blocks to rw.md wrapping the tables.
+ *   - Title page full-page layout: handled in the standalone tcp-print.html only.
  */
 
 /* ============================================================
@@ -79,6 +80,7 @@
      BASE TYPOGRAPHY
      ---------------------------------------------------------- */
   body {
+    font-family: Georgia, serif;  /* override screen system-ui stack for print */
     font-size: 11pt;
     line-height: 1.55;
     color: #1a1a1a;
@@ -162,6 +164,60 @@
   }
 
   /* ----------------------------------------------------------
+     DICE OUTCOME TABLES (div.roll-table)
+     Renders as a borderless two-column list: bold fixed-width
+     roll range on the left, outcome text on the right.
+     The Markdown-generated "Roll | Result" thead is hidden.
+
+     SPECIFICITY NOTE: extra.css declares
+       .md-typeset table:not([class]) td  (specificity 0,2,2)
+     which outranks div.roll-table td (0,1,2) and would otherwise
+     apply its padding to roll-table cells in print. The !important
+     flags below override it, consistent with the pattern already
+     used for th backgrounds and alternating-row shading above.
+     ---------------------------------------------------------- */
+  div.roll-table {
+    margin: 0.4em 0 0.9em;
+    page-break-inside: avoid;
+    break-inside:      avoid;
+  }
+
+  div.roll-table table {
+    border-collapse: collapse;
+    border:          none;
+    width:           100%;
+    font-size:       inherit;  /* 11pt body, not the 10pt table default */
+    margin:          0;
+    page-break-inside: avoid;
+    break-inside:      avoid;
+  }
+
+  /* Hide the auto-generated "Roll | Result" column header row */
+  div.roll-table thead {
+    display: none;
+  }
+
+  div.roll-table td {
+    border:         none !important;
+    padding:        2pt 0 !important;
+    background:     transparent !important;
+    vertical-align: top;
+  }
+
+  /* Suppress the alternating-row shading from the global tr rule */
+  div.roll-table tr:nth-child(even) td {
+    background: transparent !important;
+  }
+
+  /* Roll-range column: bold, fixed width, non-wrapping */
+  div.roll-table td:first-child {
+    width:         4.5em;
+    font-weight:   700;
+    white-space:   nowrap;
+    padding-right: 6pt !important;
+  }
+
+  /* ----------------------------------------------------------
      ADMONITIONS (Material callout blocks)
      ---------------------------------------------------------- */
   .admonition,
@@ -191,6 +247,19 @@
     max-width: 100%;
   }
 
+  figure {
+    page-break-inside: avoid;
+    break-inside:      avoid;
+    margin: 1em 0;
+  }
+
+  figcaption {
+    font-size: 9pt;
+    color: #444;
+    text-align: center;
+    margin-top: 4pt;
+  }
+
   /* ----------------------------------------------------------
      CODE BLOCKS
      ---------------------------------------------------------- */
@@ -213,6 +282,40 @@
   a[href^="#"]::after,
   .md-nav a::after {
     content: none;
+  }
+
+  /* ----------------------------------------------------------
+     TWO-COLUMN RANDOM TABLES GRID (RW section)
+     Float-based for cross-engine compatibility (Prince, WeasyPrint, browsers).
+     NOTE: There is no Markdown equivalent for this layout — it is print-only.
+     The .tables-grid, .tables-grid-col, and .table-unit classes must be
+     applied via raw HTML blocks in rw.md if MkDocs print output is needed.
+     ---------------------------------------------------------- */
+  .tables-grid     { width: 100%; overflow: hidden; }
+  .tables-grid-col { float: left; width: 48%; }
+  .tables-grid-col:last-child { float: right; }
+  .tables-grid table { margin: 0 0 10pt; width: 100%; }
+
+  /* Keep each bold label glued to its table across page breaks */
+  .table-unit   { page-break-inside: avoid; break-inside: avoid; margin-bottom: 4pt; }
+  .table-unit p { margin-bottom: 0.2em; }
+
+  /* ----------------------------------------------------------
+     DETAILS / COLLAPSIBLE ADMONITIONS
+     WeasyPrint renders <details> as static HTML; a closed block
+     shows only the <summary> and hides body content. Force open.
+     ---------------------------------------------------------- */
+  details {
+    display: block;
+  }
+
+  details > *:not(summary) {
+    display: block;
+  }
+
+  /* Fix overflow on table wrappers (WeasyPrint has no scroll model) */
+  .md-typeset__scrollwrap {
+    overflow: visible;
   }
 
   /* ----------------------------------------------------------
