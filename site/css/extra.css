@@ -13,6 +13,25 @@ body {
   li {
     max-width: 68ch;
   }
+
+  /* ----------------------------------------------------------
+     FIGURES AND CAPTIONS
+     MkDocs Material applies text-align: center to figure
+     elements. Resetting to left here prevents that value from
+     being inherited by any content the parser places inside the
+     figure block. figcaption centers itself explicitly below.
+     ---------------------------------------------------------- */
+  figure {
+    margin: 1.5em 0;
+    text-align: left;
+  }
+
+  figcaption {
+    font-size: 0.85em;
+    color: var(--md-default-fg-color--light);
+    text-align: center;
+    margin-top: 0.4em;
+  }
 }
 
 /* Scrollable tables on narrow viewports */
@@ -47,9 +66,7 @@ body {
   border-collapse: collapse;
   border: none;
   box-shadow: none;
-  /* font-size intentionally omitted: MkDocs Material's default table
-     sizing cascades through here, matching standard table font size.
-     print.css overrides to font-size: inherit for the print context. */
+  font-size: inherit;
 }
 
 /* MkDocs Material wraps tables in a scroll container that can carry

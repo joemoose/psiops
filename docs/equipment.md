@@ -236,7 +236,9 @@ Their loadout is arranged as follows:
 
 The operator has 0 hand slots remaining, 1 open body slot, and 1 open rucksack slot. 
 
-!!! note In this example, a helmet is not equipped. If the operator were to take one on the mission, it would occupy the remaining body slot.
+!!! note
+
+	In this example, a helmet is not equipped. If the operator were to take one on the mission, it would occupy the remaining body slot.
 
 ## Squad Radios 
 

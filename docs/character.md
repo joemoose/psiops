@@ -24,26 +24,23 @@ The higher the score, the greater the ability. See [Choosing an Attribute](playi
 
 ### Step 2: Core Drives
 
-Roll a **D66** to select your character’s ***Core Drive*** from the following [Core Drives table](#core-drives).
-
-> **What's a D66?** Roll **1D6** twice, one at a time. Instead of summing the dice, read the results in order to form a 2-digit number.
-> If you roll a 2, then a 4, that's **24**. Roll a 1, then another 1, that's **11**.
+Roll a **D66** to select your character’s ***Core Drive*** from the following [Core Drives table](#core-drives). Each team member in your unit must have a unique core drive. Reroll any duplicates.
 
 !!! note
 
-	Each team member in your unit must have a unique core drive. Reroll any duplicates.
+	**What's a D66?** Roll **1D6** twice. Instead of summing the dice, read the results in order to form a 2-digit number. If you roll a 2, then a 4, that's **24**. Roll a 1, then another 1, that's **11**.
 
 ---
 
 ### Step 3: Neural Weapons
 
-Roll a **D66** twice to select two ***Neural Weapons*** from the following [Neural Weapons table](#neural-weapons).
+Roll a **D66** twice to select two ***Neural Weapons*** from the following [Neural Weapons table](#neural-weapons). If you roll a duplicate neural weapon, reroll for a different one.
 
 ---
 
 ### Step 4: Advanced Specializations
 
-Roll a **D66** twice to select two ***Advanced Specializations*** from the following [Advanced Specializations table](#advanced-specilizations).
+Roll a **D66** twice to select two ***Advanced Specializations*** from the following [Advanced Specializations table](playing.md#relevant-backgrounds-specializations).
 
 ---
 
@@ -95,7 +92,7 @@ Assign a ***codename*** to your operator.
 
 ---
 
-Your operator is ready. Everything that follows tells you how the mission runs — equipment, combat, contingencies. Read them. Know them.
+Your operator is ready. Everything that follows explains how missions run. Read them. Know them.
 
 Weapons free, soldier. Oscar Mike.
 
@@ -104,10 +101,6 @@ Weapons free, soldier. Oscar Mike.
 ## Core Drives
 
 You and every team member in your unit have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an advancement condition. If you fulfill the advancement condition during a mission, you can improve your capabilities after returning to base. See [Advancement](playing.md#advancement).
-
-!!! note
-
-	Each team member must have a unique core drive. Reroll duplicates.
 
 | D66 | core drive | Description |
 | :-: | :- | :- |
@@ -154,10 +147,6 @@ Neural weapons are your cryptoneurological abilities — anomalous cognitive phe
 
 The following table lists known neural weapon loadouts. Many descriptions refer to game mechanics explained in [Field Operations](playing.md).
 
-!!! note
-
-	If you roll a duplicate neural weapon, reroll for a different one.
-
 | D66 | Neural Weapon | Description |
 | :-: | :- | :- |
 | 11 | Bad Feed | You can make a target within 10 meters hallucinate as long as you concentrate. The false perception can range from a simple illusion to something resembling a drug-fueled fugue state. |
@@ -199,7 +188,7 @@ The following table lists known neural weapon loadouts. Many descriptions refer 
 
 ## Advanced Specializations
 
-Your character is a highly trained military professional capable of almost any action. However, *advanced specializations* increase the likelihood of success for related tasks. See [Specializations](playing.md#relevant-specializations). 
+Your character is a highly trained military professional capable of almost any action. However, *advanced specializations* increase the likelihood of success for related tasks. See [Relevant Backgrounds Specializations](playing.md#relevant-backgrounds-specializations). 
 
 Many of the specializations listed below, such as survival and evasion, are part of standard special forces training. Specializations are advanced courses and certifications beyond basic training.
 

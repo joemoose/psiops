@@ -33,7 +33,7 @@ In a round of combat, all your unit's actions occur **at the same time**. You an
 
 !!! note
 
-The GM will give you a general sense of what the hostiles are doing to help with your decision-making. 
+	The GM will give you a general sense of what the hostiles are doing to help with planning your actions. 
 
 ### Subsequent Rounds
 
@@ -51,30 +51,11 @@ However, if the opposing force ambushes you, you will not make an initiative che
 
 You may hold an action and specify a trigger, for example, “I wait until the enemy rounds the corner.” When the trigger occurs, you act immediately, interrupting the target’s turn.
 
-## Range Bands
-
-Distance in combat is divided into four range bands: *Close*, *Nearby*, *Far*, and *Distant*.
-
-<figure>
-  <img src="../img/range-bands.svg"
-       alt=“A bar with sections labeled using range bands from Close at 0 meters on the left to Distant at 300 meters or greater on the right.”>
-  <figcaption>Range bands track the distance between opponents.</figcaption>
-</figure>
-
-- **Close**: Close-quarters combat range, up to 2 meters away. You can move this distance freely. Your unit can whisper and be heard.
-- **Nearby**: Sidearm range. You can move anywhere within this range with a single movement action. Your unit can speak and be heard.
-- **Far**: Rifle range. You must spend **2 to 4** movement actions to cover this distance at the GM's discretion. Your unit must shout to be heard.
-- **Distant**: Heavy weapons range. You usually can't traverse this distance within the short timespan of personal combat, but if required, it will take **8 or more** movement actions at the GM's discretion. Too far for verbal communication.
-
-!!! note
-
-	If your unit has radios, see [Squad Radios](equipment.md#squad-radios) for communication range.
-
 ## Combat Modifiers
 
 The effectiveness of your attacks is modified by weapon type, range, and tactical situations. See the following tables for situational modifiers. 
 
-### Weapon Range
+### Weapon Ranges
 
 Depending on your weapon type and the range to your target, the resulting *action check* for your attack may be at an *advantage*, *disadvantage*, or *impossible*.
 
@@ -100,6 +81,7 @@ The following tactical decisions also apply modifiers to your attacks.
 ## Attacking
 
 When you **attack** a target to **deal damage**, roll **2D6 + Applicable Attribute** and apply the result. See [Choose an Applicable Attribute](playing.md#choose-an-applicable-attribute) to determine which attribute score to select.
+
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
@@ -176,15 +158,20 @@ If your HP drops to **0 or lower**, you’re wounded, potentially grievously. Ro
 
 See [Injuries](#injuries), [Fatigue](#fatigue), and [Stress](stress.md#reaching-maximum-stress).
 
-#### Example
+!!! example
 
-An operator with 2 STRENGTH and 2 HP is in a knife fight and is struck for 4 points of damage after their armor reduces the attack’s damage. The operator now has –2 HP. They need to make an action check for a *wound*. The operator has the *Close Quarters Combat* specialization, so the GM agrees with the player that the operator knows how to take a hit and grants a +1 to the action check. They roll a 9. The total is 9 + 2 + 1 - 2 = 10. The operator is *down* at 1 HP and falls to the ground. But they aren’t *knocked out* since they’re wearing a *helmet*. The player suggests that, because of the Close Quarters Combat specialization, the operator could leap to their feet without taking an action. The GM agrees. The operator flips to their feet and attacks.
+	An operator with 2 STRENGTH and 2 HP is in a knife fight and is struck for 4 points of damage after their armor reduces the attack’s damage. The operator now has –2 HP. They need to make an action check for a *wound*.
+	
+	The operator has the *Close Quarters Combat* specialization, so the GM agrees with the player that the operator knows how to take a hit and grants a +1 to the action check. They roll a 9. The total is 9 + 2 + 1 - 2 = 10. The operator is *down* at 1 HP and falls to the ground.
+	
+	But they aren’t *knocked out* since they’re wearing a *helmet*. The player suggests that, because of the Close Quarters Combat specialization, the operator could leap to their feet without taking an action. The GM agrees. The operator flips to their feet and attacks.
 
 ### Stabilizing Incapacitated Team Members
 
-Buddy aid can automatically stabilize an incapacitated team member after combat. If required **during** combat, the action is complex and risky, so it uses a mission clock to track completion.
+Buddy aid can automatically stabilize an incapacitated team member after combat. If required **during** combat, the action is complex and risky, so it uses a *mission clock* to track the task.
 
-Stabilizing requires medical supplies, such as your IFAK in the basic kit. The following outcomes apply in addition to the standard mechanics for action checks that mark off segments. See [Mission Clocks](playing.md#mission-clocks).
+Stabilizing first requires medical supplies, such as your IFAK in the basic kit. The following outcomes apply in addition to the standard mechanics for action checks that mark off segments. See [Mission Clocks](playing.md#mission-clocks).
+
 - A *partial success* may consume a unit of medical supply.
 - A *failed* check moves the mission clock **back** 1 segment, up to a maximum of starting over. 
 
@@ -244,11 +231,11 @@ You can reduce the amount of damage you take when hit using both body armor and 
 | Secondary armor| +1 | Capped at 3 total |
 | Cover | 1–3 | Yes, independent of armor |
 
-### Damage Reduction Example
+!!! example
 
-An operator crouches behind a 55-gallon drum. The cover is rated medium, blocking 2 points of damage. The operator wears tier-3 ballistic body armor (3 armor rating) and a helmet (+1 armor), resulting in a damage reduction of 3 rather than 4 because the helmet’s +1 bonus to the armor rating exceeds the maximum 3-point damage reduction allowed for a personal protective system. If hit by hostile fire, the total damage reduction would be 2 (cover) + 3 (armor) = 5 points.
-
-Continuing the example, assume the operator is attacked with a flamethrower. Ballistic body armor and helmets do not reduce this type of damage, but cover still does. The total damage reduction would be 2 points. 
+	An operator crouches behind a 55-gallon drum. The cover is rated medium, blocking 2 points of damage. The operator wears tier-3 ballistic body armor (3 armor rating) and a helmet (+1 armor), resulting in a damage reduction of 3 rather than 4 because the helmet’s +1 bonus to the armor rating exceeds the maximum 3-point damage reduction allowed for a personal protective system. If hit by hostile fire, the total damage reduction would be 2 (cover) + 3 (armor) = 5 points.
+	
+	Continuing the example, assume the operator is attacked with a flamethrower. Ballistic body armor and helmets do not reduce this type of damage, but cover still does. The total damage reduction would be 2 points. 
 
 ## Suppressing Fire
 
@@ -274,6 +261,7 @@ When you invoke your neural weapon, roll **2D6+WILLPOWER** and consult the list 
 </div>
 
 Neural weapons described as *ongoing* require concentration to keep the power active after it’s manifested.
+
 - You must spend an action each round of combat to maintain concentration and keep the power active.
 - If you take damage while concentrating, your focus is disrupted, and the neural weapon’s effect ends.
 - Otherwise, you can voluntarily stop concentrating to end the effect. 
@@ -281,6 +269,7 @@ Neural weapons described as *ongoing* require concentration to keep the power ac
 ## Retreating
 
 Withdrawing from a fight while engaged in combat may expose the retreating force to additional attack.
+
 - If your **opponents** retreat, you can immediately make a free attack against them before they move.
 - If **you** retreat, roll **2D6 + REFLEXES** and apply the result.
 
@@ -311,7 +300,9 @@ The **number of opponents** in a mob determines its *hit points*, *armor*, and *
 
 Each point of damage reduces the **number** of hostiles in the mob by **1**, which in turn lowers its related stats.
 
-> For example, imagine facing a mob of 14 enemies. The mob’s stats are 14 HP and 2 ARMOR. Each round, the mob can attack up to 4 opponents. After taking 5 damage, the mob’s size drops to 9, and its stats become 9 HP and 1 ARMOR. Consequently, the mob can now attack up to 3 targets each round.
+!!! example
+
+	An operator is facing a mob of 14 enemies. The mob’s stats are 14 HP and 2 ARMOR. Each round, the mob can attack up to 4 opponents. After taking 5 damage, the mob’s size drops to 9, and its stats become 9 HP and 1 ARMOR. Consequently, the mob can now attack up to 3 targets each round.
 
 ## Emergency Deployment
 
@@ -330,13 +321,16 @@ If your character dies, create a new one while the game continues. When you’re
 
 ## Rest and Recovery
 
-Once per mission, your unit can send a *rendezvous signal*. The GM then designates a nearby rendezvous point and describes any obstacles to reaching it. Arriving there lets your unit rest and recover. 
+Once per mission, your unit can send a *rendezvous signal*. The GM then designates a nearby *rendezvous point* and describes any obstacles to reaching it. Arriving at a rendezvous point lets your unit rest and recover. 
 
-Resting and recovering removes all *panicked and locked-in* effects. See [Reaching Maximum Stress](stress.md#reaching-maximum-stress).
+Reaching the rendezvous point has the following effects:
 
-You also choose **one** benefit from the list below.
+- Remove all *panicked and locked-in* effects. See [Reaching Maximum Stress](stress.md#reaching-maximum-stress).
+- *Momentum* points reset to their starting value of 2. 
 
-- **INTEL**: Ask a single question about the mission, and the GM will reply with either “yes” or “no.”
+You also choose **one** benefit from the following list:
+
+- **INTEL**: Ask a single question about the mission. The GM will reply “yes” or “no.”
 - **PATCH UP**: Recover **1D6 HP**.
 - **RECUPERATE**: Remove **1D6** *stress points* and **1D3** *fatigue*.
 - **RESUPPLY**: Receive **one** unit of tactical supplies.

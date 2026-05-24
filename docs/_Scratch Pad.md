@@ -12,15 +12,13 @@
 
 NEED 
 
-tier to body armor
+Reword the neural weapons attack language, comparing to small arms
 
-Reword neural weapons attack language, comparing to small arms
-
-a section on Abstract time: two modes, narrative and combat
 HP 
-fatigue section
 
 ## Terms to change
+
+operative -> operator
 
 imperative section titles
 Tweak all action roll syntax.
