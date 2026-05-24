@@ -296,11 +296,11 @@ Once all segments are marked, your task is complete.
 
 ### Track Impending Threats
 
-The GM uses a mission clock to track an impending threat to your unit, such as a guard’s alertness level or the time remaining until a high-value individual is eliminated. The clock is visible to all, and tension builds as it counts down.
+The GM uses a *threat clock* to track impending threats, such as a guard’s alertness level or the time remaining until a high-value individual is eliminated. The threat clock is visible to all, and tension builds as it counts down.
 
 You will certainly attempt actions to slow or eliminate the threat. However, if you *fail* an action check while the threat is still imminent, the GM marks off a segment on the threat clock. Once all segments are marked off, the threat occurs, and the guard sounds an alarm, or the individual is eliminated.
 
-## Advancement and Improving Abilities
+## Character Advancement and Improving Abilities
 
 Your character improves their abilities by staying true to their *core drive* during the mission. For example, a *True Believer* improves by acting ethically to further their mission.
 

@@ -124,7 +124,7 @@ Whenever you *panic*, roll **1D6** and apply the result. If you panic multiple t
 
 ### Locked-In
 
-Whenever you're locked in, roll **1D6** and apply the result. If you lock in multiple times, each effect is cumulative.
+Whenever you're locked in, roll **1D6** and apply the result. If you lock in multiple times, the effects are cumulative.
 
 | D6 | Effect |
 | :-: | :- |
@@ -133,4 +133,4 @@ Whenever you're locked in, roll **1D6** and apply the result. If you lock in mul
 | **3** | Hardened | You gain +1 ARMOR. |
 | **4** | Jacked | *Advantage* on all + STRENGTH rolls. |
 | **5** | Sharp | *Advantage* on all + REFLEXES rolls. |
-| **6** | Steady | Whenever you succeed on an *action roll*, team members within sight of you remove **1** stress. |
+| **6** | Steady | Whenever you succeed on an *action roll*, team members within sight of you remove **1** stress. |d
