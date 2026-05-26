@@ -1,3 +1,35 @@
+## To-Do
+
+1. [ ] CLEAN up action roll stem sentences
+2. [ ] PSIOPS -> PsiOps
+2. [ ] Review section headers
+3. [ ] 2nd person
+4. [ ] passive
+5. [ ] contractions
+6. [ ] add links
+7. [ ] diagrams
+8. [ ] deprevation
+9. [ ] edit core drives list
+9. [ ] edit neural weapons list
+10. [ ] edit specializations list
+11. [ ] Fonts?
+12. [ ] Zones?
+13. [ ] Rewrite movement
+14. [ ] loadout/kit
+
+| Natural Usage       | Why                                |
+| - | - |
+| **medical kit** | specialized equipment set |
+| **breaching kit** | bundle of breaching tools |
+| **survival kit** | compact functional package |
+| **radio kit** | comms equipment package |
+| **combat loadout** | overall fighting equipment |
+| **mission loadout** | everything selected for deployment |
+
+---
+
+## Action Check Table Template
+
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
@@ -9,35 +41,12 @@
 
 </div>
 
-
-NEED 
-
-Reword the neural weapons attack language, comparing to small arms
-
-HP 
-
-## Terms to change
-
-operative -> operator
-
-imperative section titles
-Tweak all action roll syntax.
-character (3rd person)
-links
-passive sentences
-
 ## Replacement Words
 
 **Drive** - Core Drive. (shortened to Drives, later)
 **Skills** - Advanced Specialization (skills or specializations)
 **Psionic Talents/Powers** - Neural Weapons, Neural Combat Systems 
 **Psionics** - Anomalous Cognition and Cryptoneurology
-
-## Roll table
-
-
-
-
 
 ### Continued Example — Managing a Load Out
 
@@ -68,6 +77,15 @@ However, given the active threat, combat has commenced, and the player now descr
 
 ### Deprivation
 
-In addition to injuries, fatigue may be added to your inventory due to your mission's operational circumstances.
+*Fatigue* may be added to your inventory due to the operational circumstances of your mission.
 - If you are *deprived* of essential needs, such as food or water, for more than 1 day, each additional day afterward adds **1** unit of fatigue.
 - Fatigue might also result from *failed* or *partially successful* action rolls.
+
+
+Range bands also determine the attack modifiers for your weapons; sidearms aren't as accurate as rifles when firing on enemies in a *far* range band. See [Weapon Ranges](combat.md#weapon-ranges).
+
+## AI Disclosure
+
+- AI was used to check spelling and grammatical errors. 
+- AI assisted in researching the names of military weapons by nation in the 1980s for the [National Armament Roster](appendix.md#national-armament-roster) in the appendix.<br/>The table provides period-accurate names for players who might prefer, for example, a "British Sterling L2A3" to an "SMG."<br/>Details on Cold War-era standard weaponry are scattered across dozens of sources in several languages aside from exorbitant industry publications. I am neither an aficionado nor a scholar of Cold War military history and equipment. 
+- The author, Zachary Taylor, wrote all other content.

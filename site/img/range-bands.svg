@@ -1,12 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="680" height="155" viewBox="0 0 680 155"
-     xmlns="http://www.w3.org/2000/svg"
-     font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
-
-<title>Range band diagram</title>
-<desc>Horizontal bar diagram showing the four PSIOPS combat range bands — Close, Nearby, Far, and Distant — with approximate distances, movement costs, and communication capabilities for each band.</desc>
-
-<style>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="680.0" height="155.0" viewBox="0 0 680 155" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+  <title>Range band diagram</title>
+  <desc>Horizontal bar diagram showing the four PSIOPS combat range bands — Close, Nearby, Far, and Distant — with approximate distances, movement costs, and communication capabilities for each band.</desc>
+  <style>
   .label-h    { font-size: 14px; font-weight: 500;   fill: #2c2c2a; }
   .label-band { font-size: 11px; font-weight: 600;   fill: white;   opacity: 0.92; letter-spacing: 0.4px; }
   .label-dist { font-size: 10px; font-weight: 400;   fill: #5f5e5a; }
@@ -16,84 +12,43 @@
   .sep-v      { stroke: #e0deda; stroke-width: 0.5; }
   .tick       { stroke: #a8a6a0; stroke-width: 1; }
 </style>
-
-<!--
-  Bar: x=75 to x=650 (575 px total)
-  Segment widths chosen to hint at relative scale while staying legible:
-    Close:   75–165   (90 px)   — ≤ 2 m
-    Nearby: 165–300  (135 px)   — 2 m to ~50 m
-    Far:    300–475  (175 px)   — ~50 m to ~300 m
-    Distant:475–650  (175 px)   — ~300 m and beyond
-
-  Colors — each uses a distinct hue; luminance values differ enough
-  to be distinguishable on a greyscale printer:
-    Close   #9B3A3A  muted red       lum ≈ 76
-    Nearby  #8B6B2E  muted amber     lum ≈ 98
-    Far     #2E6B3A  dark green      lum ≈ 83  (matches obstacle clock)
-    Distant #2E4A7A  muted navy      lum ≈ 68
--->
-
-<!-- Title -->
-<text class="label-h" x="340" y="18" text-anchor="middle">Range Bands</text>
-
-<!-- Band fills -->
-<rect x="75"  y="28" width="90"  height="42" fill="#9B3A3A"/>
-<rect x="165" y="28" width="135" height="42" fill="#8B6B2E"/>
-<rect x="300" y="28" width="175" height="42" fill="#2E6B3A"/>
-<rect x="475" y="28" width="175" height="42" fill="#2E4A7A"/>
-
-<!-- Outer border -->
-<rect x="75" y="28" width="575" height="42" fill="none" stroke="#a8a6a0" stroke-width="1"/>
-
-<!-- Internal dividers (white, subtle) -->
-<line x1="165" y1="28" x2="165" y2="70" stroke="white" stroke-width="1" opacity="0.45"/>
-<line x1="300" y1="28" x2="300" y2="70" stroke="white" stroke-width="1" opacity="0.45"/>
-<line x1="475" y1="28" x2="475" y2="70" stroke="white" stroke-width="1" opacity="0.45"/>
-
-<!-- Band name labels, centered in each segment -->
-<text class="label-band" x="120"   y="53" text-anchor="middle">CLOSE</text>
-<text class="label-band" x="232.5" y="53" text-anchor="middle">NEARBY</text>
-<text class="label-band" x="387.5" y="53" text-anchor="middle">FAR</text>
-<text class="label-band" x="562.5" y="53" text-anchor="middle">DISTANT</text>
-
-<!-- Tick marks at segment boundaries -->
-<line class="tick" x1="75"  y1="70" x2="75"  y2="78"/>
-<line class="tick" x1="165" y1="70" x2="165" y2="78"/>
-<line class="tick" x1="300" y1="70" x2="300" y2="78"/>
-<line class="tick" x1="475" y1="70" x2="475" y2="78"/>
-<line class="tick" x1="650" y1="70" x2="650" y2="78"/>
-
-<!-- Distance labels below tick marks -->
-<text class="label-dist" x="75"  y="90" text-anchor="middle">0</text>
-<text class="label-dist" x="165" y="90" text-anchor="middle">2 m</text>
-<text class="label-dist" x="300" y="90" text-anchor="middle">~50 m</text>
-<text class="label-dist" x="475" y="90" text-anchor="middle">~300 m</text>
-<text class="label-dist" x="650" y="90" text-anchor="middle">→</text>
-
-<!-- Info grid: horizontal separators -->
-<line class="sep-h" x1="75" y1="98"  x2="650" y2="98"/>
-<line class="sep-h" x1="75" y1="116" x2="650" y2="116"/>
-<line class="sep-h" x1="75" y1="134" x2="650" y2="134"/>
-
-<!-- Info grid: vertical column separators -->
-<line class="sep-v" x1="165" y1="98" x2="165" y2="134"/>
-<line class="sep-v" x1="300" y1="98" x2="300" y2="134"/>
-<line class="sep-v" x1="475" y1="98" x2="475" y2="134"/>
-
-<!-- Row labels (right-aligned, before the bar) -->
-<text class="label-row" x="68" y="111" text-anchor="end">Move</text>
-<text class="label-row" x="68" y="129" text-anchor="end">Comms</text>
-
-<!-- Movement cost values -->
-<text class="label-val" x="120"   y="111" text-anchor="middle">Free</text>
-<text class="label-val" x="232.5" y="111" text-anchor="middle">1 action</text>
-<text class="label-val" x="387.5" y="111" text-anchor="middle">2–4 actions</text>
-<text class="label-val" x="562.5" y="111" text-anchor="middle">8+ actions</text>
-
-<!-- Communication values -->
-<text class="label-val" x="120"   y="129" text-anchor="middle">Whisper</text>
-<text class="label-val" x="232.5" y="129" text-anchor="middle">Speak</text>
-<text class="label-val" x="387.5" y="129" text-anchor="middle">Shout</text>
-<text class="label-val" x="562.5" y="129" text-anchor="middle">Radio only</text>
-
+  <text class="label-h" x="340" y="18" text-anchor="middle">Range Bands</text>
+  <rect x="75" y="28" width="90" height="42" fill="#9B3A3A"/>
+  <rect x="165" y="28" width="135" height="42" fill="#8B6B2E"/>
+  <rect x="300" y="28" width="175" height="42" fill="#2E6B3A"/>
+  <rect x="475" y="28" width="175" height="42" fill="#2E4A7A"/>
+  <rect x="75" y="28" width="575" height="42" fill="none" stroke="#a8a6a0" stroke-width="1"/>
+  <line x1="165" y1="28" x2="165" y2="70" stroke="white" stroke-width="1" opacity="0.45"/>
+  <line x1="300" y1="28" x2="300" y2="70" stroke="white" stroke-width="1" opacity="0.45"/>
+  <line x1="475" y1="28" x2="475" y2="70" stroke="white" stroke-width="1" opacity="0.45"/>
+  <text class="label-band" x="120" y="53" text-anchor="middle">CLOSE</text>
+  <text class="label-band" x="232.5" y="53" text-anchor="middle">NEARBY</text>
+  <text class="label-band" x="387.5" y="53" text-anchor="middle">FAR</text>
+  <text class="label-band" x="562.5" y="53" text-anchor="middle">DISTANT</text>
+  <line class="tick" x1="75" y1="70" x2="75" y2="78"/>
+  <line class="tick" x1="165" y1="70" x2="165" y2="78"/>
+  <line class="tick" x1="300" y1="70" x2="300" y2="78"/>
+  <line class="tick" x1="475" y1="70" x2="475" y2="78"/>
+  <line class="tick" x1="650" y1="70" x2="650" y2="78"/>
+  <text class="label-dist" x="75" y="90" text-anchor="middle">0</text>
+  <text class="label-dist" x="165" y="90" text-anchor="middle">2 m</text>
+  <text class="label-dist" x="300" y="90" text-anchor="middle">~50 m</text>
+  <text class="label-dist" x="475" y="90" text-anchor="middle">~300 m</text>
+  <text class="label-dist" x="650" y="90" text-anchor="middle">→</text>
+  <line class="sep-h" x1="75" y1="98" x2="650" y2="98"/>
+  <line class="sep-h" x1="75" y1="116" x2="650" y2="116"/>
+  <line class="sep-h" x1="75" y1="134" x2="650" y2="134"/>
+  <line class="sep-v" x1="165" y1="98" x2="165" y2="134"/>
+  <line class="sep-v" x1="300" y1="98" x2="300" y2="134"/>
+  <line class="sep-v" x1="475" y1="98" x2="475" y2="134"/>
+  <text class="label-row" x="68" y="111" text-anchor="end">Move</text>
+  <text class="label-row" x="68" y="129" text-anchor="end">Comms</text>
+  <text class="label-val" x="120" y="111" text-anchor="middle">Free</text>
+  <text class="label-val" x="232.5" y="111" text-anchor="middle">1 action</text>
+  <text class="label-val" x="387.5" y="111" text-anchor="middle">2–4 actions</text>
+  <text class="label-val" x="562.5" y="111" text-anchor="middle">8+ actions</text>
+  <text class="label-val" x="120" y="129" text-anchor="middle">Whisper</text>
+  <text class="label-val" x="232.5" y="129" text-anchor="middle">Speak</text>
+  <text class="label-val" x="387.5" y="129" text-anchor="middle">Shout</text>
+  <text class="label-val" x="562.5" y="129" text-anchor="middle">Radio only</text>
 </svg>

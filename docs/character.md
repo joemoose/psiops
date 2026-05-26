@@ -1,6 +1,6 @@
 # Recruitment & Assignment
 
-You won't make the headlines. You're off-ledger, deniable, and waging war on a Cold War front no one will acknowledge. The Program doesn't use the word *psychic*. What you carry are Neural Weapons — cataloged, classified, and fielded. You’ve seen things that’ll never be passed up the chain of command. The threats you face bleed, but they shouldn't exist. You won't fight alone. You won't fight safe.
+You won’t make the headlines. You’re an off-ledger operator fighting on a Cold War front no one will acknowledge. The research divisions don't use the word *psychic*. What you carry are Neural Weapons — cataloged, classified, and fielded. You’ve seen things that’ll never be passed up the chain of command. The threats you face bleed, but they shouldn't exist. You won't fight alone. You won't fight safe.
 
 Welcome to the unit, operator. 
 
@@ -40,7 +40,7 @@ Roll a **D66** twice to select two ***Neural Weapons*** from the following [Neur
 
 ### Step 4: Advanced Specializations
 
-Roll a **D66** twice to select two ***Advanced Specializations*** from the following [Advanced Specializations table](playing.md#relevant-backgrounds-specializations).
+Roll a **D66** twice to select two ***Advanced Specializations*** from the following [Advanced Specializations table](#advanced-specializations).
 
 ---
 
@@ -70,7 +70,7 @@ See [Combat Weapons](equipment.md#combat-weapons) and [Mission-Specific Equipmen
 
 Add ***Tier-1 Ballistic Body Armor*** and a ***Helmet*** to your inventory, then set your ***Armor Rating*** to **2**. Both items are pre-listed on your character sheet. 
 
-You can change your armor loadout after your mission briefing. See [Personal Protective System](equipment.md#personal-protective-system).
+You can change your protective kit after your mission briefing. See [Personal Protective System](equipment.md#personal-protective-system).
 
 ---
 
@@ -88,7 +88,7 @@ Then choose an ***additional number of languages*** equal to the higher score of
 
 ### Step 10: Codename
 
-Assign a ***codename*** to your operator. 
+Assign a ***codename***. 
 
 ---
 
@@ -100,7 +100,7 @@ Weapons free, soldier. Oscar Mike.
 
 ## Core Drives
 
-You and every team member in your unit have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an advancement condition. If you fulfill the advancement condition during a mission, you can improve your capabilities after returning to base. See [Advancement](playing.md#advancement).
+You and every team member in your unit have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an advancement condition. If you fulfill the advancement condition during a mission, you can improve your capabilities after returning to base. See [Character Advancement](playing.md#character-advancement-and-improving-abilities).
 
 | D66 | core drive | Description |
 | :-: | :- | :- |
@@ -143,7 +143,7 @@ You and every team member in your unit have a distinct *core drive* that fuels y
 
 ## Neural Weapons
 
-Neural weapons are your cryptoneurological abilities — anomalous cognitive phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The Program found you and recruited you for these abilities. In the field, they're your edge. 
+Neural weapons are your cryptoneurological abilities — anomalous cognitive phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The unit found you and recruited you for these abilities. In the field, they're your edge. 
 
 The following table lists known neural weapon loadouts. Many descriptions refer to game mechanics explained in [Field Operations](playing.md).
 
@@ -152,43 +152,43 @@ The following table lists known neural weapon loadouts. Many descriptions refer 
 | 11 | Bad Feed | You can make a target within 10 meters hallucinate as long as you concentrate. The false perception can range from a simple illusion to something resembling a drug-fueled fugue state. |
 | 12 | Bio Sweep | You can instinctively sense all beings within rifle range, not exact locations, but a general idea of where a concealed person is. |
 | 13 | Booster | Move twice as fast while maintaining concentration. |
-| 14 | Burnline | You can ignite objects within 10 meters. Pyrokinesis can be used as an offensive attack. Treat range modifiers like a **sidearm** and deal **+1** damage, bypassing ballistic armor. If the target takes damage, it ignites, taking **1** damage per combat round for **1D3** rounds or until extinguished. |
-| 15 | Choke | Using your mind, you can seize a humanoid’s throat and strangle them for **1D6** damage, bypassing ballistic armor. |
+| 14 | Burnline | You can ignite objects within 10 meters. Pyrokinesis can be used as an offensive attack. Treat range modifiers like a **sidearm** and deal **+1** damage, bypassing ballistic armor. A riot shield will reduce damage. If the target takes damage, it ignites, taking **1** damage per combat round for **1D3** rounds or until extinguished. |
+| 15 | Choke | Using your mind, you can seize a humanoid’s throat and strangle them for **1D6** damage, bypassing armor. |
 | 16 | Clean Slate | To use this talent, be within 10 meters of a target. You can block up to 15 minutes of their memories. Each use lets you target more memories. It can also be reversed to restore blocked memories. |
 | 21 | Clear State | You can remove **1** negative effect from a target, such as poisoning, burning, fatigue, panic, or **1D6** points of stress. |
-| 22 | Flood | You can evoke strong emotions within 10 meters, like fear, joy, or friendliness. The effect lasts until the end of the battle or for **1D6x10** minutes.  |
-| 23 | Fold | Instantly move to any point within 1 km if you have a line of sight or have visited it. |
-| 24 | Forward Look | Ask the GM one question about your character’s next 24 hours. The GM responds with “yes” or “no.” Forward Look can be used once per session. |
+| 22 | Fast Forward | Make your next action a free action. |
+| 23 | Flood | You can evoke strong emotions within 10 meters, like fear, joy, or friendliness. The effect lasts until the end of the battle or for **1D6x10** minutes.  |
+| 24 | Fold | Instantly move to any point within 1 km if you have a line of sight or have visited it. |
 | 25 | Hard Extract | You can compel a target to answer questions truthfully if they can speak or communicate. Questions can be on any topic, and they will answer to the best of their ability. |
 | 26 | Hard Pause | A target within 10 meters is paralyzed for **1D6** rounds and can’t move but can still speak. |
-| 31 | Hard Push | You generate a powerful, invisible blast of mental force that attacks a target like a **rifle**, dealing **+2 damage**. |
+| 31 | Hard Push | You generate a powerful, invisible blast of mental force that attacks a target with range modifiers like a **rifle** and deal **+2** damage, bypassing ballistic armor, but reduced by riot shields.
 | 32 | Hard Shell | Gain **+1 armor** for the duration of the current battle. |
 | 33 | Harvest | When you make an unarmed attack, the Harvest talent adds **+1 damage** and heals you for half of the damage dealt. |
 | 34 | Inner Shield | You create an invisible mental shield around you and nearby allies, protecting against mind-affecting powers and cognitive anomalies. Roll + WILLPOWER to block a mental attack. Failure causes the shield to collapse. |
 | 35 | Leash | You gain control of a target within 10 meters, making them your ally for **1D6** rounds. They perform only tasks an ally would and won't harm themselves. |
-| 36 | Live Wire | You can use nearby electrical energy to recharge batteries, short-circuit devices, create light shows, or attack offensively like a **sidearm** dealing **+1 damage**. Mechanical or electronic targets grant *advantage* on attack rolls. |
+| 36 | Live Wire | You can use nearby electrical energy to recharge batteries, short-circuit devices, create light shows, or attack offensively. Treat range modifiers like a **sidearm** and deal **+1** damage, bypassing armor. Mechanical or electronic targets grant *advantage* on attack rolls. |
 | 41 | Long Look | You can visualize and listen within 1 km of any location by specifying the direction and distance, ignoring solid objects, without needing to be familiar with the area. |
 | 42 | Meat | You can control a corpse killed within 24 hours, within 10 meters, for up to 1D6 rounds. While concentrating, you direct it to act, speak, and attack. Its abilities may be limited by prior damage. |
-| 43 | Muscle Override | Gain **+1D3** to STRENGTH rolls for the duration of the battle. |
+| 43 | Muscle Pump | Gain **+1D3** to STRENGTH rolls for the duration of the battle. |
 | 44 | Null | You can hide from onlookers, organic targets, and sensors or cameras within 10 meters. Maintaining it needs concentration, and attacking ends it. |
-| 45 | Null Weight | You can fly at walking speed in any direction for 6 combat rounds. |
+| 45 | Null Weight | You can fly at walking speed in any direction while concentrating. |
 | 46 | Overclock | Increase all attribute scores by 1 point for your next action in a combat round. |
-| 51 | Overload | This powerful telepathic blast stuns a target within 10 meters for **1D6 rounds**. |
-| 52 | Reach | You can move objects up to **100 kilograms** with your mind. Offensively, you can hurl an object like a **sidearm**, dealing **+0** to **+3** damage, based on the object’s size, as determined by the GM. |
+| 51 | Overload | Stuns a target within 10 meters for **1D6 rounds**. |
+| 52 | Reach | You can move objects up to **100 kilograms** with your mind. Offensively, you can hurl an object. Treat range modifiers like a **sidearm** and deal **+0** to **+3** damage, based on the object's size. Armor reduces damage. |
 | 53 | Reflex Read | You can adjust your next roll by **+1D3** points, regardless of its purpose. |
 | 54 | Reskin | You can alter a target’s appearance and biometric data to match any target of similar species for 10 minutes. To mimic a specific person’s biometric data, you need a DNA sample. |
 | 55 | Restitch | You heal an injured target for **1D3** damage. They can’t receive Restitch healing again until they take further damage. |
 | 56 | Second Wind | You can ignore stress and fatigue for an hour. |
 | 61 | Soft Read | You can read a target’s emotions and influence them. |
 | 62 | Stasis | You can meditate in a trance-like state for up to 7 days without food, water, or air. You stay aware of your surroundings and can end hibernation at will. |
-| 63 | Thread Work | You control small objects with your mind, gaining *advantage* on related rolls. It can also serve offensively as a **combat knife**, dealing **+1 damage**. |
+| 63 | Thread Work | You control small objects with your mind, gaining *advantage* on related rolls. It can also serve offensively as a **combat knife**, dealing **+1 damage**, bypassing armor. |
 | 64 | Whisper | You can plant a hypnotic suggestion in a target that lasts until they complete the task or for 10 minutes. Targets won’t obey suggestions that would harm them. |
 | 65 | Wire | You can read a target's surface thoughts for one minute. |
-| 66 | Zero Field | You can freeze up to 5 cubic meters of material. It also serves offensively as a **sidearm**, dealing **+1 damage**. |
+| 66 | Zero Field | You can freeze up to 5 cubic meters of material. It also serves offensively. Treat range modifiers as a **sidearm**, dealing **+1 damage** and bypassing armor. |
 
 ## Advanced Specializations
 
-Your character is a highly trained military professional capable of almost any action. However, *advanced specializations* increase the likelihood of success for related tasks. See [Relevant Backgrounds Specializations](playing.md#relevant-backgrounds-specializations). 
+Your character is a highly trained military professional capable of almost any action. However, *advanced specializations* increase the likelihood of success for related tasks. See [Using Advanced Specializations](playing.md#using-advanced-specializations). 
 
 Many of the specializations listed below, such as survival and evasion, are part of standard special forces training. Specializations are advanced courses and certifications beyond basic training.
 

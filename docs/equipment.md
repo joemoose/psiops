@@ -1,6 +1,7 @@
 # Equipment
 
 The equipment you carry into the field is divided into five categories:
+
 - Basic kit
 - Tactical supplies
 - Combat weapons
@@ -36,6 +37,7 @@ Items not originally part of your basic kit, such as mission-specific gear, smal
 Your *basic kit* includes all the small, sundry, standard-issue personal field equipment provided to operators for every mission. The kit includes the following equipment:
 
 **Communication and navigation**
+
 - Handset squad radio & push-to-talk mic
 - Lensatic compass
 - Notebook & grease pencil
@@ -44,6 +46,7 @@ Your *basic kit* includes all the small, sundry, standard-issue personal field e
 - Spare batteries
 
 **Field gear**
+
 - Boots
 - Cold-weather layers
 - Fatigues
@@ -55,6 +58,7 @@ Your *basic kit* includes all the small, sundry, standard-issue personal field e
 - Spare socks
 
 **Field tools**
+
 - ChemLight sticks
 - Duct tape
 - Folding knife
@@ -62,6 +66,7 @@ Your *basic kit* includes all the small, sundry, standard-issue personal field e
 - Penlight
 
 **Food and first aid**
+
 - Canteen
 - Individual first-aid kit (IFAK)
 - Meal, ready-to-eat (MRE)
@@ -205,11 +210,24 @@ At the start of your mission, select any mission-specific equipment you need. Th
 | Suppressor | Quiets the shot. Pistol/SMG suppressors may aid stealth. Rifle suppressors help conceal a sniper's position. |
 | Survival belt pouch | Fishing kit, fire-starting tools, compass, water purification, saw, needle and thread, mylar blanket, etc. |
 
+## Squad Radios 
+
+Understanding the operational limitations of Cold War-era radios could become critical to your missions. 
+
+Handset squad-coordination radios were primitive by modern standards. Terrain, vegetation, and urban settings killed both signal quality and range. Fast movement interrupted communication. Suggested ranges for the game are as follows.
+
+| Situation | Limitations |
+| - | - |
+| Outdoor coordination | ~500 m–3 km reliably, heavy vegetation cuts range in half |
+| Urban | 100s of meters, intermittent failures |
+| Long-range comms| Requires backpack-mounted PRC or SATCOM equipment |
+
 ## Example: Stowing a Loadout
 
 An example inventory manifest follows. 
 
 *An operator loads up their equipment before the mission. They are packing:*
+
 - Basic kit
 - 2 Units of tactical supplies
 - Sidearm
@@ -240,14 +258,3 @@ The operator has 0 hand slots remaining, 1 open body slot, and 1 open rucksack s
 
 	In this example, a helmet is not equipped. If the operator were to take one on the mission, it would occupy the remaining body slot.
 
-## Squad Radios 
-
-Understanding the operational limitations of Cold War-era radios could become critical to your missions. 
-
-Handset squad-coordination radios were primitive by modern standards. Terrain, vegetation, and urban settings killed both signal quality and range. Fast movement interrupted communication. Suggested ranges for the game are as follows.
-
-| Situation | Limitations |
-| - | - |
-| Outdoor coordination | ~500 m–3 km reliably, heavy vegetation cuts range in half |
-| Urban | 100s of meters, intermittent failures |
-| Long-range comms| Requires backpack-mounted PRC or SATCOM equipment |

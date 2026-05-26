@@ -66,7 +66,7 @@ Depending on your weapon type and the range to your target, the resulting *actio
 | **Heavy weapon** | impossible | disadvantage | – | – |
 | **LMG** | impossible | – | disadvantage |  disadvantage |
 | **Shotgun** | – | – | disadvantage |  impossible |
-| **Sidearm** | – | – | disadvantage | impossible |
+| **Sidearm** | – | advantage | disadvantage | impossible |
 | **SMG** | – | advantage | disadvantage | impossible |
 | **Sniper rifle** | impossible | disadvantage | advantage | – |
 | **Thrown** | – | – |  impossible  |  impossible  |
@@ -80,7 +80,7 @@ The following tactical decisions also apply modifiers to your attacks.
 
 ## Attacking
 
-When you **attack** a target to **deal damage**, roll **2D6 + Applicable Attribute** and apply the result. See [Choose an Applicable Attribute](playing.md#choose-an-applicable-attribute) to determine which attribute score to select.
+When you **attack** a target, roll **2D6 + Applicable Attribute** and apply the result. See [Choose an Applicable Attribute](playing.md#choose-an-applicable-attribute) to determine which attribute score to select.
 
 <div class="roll-table" markdown="1">
 
@@ -124,7 +124,7 @@ You can restock a weapon in several ways: carrying extra ammunition in your equi
 
 ## Defending
 
-When you must **defend** against an attack and risk **taking damage**, roll **2D6 + Applicable Attribute** and apply the result. See [Choose an Applicable Attribute](playing.md#choose-an-applicable-attribute) to determine which attribute score to select.
+When you must **defend** against an attack, roll **2D6 + Applicable Attribute** and apply the result. See [Choose an Applicable Attribute](playing.md#choose-an-applicable-attribute) to determine which attribute score to select.
 
 <div class="roll-table" markdown="1">
 
@@ -245,18 +245,18 @@ If a suppressed enemy takes any action that makes them visible to you, you can m
 
 ## Deploying Neural Weapons
 
-Neural weapons are among your unit's most lethal assets. When a neural weapon is brought to bear, it is a tactical effect: precise, controlled, and potentially decisive.
+*Neural weapons* are among your unit's most lethal assets. When a neural weapon is brought to bear, it is a tactical effect: precise, controlled, and potentially decisive.
 
-When you invoke your neural weapon, roll **2D6+WILLPOWER** and consult the list below to determine the result.
+When you deploy your neural weapon, roll **2D6 + WILLPOWER** and apply the result.
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |------|--------|
-| **6–** | Your neural power **doesn’t manifest**, and you take **1** point of *stress*. You can’t use this neural weapon again during the mission unless you recover at a *rendezvous point*. See [Rest and Recovery](combat.md#rest-and-recovery). |
-| **7–9** | The power **manifests**, and you take **1** point of *stress*. |
-| **10–12** | The power **manifests**, and you do not feel any stress.  |
-| **13+** | The power **manifests**, and you feel no stress. The neural weapon’s effect is **greater** than expected. Work with the GM to specify what else happens.   |
+| **6–** | Your neural power **doesn’t manifest**, and you take **1** *fatigue*. You can **no longer use** this neural weapon again during the mission unless you rest at a *rendezvous point*. See [Rest and Recovery](#rest-and-recovery). |
+| **7–9** | The power **manifests**, but you take **1** *fatigue*. |
+| **10–12** | The power **manifests**.  |
+| **13+** | The power **manifests**. The effect is greater than expected. Work with the GM to specify what else happens.   |
 
 </div>
 
@@ -325,8 +325,9 @@ Once per mission, your unit can send a *rendezvous signal*. The GM then designat
 
 Reaching the rendezvous point has the following effects:
 
-- Remove all *panicked and locked-in* effects. See [Reaching Maximum Stress](stress.md#reaching-maximum-stress).
 - *Momentum* points reset to their starting value of 2. 
+- Restore any *neural weapons* that can no longer be used.
+- Remove all *panicked* and *locked-in* effects.
 
 You also choose **one** benefit from the following list:
 

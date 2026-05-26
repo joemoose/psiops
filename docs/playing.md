@@ -4,7 +4,7 @@ Consider this chapter your basic training, soldier. Master these skills. They’
 
 ## Actions
 
-An ***action*** is anything you try to do in the game, like crossing open ground under fire, cracking a Soviet cipher lock, or bluffing your way through a checkpoint. Most actions simply happen as you narrate what your character is doing. However, some actions can be dangerous or have uncertain outcomes. 
+An ***action*** is anything you try to do in the game, like crossing open ground under fire, cracking a Soviet cipher lock, or bluffing your way through a checkpoint. Most actions simply happen as you describe. However, some actions can be inherently risky or have uncertain outcomes. 
 
 !!! note
 
@@ -12,7 +12,7 @@ An ***action*** is anything you try to do in the game, like crossing open ground
 
 ## Action Checks
 
-When you attempt an *action* with an uncertain outcome, you make an *action check* to determine the result. The GM will request an action check only when your character encounters a meaningful obstacle — one that is risky, uncertain, and consequential. If success is guaranteed or the result has little effect on the mission’s current circumstances, the GM won’t require a roll. Instead, your action succeeds as you described.
+When you attempt an *action* with a risky or uncertain outcome, you make an *action check* to determine the result. The GM will request an action check only when your character encounters a meaningful obstacle — one that is risky, uncertain, or consequential. If success is guaranteed or the result has no meaningful effect on the mission’s current circumstances, the GM won’t require a roll. Instead, your action succeeds as you described.
 
 !!! tip
 
@@ -20,12 +20,12 @@ When you attempt an *action* with an uncertain outcome, you make an *action chec
 
 The process for making an *action check* involves four steps:
 
-1. Select an Attribute.
-2. Roll 2D6 and add the Attribute’s score.
-3. Consult the results list with the total.
+1. Select an *applicable Attribute*.
+2. Roll **2D6** and add the Attribute score.
+3. Compare the total to the results list.
 4. Apply the result.
 
-The process may seem complicated at first, but after a little practice, you’ll make action checks almost instinctively. Details follow.
+The process may seem complicated at first, but after a little practice, you’ll make action checks instinctively. Details follow.
 
 ### Choose an Applicable Attribute
 
@@ -35,22 +35,22 @@ Refer to the following table for descriptions of your character’s attributes a
 
 | Attribute | Description | Applicable Action Check |
 | -| - | - |
-| STRENGTH | Governs displays of physical power, such as breaking down doors, intimidating others, or wielding heavy, powerful weapons. | "I kick down the door and blast my shotgun at anything I see.“ |
-| REFLEXES | Govern agility and speed-based actions, such as dodging enemy fire, scaling obstacles, or handling lightweight, accurate weapons. | "I run through the house, slide behind cover, and fire from there.” |
-| TACTICS | Govern the application of logic and training, such as coordinating an ambush, hacking databases, or operating machinery. | "I go around to the side of the house, flank them, and fire through the window.” |
+| STRENGTH | Governs displays of physical power, such as breaking down doors, intimidating others, or wielding heavy, powerful weapons. | "I kick down the door and blast my shotgun at anything I see." |
+| REFLEXES | Govern agility and speed-based actions, such as dodging enemy fire, scaling obstacles, or handling lightweight, accurate weapons. | "I run through the house, slide behind cover, and fire from there." |
+| TACTICS | Govern the application of logic and training, such as coordinating an ambush, hacking databases, or operating machinery. | "I go around to the side of the house, flank them, and fire through the window." |
 | WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing on the spot, or using neural weapons. | "I knock on the door, wait for someone to open it, say 'Hi!', then fire when they respond." |
 
-In summary, your actions can be phrased to specify which attribute you’d like to apply to an action check. There is generally no “set” attribute that applies to the multitude of actions you might take with your operator. 
+In summary, your actions can be described in a way to specify the applicable attribute you’d like to use on your action check. There are no “set” attributes that apply to the multitude of actions you might take with your operator. 
 
-You could always default to REFLEXES when firing a rifle, and that’s fine, but a creative approach can suggest another attribute, as shown in the previous examples. If the GM agrees, you’ll use the suggested attribute.
+You could always default to REFLEXES when firing a rifle, and that’s fine, but a creative approach can suggest another attribute you’d prefer. If the GM agrees, you’ll use that attribute.
 
-Note that a variable attribute is intentionally different from certain rules in the game that require a *specific* attribute. For example, an initiative check always uses your TACTICS attribute, a wound check uses STRENGTH, and a Neural Weapon requires a WILLPOWER check regardless of how you use your ability.
+Note that describing your action to suggest an applicable attribute is intentionally different from certain rules in the game that require a **specific** attribute. For example, an *initiative check* always uses your TACTICS attribute, a *wound check* your STRENGTH, and a *Neural Weapon* requires a WILLPOWER check regardless of how you use that ability.
 
-If a certain attribute is required for an action check, regardless of your approach, it is specified in the description. 
+When a specific attribute is required for an action check, the description specifies it. 
 
 ### Roll the Dice
 
-When you created your character, you assigned a *score* to each attribute, with higher scores indicating greater ability. These scores influence how effectively your character makes action checks.
+When you created your character, you assigned a *score* to each of your character's *attributes*, with higher scores indicating greater ability. These scores influence how effectively your character makes action checks.
 
 To make an *action check*, roll **2D6 + Attribute**. The sum of the dice roll determines how well you succeed at your action, as shown in the following list. 
 
@@ -58,24 +58,24 @@ To make an *action check*, roll **2D6 + Attribute**. The sum of the dice roll de
 
 | Roll | Result |
 |------|--------|
-| **6–** | It's a **failure**. You don't achieve your goal and suffer a *consequence*. See the following section. |
-| **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section.  |
+| **6–** | It's a **failure**. You don't achieve your goal and suffer a *consequence*.<br/>See  [Consequences and Complications](#consequences-and-complications). |
+| **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. <br/>See [Consequences and Complications](#consequences-and-complications). |
 | **10–12** | It's a **complete success**. You achieve your goal. |
-| **13+** | It's a **critical success**. You achieve your goal, and the result is better than you expected. |
+| **13+** | It's a **critical success**. You achieve your goal, and the result is **better** than you expected. |
 
 </div>
-	
+
 ### Consequences and Complications
 
-*Consequences* and *complications* arise when the results of your actions aren’t completely successful.
+*Consequences* and *complications* arise when the results of your actions aren’t fully successful. Consequences stem from failure, while complications stem from partial success.
 
 #### Consequences
 
-Something goes wrong with lasting effects on your combat readiness. You could be injured, break equipment, trigger a new threat, or become separated from your unit. Your tactical situation worsens. In other words, tactical circumstances turn against you 
+Something goes wrong with lasting effects on your combat readiness. You could be injured, break equipment, trigger a new threat, or become separated from your unit. Your tactical situation worsens and circumstances turn against you 
 
 #### Complications
 
-You *mostly* accomplish what you intended to do, but there is a cost, a difficult choice, or a reduced effect on the success. Your action does not succeed quite as you intended. In other words, you succeed, but the tactical situation becomes a little more complicated.
+You mostly accomplish what you intended, but there is a cost, a difficult choice, or a reduced impact on the outcome. Your action does not succeed quite as intended. In other words, you succeed, but the tactical situation becomes a little more complicated.
 
 ### Action Check Results Example
 
@@ -111,7 +111,7 @@ Conversely, if your action is more challenging given the current tactical situat
 
 ### Using Advanced Specializations
 
-Your advanced specializations can be applied to actions. When an action relates to your advanced specializations, add **+1** to the *action check*. In other words, roll **2D6 + Attribute + 1**. 
+Advanced specializations increase the likelihood of success on risky actions. Whenever an advanced specialization applies to an action you’re attempting, add **+1** to the *action check*. In other words, roll **2D6 + Attribute + 1**. 
 
 First, describe how your specialization applies to the action. If the GM agrees, the bonus applies. For example, if you're attempting to leap out of a helicopter under hostile fire without injury, *Combat Fitness* would improve your odds.
 
@@ -139,16 +139,16 @@ You start each mission with **2 momentum points** and gain more points by making
 
 ### Gain Momentum
 
-Whenever you make an **action check**, gain *momentum* as follows:
+Whenever you make an **action check**, in addition to the result of the check, gain *momentum* as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |------|--------|
 | **6–** | You don’t gain any momentum. |
-| **7–9** | You gain **1 point** of momentum. |
-| **10–12** | You gain **2 points** of momentum. |
-| **13+** | You gain **3 points** of momentum. |
+| **7–9** | You don't gain any momentum. |
+| **10–12** | You gain **1** points of momentum. |
+| **13+** | You gain **2** points of momentum. |
 
 </div>
 
@@ -158,7 +158,7 @@ Whenever you make an **action check**, gain *momentum* as follows:
 
 As you gain more momentum, points accumulate until you spend them. See the following section. Unspent points carry over across multiple game sessions until your current mission is completed. 
 
-Your unspent momentum **resets** to its starting value of 2 after completing your mission and returning to base or after resting at a *rendezvous point* during the mission. See [Rest and Recovery](combat.md#rest-and-recovery).
+Your unspent momentum **resets** to its **starting value** of 2 after resting at a *rendezvous point* during the mission or returning to base. See [Rest and Recovery](combat.md#rest-and-recovery).
 
 ### Spend Momentum
 
@@ -180,9 +180,10 @@ Spend **1 momentum** point to give *advantage* to a team member’s *action chec
 #### Pushing Yourself
 
 Spend **2 momentum** points to activate one of the combat bonuses below. You can activate multiple bonuses by pushing yourself further, spending 2 *momentum* for each activation.
-	- Gain *advantage* on your next *action check*.
-	- Enhance the **result** of a successful *action check* beyond its usual outcome.
-	- Take an additional *action* during a combat round.
+
+- Gain *advantage* on your next *action check*.
+- Enhance the **result** of a successful *action check* beyond its usual outcome.
+- Take an additional *action* during a combat round.
 
 For details on combat, see the [Combat section](combat.md).
 
@@ -207,15 +208,15 @@ Spend **6 momentum** points to establish that you did something before deploymen
 
 ## Time and Tempo
 
-Operations unfold across two distinct time scales: *operational time* and *combat time*. These two modes can flow into and out of each other as situations in the game change.
+Time measurements in the game are divided into two distinct scales: *operational time* and *combat time*. These two scales will flow into and out of each other as the game’s pace and focus shift.
 
 ### Operational Time
 
 Most of the game unfolds in *Operational Time*.
 
-The flow of time is driven by player actions and in-game events. Actions dictate the passage of time. Strict time intervals aren't observed unless they're important to the unfolding story. 
+The flow of operation time is driven by player actions and in-game events. Actions dictate the passage of time. Strict time intervals aren't observed unless they're important to the unfolding story. 
 
-For example, if your unit advances through wooded terrain without any intervening events or challenges, the GM simply describes the maneuver, and you all move on to the next scene. If time was important — arriving at dawn — you arrive at dawn. 
+For example, if your unit advances through wooded terrain without any intervening events or challenges, the GM simply describes the maneuver, and you all move on to the next scene. If time was important — arriving at dawn — you simply arrive at dawn. 
 
 > We move out, well spaced, with Snakebite on point.
 >
@@ -223,96 +224,106 @@ For example, if your unit advances through wooded terrain without any intervenin
 
 ### Combat Time
 
-If bullets start flying, the game enters *Combat Time*.
+If bullets start flying, the game drops out of *operational time* and enters *combat time*.
 
 Your actions now become structured, measured, and tactical. Every movement, shot, command, and hesitation may have immediate consequences. Here, time is measured in 6-second *combat rounds*.
 
 However, combat rounds are not intended to simulate real-world time or standard military procedures. Instead, they provide a practical game framework for resolving chaotic, rapidly evolving challenges the GM presents during tactical scenes in the story.
 
-## Distance and Movement
+Once the combat scenes wrap up, the game returns to *operational time*. Any actions following combat, unit recovery, or retasking are no longer tracked in combat rounds. The flexible narrative returns.
 
-Distances, like time and tempo, are measured in two modes: *operational distance* and *combat distance*. These two modes can flow into and out of each other as situations in the game change. 
+## Operation Distances and Tactical Zones
+
+Distances in the game are measured in two distinct scales: *operational distance* and *tactical zones*. These two scales will flow into and out of each other as the game's pace and focus shift.
 
 ### Operational Distances
 
-Distances in the narrative flow are entirely arbitrary and dictated by the needs of the current situation. Unless a measured distance is required in the narrative, the GM describes distance in open-ended terms, adding precision only in response to your questions. 
+Distances in the narrative flow are entirely arbitrary and dictated by the needs of the current situation. Unless a measured distance is required in the narrative, the GM describes distances in open-ended terms, adding precision only in response to your questions. 
 
-Continuing the example from the previous section on maneuvering through a forest, if the GM presents a challenge in which approaching a target bunker requires moving out of the tree line and across a clear-cut area, the distance is described in general terms. 
+Continuing the example from the previous section on maneuvering through a forest, if the GM presents a challenge in which a target bunker lies across a clear-cut field, the distance is described in general terms. 
 
 > It’s a short distance to the bunker, but you’ll be exposed crossing the field.
 >
-> Okay, first team dashes across while second team covers.
+> Okay, first team dashes across while the second team covers.
 
-There’s no need to establish a precise 100-meter gap for the first team to dash across at 5 meters per second.
+There’s no need to establish that the gap is 100 meters wide or that the operators could dash across at 3–5 meters per second.
 
-### Combat Distances
+### ~~Combat Distances~~
 
-As the game switches into combat mode, the distance between you and the enemy becomes important. However, this distance remains abstract, supporting the game’s tactical flow. 
+~~As the game switches to combat mode, the distance between you and the enemy becomes important. The game manages these distances using *range bands* as follows:~~ 
 
-Distance during combat rounds is divided into four *range bands*:
+- ~~**Close**: Close-quarters combat range. You can move this distance **freely**. Your unit can whisper and be heard.~~
+- ~~**Nearby**: Sidearm range. You can move anywhere within this range with a **single** movement action. Your unit can speak and be heard.~~
+- ~~**Far**: Rifle range. You must spend **2 to 4** movement actions to cover this distance. Your unit must shout to be heard.~~
+- ~~**Distant**: Heavy weapons range. You usually can't traverse this distance within the short timespan of personal combat, but if required, it will take **8 or more** movement actions. It’s too far for verbal communication.~~
 
-- **Close**: Close-quarters combat range. You can move this distance **freely**. Your unit can whisper and be heard.
-- **Nearby**: Sidearm range. You can move anywhere within this range with a **single** movement action. Your unit can speak and be heard.
-- **Far**: Rifle range. You must spend **2 to 4** movement actions to cover this distance. Your unit must shout to be heard.
-- **Distant**: Heavy weapons range. You usually can't traverse this distance within the short timespan of personal combat, but if required, it will take **8 or more** movement actions. It’s too far for verbal communication.
+#### ~~Distance Measurements~~
 
-!!! note
+~~Range bands are abstract, but they can be mapped to real-world measurements if necessary. *Close* is up to 2 meters, *Nearby* up to 50 meters, *Far* up to 300 meters, and *Distant* beyond that.~~ 
 
-	If your unit has radios, see [Squad Radios](equipment.md#squad-radios) for communication range.
+~~<figure>~~
+  ~~<img src="../img/range-bands.svg"~~
+       ~~alt="A bar divided into four sections, each labeled using the range band name from Close on the leftmost to Distant on the rightmost.">~~
+  ~~<figcaption>Range bands represent the distance between opponents.</figcaption>~~
+~~</figure>~~
 
-<figure>
-  <img src="../img/range-bands.svg"
-       alt="A bar divided into four sections, each labeled using the range band name from Close on the leftmost to Distant on the rightmost.">
-  <figcaption>Range bands represent the distance between opponents.</figcaption>
-</figure>
 
-Range bands help the GM present and manage tactical combat scenes without resorting to calculations of movement rates based on real-world distance measurements. These abstract range bands provide a simple framework for specifying how far you move in a combat round.
+#### ~~Movement~~
 
-Range bands are important for determining attack modifiers for your weapons; sidearms aren’t as accurate as rifles when firing on enemies in a *far* range band. See [Weapon Ranges](combat.mdweapon-ranges).
+~~!!THIS NEEDS TO BE REWRITTEN and SIMPLIFIED!!~~
 
-As with time intervals, the game does not attempt to simulate real-world conditions. Range bands provide a simple framework for keeping track of distance during combat rounds. 
+~~Movement is not tracked precisely, but rather by the number of actions required to move into adjacent range bands. For example, to close with a target in a nearby range, you need to spend 1 action in a combat round to make that movement.~~ 
+
+#### Weapon Range
+
+\~~~~Range bands also determine your weapon's attack modifiers. For example, sidearms are highly accurate at nearby range but aren't effective at far range and can't be used against distant targets. See [Weapon Ranges](combat.md#weapon-ranges).~~~~
+
+### Tactical Zones
+
+text text text
 
 ## Mission Clocks
 
-Complex tasks that require multiple actions to complete or impending threats to your unit are tracked on *mission clocks*. Clocks are divided into segments, typically 4, 6, or 8. The more complex the task or the more time available, the more segments on the clock. Your progress is tracked by marking off segments on the clock. 
+Complex tasks that require multiple actions to complete or impending threats to your unit are tracked on mission clocks. Mission cloaks are divided into segments, typically 4, 6, or 8. The more complex the task or the more time available before the threat, the more segments on the clock. Progress is tracked by marking off segments on the mission clock. 
 
 <figure>
-  <img src="../img/mission-clocks.svg"
-       alt="Two mission clocks: a 6-segment obstacle clock tracking objective progress, and a 4-segment threat clock showing imminent danger">
-  <figcaption>Mission clocks track complex obstacles (left) and impending threats (right).</figcaption>
+<img src="../img/mission-clocks.svg" alt="Two mission clocks: a 6-segment obstacle clock tracking objective progress, and a 4-segment threat clock showing imminent danger">
+<figcaption>Mission clocks track complex obstacles (left) and impending threats (right).</figcaption>
 </figure>
 
 ### Track Complex Tasks
 
-You’ll often face complex mission objectives and obstacles, such as hacking a secure mainframe or defusing a bomb. These tasks will require multiple actions to complete. As such, the GM won’t call for a single *action check* to determine the result. Instead, your progress toward completing the task is tracked on a *mission clock*.
+You'll often face complex mission objectives and obstacles, such as hacking a secure mainframe or defusing a bomb. These tasks will require multiple actions to complete. As such, the GM won't call for a single action check to determine the result. Instead, your progress toward completing the task is tracked on a *mission clock*.
 
-As you complete the required sequence of actions, the GM marks off segments on the clock:
+As you complete the required sequence of actions, the GM either marks off or returns segments on the clock:
 
-- **Partial success** marks off **1** segment.
-- **Complete success** marks off **2** segments.
-- **Critical success** marks off **3** segments.
+- *Failure* returns **1 completed** segment.
+- *Partial success* marks off **1** segment.
+- *Complete success* marks off **2** segments.
+- *Critical success* marks off **3** segments.
 
 Once all segments are marked, your task is complete.
 
 ### Track Impending Threats
 
-The GM uses a *threat clock* to track impending threats, such as a guard’s alertness level or the time remaining until a high-value individual is eliminated. The threat clock is visible to all, and tension builds as it counts down.
+The GM uses a threat clock to track impending threats, such as a guard's alertness level or the time remaining until a high-value individual is eliminated. The threat clock is visible to all, and tension builds as it counts down.
 
-You will certainly attempt actions to slow or eliminate the threat. However, if you *fail* an action check while the threat is still imminent, the GM marks off a segment on the threat clock. Once all segments are marked off, the threat occurs, and the guard sounds an alarm, or the individual is eliminated.
+You will certainly attempt actions to slow or eliminate the threat. However, if you fail an action check while the threat is still imminent, the GM marks off a segment on the threat clock. Once all segments are marked off, the threat occurs. The guard sounds an alarm, or the individual is eliminated.
 
 ## Character Advancement and Improving Abilities
 
-Your character improves their abilities by staying true to their *core drive* during the mission. For example, a *True Believer* improves by acting ethically to further their mission.
+You improve your character's abilities by staying true to their *core drive* during the mission. For example, a *True Believer* improves by acting ethically to further their mission.
 
-After returning to base, describe how you met your core drive’s advancement condition. If the GM agrees, choose **one** improvement to your character’s abilities from the following table:
+After returning to base, describe how you met your core drive's advancement condition. If the GM agrees, choose **one** improvement to your character's abilities from the following table:
 
 | Improvement | Effect | Limit |
 | - | - | :-: |
-| Attribute increase | + 1 to one attribute | Max score of 3 |
-| HP increase | Roll 1D3, add to max HP | No upper limit | 
-| New neural weapon | Roll D66, gain the result | — |
-| New specialization | Choose one related to a previous mission’s significant action | — |
+| Attribute increase | **+ 1** to one attribute                                         | Max score of 3 |
+| HP increase | Roll **1D3**, add to max HP                                      | No upper limit |
+| New neural weapon | Roll **D66**, gain the result. See [Neural Weapons](character.md#neural-weapons) | — |
+| New specialization | Choose **one** related to a significant action you took during a previous mission. See [Specializations](character.md#advanced-specializations) | — |
 
 !!! note
 
-	If your *core drive* feels played out, you can choose a new one between missions, back at base, after advancing your current core drive at least **once**.
+	If your core drive feels played out, you can choose a new one between missions, back at base, after advancing your current core drive at least once.
+

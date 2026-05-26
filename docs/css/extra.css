@@ -8,10 +8,49 @@ body {
 }
 
 @media screen {
-  p,
+  /* Exclude .admonition-title and details > summary: MkDocs Material
+     renders admonition title bars as <p class="admonition-title"> and
+     collapsible variants as <summary>. Applying max-width to those
+     elements clips the title background short of the block's right
+     border, leaving a visible gap. All other prose elements retain
+     the 68ch measure. */
+  p:not(.admonition-title),
   hr,
   li {
     max-width: 68ch;
+  }
+
+  details > summary {
+    max-width: none;
+  }
+
+  /* ----------------------------------------------------------
+     FIGURES AND CAPTIONS
+     MkDocs Material applies text-align: center to figure,
+     which centers <img> as an inline element inside the full-
+     width figure container — wider than the prose column,
+     causing visual misalignment with surrounding text.
+     Setting text-align: left on figure aligns the image's
+     left edge with the prose margin. Making <img> a block
+     element removes inline-centering behavior entirely.
+     figcaption re-applies center explicitly so captions
+     remain centered beneath the image.
+     ---------------------------------------------------------- */
+  figure {
+    margin: 1.5em 0;
+    text-align: left;
+  }
+
+  figure img {
+    display: block;
+    max-width: 100%;
+  }
+
+  figcaption {
+    font-size: 0.85em;
+    color: var(--md-default-fg-color--light);
+    text-align: center;
+    margin-top: 0.4em;
   }
 }
 

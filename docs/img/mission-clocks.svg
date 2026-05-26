@@ -1,61 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="680" height="265" viewBox="0 0 680 265"
-     xmlns="http://www.w3.org/2000/svg" role="img"
-     font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
-<title>Mission clock diagram</title>
-<desc>Two PSIOPS mission clocks: a 6-segment obstacle clock in dark green with 2 of 6 segments filled, and a 4-segment threat clock in light red with 3 of 4 segments filled. Segments are numbered 1 through 6 and 1 through 4 respectively.</desc>
-
-<style>
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="680.0" height="265.0" viewBox="0 0 680 265" role="img" font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+  <title>Mission clock diagram</title>
+  <desc>Two PSIOPS mission clocks: a 6-segment obstacle clock in dark green with 2 of 6 segments filled, and a 4-segment threat clock in light red with 3 of 4 segments filled. Segments are numbered 1 through 6 and 1 through 4 respectively.</desc>
+  <style>
 .th { font-size: 14px; font-weight: 500; fill: #2c2c2a; }
 .ts { font-size: 12px; font-weight: 400; fill: #5f5e5a; }
 </style>
-
-<!-- ── Obstacle clock ── -->
-<text class="th" x="185" y="22"  text-anchor="middle">Obstacle</text>
-<text class="ts" x="185" y="38"  text-anchor="middle">6 segments · 2 of 6 filled</text>
-
-<!-- Filled segments (dark green) -->
-<path d="M 185 145 L 185 65  A 80 80 0 0 1 254 105 Z" fill="#2E6B3A" stroke="#ffffff" stroke-width="2.5"/>
-<path d="M 185 145 L 254 105 A 80 80 0 0 1 254 185 Z" fill="#2E6B3A" stroke="#ffffff" stroke-width="2.5"/>
-<!-- Empty segments -->
-<path d="M 185 145 L 254 185 A 80 80 0 0 1 185 225 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
-<path d="M 185 145 L 185 225 A 80 80 0 0 1 116 185 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
-<path d="M 185 145 L 116 185 A 80 80 0 0 1 116 105 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
-<path d="M 185 145 L 116 105 A 80 80 0 0 1 185  65 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
-
-<circle cx="185" cy="145" r="80" fill="none" stroke="#a8a6a0" stroke-width="1"/>
-<circle cx="185" cy="145" r="5"  fill="#a8a6a0"/>
-
-<!-- Segment numbers: filled = white/dim, empty = mid-gray -->
-<text class="ts" x="209" y="103" text-anchor="middle" dominant-baseline="central" fill="#ffffff" opacity="0.5">1</text>
-<text class="ts" x="233" y="145" text-anchor="middle" dominant-baseline="central" fill="#ffffff" opacity="0.5">2</text>
-<text class="ts" x="209" y="187" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">3</text>
-<text class="ts" x="161" y="187" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">4</text>
-<text class="ts" x="137" y="145" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">5</text>
-<text class="ts" x="161" y="103" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">6</text>
-
-<text class="ts" x="185" y="248" text-anchor="middle">Objective in progress</text>
-
-<!-- ── Threat clock ── -->
-<text class="th" x="510" y="22"  text-anchor="middle">Threat</text>
-<text class="ts" x="510" y="38"  text-anchor="middle">4 segments · 3 of 4 filled</text>
-
-<!-- Filled segments (light red) -->
-<path d="M 510 145 L 510  65 A 80 80 0 0 1 590 145 Z" fill="#D97A6C" stroke="#ffffff" stroke-width="2.5"/>
-<path d="M 510 145 L 590 145 A 80 80 0 0 1 510 225 Z" fill="#D97A6C" stroke="#ffffff" stroke-width="2.5"/>
-<path d="M 510 145 L 510 225 A 80 80 0 0 1 430 145 Z" fill="#D97A6C" stroke="#ffffff" stroke-width="2.5"/>
-<!-- Empty segment -->
-<path d="M 510 145 L 430 145 A 80 80 0 0 1 510  65 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
-
-<circle cx="510" cy="145" r="80" fill="none" stroke="#a8a6a0" stroke-width="1"/>
-<circle cx="510" cy="145" r="5"  fill="#a8a6a0"/>
-
-<!-- Segment numbers: filled = dark muted red, empty = mid-gray -->
-<text class="ts" x="544" y="111" text-anchor="middle" dominant-baseline="central" fill="#5a1a1a" opacity="0.4">1</text>
-<text class="ts" x="544" y="179" text-anchor="middle" dominant-baseline="central" fill="#5a1a1a" opacity="0.4">2</text>
-<text class="ts" x="476" y="179" text-anchor="middle" dominant-baseline="central" fill="#5a1a1a" opacity="0.4">3</text>
-<text class="ts" x="476" y="111" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">4</text>
-
-<text class="ts" x="510" y="248" text-anchor="middle">Danger imminent</text>
-
+  <text class="th" x="185" y="22" text-anchor="middle">Obstacle</text>
+  <text class="ts" x="185" y="38" text-anchor="middle">6 segments · 2 of 6 filled</text>
+  <path d="M 185 145 L 185 65  A 80 80 0 0 1 254 105 Z" fill="#2E6B3A" stroke="#ffffff" stroke-width="2.5"/>
+  <path d="M 185 145 L 254 105 A 80 80 0 0 1 254 185 Z" fill="#2E6B3A" stroke="#ffffff" stroke-width="2.5"/>
+  <path d="M 185 145 L 254 185 A 80 80 0 0 1 185 225 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
+  <path d="M 185 145 L 185 225 A 80 80 0 0 1 116 185 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
+  <path d="M 185 145 L 116 185 A 80 80 0 0 1 116 105 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
+  <path d="M 185 145 L 116 105 A 80 80 0 0 1 185  65 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
+  <circle cx="185" cy="145" r="80" fill="none" stroke="#a8a6a0" stroke-width="1"/>
+  <circle cx="185" cy="145" r="5" fill="#a8a6a0"/>
+  <text class="ts" x="209" y="103" text-anchor="middle" dominant-baseline="central" fill="#ffffff" opacity="0.5">1</text>
+  <text class="ts" x="233" y="145" text-anchor="middle" dominant-baseline="central" fill="#ffffff" opacity="0.5">2</text>
+  <text class="ts" x="209" y="187" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">3</text>
+  <text class="ts" x="161" y="187" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">4</text>
+  <text class="ts" x="137" y="145" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">5</text>
+  <text class="ts" x="161" y="103" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">6</text>
+  <text class="ts" x="185" y="248" text-anchor="middle">Objective in progress</text>
+  <text class="th" x="510" y="22" text-anchor="middle">Threat</text>
+  <text class="ts" x="510" y="38" text-anchor="middle">4 segments · 3 of 4 filled</text>
+  <path d="M 510 145 L 510  65 A 80 80 0 0 1 590 145 Z" fill="#D97A6C" stroke="#ffffff" stroke-width="2.5"/>
+  <path d="M 510 145 L 590 145 A 80 80 0 0 1 510 225 Z" fill="#D97A6C" stroke="#ffffff" stroke-width="2.5"/>
+  <path d="M 510 145 L 510 225 A 80 80 0 0 1 430 145 Z" fill="#D97A6C" stroke="#ffffff" stroke-width="2.5"/>
+  <path d="M 510 145 L 430 145 A 80 80 0 0 1 510  65 Z" fill="#f0efe9" stroke="#ffffff" stroke-width="2.5"/>
+  <circle cx="510" cy="145" r="80" fill="none" stroke="#a8a6a0" stroke-width="1"/>
+  <circle cx="510" cy="145" r="5" fill="#a8a6a0"/>
+  <text class="ts" x="544" y="111" text-anchor="middle" dominant-baseline="central" fill="#5a1a1a" opacity="0.4">1</text>
+  <text class="ts" x="544" y="179" text-anchor="middle" dominant-baseline="central" fill="#5a1a1a" opacity="0.4">2</text>
+  <text class="ts" x="476" y="179" text-anchor="middle" dominant-baseline="central" fill="#5a1a1a" opacity="0.4">3</text>
+  <text class="ts" x="476" y="111" text-anchor="middle" dominant-baseline="central" fill="#a8a6a0">4</text>
+  <text class="ts" x="510" y="248" text-anchor="middle">Danger imminent</text>
 </svg>
