@@ -110,7 +110,7 @@ Items that aren’t classified as tactical supplies are heavier, more complex, l
 As an operator, you can carry any weapon loadout you prefer. Spare ammunition can be carried into the mission or restocked from your *tactical supplies* only when needed. 
 
 | Weapon | Damage | Ammo | Slots | Properties |
-| - | :-: | :-: | :-: | :-: |
+| :- | :-: | :-: | :-: | :-: |
 | Antiarmor missile | +3 | single-use | 2 | Blast |
 | Assault rifle | +2 | 6/6 | 2 | — |
 | Combat knife | +1 | — | 0 | — |
@@ -128,7 +128,7 @@ For specific examples of military weapons used by Cold War nations, see the [Nat
 ## Personal Protective System
 
 Your personal protective system consists of two parts: ballistic body armor and secondary armor, such as a helmet or a riot shield. You can equip as much or as little armor as you like. The heavier your protective system, the less equipment and fewer weapons you can carry. 
- 
+
 ### Ballistic Armor
 
 Ballistic body armor is the foundation of your protective system. It consists of soft panels and hard plates designed to stop or slow projectiles and fragments. Three tiers of ballistic body armor are available, each offering greater protection at the cost of increased weight and bulk. 
@@ -144,7 +144,7 @@ Each tier occupies a number of *inventory slots* equal to its armor rating.
 **Summary**
 
 | Ballistic Armor | Armor Rating | Inventory Slots |
-| - | :-: | :-: |
+| :- | :-: | :-: |
 | Light (soft panels) | 1 | 1 |
 | Medium (soft + plates) | 2 | 2 |
 | Heavy (full plate system) | 3 | 3 |
@@ -183,7 +183,7 @@ Using secondary armor imposes tactical trade-offs. The GM may apply *disadvantag
 At the start of your mission, select any mission-specific equipment you need. The following list is not exhaustive. Work with your GM to add other mission-specific equipment. Each item requires **1** inventory slot unless it requires two hands to use or is bulky, such as a laser designator or a backpack-mounted PRC radio. If so, the item requires **2** inventory slots. The GM may declare that certain smaller items do not take up a slot. However, carrying multiples of those small items would require an inventory slot.
 
 | Item | Description |
-| - | - |
+| :- | :-- |
 | 35mm camera | For reconnaissance or evidence gathering |
 | Backpack-mounted PRC radio | VHF platoon long-range radio |
 | Bolt cutters | Cuts wires or bolts up to 6mm thick |
@@ -217,7 +217,7 @@ Understanding the operational limitations of Cold War-era radios could become cr
 Handset squad-coordination radios were primitive by modern standards. Terrain, vegetation, and urban settings killed both signal quality and range. Fast movement interrupted communication. Suggested ranges for the game are as follows.
 
 | Situation | Limitations |
-| - | - |
+| :- | :- |
 | Outdoor coordination | ~500 m–3 km reliably, heavy vegetation cuts range in half |
 | Urban | 100s of meters, intermittent failures |
 | Long-range comms| Requires backpack-mounted PRC or SATCOM equipment |
@@ -241,7 +241,7 @@ An example inventory manifest follows.
 Their loadout is arranged as follows:
 
 | Item | Location | Slots | Notes |
-| - | - | :-: | - |
+| :-- | :-: | :-: | :-: |
 | Riot shield | Hand | 1 | — |
 | Sidearm | Hand | 1 | — |
 | Ballistic armor | Body | 1 | — |

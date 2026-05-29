@@ -70,7 +70,7 @@ This directly replaces the range-band advantage/disadvantage system. The logic i
 
 **Reading the table:** Advantage = roll with advantage (or bonus die, or +modifier, per your resolution system). Disadvantage = roll with disadvantage. Impossible = no roll; the action simply cannot succeed at that range. Normal = unmodified roll.
 
-**Design note on Contact disadvantage for rifles:** The Disadvantage at Contact for long guns reflects real doctrine — rifles are awkward in a grapple. This creates a meaningful pull toward drawing a sidearm when an enemy closes, which is a satisfying tactical decision.
+**Design note on Contact disadvantage for rifles:** The Disadvantage at Contact for long guns reflects real doctrine — rifles are awkward in a grapple. This creates a meaningful pull to draw a sidearm when an enemy closes in, which is a satisfying tactical decision.
 
 ### Optional: Zone Trait Modifiers Stack with Range
 

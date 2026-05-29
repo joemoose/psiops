@@ -12,7 +12,7 @@ To create your character, follow these steps. Record the results of each step on
 
 ### Step 1: Attribute Scores
 
-Assign the scores **2**, **1**, **0**, and **-1** in any order to your four attributes: ***STRENGTH***, ***REFLEXES***, ***TACTICS***, ***WILLPOWER***.
+Assign the scores **2**, **1**, **0**, and **-1** in any order to your four attributes: ***STRENGTH***, ***REFLEXES***, ***TACTICS***, and ***WILLPOWER***.
 
 The higher the score, the greater the ability. See [Choosing an Attribute](playing.md#choose-an-applicable-attribute).
 
@@ -78,21 +78,17 @@ You can change your protective kit after your mission briefing. See [Personal Pr
 
 Choose your ***native language*** and a ***second language*** you're fluent in.
 
-Then choose an ***additional number of languages*** equal to the higher score of either your WILLPOWER or TACTICS. If both scores are zero or lower, choose no additional languages.
-
-!!! example
-
-	If your WILLPOWER is 1 and TACTICS is 0, the higher value is 1, so you gain 1 additional language, for a total of 3.
+Then choose an ***additional number of languages*** equal to your TACTICS score. If the score is zero or lower, choose no additional language.
 
 ---
 
 ### Step 10: Codename
 
-Assign a ***codename***. 
+Assign a ***codename*** for your character. 
 
 ---
 
-Your operator is ready. Everything that follows explains how missions run. Read them. Know them.
+Your operator is ready. Everything that follows in the subsequent chapters explains how missions run. Read them. Know them.
 
 Weapons free, soldier. Oscar Mike.
 
@@ -100,7 +96,7 @@ Weapons free, soldier. Oscar Mike.
 
 ## Core Drives
 
-You and every team member in your unit have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an advancement condition. If you fulfill the advancement condition during a mission, you can improve your capabilities after returning to base. See [Character Advancement](playing.md#character-advancement-and-improving-abilities).
+You and every team member in your unit have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an advancement condition. If you fulfill the advancement condition during a mission, you can improve your character's abilities after returning to base. See [Character Advancement](playing.md#character-advancement-and-improving-abilities).
 
 | D66 | core drive | Description |
 | :-: | :- | :- |
@@ -143,7 +139,7 @@ You and every team member in your unit have a distinct *core drive* that fuels y
 
 ## Neural Weapons
 
-Neural weapons are your cryptoneurological abilities — anomalous cognitive phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The unit found you and recruited you for these abilities. In the field, they're your edge. 
+Neural weapons are your cryptoneurological abilities — anomalous cognitive phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The research division found you and recruited you for your abilities. In the field, they're your edge. 
 
 The following table lists known neural weapon loadouts. Many descriptions refer to game mechanics explained in [Field Operations](playing.md).
 

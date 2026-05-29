@@ -1,27 +1,27 @@
 # Combat
 
-Combat is like any risky action: attacking requires an action check to deal damage, and defending requires an action check to avoid damage. Details follow.
+Combat is like any risky action: attacking requires an *action check* to deal damage, and defending from an attack requires an *action check* to avoid damage. Details follow.
 
 ## Combat Rounds
 
-A *combat round* is 6 seconds of game time during which you can **move** and take **one action**, such as engaging a target or moving again. 
+A *combat round* is 6 seconds of game time during which you can take **one action**, such as engaging a target or moving. 
 
-Complex actions lasting more than 6 seconds may require multiple rounds to determine their results. Minor actions, such as shouting, opening a door, or dropping an item, are free actions.
+Complex actions lasting more than 6 seconds may require multiple rounds to determine a result. Minor actions, such as shouting, opening a door, or dropping an item, are free actions and don't require an action. 
 
 ## Starting Combat
 
 ### Initiative Check
 
-Whether you can take action in the first round of combat before the opposing force is decided by an *initiative check*. You and each member of your unit roll **2D6 + TACTICS** and apply the result. 
+Whether you can take an *action* in the first round of combat before the enemy is decided by an *initiative check*. You and each member of your unit roll **2D6 + TACTICS** and apply the result. 
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|------|--------|
+|:----:|--------|
 | **6–** | You **do not** act in the first round of combat. The hostiles get the drop on you. |
 | **7–9** | You get the drop on the hostiles and act first, but you have a *disadvantage* on your next *action check*. |
 | **10–12** | You get the drop on the hostiles and act first. |
-| **13+** | You get the drop on the hostiles and act first. You also gain *advantage* on your next *action check*. |
+| **13+** | You get the drop on the hostiles and act first. You also gain an *advantage* on your next *action check*. |
 
 </div>
 
@@ -85,7 +85,7 @@ When you **attack** a target, roll **2D6 + Applicable Attribute** and apply the 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|------|--------|
+|:----:|:-------|
 | **6–** | The attack misses. You deal **no damage**. |
 | **7–9** | You deal damage equal to the **lowest D6 roll** plus the weapon's **damage modifier**. |
 | **10–12** | You deal damage equal to the **highest D6 roll** plus the weapon's **damage modifier**. |
@@ -112,7 +112,7 @@ Apply the damage modifiers to your attacks as listed below.
 
 #### Blast Damage
 
-Attacks with the *blast* quality, such as explosives, can affect multiple targets in a close area. To determine the number of targets, roll **1D6 + the weapon’s damage modifier**. The result is the number of targets affected.
+Attacks with the *blast* quality, such as explosives, can affect multiple targets in a confined area. To determine the number of targets, roll **1D6 + the weapon’s damage modifier**. The result is the number of targets affected.
 
 ## Expending Ammunition
 
@@ -129,7 +129,7 @@ When you must **defend** against an attack, roll **2D6 + Applicable Attribute** 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|------|--------|
+|:----:|:-------|
 | **6–** | You take **damage** equal to the **highest D6 result** plus the hostile's damage modifier. |
 | **7–9** | You take **damage** equal to the **lowest D6 result** plus the hostile's damage modifier. |
 | **10–12** | You take **no** damage. |
@@ -148,7 +148,7 @@ If your HP drops to **0 or lower**, you’re wounded, potentially grievously. Ro
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|------|--------|
+|:----:|:-------|
 | **6–** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *injuries*, **2** points of *stress*, and **2** units of *fatigue*. You'll die unless stabilized. See the following section. |
 | **10–12** | You’re down, stable at **1 HP**, but unconscious. Take **1** *injury*, **1** point of *stress*, and **1** unit of *fatigue*. Buddy aid can revive you with 1 action.<br/><br/>**Note**: If you have a helmet equipped, you’ve been knocked down and must take 1 action to climb to your feet, but you aren’t unconscious. |
@@ -216,7 +216,7 @@ See [Personal Protective Systems](equipment.md#personal-protective-system) for d
 Cover is divided into three ratings: *low*, *medium*, and *high*. A description of each rating and the damage it blocks follows.
 
 | Cover | Description | Examples | Block Rating |
-| - | - | - | :-: |
+| :- | :- | :- | :-: |
 | Low | Minimal protection and might require lying prone. | Thick foliage, another person | 1 |
 | Medium | Protects at least half the body and might require crouching. | Car hood, highway divider | 2 |
 | High | Protects the whole body. | Concrete wall, AFV hull | 3 |
@@ -226,7 +226,7 @@ Cover is divided into three ratings: *low*, *medium*, and *high*. A description 
 You can reduce the amount of damage you take when hit using both body armor and cover as follows:
 
 | Protection Source | Reduction | Stacks |
-| - | - | - |
+| - | :-: | - |
 | Base armor | 1–3 | Yes, with secondary |
 | Secondary armor| +1 | Capped at 3 total |
 | Cover | 1–3 | Yes, independent of armor |
@@ -252,7 +252,7 @@ When you deploy your neural weapon, roll **2D6 + WILLPOWER** and apply the resul
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|------|--------|
+|:----:|:-------|
 | **6–** | Your neural power **doesn’t manifest**, and you take **1** *fatigue*. You can **no longer use** this neural weapon again during the mission unless you rest at a *rendezvous point*. See [Rest and Recovery](#rest-and-recovery). |
 | **7–9** | The power **manifests**, but you take **1** *fatigue*. |
 | **10–12** | The power **manifests**.  |
@@ -276,7 +276,7 @@ Withdrawing from a fight while engaged in combat may expose the retreating force
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|------|--------|
+|:----:|:-------|
 | **6–** | Your opponent makes a **free attack** immediately against you. |
 | **7–9** | You disengage, but you suffer a *complication*. |
 | **10–12** | You disengage without mishap. |
@@ -291,7 +291,7 @@ When facing many weak, similar opponents, such as untrained guards or street thu
 The **number of opponents** in a mob determines its *hit points*, *armor*, and *attacks per round*, as shown in the table below. A mob’s attacks have a **+1 damage** rating.  
 
 | Number | Armor | Attacks |
-| :- | :-: | :-: |
+| :-: | :-: | :-: |
 | 1–4 | 0 | 1 |
 | 5–8 | 0 | 2 |
 | 9–12 | 1 | 3 |
@@ -311,7 +311,7 @@ If your character dies, create a new one while the game continues. When you’re
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|------|--------|
+|:----:|:-------|
 | **6–** | Your deployment encounters a **complication**. The GM will let you know. |
 | **7–9** | You deploy normally. |
 | **10–12** | You deploy normally and gain **one extra** tactical supply. |

@@ -92,7 +92,7 @@ not:
 
 ## 3. Range Is Relative
 
-Weapons and abilities interact with zones abstractly.
+Weapons and abilities interact with zones in an abstract way.
 
 Example:
 
@@ -130,10 +130,10 @@ Examples:
 
 * "The zone is on fire."
 * "This zone is flooded."
-* "The balcony zone has elevation advantage."
+* "The balcony zone has an elevation advantage."
 * "Crossing the courtyard zone exposes you to machine gun fire."
 
-The environment becomes easier to manage descriptively.
+The environment becomes easier to manage in descriptive terms.
 
 ---
 

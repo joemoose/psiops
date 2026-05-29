@@ -1,21 +1,29 @@
 ## To-Do
 
-1. [ ] CLEAN up action roll stem sentences
-2. [ ] PSIOPS -> PsiOps
-2. [ ] Review section headers
-3. [ ] 2nd person
-4. [ ] passive
-5. [ ] contractions
-6. [ ] add links
-7. [ ] diagrams
-8. [ ] deprevation
-9. [ ] edit core drives list
-9. [ ] edit neural weapons list
-10. [ ] edit specializations list
-11. [ ] Fonts?
-12. [ ] Zones?
-13. [ ] Rewrite movement
-14. [ ] loadout/kit
+- [ ] CLEAN up action roll stem sentences
+- [ ] PSIOPS -> PsiOps
+- [ ] Review section headers
+- [ ] 2nd person
+- [ ] passive
+- [ ] contractions
+- [ ] add links
+- [ ] diagrams
+- [ ] deprevation
+- [ ] edit core drives list
+- [ ] edit neural weapons list
+- [ ] edit specializations list
+- [ ] Fonts?
+- [ ] Zones?
+- [ ] Rewrite movement
+- [ ] loadout/kit
+- [ ] One action per turn
+
+
+Words
+
+Damage reduction
+
+
 
 | Natural Usage       | Why                                |
 | - | - |
@@ -89,3 +97,13 @@ Range bands also determine the attack modifiers for your weapons; sidearms aren'
 - AI was used to check spelling and grammatical errors. 
 - AI assisted in researching the names of military weapons by nation in the 1980s for the [National Armament Roster](appendix.md#national-armament-roster) in the appendix.<br/>The table provides period-accurate names for players who might prefer, for example, a "British Sterling L2A3" to an "SMG."<br/>Details on Cold War-era standard weaponry are scattered across dozens of sources in several languages aside from exorbitant industry publications. I am neither an aficionado nor a scholar of Cold War military history and equipment. 
 - The author, Zachary Taylor, wrote all other content.
+
+
+
+---
+
+
+
+!!! example
+
+	If your WILLPOWER is 1 and TACTICS is 0, the higher value is 1, so you gain 1 additional language, for a total of 3.

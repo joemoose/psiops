@@ -34,15 +34,15 @@ Any stress points beyond **6** are ignored. However, after resolving a *stress c
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|------|--------|
-| **6–** | You **panic**. Roll **1D6** and consult the Panicking table below to determine the effect. |
+|:----:|:-------|
+| **6–** | You **panic**. Roll **1D6** and see the following [Panicking table](panicking) for the effect. |
 | **7–9** | You **keep it together** for now. |
-| **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You are completely **locked in** to the flow of combat. Remove **all** stress, then roll **1D6** and consult the Locked-In table below to determine the effect. |
+| **10–12** | You **keep it together** and remove **1** stress point. |
+| **13+** | You are completely **locked into the flow** of combat. Remove **all** stress, then roll **1D6** and see the following [Locked-In table](locked-in) for the effect. |
 
 </div>
 
-All *Panicking* and *Locked-In* effects last until the end of the mission or until you rest at a *rendezvous point*. See [Rest and Recovery](combat.md#rest-and-recovery).
+All *Panicking* and *Locked-In* effects last until the **end** of the mission or until you **rest** at a *rendezvous point*. See [Rest and Recovery](combat.md#rest-and-recovery).
 
 !!! example
 
@@ -50,12 +50,12 @@ All *Panicking* and *Locked-In* effects last until the end of the mission or unt
 
 ## Reducing Stress
 
-You can reduce your stress during a mission by following the steps below. Each option removes **1** stress point. 
+You can reduce your stress during a mission by following these steps. Each option removes **1** stress point. 
 
-- Spend your *momentum*, points earned from successful *action rolls*. See [Momentum](playing.md#momentum).
-- Rest at a *rendezvous point*, a secure location where your unit can pause and recover. See [Rest and Recovery](combat.md#rest-and-recovery).
-- Overcome a notable opponent or major obstacle.
-	- **Notable opponent**: A named or significant adversary whose defeat materially advances the mission: the primary target, a commanding officer, or a recurring nemesis.
+- Spend your *momentum*. See [Momentum](playing.md#momentum).
+- Rest at a *rendezvous point*. See [Rest and Recovery](combat.md#rest-and-recovery).
+- Overcome a *notable opponent* or *major obstacle*.
+- **Notable opponent**: A named or significant adversary whose defeat materially advances the mission: the primary target, a commanding officer, or a recurring nemesis.
 	- **Major obstacle**: A mission-critical barrier that, if unaddressed, prevents task completion or forces an abort: a security lockdown, a timed demolition, a failed extraction point, or a severe environmental hazard.
 
 ### Panicking
@@ -63,7 +63,7 @@ You can reduce your stress during a mission by following the steps below. Each o
 Whenever you *panic*, roll **1D6** and apply the result. If you panic multiple times, the effects are cumulative. 
 
 | D6 | Condition | Effect |
-| :-: | - | - |
+| :-: | :-: | - |
 | **1** | Afraid | *Disadvantage* on all your *action rolls* in combat. |
 | **2** | Hopeless | You fail all your *initiative rolls*. |
 | **3** | Insulting | Allies gain **1** stress whenever you see them fail an *action roll*. |
@@ -73,10 +73,10 @@ Whenever you *panic*, roll **1D6** and apply the result. If you panic multiple t
 
 ### Locked-In
 
-Whenever you’re locked in, roll **1D6** and apply the result. If you lock in multiple times, each effect is cumulative.
+Whenever you’re locked in, roll **1D6** and apply the result. If you lock in multiple times, the effects are cumulative.
 
 | D6 | Condition | Effect |
-| :-: | - | - |
+| :-: | :-: | - |
 | **1** | Cunning | *Advantage* on all +TACTICS rolls. |
 | **2** | Focused | *Advantage* on all +WILLPOWER rolls. |
 | **3** | Hardened | You gain +1 ARMOR. |

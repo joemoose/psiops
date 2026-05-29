@@ -1,13 +1,22 @@
 # ChatGPT Zone Overview
 
-What you are converging toward is not merely "zones instead of grids," but a fairly coherent *combat philosophy*:
+PsiOps combat system philosophy:
 
-* spatially abstract,
-* fiction-first,
-* tactically meaningful,
-* fast to adjudicate,
-* lethal,
-* and hostile to simulation overhead.
+* spatially abstract
+* fiction-first
+* tactically meaningful
+* fast to adjudicate
+* lethal
+* no simulation overhead
+
+The PsiOps combat system philosophy emphasizes:
+
+- a spatially abstract approach,
+- prioritizes fiction,
+- remains tactically meaningful,
+- ensures quick adjudication,
+- maintains lethality,
+- and avoids simulation overhead.
 
 That combination fits extremely well with:
 
