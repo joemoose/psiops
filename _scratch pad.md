@@ -8,15 +8,15 @@
 - [ ] contractions
 - [ ] add links
 - [ ] diagrams
-- [ ] deprevation
+- [ ] deprivation
 - [ ] edit core drives list
 - [ ] edit neural weapons list
 - [ ] edit specializations list
 - [ ] Fonts?
-- [ ] Zones?
+- [ ] Zones
 - [ ] Rewrite movement
 - [ ] loadout/kit
-- [ ] One action per turn
+- [ ] One action per turn?
 
 
 Words

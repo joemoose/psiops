@@ -4,11 +4,18 @@ Combat is like any risky action: attacking requires an *action check* to deal da
 
 ## Combat Rounds
 
-A *combat round* is 6 seconds of game time during which you can take **one action**, such as engaging a target or moving. 
+A *combat round* is around 6 seconds during which you can make **1 movement** and **1 action**, such as engaging a target or moving a second time. 
 
-Complex actions lasting more than 6 seconds may require multiple rounds to determine a result. Minor actions, such as shouting, opening a door, or dropping an item, are free actions and don't require an action. 
+Complex actions lasting more than 6 seconds may require multiple rounds to determine the result. Minor actions, such as shouting, opening a door, or dropping an item, are free actions and don’t require an action. 
 
 ## Starting Combat
+
+Once combat mode begins, the game follows a set framework:
+
+1. Initiative roll for the first combat round
+2. Declared actions
+3. Action checks
+4. Results
 
 ### Initiative Check
 
@@ -37,50 +44,25 @@ In a round of combat, all your unit's actions occur **at the same time**. You an
 
 ### Subsequent Rounds
 
-After the first round of combat, no further initiative checks are made. The engagement proceeds with your unit acting first, then the opposing force, and so on, round by round, until one side is eliminated or withdraws.
+After the first round of combat, no further initiative checks are required. The engagement proceeds with your unit acting first, followed by the opposing force, each round until one side is eliminated or withdraws.
 
 ### Ambushes
 
-Operational circumstances or careful planning can also determine which side acts first in combat. If you *ambush* the opposing force, your unit does not roll initiative and instead acts first, gaining *advantage* on all action checks. 
+Operational circumstances or careful planning can determine which side acts first in combat. If you *ambush* the opposing force, your unit does not roll initiative and instead acts first, gaining *advantage* on all action checks. 
 
 Afterward, combat proceeds as usual: your unit takes actions, then the opposing force takes actions. An ambush lets you take two consecutive rounds of combat before your opponent can respond. 
 
-However, if the opposing force ambushes you, you will not make an initiative check; you simply cannot act in the first round of combat. In subsequent rounds, combat proceeds as usual.
+However, if the opposing force ambushes you, you will not make an initiative check; you cannot act in the first round of combat. In subsequent rounds, combat proceeds as usual.
 
 ### Interrupting Actions
 
 You may hold an action and specify a trigger, for example, “I wait until the enemy rounds the corner.” When the trigger occurs, you act immediately, interrupting the target’s turn.
 
-## Combat Modifiers
-
-The effectiveness of your attacks is modified by weapon type, range, and tactical situations. See the following tables for situational modifiers. 
-
-### Weapon Ranges
-
-Depending on your weapon type and the range to your target, the resulting *action check* for your attack may be at an *advantage*, *disadvantage*, or *impossible*.
-
-| Weapon | Close | Near | Far | Distant |
-| - | :-: | :-: | :-: | :-: |
-| **Assault rifle** | disadvantage | – | – |  impossible |
-| **Close-quarters combat** | – | impossible |  impossible | impossible |
-| **Heavy weapon** | impossible | disadvantage | – | – |
-| **LMG** | impossible | – | disadvantage |  disadvantage |
-| **Shotgun** | – | – | disadvantage |  impossible |
-| **Sidearm** | – | advantage | disadvantage | impossible |
-| **SMG** | – | advantage | disadvantage | impossible |
-| **Sniper rifle** | impossible | disadvantage | advantage | – |
-| **Thrown** | – | – |  impossible  |  impossible  |
-
-### Tactical Decisions
-
-The following tactical decisions also apply modifiers to your attacks.
-
-- **Aiming**: When you take an *action* to aim at a target, attacks gain *advantage* until you take a different action that is not attacking that target.
-- **Prone**: When attacking from a prone position, you have *advantage*. Attacks against a prone target have *disadvantage*.
-
 ## Attacking
 
-When you **attack** a target, roll **2D6 + Applicable Attribute** and apply the result. See [Choose an Applicable Attribute](playing.md#choose-an-applicable-attribute) to determine which attribute score to select.
+When you **attack** a target, roll **2D6 + Applicable Attribute** and apply the result. See [Choose an Applicable Attribute](playing.md#choose-an-applicable-attribute) to determine which attribute score to select. 
+
+Modifiers may apply to the attack based on the range to your target. See the following [Combat Modifiers](#attack-modifiers).
 
 <div class="roll-table" markdown="1">
 
@@ -93,9 +75,7 @@ When you **attack** a target, roll **2D6 + Applicable Attribute** and apply the 
 
 </div>
 
-### Multiple Attackers
-
-If you and other team members attack the same opponent, determine the damage for each attack separately, but apply only the **highest value**. The damage from multiple attackers is not cumulative.
+See the following [Weapon Damage Modifiers](#weapon-damage-modifiers).
 
 ### Weapon Damage Modifiers
 
@@ -110,9 +90,40 @@ Apply the damage modifiers to your attacks as listed below.
 | **Heavy** | antiarmor missiles, sniper rifles | +3 |
 | **Anomalous** | \[REDACTED\] | +4 |
 
-#### Blast Damage
+### Blast Damage
 
-Attacks with the *blast* quality, such as explosives, can affect multiple targets in a confined area. To determine the number of targets, roll **1D6 + the weapon’s damage modifier**. The result is the number of targets affected.
+Attacks with the *blast* quality, such as explosives, can affect multiple targets in a confined area. To determine the number of targets, roll **1D6 + the weapon's damage modifier**. The result is the number of targets affected.
+
+### Multiple Attackers
+
+If you and other team members attack the same opponent, determine the damage for each attack separately, but apply only the **highest value**. The damage from multiple attackers is not cumulative.
+
+## Attack Modifiers
+
+The effectiveness of your attacks is modified by weapon type, optimal engagement distance, and tactical situations. See the following tables for attack modifiers. 
+
+### Optimal Engagement Distance
+
+Each weapon class has a distinct optimal engagement distance. Depending on your weapon type and the range, your attack’s *action check* may be at *advantage*, *disadvantage*, or *impossible*. The range to your target is determined by the number of intervening zones. See [Tactical Zones](zones.md).
+
+| Weapon | Close | Near | Far | Distant | Exteme |
+| - | :-: | :-: | :-: | :-: |
+| **Assault rifle** | disadvantage | – | – | impossible | impossible |
+| **Close-quarters combat** | – | impossible |  impossible | impossible | impossible |
+| **Heavy weapon** | impossible | disadvantage | – | – | disadvantge |
+| **LMG** | impossible | – | — |  disadvantage | disdvantage |
+| **Shotgun** | – | – | disadvantage |  impossible | impossible |
+| **Sidearm** | – | advantage | disadvantage | impossible | impossible |
+| **SMG** | – | advantage | disadvantage | impossible | impossible |
+| **Sniper rifle** | impossible | disadvantage | advantage | – | — |
+| **Thrown** | – | – |  impossible  |  impossible  | impossible |
+
+### Tactical Decisions
+
+The following tactical decisions apply modifiers to your attacks.
+
+- **Aiming**: When you take an *action* to aim at a target, attacks gain *advantage* until you take a different action that is not attacking that target.
+- **Prone**: When attacking from a prone position, you have *advantage*. Attacks against a prone target have *disadvantage*.
 
 ## Expending Ammunition
 
@@ -266,7 +277,7 @@ Neural weapons described as *ongoing* require concentration to keep the power ac
 - If you take damage while concentrating, your focus is disrupted, and the neural weapon’s effect ends.
 - Otherwise, you can voluntarily stop concentrating to end the effect. 
 
-## Retreating
+## Free-Fire Opportunities
 
 Withdrawing from a fight while engaged in combat may expose the retreating force to additional attack.
 
@@ -321,21 +332,21 @@ If your character dies, create a new one while the game continues. When you’re
 
 ## Rest and Recovery
 
-Once per mission, your unit can send a *rendezvous signal*. The GM then designates a nearby *rendezvous point* and describes any obstacles to reaching it. Arriving at a rendezvous point lets your unit rest and recover. 
+Once per mission, your unit can *rally*. The GM then designates a nearby *laying-up position (LUP)* and describes any obstacles to reaching it. Arriving at the LUP lets your unit rest and reorganize. Your LUP is always concealed and defensible. You can rally once per mission. 
 
 Reaching the rendezvous point has the following effects:
 
-- *Momentum* points reset to their starting value of 2. 
-- Restore any *neural weapons* that can no longer be used.
-- Remove all *panicked* and *locked-in* effects.
+- Your *momentum* resets to its starting value of 2 points.
+- Restore any of your *neural weapons* that are no longer usable.
+- Remove all of your *panicked* and *locked-in* effects.
 
-You also choose **one** benefit from the following list:
+In addition, choose **one** benefit from the following list:
 
-- **INTEL**: Ask a single question about the mission. The GM will reply “yes” or “no.”
+- **INTEL**: Ask a single question about the mission, and the GM will reply with a “yes” or “no.”
 - **PATCH UP**: Recover **1D6 HP**.
 - **RECUPERATE**: Remove **1D6** *stress points* and **1D3** *fatigue*.
 - **RESUPPLY**: Receive **one** unit of tactical supplies.
 
 !!! note
 
-	You cannot recover hit points at a rendezvous point if you lack medical supplies, such as an IFAK in your basic kit.
+	You cannot patch up and recover hit points at the LUP without medical supplies, such as an IFAK from your basic kit.
