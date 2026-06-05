@@ -56,8 +56,6 @@ For example, the GM divides your objective area, a research facility, into sever
   
 </figure>
 
----
-
 | Zone | Description |
 | - | - |
 | Forest edge | Total cover, blanketed in snow |
