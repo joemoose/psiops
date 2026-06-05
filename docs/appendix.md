@@ -2,7 +2,8 @@
 
 ## National Armament Roster
 
-Weapons commonly used by militaries in the 1980s follow:
+Many commonly used weapons during the Cold War era are as follows:
+
 
 | Category | US | USSR | UK | West Germany | France | Israel |
 |-|-|-|-|-|-|-|
@@ -15,39 +16,48 @@ Weapons commonly used by militaries in the 1980s follow:
 | **SMG** | MAC-10, M3A1 | AKS-74U† | Sterling L2A3 | HK MP5, MP5SD | MAT-49 | Uzi, Mini-Uzi |
 | **Sniper rifle** | M40A1, M21 | SVD Dragunov | L96A1 | HK PSG1 | FR F2 | — |
 
-*† The Soviet military used the compact AKS-74U as an SMG equivalent rather than fielding a dedicated submachine gun.*
+*† The Soviet military used the compact AKS-74U as an SMG equivalent.*
 
 # Rules Summary
 
 ## Action Roll
 
-Roll **2D6 + Attribute score** and apply the following result:
+Roll **2D6 + Applicable Attribute**.
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|-|-|
-| **6–** | It's a **failure**. You don't achieve your goal and suffer a *consequence*. See the following section. |
-| **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section.  |
+|:----:|:-------|
+| **6–** | It's a **failure**. You don't achieve your goal and suffer a *consequence*. |
+| **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. |
 | **10–12** | It's a **complete success**. You achieve your goal. |
-| **13+** | It's a **critical success**. You achieve your goal, and the result is better than you expected. |
+| **13+** | It's a **critical success**. You achieve your goal, and the result is **better** than you expected. |
 
 </div>
 
 ## Momentum
 
-Whenever you make an **action check**, in addition to the result of the check, gain *momentum* as follows:
+When you make an **action check**, in addition to the result of the check, gain *momentum* as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|-|-|
+|:----:|:-------|
 | **6–** | You don't gain any momentum. |
 | **7–9** | You don't gain any momentum. |
-| **10–12** | You gain **1 point** of momentum. |
-| **13+** | You gain **2 points** of momentum. |
+| **10–12** | You gain **1** points of momentum. |
+| **13+** | You gain **2** points of momentum. |
 
 </div>
+
+### Spend Momentum
+
+| Option | Cost | Effect |
+| :- | :-: | :- |
+| ASSIST | 1 | Advantage to a team member; you share the risk |
+| PUSH YOURSELF | 2 | Advantage, enhanced result, or extra action |
+| EVASION | 4 | Roll to avoid the consequence of failed action check |
+| FLASHBACK | 6 | Retroactively establish pre-mission preparation |
 
 ## Initiative Check
 
@@ -56,11 +66,11 @@ Roll **2D6 + TACTICS** and apply the following result:
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|-|-|
+|:----:|--------|
 | **6–** | You **do not** act in the first round of combat. The hostiles get the drop on you. |
 | **7–9** | You get the drop on the hostiles and act first, but you have a *disadvantage* on your next *action check*. |
 | **10–12** | You get the drop on the hostiles and act first. |
-| **13+** | You get the drop on the hostiles and act first. You also gain *advantage* on your next *action check*. |
+| **13+** | You get the drop on the hostiles and act first. You also gain an *advantage* on your next *action check*. |
 
 </div>
 
@@ -102,7 +112,7 @@ Roll **2D6 + WILLPOWER** and apply the following result:
 
 | Roll | Result |
 |-|-|
-| **6–** | Your neural power **doesn't manifest**, and you take **1** *fatigue*. You can **no longer use** this neural weapon again during the mission unless you rest at a *rendezvous point*. |
+| **6–** | Your neural power **doesn't manifest**, and you take **1** *fatigue*. You can **no longer use** this neural weapon again during the mission unless you rest at a *laying-up point*. |
 | **7–9** | The power **manifests**, but you take **1** *fatigue*. |
 | **10–12** | The power **manifests**.  |
 | **13+** | The power **manifests**. The effect is greater than expected. Work with the GM to specify what else happens.   |
@@ -150,7 +160,7 @@ Roll **2D6 + WILLPOWER**, and apply the following result:
 | **6–** | You **panic**. Roll **1D6** and consult the following [Panicking table](#panicking). |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You are completely **locked in** to the flow of combat. Remove **all** stress, then roll **1D6** and consult the following [Locked-In table](#locked-in). |
+| **13+** | You are **locked in** to the flow of combat. Remove **all** stress, then roll **1D6** and consult the following [Locked-In table](#locked-in). |
 
 </div>
 

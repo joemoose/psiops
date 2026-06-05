@@ -2,6 +2,16 @@
 
 ---
 
+#### Extended Missions
+
+You can **bivouac** in a secure location during an extended mission if you carry *extended-mission equipment*. See [Mission-Specific Equipment](equipment.md#).
+
+Afterward, remove **1** fatigue, **all** stress, and recover **STRENGTH** HP points up to your maximum. For example, an operator with 1 STRENGTH would recover 1 HP point.
+
+!!! note
+
+	Recall that injuries and the associated permanent reduction in maximum HP cannot be treated in the field. Treatment is available only after the mission, back at base.
+
 ## Time and Tempo
 
 Time measurements in the game are divided into two distinct scales: *operational time* and *combat time*. These two scales will flow into and out of each other as the game’s pace and focus shift.

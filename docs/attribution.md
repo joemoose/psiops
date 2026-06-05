@@ -12,15 +12,18 @@
 - The single action to determine attack and defense damage is inspired by [*Vagabonds of Dyfed*](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed), authored by Ben Dutter, copyright Sigil Stone Publishing, 2018.
 - The specializations mechanic is inspired by [*Offworlders*](https://chrispwolf.itch.io/offworlders), authored by Chris Wolf and licensed under the [Creative Commons Attribution License 3.0](https://creativecommons.org/licenses/by/3.0/us/).
 - The stress mechanic is inspired by [“Stress system for Adventurous: Where high risk meets high reward!”](https://www.dawnfist.com/blog/mechanics/stress-system-for-adventurous/), *The Dawnfist Blog!*, authored by Sebastian Grabne.
+- Original cover photo by [Aleksey Kashmar](https://unsplash.com/@pricetac) on [Unsplash](https://unsplash.com/photos/a-man-in-camouflage-holding-a-machine-gun-6F3UOhnbBHU); edits by Zachary Taylor.
 
 ## Inspiraton
 
-I wrote ***PsiOps*** after reading four things I couldn’t stop thinking about, all of which I knew could be the underpinnings of a fun game:
+After reading these publications, I knew they could form the foundation of a fun game:
 
-- Tim Power’s ***Declare*** showed me that the Cold War could have a supernatural history hidden just beneath the real one.
-- Andy McNab's ***Bravo Two Zero*** put me in the skin of a special forces operator and immersed me in their exotic lingo.
-- Charles Stross' ***The Atrocity Archives*** proved that bureaucratic occult espionage could be both terrifying and darkly funny.
-- The ***SCP Foundation*** wiki, whose contributors — writing collectively and mostly anonymously — built an unsettling framework for the occult unknown.
+- Eric Haney’s ***Inside Delta Force***, Andy McNab’s ***Bravo Two Zero***, Sean Naylor’s ***Relentless Strike***, and Mark Owen’s ***No Easy Day*** put you in the world of special forces operators.
+- Tim Power’s ***Declare*** depicts a Cold War with a hidden supernatural history beneath it.
+- Charles Stross’ ***The Atrocity Archives*** depicts bureaucratic occult espionage that’s both terrifying and darkly funny.
+- The ***SCP Foundation*** wiki, whose contributors — writing collectively and, for the most part, anonymously — built an unsettling framework for the unknown and the occult.
+
+And anything and everything from Tom Clancy. 
 
 ## License
 

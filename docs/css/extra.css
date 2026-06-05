@@ -35,7 +35,7 @@ body {
      element removes inline-centering behavior entirely.
      figcaption re-applies center explicitly so captions
      remain centered beneath the image.
-     ---------------------------------------------------------- */
+     ---------------------------------------------------------- 
   figure {
     margin: 1.5em 0;
     text-align: left;
@@ -52,6 +52,67 @@ body {
     text-align: center;
     margin-top: 0.4em;
   }
+  */
+  
+  /* SVG <object> */
+
+figure {
+  margin: 1.5em 0;
+  text-align: left;
+}
+
+figcaption {
+  font-size: 0.85em;
+  color: var(--md-default-fg-color--light);
+  text-align: center;
+  margin-top: 0.4em;
+}
+
+  /* ----------------------------------------------------------
+     DIAGRAM FIGURES — stylesheet-controlled render size
+     The zone-network SVG ships with a viewBox only: it carries
+     an intrinsic aspect ratio but no intrinsic width/height. An
+     <img> referencing it therefore has no natural size, and a
+     width of auto falls back to the 300x150 default object size
+     (the "tiny diagram" symptom). This rule is the single source
+     of truth for its rendered dimensions:
+       - width: 100%  supplies the definite width target the SVG
+         lacks, so the box resolves against the prose column
+         instead of the default object size.
+       - height: auto  lets the viewBox ratio derive the height,
+         keeping the vector art undistorted at any width.
+       - max-width  caps the upscale so the portrait diagram does
+         not dominate wide viewports. Tune to taste; remove it to
+         let the figure fill the full content column.
+     Scoped to .zone-diagram so screenshots and other figures keep
+     their own intrinsic sizing. The .md-typeset prefix brings
+     specificity to (0,2,1), clearing both the figure img rule
+     above (0,0,2) and Material's default image styling.
+     ---------------------------------------------------------- 
+  .md-typeset .zone-diagram img {
+    width: 100%;
+    max-width: 360px;
+    height: auto;
+  }
+}
+*/
+
+/* SVG <object> */
+
+.zones-diagram .zones-svg {
+  display: block;
+  width: 100%;
+  max-width: 360px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.clocks-diagram .clocks-svg {
+  display: block;
+  width: 100%;
+  max-width: 360p\x;
+  height: auto;
+  margin: 0 auto;
 }
 
 /* Scrollable tables on narrow viewports */
