@@ -54,43 +54,51 @@ When a specific attribute is required for an action check, the description speci
 
 When you created your character, you assigned a *score* to each of your character’s *attributes*, with higher scores indicating greater ability. These scores increase your chances of success on *action rolls*.
 
-To make an *action check*, roll **2D6 + the attribute’s score**. The sum of the dice roll and the attribute’s score determines how well you succeed at your action, as shown in the following list. 
+To make an *action roll*, roll **2D6 + the ATTRIBUTE score**. 
+
+!!! example
+
+	If the roll is **2D6 + STRENGTH** and your Strength attribute is *3*, you would roll 2D6 + 3.
+
+### Results
+
+The **sum** of the *dice roll* and the attribute *score* determines how well you succeed at your action, as shown in the following Results list:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |:----:|:-------|
-| **6–** | It's a **failure**. You don't achieve your goal and suffer a *consequence*.<br/>See  [Consequences and Complications](#consequences-and-complications). |
-| **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. <br/>See [Consequences and Complications](#consequences-and-complications). |
+| **6–** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section.  |
+| **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
 | **10–12** | It's a **complete success**. You achieve your goal. |
-| **13+** | It's a **critical success**. You achieve your goal, and the result is **better** than you expected. |
+| **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
 
 </div>
 
 ### Consequences and Complications
 
-*Consequences* and *complications* arise when the results of your actions aren’t fully successful. Consequences stem from failure, while complications stem from partial success.
+*Consequences* and *complications* arise when the results of your actions aren’t a complete success. Consequences stem from failure, whereas complications stem from partial success.
 
-#### Consequences
+#### Consequences of Failing
 
-Something goes wrong, with a detriment to your tactical situation or combat readiness. You could be injured, damage equipment, trigger a new threat, or become separated from your unit. Your situation worsens, and circumstances turn against you. 
+You don’t achieve what you intended. In addition, something else goes wrong, with a detriment to your tactical situation or combat readiness. You could be injured, damage equipment, trigger a new threat, or become separated from your unit. Your situation worsens, and circumstances turn against you. 
 
-#### Complications
+#### Complications of Partial Success
 
 You accomplish what you intended, but at a cost, such as a difficult choice or reduced impact on the outcome. Your tactical situation is likely to become more complicated.
 
-### Action Check Results Example
+### Example Action Check Results
 
 To compare the four types of results from an action roll, consider the following example.
 
-“**You try to quietly pick a lock. Roll 2D6 + REFLEXES. The result is…**”
+“**You try to quietly pick a door lock. Roll 2D6 + REFLEXES. The result is…**”
 
-| Roll | Result | GM’s Description |
+| Sum | Result | GM’s Description |
 | :-: | :- | :- |
-| **6–** | Failure | “You can’t pick the lock, and the door stays *locked*. You hear someone approaching your position. You’re trapped in the hallway.” |
-| **7–9** | Partial Success | “The door is now *unlocked*. No one hears you, but you *break* your lock pick. Remove it from your inventory. ” |
+| **6–** | Failure | “You can’t pick the lock, and the door remains *locked*. You hear someone approaching your position. You’re trapped in the hallway.” |
+| **7–9** | Partial Success | “The door is now *unlocked*. No one hears you, but you break your lock pick. Remove it from your inventory.” |
 | **10–12** | Complete Success | “The door is now *unlocked*. No one hears you. You're good to go.” |
-| **13+** | Critical Success | “The door is now *unlocked*. No one hears you. You’re good to go. You peek around the door and spot the guard asleep at a security console.” |
+| **13+** | Critical Success | “The door is now *unlocked*. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at a security console.” |
 
 ## Modifying Action Checks
 
@@ -191,18 +199,15 @@ For details on combat, see the [Combat section](combat.md).
 
 #### Evade
 
-Spend **4 momentum** to avoid the consequence of a failed *action roll*. Roll **2D6 + Applicale Attribute** and apply the result. See [Choose an Applicable Attribute](#choose-an-applicable-attribute) to determine which attribute score to select. 
+Spend **4 momentum** points to avoid the *consequence* of a failed *action roll*. Your action still **fails**. However, you no longer incur the extra *consequence* of a failed result.
+
+See [Consequences of Failing](#consequences-of-failing).
+
+!!! example
+
+	While being pursued by the enemy, you attempt to scale a wall. Your REFLEXES action roll fails. You not only fail to climb the wall, but you also land flat on your back and drop your weapon, as described by the GM.
 	
-<div class="roll-table" markdown="1">
-
-| Roll | Result |
-|:----:|:-------|
-| **6–** | You do not avoid the consequence, and it **still happens**. |
-| **7–9** | The consequence is **less severe** than expected. |
-| **10–12** | The consequence is **entirely avoided**. |
-| **13+** | The consequence is **entirely avoided**, and your next *action check* has *advantage*. |
-
-</div>
+	You can spend 4 momentum to evade this consequence. You still won't make it over the wall, but at least you’re on your feet, combat-ready, with your rifle in hand. 
 
 #### Flashback
 
@@ -237,16 +242,8 @@ Complex tasks that require multiple actions to complete or impending threats to 
 ### Example Clocks
 
 <figure class="clocks-diagram">
-
-  <object
-    class="clocks-svg"
-    type="image/svg+xml"
-    data="../img/clocks.svg"
-    aria-label="Two mission clocks: a 6-segment clock tracking a task's progress, and a 4-segment clock counting down an imminent threat">
-  </object>
-  
-  <figcaption>Example Mission Clocks</figcaption>
-
+--8<-- "img/clocks.svg"
+<figcaption>Mission Clocks Example</figcaption>
 </figure>
 
 ### Track Complex Tasks

@@ -24,7 +24,7 @@ Keep track of your total stress points. Your character sheet has a place to reco
 
 Left unchecked, stress can degrade your performance and increase the risk of failure.
 
-When adding a stress point raises your total to **6**, your combat readiness is at risk. Make a **stress check** (*action roll*): roll **2D6 + WILLPOWER** and apply the result.
+When adding a stress point raises your total to **6**, your combat readiness is at risk. Make a **stress roll**. Roll **2D6 + WILLPOWER** and apply the result.
 
 Your stress points are capped at **6**. Any stress points beyond **6** are ignored. However, after resolving a *stress check*, you may still be at **6** points. No further check is required. The next stress point, as usual, triggers a new check.
 

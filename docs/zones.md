@@ -44,16 +44,8 @@ See [Range Modifiers](combat.md#range-modifiers).
 For example, the GM divides your objective area, a research facility, into several interconnected tactical zones, as shown in the following diagram.
 
 <figure class="zones-diagram">
-
-  <object
-    class="zones-svg"
-    type="image/svg+xml"
-    data="../img/zones.svg"
-    aria-label="A series of index cards labeled with zone names representing significant areas of the research facility. Each card has connecting lines to indicate adjacent zones.">
-  </object>
-  
-  <figcaption>Tactical Zones Example</figcaption>
-  
+--8<-- "img/zones.svg"
+<figcaption>Tactical Zones Example</figcaption>
 </figure>
 
 | Zone | Description |

@@ -326,7 +326,7 @@ Neural weapons described as *ongoing* require concentration to keep the power ac
 Withdrawing from a fight while engaged in combat may leave the retreating force vulnerable to further attack.
 
 - If your **opponents** retreat, you can immediately make a free attack against them before they move.
-- If **you** retreat, roll **2D6 + REFLEXES** and apply the result as follows:
+- If **you** retreat, make a *free-fire roll*. Roll **2D6 + REFLEXES** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 

@@ -1,43 +1,38 @@
 ## To-Do
 
-- [ ] CLEAN up action roll stem sentences
-- [x] PSIOPS -> PsiOps
+- [x] Fix admonitions width
+- [ ] Remove any notes between action rolls and result table, and move to a trailing "!!! note" block
+- [ ] Words review See [Words](#words).
 - [ ] Review section headers
-- [ ] 2nd person
-- [ ] passive
-- [ ] contractions
-- [ ] add links
-- [ ] diagrams
-- [ ] ~~deprivation~~
-- [ ] edit core drives list
-- [ ] edit neural weapons list
-- [ ] edit specializations list
-- [ ] Fonts?
-- [ ] Zones
+- [ ] review core drives list
+- [ ] review neural weapons list
+- [ ] review specializations list
+- [ ] Claude edit: 2nd person 
+- [ ] Claude edit: passive
+- [ ] Claude edit: contractions
+- [ ] Claude edit: spelling and grammar
+- [x] CLEAN up action roll stem sentences
+- [ ] rewrite COVER rules
+- [x] PSIOPS -> PsiOps
+- [x] add links
+- [x] diagrams
+- [x] ~~deprivation~~
+- [x] ~~Fonts?~~
+- [x] Zones
 - [x] Rewrite movement
-- [ ] loadout/kit
-- [ ] One action per turn?
-
-## Edits
-
-Remove any notes between action rolls and result table and move to a trailing “!!! note” block
+- [x] loadout/kit
+- [x] ~~One action per turn?~~
 
 
 ## Words
 
-Deploying Neural Weapons -> Activating
-
-using operator rather than team member
-
-item vs unit, re: equipment
-
-takes up vs occupies
-
-replace *action rolls* with *action checks*
-
-enemy vs all the pther phrasings (ooposing forces, hostiles, opponents)
-
-Damage reduction
+-  [ ] Deploying Neural Weapons -> Activating
+-  [ ] using the operator rather than the team member
+-  [ ] item vs unit, re: equipment
+-  [ ] takes up vs occupies
+-  [ ] replace *action rolls* with *action checks*
+-  [ ] enemy vs all the other phrasings (opposing forces, hostiles, opponents)
+-  [ ] Damage reduction
 
 
 

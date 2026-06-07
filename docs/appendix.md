@@ -1,5 +1,7 @@
 # Appendix
 
+---
+
 ## National Armament Roster
 
 Many commonly used weapons during the Cold War era are as follows:
@@ -17,6 +19,10 @@ Many commonly used weapons during the Cold War era are as follows:
 | **Sniper rifle** | M40A1, M21 | SVD Dragunov | L96A1 | HK PSG1 | FR F2 | — |
 
 *† The Soviet military used the compact AKS-74U as an SMG equivalent.*
+
+<br/>
+
+---
 
 # Rules Summary
 

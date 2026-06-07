@@ -4,7 +4,7 @@ site_name: "PsiOps Field Manual"
 site_url: https://joemoose.github.io/psiops/
 site_author: Zachary Taylor
 site_description: An Action Roleplaying Game of Paranormal Special Forces
-# site_dir: ../joemoose.github.io/psiops/
+site_dir: ../joemoose.github.io/psiops/
 
 # Repo
 
@@ -44,24 +44,35 @@ theme:
     - navigation.tracking
     - toc.follow
   palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      primary: black
-      scheme: default
+      scheme: default 
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+
+    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
-      primary: black
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
 
 # Extensions
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - md_in_html
+  - pymdownx.snippets:
+      base_path: [docs]
   - toc:
       permalink: true
       toc_depth: 3
