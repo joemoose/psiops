@@ -36,6 +36,6 @@ The GM answers your questions and always respects your freedom of choice. The GM
 
 ## How to Use this Field Manual
 
-In the next chapter, you’ll create your character. You’ll encounter game terms such as *Momentum*, *Tactical Supplies*, *Advantage*, and *Action Checks*. Don’t worry about them yet. The game’s mechanics and rules are covered in later chapters.
+In the next chapter, you’ll create your character. You’ll encounter game terms such as *momentum*, *tactical supplies*, *advantage*, and *action rolls*. Don’t worry about them yet. The game’s mechanics and rules are covered in later chapters.
 
 Use your character sheet as a focal point when reading the manual. A [rules summary](appendix.md#rules-summary) is included at the back of the manual. You may find it a useful reference during your missions.

@@ -1,6 +1,6 @@
 # Combat
 
-Combat is like any risky action: attacking requires an *action roll* to deal damage, and defending against an attack requires an *action check* to avoid damage. Details follow.
+Combat is like any risky action: attacking requires an *action roll* to deal damage, and defending against an attack requires an *action roll* to avoid damage. Details follow.
 
 ## Combat Sequence
 
@@ -33,28 +33,28 @@ Whether you act before the enemy in the **first** round of combat is decided by 
 
 | Roll | Result |
 |:----:|--------|
-| **6–** | You **do not** act in the first round of combat. The hostiles get the drop on you, and you’ll have to wait until the **second round** to move or take any action.  |
-| **7–9** | You get the drop on the hostiles and act **first**, but you have a *disadvantage* on your next *action roll*. |
-| **10–12** | You get the drop on the hostiles and act **first**. |
-| **13+** | You get the drop on the hostiles and act **first**. You gain an *advantage* on your next *action roll*. |
+| **6–** | You **do not** act in the first round of combat. The enemy gets the drop on you, and you’ll have to wait until the **second round** to move or take any action.  |
+| **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
+| **10–12** | You get the drop on the enemy and act **first**. |
+| **13+** | You get the drop on the enemy and act **first**. You gain an *advantage* on your next *action roll*. |
 
 </div>
 
-Following the initiative check, all members of your unit who can act in the first round declare their moves and actions. The results of those actions are then determined. See the following sections for details. 
+Following the initiative roll, all members of your squad who can act in the first round declare their moves and actions. The results of those actions are then determined. See the following sections for details. 
 
 Afterward, the opposing force takes its actions. The first round of combat is now complete. 
 
 ### The Second and Subsequent Rounds
 
-In the second and subsequent rounds of combat, you **no longer** roll initiative. You and your unit always act first in each subsequent round, followed by the enemy, until one side is eliminated or withdraws.
+In the second and subsequent rounds of combat, you **no longer** roll initiative. You and your squad always act first in each subsequent round, followed by the enemy, until one side is eliminated or withdraws.
 
 ### Ambushes
 
-Circumstances or careful planning can sometimes determine which side acts first. If you *ambush* the enemy, your unit does not make an initiative check and instead acts first, gaining *advantage* on all action checks during the first combat round.
+Circumstances or careful planning can sometimes determine which side acts first. If you *ambush* the enemy, your squad doesn’t make an initiative roll and instead acts first, gaining *advantage* on all action rolls during the first combat round.
 
-Afterward, combat proceeds as usual: your unit takes actions, then the opposing force takes actions. An ambush lets you take two consecutive rounds of combat before your opponent can respond. 
+Afterward, combat proceeds as usual: your squad takes actions, then the opposing force takes actions. An ambush lets you take two consecutive rounds of combat before your opponent can respond. 
 
-If the enemy ambushes you, you do not make an initiative check and cannot act during the first round of combat. In subsequent rounds, combat proceeds as usual.
+If the enemy ambushes you, your squad doesn’t act during the first round of combat. In subsequent rounds, combat proceeds as usual.
 
 ## Declaring Actions
 
@@ -146,7 +146,7 @@ The following tactical decisions apply modifiers to your attacks.
 
 At the start of a mission, all your small arms are stocked with an *ammo rating* of **6**. 
 
-Each time you attack, if your attack fails with an *action check* of **6 or lower**, reduce the weapon's *ammo rating* by **1**. When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
+Each time you attack, if your attack fails with an *action roll* of **6 or lower**, reduce the weapon's *ammo rating* by **1**. When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
 
 ### Resupply
 
@@ -169,7 +169,7 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2D6 +
 | **6–** | You take **damage** equal to the **highest D6 result** plus your enemy weapon’s damage modifier. |
 | **7–9** | You take **damage** equal to the **lowest D6 result** plus your enemy weapon's damage modifier. |
 | **10–12** | You take **no** damage. |
-| **13+** | You take **no** damage, and your next *action check* has *advantage*. |
+| **13+** | You take **no** damage, and your next *action roll* has *advantage*. |
 
 </div>
 
@@ -204,7 +204,7 @@ See [Injuries](#injuries), [Fatigue](#fatigue), and [Stress](stress.md#reaching-
 
 !!! example
 
-	An operator with 2 STRENGTH and 2 current HP is in a firefight. They are attacked for 3 points of damage. The operator now has –1 HP. They must make a *wound check* because their current HP is zero or below.
+	An operator with 2 STRENGTH and 2 current HP is in a firefight. They are attacked for 3 points of damage. The operator now has –1 HP. They must make a *wound roll* because their current HP is zero or below.
 	
 	They roll *2D6* + *2* (STRENGTH) and subtract *1* (the number of current HP points below zero), getting 4 and 5. The total is 4 + 5 + 2 - 1 = 10. The operator is *knocked down*. They add 1 *injury*, 1 *fatigue*, 1 *stress*, and increase current HP to 1. 
 	
@@ -212,9 +212,9 @@ See [Injuries](#injuries), [Fatigue](#fatigue), and [Stress](stress.md#reaching-
 
 ### Stabilizing Incapacitated Team Members
 
-Stabilizing an *incapacitated* operator first requires a unit of medical supplies, such as the IFAK in your basic kit. If your unit has medical supplies, you automatically stabilize an incapacitated team member **after** combat ends.
+Stabilizing an *incapacitated* team member requires a unit of medical supplies, such as the IFAK in your basic kit. If you have medical supplies, you automatically stabilize an incapacitated team member **after** combat ends.
 
-If you attempt to stabilize an incapacitated team member **during** combat, the action is complex and risky. The GM then uses a *mission clock* to track your progress. See [Mission Clocks](playing.md#mission-clocks).
+If need to stabilize an incapacitated team member **during** combat, the action is complex and risky. The GM then uses a *mission clock* to track your progress. See [Mission Clocks](playing.md#mission-clocks).
 
 To **stabilize a team member in combat**, move a unit of medical supplies into your hand, then make a *stabilization roll*. Roll **2D6 + TACTICS**. Apply the result as follows:
 
@@ -222,14 +222,14 @@ To **stabilize a team member in combat**, move a unit of medical supplies into y
 
 | Roll | Result |
 |------|--------|
-| **6–** | A segment on the mission clock is **not** marked off, and you **use up** your unit of medical supplies. Remove it from your inventory.<br/>You’ll need to find more medical supplies to continue making *stabilization rolls*. |
+| **6–** | You do **not** mark off a segment on the mission clock, and you **use up** your unit of medical supplies. Remove it from your inventory.<br/>You’ll need to find more medical supplies to continue making *stabilization rolls*. |
 | **7–9** | Mark off **1** segment on the mission clock. |
 | **10–12** | Mark off **2** segments on the mission clock. |
 | **13+** | Mark off **3** segments on the mission clock. |
 
 </div>
 
-Once all segments are marked off the clock, the incapacitated team member is stabilized. They are conscious and back on their feet, though at **0 HP**. Any damage will immediately reduce their HP below zero, triggering a *wound check*.
+Once all segments are marked off the clock, the incapacitated team member is stabilized. Stabilized operators are conscious and back on their feet, though at **0 HP**. Any damage immediately reduces their HP below zero, triggering another *wound roll*.
 
 ### Injuries
 
@@ -241,7 +241,7 @@ Each *injury* you sustain reduces your ***maximum HP** by **1** and **cannot** b
 
 ### Fatigue
 
-All *fatigue* you sustain must be stored in your **inventory** as an abstract item. Each unit of fatigue occupies 1 slot. If your inventory is full, drop enough equipment to free up slots for the fatigue.
+All *fatigue* you sustain must be stored in your **inventory** as an abstract item. Each unit of fatigue takes up 1 slot. If your inventory is full, drop enough equipment to free up slots for the fatigue.
 
 !!! warning
 
@@ -257,47 +257,49 @@ Lost *hit points* can be restored, and *fatigue* removed by resting at a *laying
 
 ## Cover
 
-Hiding behind an object provides *cover*, reducing the damage you take from attacks. Cover blocks **all** damage types, including those that would bypass ballistic body armor. 
+When you duck behind an object to take *cover* from an attack, your *defense roll* has *advantage* to avoid damage. Cover is rated as *low*, *medium*, or *high*. All three types of cover grant *advantage* on your defense roll, but *medium* and *hard* cover also **reduce** damage by **1** point.
 
-The damage blocked by your cover is in **addition** to your personal protective system's *armor rating*. The maximum damage reduction from armor is capped at **3**, but when defending behind cover, damage reduction includes **both** your armor rating and the cover bonus.
+*Medium* and *hard* cover differ in that *hard* cover protects your whole body. If you stay behind *high* cover and avoid exposing yourself to the enemy, you can't be targeted. However, if you lean out from or over *high* cover to attack, you expose yourself to enemy fire. Attacking from behind *high* cover essentially places you in the *medium* category.  
 
-See [Personal Protective Systems](equipment.md#personal-protective-system) for details on armor ratings.
+The damage blocked by cover is in **addition** to your personal protective system’s *armor rating*. The maximum damage reduction from armor is capped at **3**. When defending from behind cover, damage reduction includes **both** your armor rating and the **+1** cover bonus.
 
-### Cover Ratings
+Cover protects against certain types of damage that would bypass ballistic body armor, such as intense flames. The GM will let you know. See [Personal Protective Systems](equipment.md#personal-protective-system).
 
-Cover is rated as *low*, *medium*, or *high*. A description of each rating and the damage it blocks follows.
+### Cover Ratings Summary
 
-| Cover | Description | Examples | Block Rating |
+Each cover rating’s description and defensive bonus are as follows:
+
+| Cover | Description | Examples | Defensive Bonus |
 | :- | :- | :- | :-: |
-| Low | Minimal protection and might require lying prone. | Thick foliage, another person | 1 |
-| Medium | Protects at least half the body and might require crouching. | Car hood, highway divider | 2 |
-| High | Protects the whole body. | Concrete wall, AFV hull | 3 |
+| Soft | Provides minimal protection and may require lying prone. | Thick foliage, another person | *advantage* |
+| Medium | Protects at least half the body and may require crouching. | Car hood, highway divider | *advantage*, +1 ARMOR |
+| High | Protects the whole body. | Concrete wall, AFV hull | Either can’t be targeted, or, if you lean out and attack, *advantage*, +1 ARMOR. |
 
 ### Damage Reduction Summary
 
-You can reduce the damage you take when hit by using both body armor and cover as follows:
+You can reduce the damage you take by using a personal protective system and by fighting from behind cover as follows:
 
 | Protection Source | Reduction | Stacks |
 | - | :-: | - |
 | Base armor | 1–3 | Yes, with secondary |
 | Secondary armor | +1 | Capped at 3 total |
-| Cover | 1–3 | Yes, independent of armor |
+| Hard Cover | +1 | Yes, independent of armor |
 
 !!! example
 
-	An operator crouches behind a 55-gallon drum. The cover is rated medium, blocking 2 points of damage. The operator wears tier-3 ballistic body armor (3 armor rating) and a helmet (+1 armor), resulting in a damage reduction of 3 rather than 4 because the helmet’s +1 bonus to the armor rating exceeds the maximum 3-point damage reduction allowed for a personal protective system. If hit by hostile fire, the total damage reduction would be 2 (cover) + 3 (armor) = 5 points.
+	An operator crouches behind a 55-gallon drum. The cover is rated medium, granting *advantage* on defense rolls and blocking 1 point of damage. The operator wears tier-3 ballistic body armor (3 armor rating) and a helmet (+1 armor), resulting in a damage reduction of *3* rather than 4 because the helmet’s +1 bonus to the armor rating exceeds the maximum 3-point damage reduction. If hit by hostile fire, the total damage reduction would be 3 (armor) + 1 (medium cover) = 4 points.
 	
-	Continuing the example, assume the operator is attacked with a flamethrower. Ballistic body armor and helmets do not reduce this type of damage, but cover still does. The total damage reduction would be 2 points. 
+	Continuing the example, assume the operator is attacked with a flamethrower. Ballistic body armor and helmets do not reduce this type of damage, but cover still does. The total damage reduction would be 1 point. 
 
 ## Suppressing Fire
 
 When you attack an enemy with a ranged weapon, you can instead lay down *suppressing fire*. This consumes **1 ammo**, deals no damage, and forces the target to dive for cover and remain pinned down until their next combat round.
 
-If a suppressed enemy takes any action that makes them visible to you, you can make an immediate **free attack** with *advantage* that interrupts their turn. This free attack’s damage isn’t reduced by cover. Unless opponents are fanatical or mindless, suppressed targets generally remain pinned down behind cover.
+If a suppressed enemy takes any action that makes them visible to you, you can make an immediate **free attack** with *advantage* that interrupts their turn. This free attack’s damage isn’t reduced by cover. Unless opponents are fanatical or mindless, suppressed targets will generally stay pinned down behind cover.
 
 ## Neural Weapons
 
-*Neural weapons* are among your unit’s most lethal assets. When a neural weapon is brought to bear, it produces a tactical effect: precise, controlled, and potentially decisive.
+*Neural weapons* are among your squad’s most lethal assets. When a neural weapon is brought to bear, it produces a tactical effect: precise, controlled, and potentially decisive.
 
 ### Activating
 
@@ -376,7 +378,7 @@ If your character dies, create a new one while the game continues. When you’re
 
 ## Rest and Recovery
 
-Once per mission, your unit can *rally*. The GM then designates a nearby *laying-up position (LUP)* and describes any obstacles to reaching it. Arriving at the LUP lets your unit rest and reorganize. Your LUP is always concealed and defensible. You can rally once per mission. 
+Once per mission, your squad can *rally*. The GM then designates a nearby *laying-up position (LUP)* and describes any obstacles to reaching it. Arriving at the LUP lets your squad rest and reorganize. Your LUP is always concealed and defensible. You can rally once per mission. 
 
 Reaching the LUP has the following effects:
 

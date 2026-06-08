@@ -26,7 +26,7 @@ Left unchecked, stress can degrade your performance and increase the risk of fai
 
 When adding a stress point raises your total to **6**, your combat readiness is at risk. Make a **stress roll**. Roll **2D6 + WILLPOWER** and apply the result.
 
-Your stress points are capped at **6**. Any stress points beyond **6** are ignored. However, after resolving a *stress check*, you may still be at **6** points. No further check is required. The next stress point, as usual, triggers a new check.
+Your stress points are capped at **6**. Any stress points beyond **6** are ignored. However, after resolving a *stress roll*, you may still be at **6** points. No further roll is required. The next stress point, as usual, triggers a new roll.
 
 <div class="roll-table" markdown="1">
 
@@ -43,11 +43,11 @@ All *Panicking* and *Locked-In* effects last until the **end** of the mission or
 
 !!! example
 
-	You take damage from a gunshot (stress: 5), then watch your contact be executed (stress: 6). You make a stress check: rolls a 4 and 3, adds your WILLPOWER of +2 for a total of 9. You keep it together — for now.
+	You take damage from a gunshot (stress: 5), then watch your contact be executed (stress: 6). You make a stress roll: roll a 4 and a 3, add your WILLPOWER of +2 for a total of 9. You keep it together — for now.
 
 ## Reducing Stress
 
-You can reduce your stress during a mission by taking any of these steps. Each option deducts **1** stress point from your total. 
+You can reduce your stress during a mission by taking any of the following steps. Each option deducts **1** stress point from your total. 
 
 - Spend your *momentum*. See [Momentum](playing.md#momentum).
 - Rest at a *laying-up point*. See [Rest and Recovery](combat.md#rest-and-recovery).
@@ -77,7 +77,7 @@ When you’re locked in, roll **1D6** and apply the result. If you lock in again
 | **1** | Calculating | *Advantage* on all +TACTICS rolls. |
 | **2** | Driven | *Advantage* on all +STRENGTH rolls. |
 | **3** | Focused | *Advantage* on all +WILLPOWER rolls. |
-| **4** | Hardened | +1 ARMOR to base (cap remains at 3 points of damage-reduction) |
+| **4** | Hardened | +1 ARMOR to base (cap remains at 3 points of damage reduction) |
 | **5** | Sharp | *Advantage* on all +REFLEXES rolls. |
 | **6** | Steady | When you succeed on an *action roll*, team members within sight of you remove **1** stress. |
 

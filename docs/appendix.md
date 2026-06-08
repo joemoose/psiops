@@ -43,7 +43,7 @@ Roll **2D6 + Applicable Attribute**.
 
 ## Momentum
 
-When you make an **action check**, in addition to the result of the check, gain *momentum* as follows:
+When you make an **action roll**, in addition to the result of the roll, gain *momentum* as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -62,10 +62,10 @@ When you make an **action check**, in addition to the result of the check, gain 
 | :- | :-: | :- |
 | ASSIST | 1 | Advantage to a team member; you share the risk |
 | PUSH YOURSELF | 2 | Advantage, enhanced result, or extra action |
-| EVASION | 4 | Roll to avoid the consequence of failed action check |
+| EVASION | 4 | Roll to avoid the consequence of failed action roll |
 | FLASHBACK | 6 | Retroactively establish pre-mission preparation |
 
-## Initiative Check
+## Initiative roll
 
 Roll **2D6 + TACTICS** and apply the following result:
 
@@ -73,10 +73,10 @@ Roll **2D6 + TACTICS** and apply the following result:
 
 | Roll | Result |
 |:----:|--------|
-| **6–** | You **do not** act in the first round of combat. The hostiles get the drop on you. |
-| **7–9** | You get the drop on the hostiles and act first, but you have a *disadvantage* on your next *action check*. |
-| **10–12** | You get the drop on the hostiles and act first. |
-| **13+** | You get the drop on the hostiles and act first. You also gain an *advantage* on your next *action check*. |
+| **6–** | You **do not** act in the first round of combat. The enemy gets the drop on you. |
+| **7–9** | You get the drop on the enemy and act first, but you have a *disadvantage* on your next *action roll*. |
+| **10–12** | You get the drop on the enemy and act first. |
+| **13+** | You get the drop on the enemy and act first. You also gain an *advantage* on your next *action roll*. |
 
 </div>
 
@@ -103,8 +103,8 @@ Roll **2D6 + Applicable Attribute** and apply the following result:
 
 | Roll | Result |
 |-|-|
-| **6–** | You take **damage** equal to the **highest D6 result** plus the hostile's damage modifier. |
-| **7–9** | You take **damage** equal to the **lowest D6 result** plus the hostile's damage modifier. |
+| **6–** | You take **damage** equal to the **highest D6 result** plus the enemy’s damage modifier. |
+| **7–9** | You take **damage** equal to the **lowest D6 result** plus the enemy’s damage modifier. |
 | **10–12** | You take **no** damage. |
 | **13+** | You take **no** damage, and your next *action roll* has *advantage*. |
 

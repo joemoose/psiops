@@ -10,45 +10,45 @@ An ***action*** is any task your character attempts in the game, such as crossin
 
 	Nearly any action is possible if you have the will, time, resources, skills, and the right tactical conditions. Use everything at your disposal. Initiative is expected.
 
-## Action Checks
+## Action Rolls
 
-When you attempt an *action* with a risky or uncertain outcome, you make an *action check* to determine the result. The GM will request an action check when your character encounters a meaningful obstacle — one that is risky, uncertain, or consequential.
+When you attempt an *action* with a risky or uncertain outcome, you make an *action roll* to determine the result. The GM will request an action roll when your character encounters a meaningful obstacle — one that is risky, uncertain, or consequential.
 
-If success is guaranteed or the result has no meaningful effect on the mission’s current circumstances, the GM won’t require a roll. Instead, your action succeeds as you described.
+If success is guaranteed or the result has no meaningful impact on the mission’s current circumstances, the GM won’t require a roll. Instead, your action succeeds as you described.
 
 !!! tip
 
 	Before you make an action roll, ask the GM for possible outcomes of your action to get a sense of what you're up against.
 
-The process for making an *action check* involves four steps:
+The process for making an *action roll* has four steps:
 
-1. Select an *applicable Attribute*. See the following section [Choosing an Attribute](#choose-an-applicable-attribute)
+1. Select an *applicable Attribute*. See the following section [Choosing an Attribute](#choose-an-applicable-attribute).
 2. Roll **2D6** and add the Attribute score.
 3. Compare the total to the results list.
 4. Apply the result.
 
-The process may seem complicated at first, but with practice, you’ll make action checks instinctively. Details follow.
+The process may seem complicated at first, but with practice, you’ll make action rolls instinctively. Details follow.
 
 ### Choose an Applicable Attribute
 
-The GM will ask which of your character’s four attributes is most relevant to your action. How you describe your action determines which attribute you should use for the check. Your description defines how your operator tackles their tasks. 
+The GM will ask which of your character’s four attributes is relevant to your action. How you describe your action determines which attribute to use for the roll. Your description defines how your operator approaches their tasks. 
 
-Refer to the following table for descriptions of your character’s attributes and examples of the actions each attribute might govern. 
+Refer to the following table for descriptions of your character’s attributes and examples of actions each attribute might govern. 
 
 | Attribute | Description | Applicable Attribute |
 | :-| :-- | :- |
 | STRENGTH | Governs displays of physical power, such as breaking down doors, intimidating others, or wielding heavy, powerful weapons. | "I kick down the door and blast my shotgun at anything I see." |
 | REFLEXES | Governs agility and speed-based actions, such as dodging enemy fire, scaling obstacles, or handling lightweight, accurate weapons. | "I run through the house, slide into cover, and fire from there." |
-| TACTICS | Governs the application of logic and training, such as coordinating an ambush, hacking databases, or operating machinery. | "I go around the side of the house, flank them, and fire through the window." |
-| WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing on the spot, or using neural weapons. | "I knock on the door, wait for someone to open it, say 'Hi!', then fire when they respond." |
+| TACTICS | Governs the application of logic and training, including coordinating an ambush, hacking databases, or operating machinery. | “I go around the side of the house, flank them, and fire through the window.” |
+| WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing on the spot, or activating neural weapons. | "I knock on the door, wait for someone to open it, say 'Hi!', then fire when they respond." |
 
-In summary, your actions can be described to specify the applicable attribute you’d like to use for your action check. There are no “set” attributes that apply to the multitude of actions you might take with your operator. 
+In summary, the description of your actions determines which attribute will be used for your action roll. There are no “set” attributes that apply to the actions you might take with your operator. 
 
-Of course, you can always default to REFLEXES when firing a rifle, and that’s fine. However, a creative approach to your tactical situation could suggest using another attribute you’d prefer. If the GM agrees, you’ll use that attribute to make your action check.
+Of course, you can always default to REFLEXES when firing a rifle, which is perfectly fine. However, a creative approach to your tactical situation might suggest using other attributes. If the GM agrees, you’ll use that attribute for your action roll.
 
-Keep in mind that describing your action to propose an applicable attribute deliberately differs from game rules that specify a **specific** attribute. For example, an *initiative check* always uses your TACTICS attribute, a *wound check* uses your STRENGTH, and using a *Neural Weapon* requires a WILLPOWER check regardless of the situation.
+Keep in mind that describing your action to propose an applicable attribute deliberately differs from game rules that specify a **specific** attribute. For example, an *initiative roll* always uses your TACTICS attribute, a *wound roll* uses your STRENGTH, and using a *Neural Weapon* requires a WILLPOWER roll regardless of the situation.
 
-When a specific attribute is required for an action check, the description specifies it. 
+When a specific attribute is required for an action roll, the description specifies which attribute. 
 
 ### Roll the Dice
 
@@ -81,13 +81,13 @@ The **sum** of the *dice roll* and the attribute *score* determines how well you
 
 #### Consequences of Failing
 
-You don’t achieve what you intended. In addition, something else goes wrong, with a detriment to your tactical situation or combat readiness. You could be injured, damage equipment, trigger a new threat, or become separated from your unit. Your situation worsens, and circumstances turn against you. 
+You don’t achieve what you intended. In addition, something else goes wrong, with a detriment to your tactical situation or combat readiness. You could be injured, damage equipment, trigger a new threat, or become separated from your squad. Your situation worsens, and circumstances turn against you. 
 
 #### Complications of Partial Success
 
 You accomplish what you intended, but at a cost, such as a difficult choice or reduced impact on the outcome. Your tactical situation is likely to become more complicated.
 
-### Example Action Check Results
+### Example Results
 
 To compare the four types of results from an action roll, consider the following example.
 
@@ -100,34 +100,34 @@ To compare the four types of results from an action roll, consider the following
 | **10–12** | Complete Success | “The door is now *unlocked*. No one hears you. You're good to go.” |
 | **13+** | Critical Success | “The door is now *unlocked*. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at a security console.” |
 
-## Modifying Action Checks
+## Modifying Action rolls
 
-Depending on your current operational circumstances, **action checks** might have higher or lower odds of success, as described in the following sections.  
+Depending on your current operational circumstances, **action rolls** might have higher or lower odds of success, as described in the following sections.  
 
 ### Advantage
 
-If an action you’re attempting is easier than it would be otherwise, given the current tactical situation, *action checks* are made with *advantage*. For example, firing from a rooftop while hostiles are in the street below provides a clear advantage and improves your odds of success. When you make an action check with advantage, roll **3D6 + Attribute** instead of the usual two dice, then discard the **lowest** die.
+If an action you’re attempting is easier than it would be otherwise, given the current tactical situation, *action rolls* are made with *advantage*. For example, firing from a rooftop at enemies in the street below provides a clear advantage and improves your odds of success. When you make an action roll with advantage, roll **3D6 + Attribute** instead of the usual two dice, then discard the **lowest** die.
 
 ### Disadvantage
 
-Conversely, if your action is more challenging given the current tactical situation, such as trying to put rounds on target in the dark, the GM may impose *disadvantage* on your action check. Disadvantage reduces your odds of success. When you make an action with disadvantage, roll **3D6 + Attribute** and discard the **highest** die.
+Conversely, if your action is more challenging given the current tactical situation, such as trying to put rounds on target in the dark, the GM may impose *disadvantage* on your action roll. Disadvantage reduces your odds of success. When you make an action with disadvantage, roll **3D6 + Attribute** and discard the **highest** die.
 
 !!! note "Notes"
 
-	- If an action check has both an advantage and a disadvantage, they cancel each other out, so roll 2D6 + Attribute as normal.
-	- Multiple advantages do not stack. The maximum number of dice in any action check is 3D6.
-	- Nonetheless, an action check with multiple advantages may not be considered risky and may therefore succeed automatically.
+	- If an action roll has both an advantage and a disadvantage, they cancel each other out, so roll 2D6 + Attribute as normal.
+	- Multiple advantages do not stack. The maximum number of dice in any action roll is 3D6.
+	- Nonetheless, an action roll with multiple advantages may not be considered risky and may therefore succeed automatically.
 	- Conversely, multiple disadvantages may make success impossible.
 
 ### Using Advanced Specializations
 
-Your *advanced specializations* increase the likelihood of success on risky actions. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action check*. In other words, roll **2D6 + Attribute + 1**. 
+Your *advanced specializations* increase the likelihood of success on risky actions. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action roll*. In other words, roll **2D6 + Attribute + 1**. 
 
 First, describe how your specialization applies to the action. If the GM agrees, the bonus applies. For example, if you’re attempting to leap from a helicopter under hostile fire without injury, *Combat Fitness* would improve your odds.
 
-### Action Check Modifiers Examples
+### Action Roll Modifier Examples
 
-Examples of *action check* modifiers follow. 
+Examples of *action roll* modifiers follow. 
 
 #### Advantage Scenario
 
@@ -145,11 +145,11 @@ You’re firing a rifle from the street at a rooftop target (disadvantage), and 
 
 *Momentum* is the tactical edge that separates a decisive operator from a hesitant one. Momentum builds as you progress through your mission and complete risky actions. 
 
-You start each mission with **2 momentum points** and gain additional points by making successful *action checks*. You can then spend your momentum points to change the outcome of your action checks. 
+You start each mission with **2 momentum points** and gain additional points by making successful *action rolls*. You can then spend your momentum points to change the outcome of your action rolls. 
 
 ### Gain Momentum
 
-When you make an **action check**, in addition to the result of the check, gain *momentum* as follows:
+When you make an **action roll**, in addition to the result of the roll, gain *momentum* as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -164,7 +164,7 @@ When you make an **action check**, in addition to the result of the check, gain 
 
 !!! note
 
-	If you spend momentum to change an action check, that roll can't, in turn, generate momentum.
+	If you spend momentum to change an action roll, that roll can't, in turn, generate momentum.
 
 As you gain momentum, points accumulate until you spend them. See the following section. Unspent points carry over across multiple game sessions until your current mission is completed. 
 
@@ -176,23 +176,23 @@ You can spend your *momentum* points to gain bonuses to your actions or avoid ne
 
 | Option | Cost | Effect |
 | :- | :-: | :- |
-| ASSIST | 1 | Grant *advantage* to a team member’s *action check*. |
-| PUSH YOURSELF | 2 | Gain *advantage* on your action check, improve the result of a successful action check, or take an extra action in a combat round. |
-| EVADE | 4 | Roll to avoid the *consequence* of a failed action check. |
+| ASSIST | 1 | Grant *advantage* to a team member’s *action roll*. |
+| PUSH YOURSELF | 2 | Gain *advantage* on your action roll, improve the result of a successful action roll, or take an extra action in a combat round. |
+| EVADE | 4 | Roll to avoid the *consequence* of a failed action roll. |
 | FLASHBACK | 6 | Retroactively establish your pre-mission preparation. |
 
 Details of each option follow. 
 
 #### Assist
 
-Spend **1 momentum** point to give *advantage* to a team member’s *action check*. Doing so exposes you to the same risk your team member is facing.
+Spend **1 momentum** point to give *advantage* to a team member’s *action roll*. Doing so exposes you to the same risk your team member is facing.
 
 #### Push Yourself
 
 Spend **2 momentum** points to activate one of the combat bonuses below. You can activate multiple bonuses by pushing yourself further, spending 2 *momentum* for each activation.
 
-- Gain *advantage* on your next *action check*.
-- Enhance the **result** of a successful *action check* beyond its usual outcome.
+- Gain *advantage* on your next *action roll*.
+- Enhance the **result** of a successful *action roll* beyond its usual outcome.
 - Take an additional *action* during a combat round.
 
 For details on combat, see the [Combat section](combat.md).
@@ -211,7 +211,7 @@ See [Consequences of Failing](#consequences-of-failing).
 
 #### Flashback
 
-Spend **6 momentum** points to establish that you did something before deployment. The flashback retroactively adds those preparations to the current mission. For example, you might have prepared a weapons cache, forged a document, or arranged a contact at a location. 
+Spend **8 momentum** points to establish that you did something before undertaking the mission. The flashback retroactively adds those preparations to the current mission. For example, you might have prepared a weapons cache, forged a document, or arranged a contact at a location. 
 
 ## Modes of Gameplay
 
@@ -223,9 +223,9 @@ The modes flow naturally into one another as the game’s pacing and focus shift
 
 ### Operational Mode
 
-The majority of the game unfolds in *operational mode*. This mode emphasizes your unit’s actions and the mission’s flow — planning, infiltrating, problem‑solving, and exploring. Time and distance are abstract. Minutes, hours, or days may pass during a single activity, depending on what matters to the story. The GM doesn’t track movement rates or distances unless they become relevant.
+The majority of the game unfolds in *operational mode*. This mode emphasizes your squad’s actions and the mission’s flow — planning, infiltrating, problem‑solving, and exploring. Time and distance are abstract. Minutes, hours, or days may pass during a single activity, depending on what matters to the story. The GM doesn’t track movement rates or distances unless they become relevant.
 
-If your unit needs to cross a forest, stake out a building, or wait for sunrise, that scene occurs next unless something interesting interrupts.
+If your squad needs to cross a forest, stake out a building, or wait for sunrise, that scene occurs next unless something interesting interrupts.
 
 ### Combat Mode
 
@@ -237,7 +237,7 @@ See the [Combat](combat.md) section.
 
 ## Mission Clocks
 
-Complex tasks that require multiple actions to complete or impending threats to your unit are tracked on mission clocks. The GM will typically divide the mission clock into 4, 6, or 8 segments. The more complex the task or the more time available before the threat, the more segments the clock has. Progress is tracked by marking off segments on the mission clock. 
+Complex tasks that require multiple actions to complete, or impending threats to your squad, are tracked on mission clocks. The GM usually divides the mission clock into 4, 6, or 8 segments. The more complex the task or the more time available before the threat occurs, the more segments the mission clock has. Progress is tracked by marking off segments on the clock. 
 
 ### Example Clocks
 
@@ -248,7 +248,7 @@ Complex tasks that require multiple actions to complete or impending threats to 
 
 ### Track Complex Tasks
 
-You'll face complex mission objectives and obstacles, such as hacking a secure mainframe or defusing a bomb. These tasks will require **multiple actions** to complete. The GM won't call for a single action check to determine the result. Instead, your progress toward completing the task is tracked on a *mission clock*.
+You'll face complex mission objectives and obstacles, such as hacking a secure mainframe or defusing a bomb. These tasks will require **multiple actions** to complete. The GM won't call for a single action roll to determine the result. Instead, your progress toward completing the task is tracked on a *mission clock*.
 
 As you complete the required sequence of actions, the GM either marks off segments or puts them back on the clock as follows:
 
@@ -263,7 +263,7 @@ Once all segments are marked, your task is complete.
 
 The GM uses a *threat clock* to track **impending threats**, such as the time remaining on a detonator or until a high-value individual is eliminated. The clock is visible to all, and tension builds as it counts down.
 
-You will attempt actions to slow or eliminate the threat. However, if you *fail* an *action check* while the threat is imminent, the GM marks off a segment on the threat clock. Once all segments are marked off, the threat occurs. The bomb explodes, or the individual is eliminated.
+You will attempt actions to slow or eliminate the threat. However, if you *fail* an *action roll* while the threat is imminent, the GM marks off a segment on the threat clock. Once all segments are marked off, the threat occurs. The bomb explodes, or the individual is eliminated.
 
 ## Character Advancement and Improving Abilities
 

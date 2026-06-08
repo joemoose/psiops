@@ -6,7 +6,7 @@ Zones don’t represent mapped areas on a measured grid. A single zone might enc
 
 Characters move between zones, not along gridlines. Ranges become relationships between zones, not measurements. Zones can change based on your actions. Flipping a table could split a zone into two. Tossing tear gas would make the zone hazardous to enemy movement. 
 
-At a minimum, the GM will present three tactical zones at the start of combat: your unit’s position, your enemy’s position, and the area between the two.
+At a minimum, the GM will present three tactical zones at the start of combat: your squad’s position, your enemy’s position, and the area between the two.
 
 ### Moving Through Zones
 
@@ -17,7 +17,7 @@ Boundaries between zones or conditions within a zone can complicate movement:
 - **Difficult terrain** (rubble, standing water, thick smoke): Requires 2 moves to cross.
 - **Free action**: Slipping through an open interior door or moving within the same tactical zone. No movement action is required; the GM narrates the transition.
 - **Hazardous environment** (poison gas, flame): Movement through the zone may cause damage without protective gear.
-- **Suppressed zone**: Entering a zone under active enemy fire requires a *free-fire check*; if you fail, you stop short or go to ground. See [Free-Fire Opportunities](combat.md#free-fire-opportunities).
+- **Suppressed zone**: Entering a zone under active enemy fire requires a *free-fire roll*; if you fail, you stop short or go to ground. See [Free-Fire Opportunities](combat.md#free-fire-opportunities).
 
 ## Zone Distances
 
@@ -58,7 +58,7 @@ For example, the GM divides your objective area, a research facility, into sever
 | Generator | Secured behind a locked door |
 | Research facility | A laboratory containing volatile chemicals |
 
-Using the zones’ tactical characteristics, your unit’s actions emerge and are then resolved quickly in-game. The combat scene unfolds at a faster pace with a more cinematic feel when crossing zone boundaries, rather than by plotting and moving along mapped grid positions. 
+Using the zones’ tactical characteristics, your squad’s actions emerge and are then resolved quickly in-game. The combat scene unfolds at a faster pace with a more cinematic feel when crossing zone boundaries, rather than by plotting and moving along mapped grid positions. 
 
 1. Observe from the forest edge.
 2. Suppress, smoke screen, and provide bounding overwatch across the kill zone; snow slows movement.

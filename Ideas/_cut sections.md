@@ -88,3 +88,22 @@ There’s no need to establish that the gap is 100 meters wide or that the opera
 
 text text text
 
+## Equipment
+
+==| Ladder, sectional | Scaling up to 12' |==
+==| Nerve agent kit | Nerve-agent detector and atropine injectors, must be paired with a protective mask |==
+
+---
+
+==Even small mission-specific items, such as an escape and evasion kit, require at least 1 full inventory slot each. This abstraction reflects that this category of your equipment requires pre-mission planning and inventory-space trade-offs and is not otherwise available in your basic kit.== 
+
+==Many mission-specific pieces of equipment can be bundled into kits. For example, a directional microphone, camera, telephoto lens, and recording devices would count as 1 or 2 slots as a *surveillance kit*, rather than 4 slots listed individually. Common sense should prevail, and your GM can help you organize your mission inventory.==
+
+### ==Notes on Loadout and Effectiveness==
+
+==Operators can carry far more weight into the field than they should. Extreme loads of 50+ kilograms, such as those used to establish a forward position, are only for short durations and significantly reduce effectiveness. These loads would be abandoned at initial enemy contact.==
+
+==Moderate loads of up to 25 kg could be combat-effective with sustained mobility. A mission requiring high mobility and stealth operations would carry less weight.== 
+
+==Given PsiOps's general focus on in-game fun and non-simulationist tactical missions, a lighter, mobile load of 15+ kg seems reasonable, hence the 12 abstracted inventory slots.==
+

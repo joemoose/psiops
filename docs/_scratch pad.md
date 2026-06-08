@@ -1,18 +1,18 @@
 ## To-Do
 
 - [x] Fix admonitions width
-- [ ] Remove any notes between action rolls and result table, and move to a trailing "!!! note" block
-- [ ] Words review See [Words](#words).
+- [x] Remove any notes between action rolls and result table, and move to a trailing "!!! note" block
+- [x] Words review See [Words](#words).
 - [ ] Review section headers
-- [ ] review core drives list
-- [ ] review neural weapons list
-- [ ] review specializations list
+- [x] review core drives list
+- [x] review neural weapons list
+- [x] review specializations list
 - [ ] Claude edit: 2nd person 
 - [ ] Claude edit: passive
 - [ ] Claude edit: contractions
 - [ ] Claude edit: spelling and grammar
 - [x] CLEAN up action roll stem sentences
-- [ ] rewrite COVER rules
+- [x] rewrite COVER rules
 - [x] PSIOPS -> PsiOps
 - [x] add links
 - [x] diagrams
@@ -26,13 +26,13 @@
 
 ## Words
 
--  [ ] Deploying Neural Weapons -> Activating
--  [ ] using the operator rather than the team member
--  [ ] item vs unit, re: equipment
--  [ ] takes up vs occupies
--  [ ] replace *action rolls* with *action checks*
--  [ ] enemy vs all the other phrasings (opposing forces, hostiles, opponents)
--  [ ] Damage reduction
+-  [x] Deploying Neural Weapons -> Activating
+-  [x] using the operator rather than the team member
+-  [x] item vs unit, re: equipment
+-  [x] takes up vs occupies
+-  [x] replace *action rolls* with *action rolls*
+-  [x] enemy vs all the other phrasings (opposing forces, hostiles, opponents)
+-  [x] Damage reduction
 
 
 
@@ -47,7 +47,7 @@
 
 ---
 
-## Action Check Table Template
+## Action roll Table Template
 
 <div class="roll-table" markdown="1">
 
@@ -88,11 +88,11 @@ However, given the active threat, combat has commenced, and the player now descr
 - **Third combat round**: The operator drops the riot shield and readies the rifle (free action), falls back to cover (move action), and engages the opposing force (1 action). 3 body slots are open.
 
 
-| 22 | Flood | You can evoke strong emotions within 10 meters, like fear, joy, or friendliness. ~~This power can cause a *morale check* on the enemy or allies.~~ Its effect lasts until the end of the battle or for **1D6x10** minutes.  |
+| 22 | Flood | You can evoke strong emotions within 10 meters, like fear, joy, or friendliness. ~~This power can cause a *morale roll* on the enemy or allies.~~ Its effect lasts until the end of the battle or for **1D6x10** minutes.  |
 
 > For example, imagine facing a mob of 14 enemies. The mob's stats are 14 HP and 2 ARMOR. Each round, the mob can attack up to 4 opponents. After taking 5 damage, the mob's size drops to 9, and its stats become 9 HP and 1 ARMOR. Consequently, the mob can now attack up to 3 targets each round.
 
-~~Like all hostiles, a mob must make a *morale check* when it loses its first member and again when it loses half its members.~~
+~~Like all hostiles, a mob must make a *morale roll* when it loses its first member and again when it loses half its members.~~
 
 ### Deprivation
 
