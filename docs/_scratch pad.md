@@ -3,7 +3,7 @@
 - [x] Fix admonitions width
 - [x] Remove any notes between action rolls and result table, and move to a trailing "!!! note" block
 - [x] Words review See [Words](#words).
-- [ ] Review section headers
+- [x] Review section headers
 - [x] review core drives list
 - [x] review neural weapons list
 - [x] review specializations list

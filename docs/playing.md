@@ -281,4 +281,12 @@ After returning to base, describe how you met your core drive's advancement cond
 !!! note
 
 	If your core drive feels played out, you can choose a new one at base between missions after advancing your **current core drive** at least once.
+	
+  
+  
+  
+  
+  
+
+
 
