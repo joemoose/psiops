@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # Your Python packages (mkdocs-material, plugins) via requirements.txt
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+
+  # The GitHub Actions themselves (checkout@v4, setup-python@v5, etc.)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
