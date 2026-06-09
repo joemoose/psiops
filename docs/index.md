@@ -14,7 +14,7 @@ Anyone at the table can call the following at any time:
 
 - **Pause** to take a break from the current scene.
 - **Rewind** to revisit a prior scene.
-- **Stop** to terminate the current scene and remove it from the game session.
+- **Stop** to terminate the current scene and remove it from the game.
 
 If someone calls a Stop, don’t debate it. Move on to something new.
 
