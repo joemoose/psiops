@@ -12,7 +12,7 @@
 - Momentum based on *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - Specializations mechanic inspired by [*Offworlders*](https://chrispwolf.itch.io/offworlders), authored by Chris Wolf and licensed under the [Creative Commons Attribution License 3.0](https://creativecommons.org/licenses/by/3.0/us/).
 - Stress mechanic inspired by ["Stress system for Adventurous: Where high risk meets high reward!"](https://www.dawnfist.com/blog/mechanics/stress-system-for-adventurous/), *The Dawnfist Blog!*, authored by Sebastian Grabne.
-- Zones inspired by *XD6 System Reference Document* by [Stellagama Publishing](https://stellagamapublishing.co), published under the [Creative Commons Attribution License v4.0](https://creativecommons.org/licenses/by-sa/4.0/) and the [Year Zero Engine](https://freeleaguepublishing.com/community-content/free-tabletop-licenses/), designed by [Free League Publishing](https://freeleaguepublishing.com).
+- Zones inspired by *XD6 System Reference Document* by [Stellagama Publishing](https://stellagamapublishing.co), published under the [Creative Commons Attribution License v4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Inspiraton
 
