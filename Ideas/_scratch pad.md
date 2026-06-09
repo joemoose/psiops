@@ -23,6 +23,9 @@
 - [x] loadout/kit
 - [x] ~~One action per turn?~~
 
+Plagarism check
+Compare to FIST RPG
+
 
 ## Words
 

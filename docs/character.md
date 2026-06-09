@@ -102,7 +102,7 @@ You and every team member on your squad have a distinct *core drive* that fuels 
 
 | D66 | core drive | Description |
 | :-: | :- | :- |
-| 11 | Agitator | Describe a persistent, oppressive establishment that harmed you. Advance if your actions weakened it or helped others it oppressed. |
+| 11 | Agitator | Describe a persistent, oppressive establishment that harmed you. Advance if your actions weakened it or helped those it oppressed. |
 | 12 | Arbitrator | Describe your vision for a war-free world and your stance on violence. Advance if you’ve prevented, stopped, or eased a violent conflict. |
 | 13 | Blank Slate | Describe your most recent memory, such as waking up in a vat a week ago or discovering your name in an unfamiliar wallet in your coat. Advance if your understanding of yourself or the world changes during the mission. |
 | 14 | Broker | Describe your foolproof strategy for closing any deal. Advance if you finish the mission with significantly more wealth, influence, or capital than you had at the start. |
