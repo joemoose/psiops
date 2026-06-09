@@ -151,7 +151,7 @@ At the start of a mission, all your small arms are stocked with an *ammo rating*
 Each time you attack, your weapon’s ammo rating may decrease as follows:
 
 - If your *attack roll* **fails**, reduce your weapon's *ammo rating* by **1**.
-- If your attack roll is either a *partial* or a *complete success*, you do **not** reduce your *ammo rating*. 
+- If your attack roll is either a **partial** or a **complete** success, you do **not** reduce your *ammo rating*. 
 
 When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
 
