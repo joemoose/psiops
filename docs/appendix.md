@@ -23,9 +23,9 @@ Many commonly used weapons during the Cold War era are as follows:
 
 ---
 
-# Rules Summary
+## Rules Summary
 
-## Action Roll
+### Action Roll
 
 Roll **2D6 + Attribute**.
 
@@ -40,7 +40,7 @@ Roll **2D6 + Attribute**.
 
 </div>
 
-## Momentum
+### Momentum
 
 When you make an **action roll**, in addition to the result of the roll, gain *momentum* as follows:
 
@@ -55,7 +55,7 @@ When you make an **action roll**, in addition to the result of the roll, gain *m
 
 </div>
 
-### Spend Momentum
+#### Spend Momentum
 
 | Option | Cost | Effect |
 | :- | :-: | :- |
@@ -64,7 +64,7 @@ When you make an **action roll**, in addition to the result of the roll, gain *m
 | EVADE | 4 | Roll to avoid the *consequence* of a failed action roll. |
 | FLASHBACK | 8 | Retroactively establish your pre-mission preparation. |
 
-## Initiative Roll
+### Initiative Roll
 
 Roll **2D6 + TACTICS** and apply the following result:
 
@@ -79,7 +79,7 @@ Roll **2D6 + TACTICS** and apply the following result:
 
 </div>
 
-## Attacking
+### Attacking
 
 Roll **2D6 + Applicable Attribute** and apply the following result:
 
@@ -94,7 +94,7 @@ Roll **2D6 + Applicable Attribute** and apply the following result:
 
 </div>
 
-## Defending
+### Defending
 
 Roll **2D6 + Applicable Attribute** and apply the following result:
 
@@ -109,7 +109,7 @@ Roll **2D6 + Applicable Attribute** and apply the following result:
 
 </div>
 
-## Activating Neural Weapons
+### Activating Neural Weapons
 
 Roll **2D6 + WILLPOWER** and apply the following result:
 
@@ -124,7 +124,7 @@ Roll **2D6 + WILLPOWER** and apply the following result:
 
 </div>
 
-## Wounds
+### Wounds
 
 When you reach 0 HP or lower, roll **2D6 + STRENGTH**, then **subtract** the number of points you’ve gone below 0. Apply the following result:
 
@@ -139,7 +139,7 @@ When you reach 0 HP or lower, roll **2D6 + STRENGTH**, then **subtract** the num
 
 </div>
 
-## Retreating
+### Retreating
 
 Roll **2D6 + REFLEXES** and apply the following result: 
 
@@ -154,7 +154,7 @@ Roll **2D6 + REFLEXES** and apply the following result:
 
 </div>
 
-## Stress
+### Stress
 
 When you reach 6 stress points, roll **2D6 + WILLPOWER** and apply the following result:
 
@@ -169,7 +169,7 @@ When you reach 6 stress points, roll **2D6 + WILLPOWER** and apply the following
 
 </div>
 
-### Panicking
+#### Panicking
 
 Roll **1D6** and apply the result:
 
@@ -182,7 +182,7 @@ Roll **1D6** and apply the result:
 | **5** | Shutdown | You lose all your *momentum* and no longer gain any. |
 | **6** | Volatile | Allies gain **1** stress when you see them fail an *action roll*. |
 
-### Locked-In
+#### Locked-In
 
 Roll **1D6** and apply the result:
 
