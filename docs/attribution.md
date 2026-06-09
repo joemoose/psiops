@@ -16,14 +16,12 @@
 
 ## Inspiraton
 
-After reading these publications, I knew they could form the foundation of a fun game:
+After reading these books, I knew they could provide a solid foundation for an enjoyable game.
 
-- Eric Haney’s ***Inside Delta Force***, Andy McNab’s ***Bravo Two Zero***, Sean Naylor’s ***Relentless Strike***, and Mark Owen’s ***No Easy Day*** put you in the world of special forces operators.
-- Tim Power’s ***Declare*** depicts a Cold War with a hidden supernatural history beneath it.
-- Charles Stross’ ***The Atrocity Archives*** depicts bureaucratic occult espionage that’s both terrifying and darkly funny.
-- The ***SCP Foundation*** wiki, whose contributors — writing collectively and, for the most part, anonymously — built an unsettling framework for the unknown and the occult.
-
-And anything and everything from Tom Clancy. 
+- Eric Haney’s ***Inside Delta Force***, Andy McNab’s ***Bravo Two Zero***, Sean Naylor’s ***Relentless Strike***, and Mark Owen’s ***No Easy Day*** immerse you in the world of special operations forces.
+- Tim Power’s ***Declare*** depicts a fictional Cold War, with a hidden supernatural history beneath the surface.
+- Charles Stross’ ***The Atrocity Archives*** depicts bureaucratic occult espionage that’s both disturbing and darkly funny.
+- The ***SCP Foundation***, whose contributors, writing collectively and often anonymously, built an unsettling framework for the strange and the occult.
 
 ## License
 
