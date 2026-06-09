@@ -2,7 +2,7 @@
 
 ***PsiOps*** is a “Powered by the Apocalypse” game, and its design was informed by *Apocalypse World* by D. Vincent Baker (copyright 2010).
 
-- This work is powered by [*FIST: Ultra Edition*](https://claymorerpgs.itch.io/fist), a product of CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+- This work is based on [*FIST: Ultra Edition*](https://claymorerpgs.itch.io/fist), a product of CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - This work is powered by *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - This work is powered by [Blades in the Dark](https://bladesinthedark.com/), a product of One Seven Design, developed and authored by John Harper, and licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
 - This work includes material from the *XD6 System Reference Document* by [Stellagama Publishing](https://stellagamapublishing.co), published under the [Creative Commons Attribution License v4.0](https://creativecommons.org/licenses/by-sa/4.0/).
