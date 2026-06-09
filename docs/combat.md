@@ -21,7 +21,11 @@ Details on these steps follow.
 
 ## Combat Rounds
 
-A *combat round* is about 6 seconds, enough time for you to **move once** and take **1 action**, such as firing at a target or moving again. 
+A *combat round* is about 6 seconds, enough time for you to **move once** and take **1 action**, such as firing at a target or moving again.
+
+!!! note
+
+	If you use your action in the combat round to move again, you make two moves. Moving twice in a combat round constitutes sprinting.
 
 Complex actions taking more than 6 seconds may require multiple combat rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a door, or dropping an item, are free and don't count as your 1 action.
 
@@ -52,7 +56,7 @@ In the second and subsequent rounds of combat, you **no longer** roll initiative
 
 Circumstances or careful planning can sometimes determine which side acts first. If you *ambush* the enemy, your squad doesn’t make an initiative roll and instead acts first, gaining *advantage* on all action rolls during the first combat round.
 
-Afterward, combat proceeds as usual: your squad takes actions, then the opposing force takes actions. An ambush lets you take two consecutive rounds of combat before your opponent can respond. 
+Afterward, combat proceeds as usual: your squad takes actions, then the opposing force takes actions. Because your squad also acts first in the following round, a successful ambush grants you two consecutive rounds of action before the enemy can respond.
 
 If the enemy ambushes you, your squad doesn’t act during the first round of combat. In subsequent rounds, combat proceeds as usual.
 
@@ -89,14 +93,24 @@ When you **attack** a target, make an *attack roll*. Roll **2D6 + Applicable Att
 
 </div>
 
-!!! note Notes
+### Applicable Attributes
 
-- For help choosing the attack roll attribute, see [Choosing an Applicable Attribute](playing.md#choose-an-applicable-attribute). 
-- *Advantage* or *disadvantage* may apply to your attack roll based on the range to your target. See the following [Attack Roll Modifiers](#attack-roll-modifiers).
+The *applicable attribute* on your *attack roll* is based on how you describe attacking the enemy. Examples follow:
+
+| Attribute | Example Attack |
+| - | - |
+| STRENGTH | I kick down the door and blast my shotgun at anything I see. |
+| REFLEXES | I run through the house, slide into cover, and fire from there. |
+| TACTICS | I go around the side of the house, flank them, and fire through the window. |
+| WILLPOWER | I knock on the door, wait for someone to open it, say 'Hi!', then fire when they respond. |
+
+!!! note
+
+	*Advantage* or *disadvantage* may also apply to your attack roll based on your range to the target. See the following [Attack Roll Modifiers](#attack-roll-modifiers).
 
 ### Weapon Damage Modifiers
 
-The damage modifer for your attack is dtetrmine by your weapons. Specific damage modifiers for ecah class of weapon is  listed in the Equipment sections. See [Combat Weapons](equipment.md#combat-weapons).
+The damage modifier for your attack is determined by your weapons. Specific damage modifiers for each class of weapon are listed in the Equipment sections. See [Combat Weapons](equipment.md#combat-weapons).
 
 For weapons or other types of attacks not specifically listed on the Combat Weapons list, the GM uses the following general guidelines to determine a damage modifier:
 
@@ -180,9 +194,16 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2D6 +
 
 </div>
 
-!!! note
+### Applicable Attribute
 
-- For help choosing the defense roll attribute, see [Choosing an Applicable Attribute](playing.md#choose-an-applicable-attribute).
+The *applicable attribute* on your *defense roll* is based on how you describe avoiding the enemy attack. Examples follow:
+
+| Attribute | Defensive Example |
+| - | - |
+| STRENGTH | Bracing behind a shield or forcing through danger |
+| REFLEXES | Dodging, diving, reacting |
+| TACTICS | Anticipating an enemy ambush |
+| WILLPOWER | Resisting neural or fear-based attacks |
 
 ## Damage, Wounds, and Dying
 
@@ -194,7 +215,7 @@ Deduct all *damage* directly from your *hit points (HP)*. Keep track of your cur
 
 If your current HP drops to **0** or **below**, into negative values, you’re *wounded*, possibly grievously. 
 
-Immediately after being *wounded*, make a *wound roll*. Roll **2D6 + STRENGTH** and **subtract** the number of hit points you’ve dropped below zero. Then apply the following result:
+Immediately after being *wounded*, make a *wound roll*. Roll **2D6 + STRENGTH** and **subtract** the number of hit points you’ve dropped below zero. If your HP is exactly zero, subtract nothing from the wound roll. Apply the following result:
 
 <div class="roll-table" markdown="1">
 
@@ -264,29 +285,28 @@ Lost *hit points* can be restored, and *fatigue* removed by resting at a *laying
 
 ## Cover
 
-When you duck behind an object to take *cover* from an attack, your *defense roll* has *advantage* to avoid damage. Cover is rated as *low*, *medium*, or *high*. All three types of cover grant *advantage* on your defense roll, but *medium* and *hard* cover also **reduce** damage by **1** point.
+When you duck behind cover to avoid an enemy attack, your *defense roll* has ***advantage***, regardless of the type of cover. Hard cover also reduces the damage you might take.
 
-*Medium* and *hard* cover differ in that *hard* cover protects your whole body. If you stay behind *high* cover and avoid exposing yourself to the enemy, you can't be targeted. However, if you lean out from or over *high* cover to attack, you expose yourself to enemy fire. Attacking from behind *high* cover essentially places you in the *medium* category.  
+Cover is rated as follows:
 
-The damage blocked by cover is in **addition** to your personal protective system’s *armor rating*. The maximum damage reduction from armor is capped at **3**. When defending from behind cover, damage reduction includes **both** your armor rating and the **+1** cover bonus.
+| Cover | Bonus | Example |
+| :-: | - | - |
+| **No cover** | None | Fully exposed |
+| **Soft** | *Advantage* on *defense rolls* | Foliage, furniture, smoke, or thin barriers |
+| **Hard** | *Advantage* on *defense rolls* and +1 DAMAGE REDUCTION | Concrete barriers, walls, vehicles, sandbags, and large machinery |
+| **Total** | The attacker cannot directly target you unless they flank, employ indirect fire, or breach the cover. | Wall, AFV hull, thick tree |  
 
-Cover protects against certain types of damage that would bypass ballistic body armor, such as intense flames. The GM will let you know. See [Personal Protective Systems](equipment.md#personal-protective-system).
+### Hard Cover Damage Reduction
 
-### Cover Ratings Summary
+The damage reduction from hard cover is in **addition** to your personal protective system’s *armor rating*. The maximum damage reduction from your personal protective system is capped at **3** points. When behind hard cover, total damage reduction includes **both** your armor rating and the **+1** cover bonus.
 
-Each cover rating’s description and defensive bonus are as follows:
-
-| Cover | Description | Examples | Defensive Bonus |
-| :- | :- | :- | :-: |
-| Soft | Provides minimal protection and may require lying prone. | Thick foliage, another person | *advantage* |
-| Medium | Protects at least half the body and may require crouching. | Car hood, highway divider | *advantage*, +1 ARMOR |
-| High | Protects the whole body. | Concrete wall, AFV hull | Either can’t be targeted, or, if you lean out and attack, *advantage*, +1 ARMOR. |
+Hard cover protects against certain types of damage that bypass ballistic body armor, such as intense flames. The GM will let you know. See [Personal Protective Systems](equipment.md#personal-protective-system).
 
 ### Damage Reduction Summary
 
 You can reduce the damage you take by using a personal protective system and by fighting from behind cover as follows:
 
-| Protection Source | Reduction | Stacks |
+| Protection Source | Damage Reduction | Stacks |
 | - | :-: | - |
 | Base armor | 1–3 | Yes, with secondary |
 | Secondary armor | +1 | Capped at 3 total |
@@ -294,9 +314,9 @@ You can reduce the damage you take by using a personal protective system and by 
 
 !!! example
 
-	An operator crouches behind a 55-gallon drum. The cover is rated medium, granting *advantage* on defense rolls and blocking 1 point of damage. The operator wears tier-3 ballistic body armor (3 armor rating) and a helmet (+1 armor), resulting in a damage reduction of *3* rather than 4 because the helmet’s +1 bonus to the armor rating exceeds the maximum 3-point damage reduction. If hit by hostile fire, the total damage reduction would be 3 (armor) + 1 (medium cover) = 4 points.
-	
-	Continuing the example, assume the operator is attacked with a flamethrower. Ballistic body armor and helmets do not reduce this type of damage, but cover still does. The total damage reduction would be 1 point. 
+An operator crouches behind a 55-gallon drum. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by 1 point. The operator wears tier-3 ballistic body armor (3 armor rating) and a helmet (+1 armor), resulting in a damage reduction of *3* rather than 4 because the helmet’s +1 bonus to the armor rating exceeds the personal protective system’s 3-point damage-reduction maximum. If hit by hostile fire, the total damage reduction would be 3 (armor) + 1 (hard cover) = 4 points.
+
+Continuing the example, assume the operator is attacked with a flamethrower. Ballistic body armor and helmets do not reduce this type of damage, but hard cover still does. The total damage reduction would be 1 point. 
 
 ## Suppressing Fire
 
@@ -397,7 +417,7 @@ Additionally, choose **one** benefit from the following list:
 
 - **INTEL**: Ask a single question about the mission, and the GM will reply with a “yes” or “no.”
 - **PATCH UP**: Recover **1D6 HP**.
-- **RECUPERATE**: Remove **1D6** *stress points* and **1D3** *fatigue*.
+- **RECUPERATE**: Remove **1D6** *stress* and **1D3** *fatigue*.
 - **RESUPPLY**: Add **one** unit of tactical supplies to your inventory.
 
 !!! note

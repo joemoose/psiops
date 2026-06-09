@@ -156,7 +156,7 @@ Roll **2D6 + REFLEXES** and apply the following result:
 
 ### Stress
 
-When you reach 6 stress points, roll **2D6 + WILLPOWER** and apply the following result:
+When you reach 6 *stress*, roll **2D6 + WILLPOWER** and apply the following result:
 
 <div class="roll-table" markdown="1">
 
@@ -164,7 +164,7 @@ When you reach 6 stress points, roll **2D6 + WILLPOWER** and apply the following
 | :----: | ------- |
 | **6–** | You **panic**. Roll **1D6** and see the following [Panicking table](#panicking) for the effect. |
 | **7–9** | You **keep it together** for now. |
-| **10–12** | You **keep it together** and remove **1** stress point. |
+| **10–12** | You **keep it together** and remove **1** stress. |
 | **13+** | You are **locked into the flow** of combat. Remove **all** stress, then roll **1D6** and see the following [Locked-In table](#locked-in) for the effect. |
 
 </div>

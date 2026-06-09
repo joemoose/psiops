@@ -153,7 +153,7 @@ The following table lists known neural weapon loadouts. Many descriptions refer 
 | 14 | Burnline | You can ignite objects within 10 meters. Pyrokinesis can be used as an offensive attack. Treat range modifiers like a **sidearm** and deal **+1** damage, bypassing ballistic armor. A riot shield will reduce the damage. If the target takes damage, it ignites, taking **1** damage per combat round for **1D3** rounds or until extinguished. |
 | 15 | Choke | Using your mind, you can seize a humanoid’s throat and strangle them for **1D6** damage, bypassing armor. |
 | 16 | Clean Slate | To use this talent, be within 10 meters of a target. You can block up to 15 minutes of their memories. Each use lets you target more memories. It can also be reversed to restore blocked memories. |
-| 21 | Clear State | You can remove **1** negative effect from a target, such as poisoning, burning, fatigue, panic, or **1D6** points of stress. |
+| 21 | Clear State | You can remove **1** negative effect from a target, such as poisoning, burning, fatigue, panic, or **1D6** stress. |
 | 22 | Fast Forward | Make your next action a free action. |
 | 23 | Flood | You can evoke strong emotions within 10 meters, such as fear, joy, or friendliness. The effect lasts until the end of the battle or for **1D6x10** minutes. |
 | 24 | Fold | Instantly move to any point within 1 km if you have line of sight to it or have visited it. |
@@ -219,10 +219,10 @@ Unlike *attributes*, your advanced specializations aren’t assigned numerical r
 | 45 | SERE & Long-Term Evasion | Advanced training in survival, evasion, resistance, and escape. Capable of maintaining mission without resupply and sustaining long-term evasion and survival in extreme environments. |
 | 46 | Signals & Cryptography | Using cryptographic systems, signals intelligence, and operating or repairing advanced communications equipment beyond standard squad radio operations. |
 | 51 | Small Arms: Machine Gun | Establishing and maintaining fire superiority with light and general-purpose machine guns, laying suppressive fire, managing ammunition during prolonged engagements, and keeping weapons operational under stress. |
-| 52 | Small Arms: Rifle | Precision engagement at long ranges and instinctive fire at close quarters, maintaining accuracy under adverse weather, movement, and stress that impair less-trained shooters. |
+| 52 | Small Arms: Rifle | Precision engagement at long ranges and instinctive fire at close quarters, while maintaining accuracy under adverse weather, movement, and stress that impair less-trained shooters. |
 | 53 | Small Arms: Shotgun | Ballistic breaching, close-quarters engagement, and selecting the appropriate load, such as breaching rounds, buckshot, or a slug, for the situation. |
 | 54 | Small Arms: Sidearm | Drawing and engaging at contact distance, shooting accurately on the move, and remaining effective one-handed, injured, or in darkness when a rifle isn't an option. |
-| 55 | Small Arms: SMG | Engaging in close-quarters combat and suppressive fire with submachine guns, which are effective at contact distances when rifles are cumbersome and a sidearm is inadequate. |
+| 55 | Small Arms: SMG | Engaging in close-quarters combat and suppressive fire with submachine guns, which are effective at close range when rifles are cumbersome and a sidearm is inadequate. |
 | 56 | Small Unit Tactics | Analyzing terrain for tactical advantage, planning assaults and ambushes, identifying chokepoints and vulnerabilities, and predicting engagement outcomes before the first shot. |
 | 61 | Surveillance & Counter-Electronics | Installing surveillance devices, bypassing electronic security, and fabricating or repairing field equipment using available components when standard parts are unavailable. |
 | 62 | Tactical Interrogation | Extracting information from uncooperative sources using psychological pressure, controlled rapport, and patience. Knowing when to push, when to wait, and when someone is lying to tell you what you want to hear. |

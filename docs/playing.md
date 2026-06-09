@@ -33,14 +33,14 @@ The process may seem complicated at first, but with practice, you’ll make acti
 
 The GM will ask which of your character’s four attributes is relevant to your action. How you describe your action determines which attribute to use for the roll. Your description defines how your operator approaches their tasks. 
 
-Refer to the following table for descriptions of your character’s attributes and examples of actions each attribute might govern. 
+Refer to the following table for descriptions of your character’s attributes and examples of actions each attribute might govern: 
 
-| Attribute | Description | Applicable Attribute |
-| :-| :-- | :- |
-| STRENGTH | Governs displays of physical power, such as breaking down doors, intimidating others, or wielding heavy, powerful weapons. | "I kick down the door and blast my shotgun at anything I see." |
-| REFLEXES | Governs agility and speed-based actions, such as dodging enemy fire, scaling obstacles, or handling lightweight, accurate weapons. | "I run through the house, slide into cover, and fire from there." |
-| TACTICS | Governs the application of logic and training, including coordinating an ambush, hacking databases, or operating machinery. | “I go around the side of the house, flank them, and fire through the window.” |
-| WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing, or activating neural weapons. | "I knock on the door, wait for someone to open it, say 'Hi!', then fire when they respond." |
+| Attribute | Description |
+| - | - |
+| STRENGTH | Governs displays of physical power, such as breaking down doors, intimidating others, or wielding heavy, powerful weapons.         |
+| REFLEXES | Governs agility and speed-based actions, such as dodging enemy fire, scaling obstacles, or handling lightweight, accurate weapons. |
+| TACTICS | Governs the application of logic and training, including coordinating an ambush, penetrating secure computer systems, or operating machinery.        |
+| WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing, or activating neural weapons. |
 
 In summary, the description of your actions determines which attribute will be used for your action roll. There are no “set” attributes that apply to the actions you might take with your operator. 
 
@@ -68,12 +68,12 @@ The **sum** of the 2D6 + ATTRIBUTE *action roll* determines how well you succeed
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
-|:----:|:-------|
-| **6–** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section.  |
-| **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
-| **10–12** | It's a **complete success**. You achieve your goal. |
-| **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
+| Roll      | Result                                                                                                                                            |
+| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  **6–**   | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section.                                |
+|  **7–9**  | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section.                              |
+| **10–12** | It's a **complete success**. You achieve your goal.                                                                                               |
+|  **13+**  | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
 
 </div>
 
@@ -99,12 +99,12 @@ To compare the four types of results from an action roll, consider the following
 
 “**You try to quietly pick a door lock. Roll 2D6 + REFLEXES. The result is…**”
 
-| Sum | Result | GM’s Description |
-| :-: | :- | :- |
-| **6–** | Failure | “You can’t pick the lock, and the door remains *locked*. You hear someone approaching your position. You’re trapped in the hallway.” |
-| **7–9** | Partial Success | “The door is now *unlocked*. No one hears you, but you break your lock pick. Remove it from your inventory.” |
-| **10–12** | Complete Success | “The door is now *unlocked*. No one hears you. You're good to go.” |
-| **13+** | Critical Success | “The door is now *unlocked*. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at a security console.” |
+| Sum       | Result           | GM’s Description                                                                                                                           |
+| :-------: | :--------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+|  **6–**   | Failure          | “You can’t pick the lock, and the door remains *locked*. You hear someone approaching your position. You’re trapped in the hallway.”       |
+|  **7–9**  | Partial Success  | “The door is now *unlocked*. No one hears you, but you break your lock pick. Remove it from your inventory.”                               |
+| **10–12** | Complete Success | “The door is now *unlocked*. No one hears you. You're good to go.”                                                                         |
+|  **13+**  | Critical Success | “The door is now *unlocked*. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at a security console.” |
 
 ## Modifying Action rolls
 
@@ -159,12 +159,12 @@ When you make an **action roll**, in addition to the result of the roll, gain *m
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
-|:----:|:-------|
-| **6–** | You don’t gain any momentum. |
-| **7–9** | You don't gain any momentum. |
+| Roll      | Result                             |
+| :-------: | :--------------------------------- |
+|  **6–**   | You don’t gain any momentum.       |
+|  **7–9**  | You don't gain any momentum.       |
 | **10–12** | You gain **1** points of momentum. |
-| **13+** | You gain **2** points of momentum. |
+|  **13+**  | You gain **2** points of momentum. |
 
 </div>
 
@@ -178,46 +178,54 @@ Unspent momentum **resets** to its **starting value** of 2 after **resting** at 
 
 ### Spend Momentum
 
-You can spend your *momentum* points to gain bonuses to your actions or avoid negative *consequences*. 
+You can spend your *momentum* points to gain bonuses to your actions or to avoid negative *consequences*. 
 
-| Option | Cost | Effect |
-| :- | :-: | :- |
+| Option | Cost | Bonus |
+| - | :-: | - |
 | ASSIST | 1 | Grant *advantage* to a team member’s *action roll*. |
 | PUSH YOURSELF | 2 | Gain *advantage* on your action roll, improve the result of a successful action roll, or take an extra action in a combat round. |
-| EVADE | 4 | Roll to avoid the *consequence* of a failed action roll. |
-| FLASHBACK | 8 | Retroactively establish your pre-mission preparation. |
+| EXPLOIT | 3 | Increase the effect of a successful result. |
+| SURGE | 4 | Take another action. |
+| EVADE | 5 | Roll to avoid the *consequence* of a failed action roll. |
+| FLASHBACK | 6 | Retroactively establish your pre-mission preparation. |
 
 Details of each option follow. 
 
 #### Assist
 
-Spend **1 momentum** point to give *advantage* to a team member’s *action roll*. Doing so exposes you to the same risk your team member is facing.
+Spend **1 momentum** point to *assist* a team member, granting *advantage* on their next *action roll*. Assisting exposes you to the same risk the team member faces. 
 
 #### Push Yourself
 
-Spend **2 momentum** points to activate one of the combat bonuses below. You can activate multiple bonuses by pushing yourself further, spending 2 *momentum* for each activation.
+Spend **2 momentum** points to gain an *advantage* on your next *action roll*.
 
-- Gain *advantage* on your next *action roll*.
-- Enhance the **result** of a successful *action roll* beyond its usual outcome.
-- Take an additional *action* during a combat round.
+#### Exploit
 
-For details on combat, see the [Combat section](combat.md).
+Spend **3 momentum*** points to enhance the effect of a **successful** action roll, whether it’s a *partial* or *complete* success. The GM increases the scale, speed, effectiveness, or secondary benefits of your action. If the success was partial, you’ll still take the *complication*.
+
+#### Surge
+
+Spend **4 momentum** points to take an additional *action* during a combat round. For details on combat, see the [Combat section](combat.md). You can take even more actions, spending 4 momentum per activation. 
 
 #### Evade
 
-Spend **4 momentum** points to avoid the *consequence* of a failed *action roll*. Your action still **fails**. However, you no longer incur the extra *consequence* of a failed result.
+Spend **5 momentum** points to avoid the *consequence* of a failed *action roll*. Your action still **fails**, but you no longer suffer that *consequence*.
 
 See [Consequences of Failing](#consequences-of-failing).
 
 !!! example
 
-	While being pursued by the enemy, you attempt to scale a wall. Your REFLEXES action roll fails. You not only fail to climb the wall, but you also land flat on your back and drop your weapon, as described by the GM.
+	While being pursued by the enemy, you attempt to scale a wall. Your REFLEXES action roll fails. You not only fail to make it over the wall but also take a consequence described by the GM, landing flat on your back and dropping your weapon.
 	
-	You can spend 4 momentum to evade this consequence. You still won't make it over the wall, but at least you’re on your feet, combat-ready, with your rifle in hand. 
+	You can spend 4 momentum to evade this consequence. You still won’t make it over the wall, but at least you’re on your feet, combat-ready, with your rifle at the ready. 
 
 #### Flashback
 
-Spend **8 momentum** points to establish that you did something before undertaking the mission. The flashback retroactively adds those preparations to the current mission. For example, you might have prepared a weapons cache, forged a document, or arranged a contact at a location. 
+Spend **6 momentum** points to establish that you did something before the mission or found something during the mission that wasn’t previously noticed. The flashback retroactively adds those preparations to the current mission.
+
+!!! example
+
+	Your squad arrives at a steel barrier that blocks further progress. You flash back to seeing an acetylene cutting torch in the machine shop earlier. 
 
 ## Modes of Gameplay
 
@@ -254,7 +262,7 @@ Complex tasks that require multiple actions to complete, or impending threats to
 
 ### Track Complex Tasks
 
-You'll face complex mission objectives and obstacles, such as hacking a secure mainframe or defusing a bomb. These tasks will require **multiple actions** to complete. The GM won't call for a single action roll to determine the result. Instead, your progress toward completing the task is tracked on a *mission clock*.
+You'll face complex mission objectives and obstacles, such as accessing a classified computer network or defusing a bomb. These tasks will require **multiple actions** to complete. The GM won't call for a single action roll to determine the result. Instead, your progress toward completing the task is tracked on a *mission clock*.
 
 As you complete the required sequence of actions, the GM either marks off segments or puts them back on the clock as follows:
 
@@ -277,12 +285,12 @@ You improve your character’s abilities by staying true to their *core drive* d
 
 After returning to base, describe how you met your core drive's advancement condition. If the GM agrees, choose **one** improvement to your character's abilities from the following table:
 
-| Improvement | Effect | Limit |
-| :- | :- | :-: |
-| Attribute increase | **+ 1** to one attribute | Max score of 3. |
-| HP increase | Roll **1D3**, add to max HP                                      | No upper limit. |
-| New neural weapon | Roll **D66**, gain the result. See [Neural Weapons](character.md#neural-weapons). | None |
-| New specialization | Choose **one** related to a significant action you took during a previous mission. See [Advanced Specializations](character.md#advanced-specializations). | None |
+| Improvement        | Effect                                                                                                                                                    | Limit           |
+| :----------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: |
+| Attribute increase | **+ 1** to one attribute                                                                                                                                  | Max score of 3. |
+| HP increase        | Roll **1D3**, add to max HP                                                                                                                               | No upper limit. |
+| New neural weapon  | Roll **D66**, gain the result. See [Neural Weapons](character.md#neural-weapons).                                                                         |      None       |
+| New specialization | Choose **one** related to a significant action you took during a previous mission. See [Advanced Specializations](character.md#advanced-specializations). |      None       |
 
 !!! note
 
