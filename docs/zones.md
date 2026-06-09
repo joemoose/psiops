@@ -17,7 +17,6 @@ Boundaries between zones or conditions within a zone can complicate movement:
 - **Difficult terrain** (rubble, standing water, thick smoke): Requires 2 moves to cross.
 - **Free action**: Slipping through an open interior door or moving within the same tactical zone. No movement action is required; the GM narrates the transition.
 - **Hazardous environment** (poison gas, flame): Movement through the zone may cause damage without protective gear.
-- **Suppressed zone**: Entering a zone under active enemy fire requires a *free-fire roll*; if you fail, you stop short or go to ground. See [Free-Fire Opportunities](combat.md#free-fire-opportunities).
 
 ## Zone Distances
 

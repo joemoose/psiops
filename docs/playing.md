@@ -22,9 +22,9 @@ If success is guaranteed or the result has no meaningful impact on the mission�
 
 The process for making an *action roll* has four steps:
 
-1. Select an *applicable Attribute*. See the following section [Choosing an Attribute](#choose-an-applicable-attribute).
-2. Roll **2D6** and add the Attribute score.
-3. Compare the total to the results list.
+1. Select an applicable *attribute*. See the following section [Choosing an Attribute](#choose-an-applicable-attribute).
+2. Roll **2D6** and add the *attribute score*.
+3. Compare the sum to the results list.
 4. Apply the result.
 
 The process may seem complicated at first, but with practice, you’ll make action rolls instinctively. Details follow.
@@ -40,7 +40,7 @@ Refer to the following table for descriptions of your character’s attributes a
 | STRENGTH | Governs displays of physical power, such as breaking down doors, intimidating others, or wielding heavy, powerful weapons. | "I kick down the door and blast my shotgun at anything I see." |
 | REFLEXES | Governs agility and speed-based actions, such as dodging enemy fire, scaling obstacles, or handling lightweight, accurate weapons. | "I run through the house, slide into cover, and fire from there." |
 | TACTICS | Governs the application of logic and training, including coordinating an ambush, hacking databases, or operating machinery. | “I go around the side of the house, flank them, and fire through the window.” |
-| WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing on the spot, or activating neural weapons. | "I knock on the door, wait for someone to open it, say 'Hi!', then fire when they respond." |
+| WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing, or activating neural weapons. | "I knock on the door, wait for someone to open it, say 'Hi!', then fire when they respond." |
 
 In summary, the description of your actions determines which attribute will be used for your action roll. There are no “set” attributes that apply to the actions you might take with your operator. 
 
@@ -54,15 +54,17 @@ When a specific attribute is required for an action roll, the description specif
 
 When you created your character, you assigned a *score* to each of your character’s *attributes*, with higher scores indicating greater ability. These scores increase your chances of success on *action rolls*.
 
-To make an *action roll*, roll **2D6 + the ATTRIBUTE score**. 
+To make an *action roll*, roll **2D6 + Attribute**. 
 
 !!! example
 
 	If the roll is **2D6 + STRENGTH** and your Strength attribute is *3*, you would roll 2D6 + 3.
+	
+See the following section to determine the result.
 
 ### Results
 
-The **sum** of the *dice roll* and the attribute *score* determines how well you succeed at your action, as shown in the following Results list:
+The **sum** of the 2D6 + ATTRIBUTE *action roll* determines how well you succeed at your action, as shown in the following list:
 
 <div class="roll-table" markdown="1">
 
@@ -74,6 +76,10 @@ The **sum** of the *dice roll* and the attribute *score* determines how well you
 | **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
 
 </div>
+
+!!! example
+
+	An action roll is for REFLEXES with an attribute score of 2. The dice roll is a 3 and 4. The sum is 3 + 4 + 2 = 9. The result of the action roll is partial success.
 
 ### Consequences and Complications
 
@@ -166,9 +172,9 @@ When you make an **action roll**, in addition to the result of the roll, gain *m
 
 	If you spend momentum to change an action roll, that roll can't, in turn, generate momentum.
 
-As you gain momentum, points accumulate until you spend them. See the following section. Unspent points carry over across multiple game sessions until your current mission is completed. 
+As you gain momentum, points accumulate until you spend them. See the following section. 
 
-Your unspent momentum **resets** to its **starting value** of 2 after **resting** at a *laying-up point* or upon returning to base. See [Rest and Recovery](combat.md#rest-and-recovery).
+Unspent momentum **resets** to its **starting value** of 2 after **resting** at a *laying-up point* or upon returning to base after a mission. See [Rest and Recovery](combat.md#rest-and-recovery).
 
 ### Spend Momentum
 
@@ -179,7 +185,7 @@ You can spend your *momentum* points to gain bonuses to your actions or avoid ne
 | ASSIST | 1 | Grant *advantage* to a team member’s *action roll*. |
 | PUSH YOURSELF | 2 | Gain *advantage* on your action roll, improve the result of a successful action roll, or take an extra action in a combat round. |
 | EVADE | 4 | Roll to avoid the *consequence* of a failed action roll. |
-| FLASHBACK | 6 | Retroactively establish your pre-mission preparation. |
+| FLASHBACK | 8 | Retroactively establish your pre-mission preparation. |
 
 Details of each option follow. 
 

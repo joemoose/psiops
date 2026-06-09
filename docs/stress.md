@@ -49,7 +49,6 @@ All *Panicking* and *Locked-In* effects last until the **end** of the mission or
 
 You can reduce your stress during a mission by taking any of the following steps. Each option deducts **1** stress point from your total. 
 
-- Spend your *momentum*. See [Momentum](playing.md#momentum).
 - Rest at a *laying-up point*. See [Rest and Recovery](combat.md#rest-and-recovery).
 - Overcome a *notable opponent* or *major obstacle*.
 	- **Notable opponent**: A named or significant adversary whose defeat materially advances the mission, such as a primary target or commanding officer.

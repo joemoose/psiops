@@ -25,7 +25,7 @@ A *combat round* is about 6 seconds, enough time for you to **move once** and ta
 
 Complex actions taking more than 6 seconds may require multiple combat rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a door, or dropping an item, are free and don't count as your 1 action.
 
-### The First Round and Initiative Rolls
+### The First Round and Initiative Roll
 
 Whether you act before the enemy in the **first** round of combat is decided by an *initiative roll*. Roll **2D6 + TACTICS** and apply the following result:
 
@@ -96,15 +96,17 @@ When you **attack** a target, make an *attack roll*. Roll **2D6 + Applicable Att
 
 ### Weapon Damage Modifiers
 
-Apply the damage modifiers to your attacks as follows:
+The damage modifer for your attack is dtetrmine by your weapons. Specific damage modifiers for ecah class of weapon is  listed in the Equipment sections. See [Combat Weapons](equipment.md#combat-weapons).
 
-| Weapon | Examples | Modifier |
+For weapons or other types of attacks not specifically listed on the Combat Weapons list, the GM uses the following general guidelines to determine a damage modifier:
+
+| Level of Effect | Examples | Modifier |
 | :- | :- | :-: |
 | **Unarmed** | — | -1 |
-| **Concealable** | boot knives, brass knuckles | +0 |
+| **Minimal** | boot knives, brass knuckles | +0 |
 | **Light** | combat knives, sidearms | +1 |
 | **Medium** | rifles, shotguns | +2 |
-| **Heavy** | antiarmor missiles, sniper rifles | +3 |
+| **Devastating** | antiarmor missiles, sniper rifles | +3 |
 | **Anomalous** | \[REDACTED\] | +4 |
 
 ### Blast Damage
@@ -123,7 +125,7 @@ The effectiveness of your attacks is modified by weapon type, optimal engagement
 
 Each weapon class has a distinct optimal engagement distance. Depending on your weapon type and the range to your target, your *attack roll* may be at *advantage*, *disadvantage*, or *impossible*. The range to your target is determined by the number of intervening zones. See [Tactical Zones](zones.md).
 
-| Weapon | Close | Near | Far | Distant | Exteme |
+| Weapon | Same Zone (Close) | 1 Zone (Nearby)  | 2 Zones (Far) | 3 Zones (Distant) | 4+ Zones (Extreme) |
 | - | :-: | :-: | :-: | :-: |
 | **Assault rifle** | disadvantage | normal | normal | impossible | impossible |
 | **Close-quarters combat** | normal | impossible |  impossible | impossible | impossible |
@@ -146,7 +148,12 @@ The following tactical decisions apply modifiers to your attacks.
 
 At the start of a mission, all your small arms are stocked with an *ammo rating* of **6**. 
 
-Each time you attack, if your attack fails with an *action roll* of **6 or lower**, reduce the weapon's *ammo rating* by **1**. When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
+Each time you attack, your weapon’s ammo rating may decrease as follows:
+
+- If your *attack roll* **fails**, reduce your weapon's *ammo rating* by **1**.
+- If your attack roll is either a *partial* or a *complete success*, you do **not** reduce your *ammo rating*. 
+
+When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
 
 ### Resupply
 
@@ -301,7 +308,7 @@ If a suppressed enemy takes any action that makes them visible to you, you can m
 
 *Neural weapons* are among your squad’s most lethal assets. When a neural weapon is brought to bear, it produces a tactical effect: precise, controlled, and potentially decisive.
 
-### Activating
+### Activating Neural Weapons
 
 To activate your neural weapon, make a *neural attack roll*. Roll **2D6 + WILLPOWER** and apply the result as follows:
 
@@ -312,7 +319,7 @@ To activate your neural weapon, make a *neural attack roll*. Roll **2D6 + WILLPO
 | **6–** | Your neural weapon **doesn’t activate**, and you take **1** *fatigue*. See [Fatigue](#fatigue).<br/>You can also **no longer** activate this neural weapon during the mission unless you rest at a *laying-up point*. See [Rest and Recovery](#rest-and-recovery). |
 | **7–9** | The power **manifests**, but you take **1** *fatigue*. |
 | **10–12** | The power **manifests**.  |
-| **13+** | The power **manifests**. The effect is greater than expected. Work with the GM to specify what else happens.   |
+| **13+** | The power **manifests**. The effect is greater than expected. Work with the GM to specify what else happens. |
 
 </div>
 
@@ -323,12 +330,12 @@ Neural weapons described as *ongoing* require concentration to keep the power ac
 - You must spend an *action* each combat round to maintain concentration and keep the power active.
 - If you take damage while concentrating, your focus is disrupted, and the neural weapon’s effect ends.
 
-## Free-Fire Opportunities
+## Retreating
 
-Withdrawing from a fight while engaged in combat may leave the retreating force vulnerable to further attack.
+Retreating from a fight while engaged in combat may leave the retreating force vulnerable to further attack.
 
 - If your **opponents** retreat, you can immediately make a free attack against them before they move.
-- If **you** retreat, make a *free-fire roll*. Roll **2D6 + REFLEXES** and apply the result as follows:
+- If **you** retreat, make a *retreat roll*. Roll **2D6 + REFLEXES** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
