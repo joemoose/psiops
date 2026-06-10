@@ -1,8 +1,8 @@
 ## Tactical Zones
 
-Once gameplay shifts from *operational mode* to *combat mode*, the GM divides the area where the action takes place into *tactical zones*. These zones organize the battlefield into a connected set of meaningful positions, each with a distinct location and tactical significance.
+Once gameplay shifts from *operational mode* to *combat mode*, the GM divides the area of action into *tactical zones*. These zones organize the battlefield into a connected set of meaningful positions, each with a distinct location and tactical significance.
 
-Zones don’t represent mapped areas on a measured grid. A single zone might encompass an entire warehouse, or there might be several if crates are scattered throughout. A zone could be a hilltop or a corridor. It all depends on the tactical positions the GM presents for the upcoming action.
+Zones don’t represent mapped areas on a measured grid. A single zone might encompass an entire warehouse, or there might be several if crates are scattered throughout. A zone could be a hilltop or a corridor. It depends on the tactical positions the GM presents for the upcoming action.
 
 Characters move between zones, not along gridlines. Ranges become relationships between zones, not measurements. Zones can change based on your actions. Flipping a table could split a zone into two. Tossing tear gas would make the zone hazardous to enemy movement. 
 
@@ -12,7 +12,7 @@ At a minimum, the GM will present three tactical zones at the start of combat: y
 
 Characters move *between tactical zones* rather than calculating distance and movement rates on a grid. Entering an adjacent zone consumes **1** movement in a *combat round*, regardless of the zone’s size. You can spend your second action to move again and enter another adjacent zone. 
 
-Boundaries between zones or conditions within a zone can complicate movement:
+Zone boundaries or conditions within a zone can complicate movement:
 
 - **Difficult terrain** (rubble, standing water, thick smoke): Requires 2 moves to cross.
 - **Free action**: Slipping through an open interior door or moving within the same tactical zone. No movement action is required; the GM narrates the transition.
@@ -34,9 +34,9 @@ Count the *shortest* path through adjacent, connected zones, not a straight line
 
 ### Weapon Ranges
 
-The *zone distance* measures the range to your target relative to your weapon’s *optimal engagement distance*. This distance determines whether there are any *advantages* or *disadvantages* on your attack roll.
+The *zone distance* measures your target’s range relative to your weapon’s *optimal engagement distance*. This distance determines whether there are any *advantages* or *disadvantages* on your attack roll.
 
-See [Range Modifiers](combat.md#range-modifiers).
+See [Distance Modifiers](combat.md#distance-modifiers).
 
 ### Zones Example
 
@@ -57,7 +57,7 @@ For example, the GM divides your objective area, a research facility, into sever
 | Generator | Secured behind a locked door |
 | Research facility | A laboratory containing volatile chemicals |
 
-Using the zones’ tactical characteristics, your squad’s actions emerge and are then resolved quickly in-game. The combat scene unfolds at a faster pace with a more cinematic feel when crossing zone boundaries, rather than by plotting and moving along mapped grid positions. 
+Using the zones’ tactical characteristics, your squad’s actions emerge and are resolved quickly in-game. The combat scene unfolds at a faster pace with a more cinematic feel when crossing zone boundaries, rather than by plotting and moving along mapped grid positions. 
 
 1. Observe from the forest edge.
 2. Suppress, smoke screen, and provide bounding overwatch across the kill zone; snow slows movement.
@@ -70,8 +70,8 @@ Decisions, immediate movement, *action rolls*, then results. No rulers, no math.
 
 !!! note
 
-	At a game table, your GM may quickly set up tactical zones with labeled index cards. When playing online, digital Post-It notes on a shared whiteboard work well.
+	At a game table, your GM may quickly set up tactical zones using labeled index cards. When playing online, digital Post-It notes on a shared whiteboard work well.
 
 ### After Action
 
-If you’ve come up through tabletop combat with a battlemat and a measuring tape, this will feel off at first. Lean into it. By the end of your first operation, you’ll enjoy the change of pace. 
+If you’ve come up through tabletop combat with a battlemat and a measuring tape, this will feel off at first. Lean into it. By the end of your first operation, you’ll enjoy the change of pace.

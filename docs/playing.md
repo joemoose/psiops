@@ -18,7 +18,7 @@ If success is guaranteed or the result has no meaningful impact on the mission�
 
 !!! tip
 
-	Before you make an action roll, ask the GM for possible outcomes of your action to get a sense of what you're up against.
+	Before you make an action roll, ask the GM for possible outcomes to get a sense of what you're up against.
 
 The process for making an *action roll* has four steps:
 
@@ -27,22 +27,22 @@ The process for making an *action roll* has four steps:
 3. Compare the sum to the results list.
 4. Apply the result.
 
-The process may seem complicated at first, but with practice, you’ll make action rolls instinctively. Details follow.
+The process may seem cumbersome at first, but with practice, you’ll make action rolls instinctively. Details follow.
 
 ### Choose an Applicable Attribute
 
 The GM will ask which of your character’s four attributes is relevant to your action. How you describe your action determines which attribute to use for the roll. Your description defines how your operator approaches their tasks. 
 
-Refer to the following table for descriptions of your character’s attributes and examples of actions each attribute might govern: 
+The following table provides descriptions of the attributes: 
 
 | Attribute | Description |
 | - | - |
-| STRENGTH | Governs displays of physical power, such as breaking down doors, intimidating others, or wielding heavy, powerful weapons.         |
+| STRENGTH | Governs displays of physical power, such as breaking down doors, intimidating others, or wielding heavy, powerful weapons. |
 | REFLEXES | Governs agility and speed-based actions, such as dodging enemy fire, scaling obstacles, or handling lightweight, accurate weapons. |
-| TACTICS | Governs the application of logic and training, including coordinating an ambush, penetrating secure computer systems, or operating machinery.        |
+| TACTICS | Governs the application of logic and training, including coordinating an ambush, penetrating secure computer systems, or operating machinery. |
 | WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing, or activating neural weapons. |
 
-In summary, the description of your actions determines which attribute will be used for your action roll. There are no “set” attributes that apply to the actions you might take with your operator. 
+In summary, the description of your actions determines which attribute is used for your action roll. There are no “set” attributes that apply to the actions you might take with your operator. 
 
 Of course, you can always default to REFLEXES when firing a rifle, which is perfectly fine. However, a creative approach to your tactical situation might suggest using other attributes. If the GM agrees, you’ll use that attribute for your action roll.
 
@@ -58,8 +58,7 @@ To make an *action roll*, roll **2D6 + Attribute**.
 
 !!! example
 
-	If the roll is **2D6 + STRENGTH** and your Strength attribute is *3*, you would roll 2D6 + 3.
-	
+	If the roll is **2D6 + STRENGTH** and your Strength is *3*, you would roll 2D6 + 3.
 See the following section to determine the result.
 
 ### Results
@@ -68,18 +67,18 @@ The **sum** of the 2D6 + ATTRIBUTE *action roll* determines how well you succeed
 
 <div class="roll-table" markdown="1">
 
-| Roll      | Result                                                                                                                                            |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  **6–**   | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section.                                |
-|  **7–9**  | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section.                              |
-| **10–12** | It's a **complete success**. You achieve your goal.                                                                                               |
-|  **13+**  | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
+| Roll | Result |
+| :-: | - |
+| **6–** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
+| **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
+| **10–12** | It's a **complete success**. You achieve your goal. |
+| **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
 
 </div>
 
 !!! example
 
-	An action roll is for REFLEXES with an attribute score of 2. The dice roll is a 3 and 4. The sum is 3 + 4 + 2 = 9. The result of the action roll is partial success.
+	A REFLEXES action roll is made using an attribute score of 2. The dice roll is 3 and 4. The sum is 3 + 4 + 2 = 9. The action roll results in a partial success.
 
 ### Consequences and Complications
 
@@ -95,18 +94,18 @@ You accomplish what you intended, but at a cost, such as a difficult choice or r
 
 ### Example Results
 
-To compare the four types of results from an action roll, consider the following example.
+To compare the four types of results for an action roll, consider the following example.
 
-“**You try to quietly pick a door lock. Roll 2D6 + REFLEXES. The result is…**”
+*You try to quietly pick a door lock. Roll 2D6 + REFLEXES. The result is*:
 
-| Sum       | Result           | GM’s Description                                                                                                                           |
-| :-------: | :--------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
-|  **6–**   | Failure          | “You can’t pick the lock, and the door remains *locked*. You hear someone approaching your position. You’re trapped in the hallway.”       |
-|  **7–9**  | Partial Success  | “The door is now *unlocked*. No one hears you, but you break your lock pick. Remove it from your inventory.”                               |
-| **10–12** | Complete Success | “The door is now *unlocked*. No one hears you. You're good to go.”                                                                         |
-|  **13+**  | Critical Success | “The door is now *unlocked*. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at a security console.” |
+| Sum | Result | GM’s Description |
+| :-: | - | - |
+| **6–** | Failure | “You can’t pick the lock, and the door remains *locked*. You hear someone approaching your position. You’re trapped in the hallway.” |
+| **7–9** | Partial Success | “The door is now *unlocked*. No one hears you, but you break your lock pick. Remove it from your inventory.” |
+| **10–12** | Complete Success | “The door is now *unlocked*. No one hears you. You're good to go.” |
+| **13+** | Critical Success | “The door is now *unlocked*. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at a security console.” |
 
-## Modifying Action rolls
+## Modifying Action Rolls
 
 Depending on your current operational circumstances, **action rolls** might have higher or lower odds of success, as described in the following sections.  
 
@@ -116,18 +115,18 @@ If an action you’re attempting is easier than it would be otherwise, given the
 
 ### Disadvantage
 
-Conversely, if your action is more challenging given the current tactical situation, such as trying to put rounds on target in the dark, the GM may impose *disadvantage* on your action roll. Disadvantage reduces your odds of success. When you make an action with disadvantage, roll **3D6 + Attribute** and discard the **highest** die.
+Conversely, if your action is more challenging given the current tactical situation, such as trying to attack a target in the dark, the GM may impose *disadvantage* on your action roll. Disadvantage reduces your odds of success. When you make an action roll with disadvantage, roll **3D6 + Attribute** and discard the **highest** die.
 
 !!! note "Notes"
 
-	- If an action roll has both an advantage and a disadvantage, they cancel each other out, so roll 2D6 + Attribute as normal.
+	- If an action roll has both advantage and disadvantage, they cancel each other out, so roll 2D6 + Attribute as normal.
 	- Multiple advantages do not stack. The maximum number of dice in any action roll is 3D6.
 	- Nonetheless, an action roll with multiple advantages may not be considered risky and may therefore succeed automatically.
 	- Conversely, multiple disadvantages may make success impossible.
 
 ### Using Advanced Specializations
 
-Your *advanced specializations* increase the likelihood of success on risky actions. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action roll*. In other words, roll **2D6 + Attribute + 1**. 
+Your *advanced specializations* increase your chances of success on risky actions. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action roll*. In other words, roll **2D6 + Attribute + 1**. 
 
 First, describe how your specialization applies to the action. If the GM agrees, the bonus applies. For example, if you’re attempting to leap from a helicopter under hostile fire without injury, *Combat Fitness* would improve your odds.
 
@@ -141,11 +140,11 @@ You’re firing a rifle from a rooftop at a target on the street (advantage). Ro
 
 ### Disadvantage Scenario
 
-You’re firing a rifle from the street at a rooftop target (disadvantage). Roll 3D6 + REFLEXES [3], getting 3, 3, and 1. Discard one 3 because two 3s were the highest rolls. Total: 3 + 1 + 3 = 7. *Fail*.
+You’re firing a rifle from the street at a rooftop target (disadvantage). Roll 3D6 + REFLEXES [3], getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Total: 3 + 1 + 3 = 7. *Fail*.
 
 ### Specialization Scenario
 
-You’re firing a rifle from the street at a rooftop target (disadvantage), and you have the *Gun Combat: Rifle* specialization (+1, since it applies). Roll 3D6 + REFLEXES [3], getting 1, 5, and 2. Discard the 5. Total: 1 + 2 + 3 + 1 = 7. *Partial Success*. Your specialization secured the hit. 
+You’re firing a rifle from the street at a rooftop target (disadvantage) and have the *Gun Combat: Rifle* specialization (+1, since it applies). Roll 3D6 + REFLEXES [3], getting 1, 5, and 2. Discard the 5. Total: 1 + 2 + 3 + 1 = 7. *Partial Success*. Your specialization secured the hit. 
 
 ## Momentum
 
@@ -159,22 +158,22 @@ When you make an **action roll**, in addition to the result of the roll, gain *m
 
 <div class="roll-table" markdown="1">
 
-| Roll      | Result                             |
-| :-------: | :--------------------------------- |
-|  **6–**   | You don’t gain any momentum.       |
-|  **7–9**  | You don't gain any momentum.       |
-| **10–12** | You gain **1** points of momentum. |
-|  **13+**  | You gain **2** points of momentum. |
+| Roll | Result |
+| :-: | - |
+| **6–** | You don’t gain momentum. |
+| **7–9** | You don't gain momentum. |
+| **10–12** | You gain **1** momentum. |
+| **13+** | You gain **2** momentum. |
 
 </div>
 
 !!! note
 
-	If you spend momentum to change an action roll, that roll can't, in turn, generate momentum.
+	If you spend momentum to change an action roll, that roll does not, in turn, generate momentum.
 
 As you gain momentum, points accumulate until you spend them. See the following section. 
 
-Unspent momentum **resets** to its **starting value** of 2 after **resting** at a *laying-up point* or upon returning to base after a mission. See [Rest and Recovery](combat.md#rest-and-recovery).
+Unspent momentum **resets** to its starting value of **2** when resting at a *laying-up point* or returning to base after a mission. See [Rest and Recovery](combat.md#rest-and-recovery).
 
 ### Spend Momentum
 
@@ -189,7 +188,7 @@ You can spend your *momentum* points to gain bonuses to your actions or to avoid
 | EVADE | 5 | Roll to avoid the *consequence* of a failed action roll. |
 | FLASHBACK | 6 | Retroactively establish your pre-mission preparation. |
 
-Details of each option follow. 
+Details for each option follow. 
 
 #### Assist
 
@@ -197,11 +196,11 @@ Spend **1 momentum** point to *assist* a team member, granting *advantage* on th
 
 #### Push Yourself
 
-Spend **2 momentum** points to gain an *advantage* on your next *action roll*.
+Spend **2 momentum** points to gain *advantage* on your next *action roll*.
 
 #### Exploit
 
-Spend **3 momentum*** points to enhance the effect of a **successful** action roll, whether it’s a *partial* or *complete* success. The GM increases the scale, speed, effectiveness, or secondary benefits of your action. If the success was partial, you’ll still take the *complication*.
+Spend **3 momentum** points to enhance the effect of a **successful** action roll, whether it’s a *partial* or *complete* success. The GM increases the scale, speed, effectiveness, or secondary benefits of your action. If the success was partial, you’ll still take the *complication*.
 
 #### Surge
 
@@ -221,7 +220,7 @@ See [Consequences of Failing](#consequences-of-failing).
 
 #### Flashback
 
-Spend **6 momentum** points to establish that you did something before the mission or found something during the mission that wasn’t previously noticed. The flashback retroactively adds those preparations to the current mission.
+Spend **6 momentum** points to establish that you did something before the mission or found something during the mission that had not been noticed before. The flashback retroactively adds those preparations to the current mission.
 
 !!! example
 
@@ -231,13 +230,13 @@ Spend **6 momentum** points to establish that you did something before the missi
 
 PsiOps operates in two modes: **Operational** and **Combat**.
 
-Each mode represents a different scale of action. Operational mode zooms out to keep the mission moving forward. Combat mode zooms in to resolve conflict with tactical precision.
+Each mode represents a different scale of action. Operational mode zooms out to keep the mission moving forward, while Combat mode zooms in to resolve conflict with tactical precision.
 
 The modes flow naturally into one another as the game’s pacing and focus shift in response to your actions and the situation.
 
 ### Operational Mode
 
-The majority of the game unfolds in *operational mode*. This mode emphasizes your squad’s actions and the mission’s flow — planning, infiltrating, problem‑solving, and exploring. Time and distance are abstract. Minutes, hours, or days may pass during a single activity, depending on what matters to the story. The GM doesn’t track movement rates or distances unless they become relevant.
+Most of the game unfolds in *operational mode*. This mode emphasizes your squad’s actions and the mission’s flow — planning, infiltrating, problem‑solving, and exploring. Time and distance are abstract. Minutes, hours, or days may pass during a single activity, depending on what matters to the story. The GM doesn’t track movement rates or distances unless they become relevant.
 
 If your squad needs to cross a forest, stake out a building, or wait for sunrise, that scene occurs next unless something interesting interrupts.
 
@@ -251,7 +250,7 @@ See the [Combat](combat.md) section.
 
 ## Mission Clocks
 
-Complex tasks that require multiple actions to complete, or impending threats to your squad, are tracked on mission clocks. The GM usually divides the mission clock into 4, 6, or 8 segments. The more complex the task or the more time available before the threat occurs, the more segments the mission clock has. Progress is tracked by marking off segments on the clock. 
+Complex tasks requiring multiple actions to complete, or impending threats to your squad, are tracked on mission clocks. The GM usually divides the mission clock into 4, 6, or 8 segments. The more complex the task or the more time available before the threat occurs, the more segments the clock has. Progress is tracked by marking off segments on the clock. 
 
 ### Example Clocks
 
@@ -264,20 +263,20 @@ Complex tasks that require multiple actions to complete, or impending threats to
 
 You'll face complex mission objectives and obstacles, such as accessing a classified computer network or defusing a bomb. These tasks will require **multiple actions** to complete. The GM won't call for a single action roll to determine the result. Instead, your progress toward completing the task is tracked on a *mission clock*.
 
-As you complete the required sequence of actions, the GM either marks off segments or puts them back on the clock as follows:
+As you complete the required sequence of actions, the GM either marks off segments or returns them to the clock as follows:
 
 - *Failure* nullifies **1 completed** segment.
 - *Partial success* marks off **1** segment.
 - *Complete success* marks off **2** segments.
 - *Critical success* marks off **3** segments.
 
-Once all segments are marked, your task is complete.
+Once all segments are marked off, your task is complete.
 
 ### Track Impending Threats
 
 The GM uses a *threat clock* to track **impending threats**, such as the time remaining on a detonator or until a high-value individual is eliminated. The clock is visible to all, and tension builds as it counts down.
 
-You will attempt actions to slow or eliminate the threat. However, if you *fail* an *action roll* while the threat is imminent, the GM marks off a segment on the threat clock. Once all segments are marked off, the threat occurs. The bomb explodes, or the individual is eliminated.
+You will attempt actions to slow or eliminate the threat. However, if you *fail* an *action roll* while the threat is imminent, the GM marks off a segment on the threat clock. Once all segments are marked off, the threat occurs, and the bomb explodes or the individual is eliminated.
 
 ## Character Advancement and Improving Abilities
 
@@ -285,22 +284,13 @@ You improve your character’s abilities by staying true to their *core drive* d
 
 After returning to base, describe how you met your core drive's advancement condition. If the GM agrees, choose **one** improvement to your character's abilities from the following table:
 
-| Improvement        | Effect                                                                                                                                                    | Limit           |
-| :----------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: |
+| Improvement | Effect | Limit |
+| - | - | :-: |
 | Attribute increase | **+ 1** to one attribute                                                                                                                                  | Max score of 3. |
-| HP increase        | Roll **1D3**, add to max HP                                                                                                                               | No upper limit. |
-| New neural weapon  | Roll **D66**, gain the result. See [Neural Weapons](character.md#neural-weapons).                                                                         |      None       |
-| New specialization | Choose **one** related to a significant action you took during a previous mission. See [Advanced Specializations](character.md#advanced-specializations). |      None       |
+| HP increase | Roll **1D3**, add to max HP                                                                                                                               | No upper limit. |
+| New neural weapon | Roll **D66**, gain the result. See [Neural Weapons](character.md#neural-weapons). | None |
+| New specialization | Choose **one** related to a significant action you took during a previous mission. See [Advanced Specializations](character.md#advanced-specializations). |      None |
 
 !!! note
 
 	If your core drive feels played out, you can choose a new one at base between missions after advancing your **current core drive** at least once.
-	
-  
-  
-  
-  
-  
-
-
-

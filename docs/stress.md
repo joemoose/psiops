@@ -22,22 +22,22 @@ Keep track of your total stress. Your character sheet has a place to record your
 
 ## Reaching Maximum Stress
 
-Left unchecked, stress can degrade your performance and increase the risk of failure.
+If left unchecked, stress can degrade your performance and increase the risk of failure.
 
-When adding a stress point raises your total to **6**, your combat readiness is at risk. Make a **stress roll**. Roll **2D6 + WILLPOWER** and apply the result.
+When adding a stress point would raise your total to **6**, your combat readiness is at risk. Make a **stress roll**. Roll **2D6 + WILLPOWER** and apply the result.
 
 Your stress points are capped at **6**. Any stress points beyond **6** are ignored.
 
-Stress rolls are triggered only when a **new** source of stress would increase your total to 6 or higher. Simply remaining at 6 stress does not trigger additional rolls.
+Stress rolls are triggered only when a **new** source of stress would raise your total to 6 or higher. Simply staying at 6 stress does not trigger additional rolls.
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |:----:|:-------|
-| **6–** | You **panic**. Roll **1D6** and see the following [Panicking table](#panicking) for the effect. |
+| **6–** | You **panic**. Roll **1D6** and consult the [Panicking table](#panicking) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
-| **10–12** | You **keep it together** and remove **1** stress point. |
-| **13+** | You are **locked into the flow** of combat. Remove **all** stress, then roll **1D6** and see the following [Locked-In table](#locked-in) for the effect. |
+| **10–12** | You **keep it together** and remove **1** stress. |
+| **13+** | You are **locked into** the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in) to determine the effect. |
 
 </div>
 
@@ -45,11 +45,11 @@ All *Panicking* and *Locked-In* effects last until the **end** of the mission or
 
 !!! example
 
-	You take damage from a gunshot (stress: 5), then watch your contact be executed (stress: 6). You make a stress roll: roll a 4 and a 3, add your WILLPOWER of +2 for a total of 9. You keep it together — for now.
+	You take damage from a gunshot (*stress total*: 5), then watch your contact be executed (*stress total*: 6). You must now make a *stress roll*. You roll a 4 and a 3, then add your WILLPOWER of 2, for a total of 9. You keep it together — for now.
 
 ### Panicking
 
-When you *panic*, roll **1D6** and apply the result. If you panic again and trigger a different condition, the effects are cumulative. 
+When you *panic*, roll **1D6** and apply the result. If you panic again and trigger a different condition, the effects stack. 
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
@@ -62,20 +62,20 @@ When you *panic*, roll **1D6** and apply the result. If you panic again and trig
 
 ### Locked-In
 
-When you’re locked in, roll **1D6** and apply the result. If you lock in again and trigger a different condition, the effects are cumulative.
+When you’re locked in, roll **1D6** and apply the result. If you lock in again and trigger a different condition, the effects stack.
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
 | **1** | Calculating | *Advantage* on all +TACTICS rolls. |
 | **2** | Driven | *Advantage* on all +STRENGTH rolls. |
 | **3** | Focused | *Advantage* on all +WILLPOWER rolls. |
-| **4** | Hardened | +1 ARMOR to base (cap remains at 3 points of damage reduction) |
+| **4** | Hardened | +1 ARMOR (**note**: damage reduction remains capped at 3 points). |
 | **5** | Sharp | *Advantage* on all +REFLEXES rolls. |
 | **6** | Steady | When you succeed on an *action roll*, team members within sight of you remove **1** stress. |
 
 ## Removing Stress, Panic, and Locked-In
 
-You can reduce your stress points and remove panic and locked-in conditions during a mission as follows:
+You can reduce your stress points and remove panic and locked-in conditions during a mission as follows.
 
 ### Stress
 

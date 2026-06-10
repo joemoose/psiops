@@ -44,13 +44,6 @@ theme:
     - toc.follow
     
   palette:
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      primary: black
-      scheme: default
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to Light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -66,7 +59,7 @@ theme:
       scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to System preferences
+        name: Switch to Light mode
 
 # Extensions
 

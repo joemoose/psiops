@@ -1,6 +1,6 @@
 # Equipment
 
-The equipment you carry into the field is divided into five categories:
+The equipment you carry into the field is organized into five categories:
 
 - Basic kit
 - Tactical supplies
@@ -12,16 +12,18 @@ Details on each category follow.
 
 ## Inventory
 
-To carry your equipment, you have **12** inventory slots: **two** in your hands, **four** on your body, and **six** in a rucksack. Inventory slots are abstract and rearrangeable. To use an item, place it in your hands; to wear it or keep it at the ready, place it on your body; and the rest goes into the rucksack. 
+You have **12** inventory slots for carrying equipment: **two** in your hands, **four** on your body, and **six** in your rucksack. Inventory slots are abstract and can be rearranged. To use an item, place it in your hands; to wear it or keep it at the ready, place it on your body; the rest goes in your rucksack. 
 
-The number of inventory slots each piece of equipment occupies depends on its size, bulk, or the number of hands required to use it, as follows:
+The number of inventory slots each piece of equipment occupies depends on its size, bulk, or the number of hands required to use it effectively, as follows:
 
 - Items occupy **1** inventory slot unless otherwise specified.
-- Small items, such as grenades, can be bundled, with multiple units occupying **1** inventory slot. If any bundled item is carried, it occupies **1** slot.
-- Other smaller, standard items, such as a combat knife or the individual components in your basic kit, **don’t take up** a slot.
+- Small items, such as grenades, can be bundled so that multiple units occupy **1** slot. If only one of the bundled items is carried, it still takes up **1** slot.
+- Other small, standard items, such as a combat knife or the individual components of your basic kit, **don’t** take up a slot.
 - Bulky, heavy, or two-handed items occupy **two** slots.
-- Ballistic armor occupies **1–3** slots based on its level of protection.
+- Ballistic armor occupies **1–3** slots, depending on its level of protection.
 - Equipment that requires two people to lift can’t be stored in your inventory. Other transport methods will be needed.
+
+The GM can help you clarify the required inventory slots for all your equipment. 
 
 ### Retrieval
 
@@ -35,7 +37,7 @@ The basic kit exists so you don’t have to itemize every item in your personal 
 
 When you need an item from the kit, declare it and retrieve it. No inventory slot is required. Your combat fatigues, boots, and other standard-issue clothing or webbing are assumed to be worn. If your basic kit or any of its items are lost or destroyed due to operational circumstances, they’re gone. The kit doesn’t replace them.
 
-Items not originally part of a basic kit, such as weapons or recovered equipment, cannot be stored in the kit.
+Items not originally part of a basic kit, such as weapons or recovered equipment, cannot be stored in it.
 
 ### Basic Kit Manifest
 
@@ -97,7 +99,7 @@ Examples of tactical supplies include the following:
 
 ### Non-Examples
 
-Items that aren’t classified as tactical supplies include weaponry, complex devices, exotic gear, and mission‑specific equipment, such as:
+Items that aren’t classified as tactical supplies include weaponry, complex devices, exotic gear, and mission‑specific equipment, such as the following:
 
 - Acetylene cutting torch
 - Backpack-mounted SATCOM terminal
@@ -136,7 +138,7 @@ Your personal protective system consists of two parts: *ballistic body armor* an
 
 ### Ballistic Body Armor
 
-Ballistic body armor is the foundation of your protective system. Three tiers of ballistic body armor are available, each offering greater protection at the cost of added weight and bulk. 
+Ballistic body armor forms the foundation of your protective system. Three tiers of ballistic body armor are available, each offering greater protection at the cost of added weight and bulk. 
 
 #### Armor Rating 
 
@@ -144,7 +146,7 @@ Each tier has an *armor rating* of **1**, **2**, or **3**. When you’re hit by 
 
 Each tier occupies a number of *inventory slots* equal to its armor rating.
 
-#### Summary
+#### Armor Summary
 
 | Ballistic Armor | Armor Rating | Inventory Slots |
 | :- | :-: | :-: |
@@ -158,11 +160,11 @@ Each tier occupies a number of *inventory slots* equal to its armor rating.
 
 ### Secondary Armor
 
-You can equip *secondary armor*, such as a helmet or a riot shield, to provide additional protection. 
+You can equip *secondary armor*, such as a helmet or a riot shield, for additional protection. 
 
 #### Armor Bonus
 
-Secondary armor provides an *armor rating bonus* of **+1**. Add this bonus to your ballistic body armor’s rating to determine the total damage reduction.
+Secondary armor provides an *armor rating bonus* of **+1**. Add this bonus to your ballistic body armor’s rating to determine your total damage reduction.
 
 Each piece of secondary armor requires **1** *inventory slot*. The riot shield must be held in your hand to be effective.
 
@@ -182,18 +184,17 @@ In addition to an armor rating bonus, secondary protection provides the followin
 
 - You are not knocked *unconscious* when *wounded*. See [Wounds](combat.md#wounds).
 - *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
- 
  **Riot Shield**
-
  - You can **destroy** the riot shield to prevent **all** damage you’d otherwise take from a single attack.
+
  - *Advantage* when defending against attacks that deal *blast* damage.
- - Reduces certain types of attack damage that would otherwise bypass your ballistic armor, including intense flames.
+ - Reduces certain types of attack damage that would otherwise bypass your ballistic armor, including damage from intense flames.
 
 #### Trade-offs
 
-Wearing secondary armor entails tactical trade-offs. The GM may apply *disadvantage* to *action rolls* that rely on perception, quick reactions, or stealth.
+Equipping secondary armor entails tactical trade-offs. The GM may apply *disadvantage* to *action rolls* that rely on perception, quick reactions, or stealth.
 
-Examples include locating a hidden enemy sniper, acting before your opponents in the first round of combat, or moving without being heard. 
+Examples include spotting a hidden enemy sniper, acting before your opponents in the first round of combat, or moving without being heard. 
 
 !!! note
 
@@ -211,25 +212,24 @@ All mission-specific equipment, regardless of size, occupies at least **1** inve
 
 | Item | Description |
 | :- | :-- |
-| Assault kit | Spare ammunition, flashbangs, smoke grenades |
-| Breaching kit | Tools for forced entry, including pry bars, hammer, bolt cutters, cutting tools |
-| Communications kit | Backpack-mounted PRC radio (long-range VHF), encryption pads, headset, batteries, signal flares, IR markers | 
-| Counter-Surveillance kit | Bug detectors, RF sweep tools, signal masking devices |
+| Assault kit | Spare ammunition, flashbangs, and smoke grenades |
+| Breaching kit | Tools for forced entry, including pry bars, hammers, bolt cutters, and cutting tools |
+| Communications kit | Backpack-mounted PRC radio (long-range VHF), encryption pads, headset, batteries, signal flares, and IR markers |
+| Counter-Surveillance kit | Bug detectors, RF sweep tools, and signal masking devices |
 | Demolitions kit | Blocks of plastic explosives, det cord, command wires, and firing triggers |
-| Electronic warfare and signals kit | Signal detector, radio jammer, wiretap gear
+| Electronic warfare and signals kit | Signal detector, radio jammer, and wiretap gear |
 | Escape and evasion kit | Gold coins, lock picks, universal handcuff key, local currency, phrase book, and map |
 | Extended operations kit | Mess kit, sleeping bag, poncho, poncho liner, extra clothing, field rations, water, and tarp |
-| Ghillie suit | Camouflaged over-suit designed to blend with background terrain |
-| Infiltration and disguise kit | Forged papers, uniforms, civilian clothing, makeup, replica badges, language cheat sheets |
+| Ghillie suit | Camouflaged over-suit designed to blend with the background terrain |
+| Infiltration and disguise kit | Forged papers, uniforms, civilian clothing, makeup, replica badges, and language cheat sheets |
 | Infrared spotlight and viewer | Active IR flashlight and IR viewing goggles or scope |
 | Medical and trauma kit | Field dressings, tourniquets, morphine, nerve-agent detector and antidotes, splints, antiseptics |
-| NBC kit | A full-body over-suit and oxygen that protects against contamination by radioactive, biological, or chemical substances, a gas mask, protective gloves, containment bags, and detector paper |
-| Night vision goggles  | Device that passively amplifies ambient light, allowing operators to see in darkness |
+| NBC kit | Full-body over-suit with oxygen, gas mask, protective gloves, containment bags, and detector paper |
+| Night vision goggles | Device that passively amplifies ambient light, allowing operators to see in darkness |
 | Parachute kit | Freefall rig, altimeter, oxygen equipment, and navigation gear |
 | Rebreather kit | Covert diving gear that recycles breathing gas to reduce bubbles |
-| Recon and navigation kit | Maps, overlays, gyro compass, rangefinder binoculars, marking equipment
+| Recon and navigation kit | Maps, overlays, gyrocompass, rangefinder binoculars, marking equipment |
 | Suppressor | Quiets your weapon at the cost of an additional inventory slot |
-| 
 | Surveillance kit | Miniature audio recorder, directional microphone, concealable observation optics, 35mm camera, telephoto lens |
 | Survival kit | Fishing kit, fire-starting tools, compass, water purification, saw, needle, thread, mylar blanket, and related |
 | Vertical Access Kit | Rappelling line, ascenders, descenders, pitons, carabiners, grapnel launcher |
@@ -240,15 +240,13 @@ Handset squad-coordination radios from the Cold War era are less capable than to
 
 | Situation | Limitations |
 | - | - |
-| Outdoor coordination | ~500 m–3 km, reliably based on vegetation and elevation differences |
-| Urban | 100s of meters, intermittent failures |
-| Long-range comms| Requires backpack-mounted PRC or SATCOM equipment |
+| Outdoor coordination | ~500 m–3 km, depending on vegetation and elevation differences |
+| Urban | 100s of meters, with intermittent failures |
+| Long-range comms | Requires backpack-mounted PRC or SATCOM equipment |
 
 ## Example: Stowing a Loadout
 
-An example inventory manifest follows. 
-
-*An operator loads their equipment before the mission. They are packing:*
+*An operator loads their equipment before the mission. They carry the following items:*
 
 - Basic kit
 - 2 tactical supplies
@@ -260,7 +258,7 @@ An example inventory manifest follows.
 - Demolitions kit
 - Extra ammunition
 
-Their loadout is arranged as follows:
+Their inventory is arranged as follows:
 
 | Item | Location | Slots |
 | :-- | :-: | :-: |
@@ -279,5 +277,5 @@ The operator has 0 hand slots remaining, 1 open body slot, and 1 open rucksack s
 
 !!! note
 
-	In this example, a helmet is not equipped. If the operator were to take a helmet on the mission, it would fill the remaining body slot.
+	In this example, the operator is not wearing a helmet. If the operator were to take a helmet on the mission, it would fill the remaining body slot.
 
