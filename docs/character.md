@@ -52,9 +52,9 @@ Set your maximum ***Hit Points*** to 6 and your starting ***Momentum Points*** t
 
 ### Step 6: Basic Kit and Tactical Supplies
 
-Add a ***Basic Kit*** and 2 units of ***Tactical Supplies*** to your inventory. Both are prelisted on your character sheet.
+Add a ***Basic Kit*** and 2 units of ***Tactical Supplies*** to your inventory. Both are pre-listed on your character sheet.
 
-See [Basic Kit](equipment.md#basic-kit) and [Tactical Supplies](equipment.md#tactical-supplies). 
+You can remove 1 or both tactical supplies after your mission briefing. See [Basic Kit](equipment.md#basic-kit) and [Tactical Supplies](equipment.md#tactical-supplies). 
 
 ---
 
@@ -70,7 +70,7 @@ See [Combat Weapons](equipment.md#combat-weapons) and [Mission-Specific Equipmen
 
 Add ***Tier-1 Ballistic Body Armor*** and a ***Helmet*** to your inventory, then set your ***Armor Rating*** to **2**. Both items are pre-listed on your character sheet. 
 
-You can change your protective kit after your mission briefing. See [Personal Protective System](equipment.md#personal-protective-system).
+You can change your personal protective kit after your mission briefing. See [Personal Protective System](equipment.md#personal-protective-system).
 
 ---
 
@@ -98,39 +98,39 @@ Weapons free, soldier. Oscar Mike.
 
 ## Core Drives
 
-You and every team member on your squad have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an advancement condition. If you meet the advancement condition during a mission, you can improve your character’s abilities after returning to base. See [Character Advancement](playing.md#character-advancement-and-improving-abilities).
+You and every team member on your squad have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an *advancement condition*. If you meet the advancement condition during a mission, you can improve your character’s abilities after returning to base. See [Character Advancement](playing.md#character-advancement-and-improving-abilities).
 
 | D66 | core drive | Description |
-| :-: | :- | :- |
-| 11 | Agitator | Describe a persistent, oppressive establishment that harmed you. Advance if your actions weakened it or helped those it oppressed. |
-| 12 | Arbitrator | Describe your vision for a war-free world and your stance on violence. Advance if you’ve prevented, stopped, or eased a violent conflict. |
+| :-: | - | - |
+| 11 | Agitator | Describe a persistent, oppressive establishment that harmed you. Advance if your actions weaken it or help those it oppressed. |
+| 12 | Arbitrator | Describe your vision for a war-free world and your stance on violence. Advance if you prevent, stop, or ease a violent conflict. |
 | 13 | Blank Slate | Describe your most recent memory, such as waking up in a vat a week ago or discovering your name in an unfamiliar wallet in your coat. Advance if your understanding of yourself or the world changes during the mission. |
 | 14 | Broker | Describe your foolproof strategy for closing any deal. Advance if you finish the mission with significantly more wealth, influence, or capital than you had at the start. |
 | 15 | Burned | Describe a high-caliber crime you committed or were falsely accused of. Advance if you made efforts to clear your name or fought against law enforcement. |
-| 16 | Chameleon | Your worldview and motivations are in constant flux. Explain why. Before each mission, roll **D66** to determine a temporary core drive, which you’ll follow during the mission. After returning to base, the temporary core drive is abandoned, and you revert to being a Chameleon. **Note**: Chameleon has no advancement condition of its own. Instead, you must meet the advancement condition of your temporary core drive. |
-| 21 | Champion | Describe your experiences with the creation, mistreatment, or elimination of humans like you with anomalous cognitive abilities. Advance if you proved they could and should stand on their own, or if you liberated another anomalous human. |
-| 22 | Conspiracist | Describe a simple, common piece of knowledge that is actually wrong, and explain the much more **complex** truth. Advance if you made things even more complicated or obscured important truths. |
-| 23 | Contractor | Describe how you ended up working with these weirdos in your squad. Advance if the mission went as planned and you received your pay. |
-| 24 | Corpsman | Describe your medical training and share the story of your renowned, unconventional teacher. Advance if no team member died under your watch. |
-| 25 | Cultist | Describe your fringe religious sect and the doomsday prophecy you believe in. Advance if you recruited an important figure into your cult or moved events closer to your prophesied day. |
-| 26 | Damned | Describe the abject woe that’s befallen you. Advance if an event worsened your suffering or if you shared your misery with someone. |
-| 31 | Deathwish | Describe how you came to believe that nothing truly matters. Advance if you showed no fear of death or of self-preservation during the mission. |
-| 32 | Drifter | Describe the event that set you drifting from place to place, never staying. Advance if you left no trace of your presence by the end of a mission, or if someone you met will always miss you. |
-| 33 | Emissary | Describe your vision for a world where anomalous cognitive abilities are accepted and normalized. Advance if you fostered empathy and understanding between anomalous humans and the rest of the world. |
-| 34 | Exile | Describe where you’re from and how you came to be stranded here. Advance if you’ve made progress or contacted someone from that place. |
-| 35 | Fallout | Describe a complex catastrophe you’re responsible for. Advance if you helped heal its aftermath. |
-| 36 | Feral | Describe the war-torn country where you learned to survive on nothing as a child. Advance if you contributed meaningfully to the mission without help. |
-| 41 | Greenhorn | Describe your ideal “first mission” experience. Advance (and select a new core drive) if the mission goes as hoped. Otherwise, advance if team members saved your life at the last moment. |
-| 42 | Hothead | Describe your hopes for the future that others have belittled. Advance if a mission event helped you grow or proved your worth to a team member. |
-| 43 | Iron Code | Describe an honorable, legendary warrior you admire and aspire to emulate. Advance if you fought and defeated a powerful enemy using that warrior’s combat philosophy. |
-| 44 | Latent | Describe the difficulty of finding a cause or purpose, or something to fight for. Advance if you overcame a challenge or obtained a valuable item beyond your expected ability. |
-| 45 | Liaison | Describe the relationships you prefer to build. Advance if you forged or preserved one in jeopardy, and if that changed the mission’s course. |
-| 46 | Lifeline | Describe the person or entity that depends on you and your work. Advance if you discover something that would make them happy and bring it to the end of the mission. |
-| 51 | Lone Wolf | Describe a time you lost faith in others but believed in yourself. Advance if you did something during a mission that no one else did, something unforgettable. |
-| 52 | Mole | Describe a vice you pretend to have and why. Advance if you removed this mask to protect someone without revealing your true nature to your enemies. |
-| 53 | Mythmaker | Describe how you want to be remembered in history. Advance if your actions made you a legend or ensured a group would remember your name. |
-| 54 | Nemesis | Describe someone who wronged you and what they did. Advance if your actions helped you achieve revenge or stop a similar injustice. |
-| 55 | Old Dog | Describe your past exploits, your retirement, your return to action, and why you can’t go home yet. Advance if you’ve made progress toward returning home or demonstrated that an old dog can still learn new tricks. |
+| 16 | Chameleon | Your worldview and motivations are in a constant state of flux. Explain why. Before each mission, roll **D66** to determine a temporary random core drive, which you’ll use during the mission. After returning to base, the temporary core drive is abandoned, and you revert to being a Chameleon. **Note**: Chameleon has no advancement condition of its own. Instead, you must meet the advancement condition of your temporary core drive. |
+| 21 | Champion | Describe your experiences with the creation, mistreatment, or elimination of humans like you possessing anomalous cognitive abilities. Advance if you prove anomalous humans could and should stand on their own, or if you liberate another anomalous human. |
+| 22 | Conspiracist | Describe a commonly known fact that is actually wrong, and explain the much more **complex** truth. Advance if you make things even more complicated or obscured important truths. |
+| 23 | Contractor | Describe how you ended up working with these weirdos in your squad. Advance if the mission goes as planned and you receive your pay. |
+| 24 | Corpsman | Describe your medical training and share the story of your renowned, unconventional mentor and teacher. Advance if no team member dies on the mission. |
+| 25 | Cultist | Describe your fringe religious sect and the doomsday prophecy you believe in. Advance if you recruit an important figure into your cult or move events closer to your prophesied doomsday. |
+| 26 | Damned | Describe the abject woe that’s befallen you. Advance if an event worsens your suffering or if you share your misery with someone. |
+| 31 | Deathwish | Describe how you came to believe that nothing truly matters. Advance if you show no fear of death or self-preservation during the mission. |
+| 32 | Drifter | Describe the event that set you drifting from place to place, never staying for long. Advance if you leave no trace of your presence by the end of a mission, or if someone you meet will always miss you. |
+| 33 | Emissary | Describe your vision for a world where anomalous cognitive abilities are accepted and normalized. Advance if you foster empathy and understanding between anomalous humans and the rest of the world. |
+| 34 | Exile | Describe where you’re from and how you came to be stranded here. Advance if you make progress on one day return or contact someone from that place. |
+| 35 | Fallout | Describe a complex catastrophe you’re responsible for. Advance if you help mitigate its aftermath. |
+| 36 | Feral | Describe the war-torn country where you learned to survive on nothing as a child. Advance if you contribute meaningfully to the mission without help from team members. |
+| 41 | Greenhorn | Describe your ideal “first mission.” Advance (and then select a new core drive) if the mission goes as you hope. Otherwise, advance if team members saves your life at the last moment. |
+| 42 | Hothead | Describe your hopes for the future that others have belittled. Advance if a mission event helps you grow or proves your worth to a team member. |
+| 43 | Iron Code | Describe an honorable, legendary warrior or leader you admire and aspire to emulate. Advance if you fight and defeat a powerful enemy using that person’s personal philosophy. |
+| 44 | Latent | Describe the difficulty of finding a cause or purpose, or something to fight for. Advance if you overcome a challenge beyond your expected ability. |
+| 45 | Liaison | Describe the relationships you prefer to build. Advance if you forge a new one or mend a broken one, and if that changes the mission’s course. |
+| 46 | Lifeline | Describe the person or entity that depends on you and your work. Advance if you discover something that would delight them and bring it to the end of the mission. |
+| 51 | Lone Wolf | Describe why you’ve lost all faith in others and trust only yourself. Advance if you do something during the mission that no one else did, something unforgettable. |
+| 52 | Mole | Describe something you pretend to be or to have and why. Advance if you drop your deception to help someone without revealing your true nature to others. |
+| 53 | Mythmaker | Describe how you want to be remembered by history. Advance if your actions make you a legend or ensure a group would remember your name. |
+| 54 | Nemesis | Describe someone who wronged you and what they did. Advance if your actions helped you achieve your revenge or stop a similar injustice. |
+| 55 | Old Dog | Describe your past exploits, subsequent retirement, return to action, and why you can’t go home yet. Advance if you’ve make progress toward returning home or demonstrate that an old dog can still learn new tricks. |
 | 56 | Puppetmaster | Describe your plan for absolute power. Advance if your actions bring you closer to holding extreme power over a large group. |
 | 61 | Rationalist | Describe your well-vetted, rational worldview. Advance if you offer an honest, reasonable explanation for unfamiliar paranormal phenomena you encounter and are later proven correct. |
 | 62 | Redeemer | Describe a shameful, horrible decision from your past. Advance if something you did atoned for your sins or changed your view of your past deeds. |
