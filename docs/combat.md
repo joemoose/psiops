@@ -125,7 +125,13 @@ For weapons or other attack types not listed on the Combat Weapons list, the GM 
 
 ### Blast Damage
 
-Attacks with the *blast* quality, such as explosives, can affect multiple targets in a confined area. To determine the number of targets, roll **1D6 + the weapon's damage modifier**. The result is the number of targets affected.
+Attacks with the *blast* quality, such as explosives, can affect multiple targets in a zone. To determine how many targets are affected by the blast, roll **1D6 + the weapon's damage modifier**. The sum is the number of targets affected in the zone. See [Zones](zones.md).
+
+If there are more targets in a zone than the blast’s target count, the GM randomly determines which targets are hit, up to the number affected. 
+
+!!! note
+
+Against a *mob*, a blast attack removes a number of opponents from the mob equal to the blast’s target count. See [Mobs](#mobs).
 
 ### Multiple Attackers
 
@@ -137,21 +143,23 @@ The effectiveness of your attacks is modified by weapon type, optimal engagement
 
 ### Distance Modifiers
 
-Each weapon class has a distinct optimal engagement distance. Depending on your weapon type and the distance to your target, your *attack roll* may be at *advantage*, *disadvantage*, or *impossible*. Distance to your target is measured by the number of intervening zones. See [Tactical Zones](zones.md).
+Each weapon type has a distinct optimal engagement distance. Depending on your weapon and the distance to your target, your *attack roll* may have *advantage*, *disadvantage*, or be *impossible*. Distance to your target is measured by the number of intervening zones. See [Tactical Zones](zones.md).
 
 Weapon distance modifiers are as follows:
 
-| Weapon | Same Zone (Close) | 1 Zone (Nearby)  | 2 Zones (Far) | 3 Zones (Distant) | 4+ Zones (Extreme) |
-| - | :-: | :-: | :-: | :-: |
+| Weapon | Same Zone (Close) | 1 Zone (Nearby) | 2 Zones (Far) | 3 Zones (Distant) | 4+ Zones (Extreme) |
+| - | :-: | :-: | :-: | :-: | :-: |
+| **Antiarmor** | impossible | disadvantage | normal | normal | disadvantage |
 | **Assault rifle** | disadvantage | normal | normal | impossible | impossible |
-| **Close-quarters combat** | normal | impossible |  impossible | impossible | impossible |
-| **Heavy weapon** | impossible | disadvantage | normal | normal | disadvantge |
-| **LMG** | impossible | normal | normal |  disadvantage | disdvantage |
-| **Shotgun** | normal | normal | disadvantage |  impossible | impossible |
+| **Combat knife** | normal | impossible | impossible | impossible | impossible |
+| **Combat shotgun** | normal | normal | disadvantage | impossible | impossible |
+| **Command-detonated mine** | advantage | normal | impossible | impossible | impossible |
+| **Frag grenade** | normal | normal | impossible | impossible | impossible |
+| **Grenade launcher** | impossible | normal | normal | disadvantage | impossible |
+| **LMG** | impossible | normal | normal | normal | disadvantage |
 | **Sidearm** | normal | advantage | disadvantage | impossible | impossible |
 | **SMG** | normal | advantage | disadvantage | impossible | impossible |
 | **Sniper rifle** | impossible | disadvantage | advantage | normal | normal |
-| **Thrown** | normal | normal |  impossible  |  impossible  | impossible |
 
 ### Tactical Modifiers
 
@@ -167,15 +175,15 @@ At the start of a mission, all your small arms have an *ammo rating* of **6**.
 Each time you attack, your weapon’s *ammo rating* may decrease as follows:
 
 - If your *attack roll* **fails**, reduce your weapon's *ammo rating* by **1**.
-- If your *attack roll* is a **partial** or **complete** success, you do **not** reduce your *ammo rating*. 
+- If your *attack roll* is a **success** (*partial*, *complete*, or *critical*), you do **not** reduce your *ammo rating*. 
 
 When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
 
 ### Resupply
 
-You can resupply your ammunition in several ways: carrying extra ammunition in your inventory, using your *tactical supplies*, or restocking at a *laying-up point*. See [Rest and Recovery](combat.md#rest-and-recovery).
+You can resupply your ammunition in several ways: carrying extra ammunition in your inventory, using your *tactical supplies*, or restocking at a *laying-up position*. See [Rest and Recovery](combat.md#rest-and-recovery).
 
-If you recover enemy ammunition during the mission, it increases the *ammo rating* of **one** of your weapons by **1** point.
+If you recover enemy ammunition during the mission, it increases the *ammo rating* of **one** weapon by **1**.
 
 !!! note
 
@@ -242,9 +250,9 @@ See [Injuries](#injuries), [Fatigue](#fatigue), and [Stress](stress.md#reaching-
 
 ### Stabilizing Incapacitated Team Members
 
-Stabilizing an *incapacitated* team member requires a unit of medical supplies, such as the IFAK in your basic kit. If you have medical supplies, you automatically stabilize an incapacitated team member **after** combat ends.
+Stabilizing an *incapacitated* team member requires a unit of medical supplies, such as the IFAK in your basic kit. If you have medical supplies, you **automatically** stabilize incapacitated team members **after** combat ends.
 
-If you need to stabilize an incapacitated team member **during** combat, the action is complex and risky. The GM then uses a *mission clock* to track your progress. See [Mission Clocks](playing.md#mission-clocks).
+If you need to stabilize an incapacitated team member **during** combat, the action is complex and risky. The GM uses a *mission clock*, typically with 4 segments, to track your progress. See [Mission Clocks](playing.md#mission-clocks).
 
 To **stabilize a team member in combat**, move a unit of medical supplies into your hand, then make a *stabilization roll*. Roll **2D6 + TACTICS**. Apply the result as follows:
 
@@ -259,7 +267,9 @@ To **stabilize a team member in combat**, move a unit of medical supplies into y
 
 </div>
 
-Once all segments are marked off the clock, the incapacitated team member is stabilized. Stabilized operators are conscious and back on their feet, though at **0 HP**. Any damage immediately reduces their HP below zero, triggering another *wound roll*.
+Once all segments are marked off the clock, the incapacitated team member is stabilized.
+
+Stabilized operators are conscious and back on their feet, though at **0 HP**. Any damage immediately reduces their HP below zero, triggering another *wound roll*.
 
 ### Injuries
 
@@ -279,7 +289,7 @@ All *fatigue* you sustain must be stored in your **inventory** as an abstract it
 
 ### Recovering Hit Points and Fatigue
 
-Lost *hit points* can be restored, and *fatigue* removed by resting at a *laying-up point*. See [Rest and Recovery](#rest-and-recovery).
+Lost *hit points* can be restored, and *fatigue* removed by resting at a *laying-up position*. See [Rest and Recovery](#rest-and-recovery).
 
 Some neural weapons can also restore lost HP and remove fatigue. See [Neural Weapons](character.md#neural-weapons).
 
@@ -304,7 +314,7 @@ Cover is rated as follows:
 
 The damage reduction from hard cover is in **addition** to your personal protective system’s *armor rating*. The maximum damage reduction from your personal protective system is capped at **3** points. When behind hard cover, your total damage reduction includes **both** your armor rating and the **+1** cover bonus.
 
-Hard cover protects against certain types of damage that bypass ballistic body armor, such as intense flames. The GM will let you know. See [Personal Protective Systems](equipment.md#personal-protective-system).
+Hard cover protects against certain types of damage that bypass ballistic body armor, such as intense flames. The GM will let you know. See [Personal Protective System](equipment.md#personal-protective-system).
 
 ### Damage Reduction Summary
 
@@ -318,17 +328,26 @@ You can reduce the damage you take by using a personal protective system and by 
 
 !!! example
 
-	An operator crouches behind a 55-gallon drum. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by 1 point. The operator wears tier-3 ballistic body armor (3 armor rating) and a helmet (+1 armor), resulting in a damage reduction of *3* rather than 4 because the helmet’s +1 bonus to the armor rating exceeds the personal protective system’s 3-point damage-reduction maximum. If hit by hostile fire, the total damage reduction would be 3 (armor) + 1 (hard cover) = 4 points.
+	An operator crouches behind a concrete barrier. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by 1 point. The operator wears heavy ballistic body armor (3 armor) and a helmet (+1 armor), resulting in a damage reduction of *3* rather than 4 because the helmet’s +1 bonus to the armor rating exceeds the 3-point damage-reduction cap. If hit by hostile fire, the total damage reduction would be 3 (armor) + 1 (hard cover) = 4 points.
 
 	Continuing the example, assume the operator is attacked with a flamethrower. Ballistic body armor and helmets do not reduce this type of damage, but hard cover still does. The total damage reduction would be 1 point. 
 
 ## Suppressing Fire
 
-When you attack an enemy with a ranged weapon, you can instead lay down *suppressing fire*. This consumes **1 ammo**, deals no damage, and forces the target to dive for cover and remain pinned down until their next combat round.
+Instead of making a ranged attack, you can lay down *suppressing fire* on a *zone*.
 
-Suppressing fire affects all enemies in the targeted zone. You can’t suppress targets in the **same** zone as you. See [Zones](zones.md).
+Suppressing fire saturates a *zone* with automatic fire, forcing targets to keep their heads down and take cover. It automatically affects **all** targets within the *zone*, friend or foe. See [Zones](zones.md).
 
-If a suppressed enemy takes any action that makes them visible to you, you can make an immediate **free attack** with *advantage* that interrupts their turn. This free attack’s damage isn’t reduced by cover. Unless opponents are fanatical or mindless, suppressed targets will generally remain pinned down behind cover.
+Only automatic weapons, including assault rifles, SMGs, machine guns, and similar weapons, can provide suppressing fire.
+
+- Suppressing fire requires **no** *attack roll*.
+- Suppressing fire deals **no** damage.
+- Suppressing fire consumes **1** ammo.
+- You cannot suppress the *zone* you occupy.
+
+All affected creatures are pinned for their combat round. Pinned targets generally remain behind cover and avoid exposing themselves unless they have no other choice or are fanatical or mindless.
+
+If a pinned target becomes visible to you, for example, by attacking or moving out of cover, you may immediately interrupt their turn to make a **free attack with advantage** against them.
 
 ## Neural Weapons
 
@@ -342,7 +361,7 @@ To activate your neural weapon, make a *neural attack roll*. Roll **2D6 + WILLPO
 
 | Roll | Result |
 |:----:|:-------|
-| **6–** | Your neural weapon **doesn’t activate**, and you take **1** *fatigue*. See [Fatigue](#fatigue).<br/>You can’t activate this neural weapon again during the mission unless you rest at a *laying-up point*. See [Rest and Recovery](#rest-and-recovery). |
+| **6–** | Your neural weapon **doesn’t activate**, and you take **1** *fatigue*. See [Fatigue](#fatigue).<br/>You can’t activate this neural weapon again during the mission unless you rest at a *laying-up position*. See [Rest and Recovery](#rest-and-recovery). |
 | **7–9** | The power **manifests**, but you take **1** *fatigue*. |
 | **10–12** | The power **manifests**. |
 | **13+** | The power **manifests**. The effect is greater than expected. Work with the GM to determine what else happens. |
@@ -351,11 +370,18 @@ To activate your neural weapon, make a *neural attack roll*. Roll **2D6 + WILLPO
 
 ### Ongoing Effects and Concentration
 
-Neural weapons described as *ongoing* require concentration to keep the power active after activation.
+Many neural weapons require *concentration* to sustain their effects. As long as concentration is maintained each combat round, the effect persists. 
 
-- You must spend an *action* each combat round to maintain concentration and keep the power active.
-- If you take damage while concentrating, your focus is disrupted, and the neural weapon’s effect ends.
+Neural weapons that **do not** require concentration are one-shot — you must reactivate them each time. An ongoing neural weapon needs to be reactivated only if concentration is broken. 
 
+- To keep an ongoing neural weapon’s effect active, you must spend an *action* each combat round to maintain concentration.
+- If you declare any action other than concentrating at the start of your combat round, the neural weapon’s effect ends immediately.
+- If you take damage while concentrating, your focus is disrupted, and the neural weapon’s effect ends immediately.
+
+!!! note
+
+	You are still free to **move** into another zone during your round; only an action is required to maintain concentration. Any movement you initiate does not break your concentration.
+	
 ## Retreating
 
 Retreating from a fight while engaged in combat can leave the retreating force vulnerable to further attack.
@@ -376,23 +402,39 @@ Retreating from a fight while engaged in combat can leave the retreating force v
 
 ## Mobs
 
-When facing many weak, similar opponents, such as untrained guards or street thugs, the GM can merge them into a *mob* treated as a single opponent in combat.
+When facing a large number of relatively weak, identical opponents, such as a group of untrained guards, the GM may merge them into a *mob*. A mob is treated as a **single** opponent in combat rather than as many individuals. This abstraction can speed up gameplay and allow for large swarms of nonhuman opponents.
 
-The **number of opponents** in a mob determines its *hit points*, *armor*, and *attacks per round*, as shown in the table below. A mob’s attacks deal **+1 damage**.  
+### Stats
+
+The mob’s *hit points*, *armor rating*, and the number of attacks per round depend on how many individual opponents are grouped together, as follows:
 
 | Number | Armor | Attacks |
 | :-: | :-: | :-: |
-| 1–4 | 0 | 1 |
-| 5–8 | 0 | 2 |
+| 1–4 | 2 | 1 |
+| 5–8 | 1 | 2 |
 | 9–12 | 1 | 3 |
-| 13–16 | 2 | 4 |
-| 17–20+ | 3 | 5 |
+| 13–16 | 0 | 4 |
+| 17+ | 0 | 5 |
 
-Each point of damage reduces the **number** of hostiles in the mob by **1**, which in turn lowers the mob’s related stats.
+Regardless of a mob’s size, its damage modifier is fixed, typically at **+1**. Your GM will let you know. 
+
+!!! note
+
+	You’ll notice that armor increases as the numbers decrease. The mob isn’t equipping more body armor. Rather, mobs with larger numbers are denser and easier to hit. 
 
 !!! example
 
-	An operator faces a mob of 14 enemies. The mob’s stats are 14 HP and 2 ARMOR. Each round, the mob can attack up to 4 opponents. After taking 5 damage, the mob’s size drops to 9, and its stats become 9 HP and 1 ARMOR. Consequently, the mob can now attack up to 3 targets each round.
+	The GM merges 10 opponents into a single mob. The resulting mob, with 10 members, has **1** armor, **+1** damage, and can attack up to **3** times per combat round. 
+ 
+### Attacking a Mob
+
+For **each point** of damage a mob takes, the number of members in the mob decreases by **1**. The number of members in the mob can be considered its HP.
+
+As the number of members decreases, the mob’s stats also decrease. Once a mob reaches **0** members, it is eliminated.
+
+!!! example
+
+	An operator faces a mob of **14** members with 2 armor and 4 attacks. The operator's attack deals **4** points of damage to the mob, reducing it to **10** members. Because of the smaller size, 10 versus the original 14, the mob’s stats decrease to 1 armor and 3 attacks.
 
 ## Emergency Deployment
 
@@ -404,8 +446,8 @@ If your character dies, create a new one while the game continues. When you’re
 |:----:|:-------|
 | **6–** | Your deployment encounters a **complication**. The GM will let you know. |
 | **7–9** | You deploy normally. |
-| **10–12** | You deploy normally and gain **one extra** tactical supply. |
-| **13+** | You deploy normally, gain **one extra** tactical supply, and your next *action roll* has *advantage*. |
+| **10–12** | You deploy normally and optionally gain **one extra** tactical supply. |
+| **13+** | You deploy normally, optionally gain **one extra** tactical supply, and your next *action roll* has *advantage*. |
 
 </div>
 
@@ -413,19 +455,18 @@ If your character dies, create a new one while the game continues. When you’re
 
 Once per mission, your squad can *rally*. The GM designates a nearby *laying-up position (LUP)* and describes any obstacles to reaching it. Arriving at the LUP lets your squad rest and reorganize. Your LUP is always concealed and defensible. You can rally once per mission. 
 
-Reaching the LUP has the following effects:
+Reaching the LUP automatically has the following effects:
 
 - Your *momentum* resets to its initial value of **2** points.
 - Reactivate any *neural weapons* that are no longer usable.
 - Remove all *panicked* and *locked-in* effects.
 
-Additionally, choose **one** benefit from the following list:
+Additionally, choose **one** benefit from the following options:
 
-- **INTEL**: Ask a single question about the mission, and the GM will reply with a “yes” or “no.”
-- **PATCH UP**: Recover **1D6 HP**.
-- **RECUPERATE**: Remove **1D6** *stress* and **1D3** *fatigue*.
-- **RESUPPLY**: Add **one** unit of tactical supplies to your inventory.
+| Benefit | Description |
+| - | - |
+| INTEL | Ask a single question about the mission, and the GM will reply with a “yes” or “no.” |
+| PATCH UP | Recover **1D6 HP**, as long as you have medical supplies, such as the IFAK in your basic kit. |
+| RECUPERATE | Remove **1D6** *stress* and **1D3** *fatigue*. |
+| RESUPPLY | Add **one** unit of tactical supplies to your inventory. |
 
-!!! note
-
-	You **cannot** recover hit points without medical supplies, such as an IFAK in your basic kit.

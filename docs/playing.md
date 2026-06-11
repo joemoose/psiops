@@ -56,14 +56,7 @@ When you created your character, you assigned a *score* to each of your characte
 
 To make an *action roll*, roll **2D6 + Attribute**. 
 
-!!! example
-
-	If the roll is **2D6 + STRENGTH** and your Strength is *3*, you would roll 2D6 + 3.
-See the following section to determine the result.
-
-### Results
-
-The **sum** of the 2D6 + ATTRIBUTE *action roll* determines how well you succeed at your action, as shown in the following list:
+The **sum** of the dice and the attribute score determines how well you succeed at your action, as shown in the following list:
 
 <div class="roll-table" markdown="1">
 
@@ -136,15 +129,15 @@ Examples of *action roll* modifiers follow.
 
 #### Advantage Scenario
 
-You’re firing a rifle from a rooftop at a target on the street (advantage). Roll 3D6 + REFLEXES [3], getting 4, 6, and 1. Discard the 1. Total: 4 + 6 + 3 = 13. *Critical success*.
+You’re firing a rifle from a rooftop at a target on the street (advantage). Roll 3D6 + REFLEXES (2), getting 5, 6, and 3. Discard the 3. Total: 5 + 6 + 2 = 13. *Critical success*.
 
 ### Disadvantage Scenario
 
-You’re firing a rifle from the street at a rooftop target (disadvantage). Roll 3D6 + REFLEXES [3], getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Total: 3 + 1 + 3 = 7. *Fail*.
+You’re firing a rifle from the street at a rooftop target (disadvantage). Roll 3D6 + REFLEXES [3], getting 2, 2, and 1. Discard one 2 because two 2s are the highest rolls. Total: 2 + 1 + 3 = 6. *Fail*.
 
 ### Specialization Scenario
 
-You’re firing a rifle from the street at a rooftop target (disadvantage) and have the *Gun Combat: Rifle* specialization (+1, since it applies). Roll 3D6 + REFLEXES [3], getting 1, 5, and 2. Discard the 5. Total: 1 + 2 + 3 + 1 = 7. *Partial Success*. Your specialization secured the hit. 
+You’re firing a rifle from the street at a rooftop target (disadvantage) and have the *Small Arms: Rifle* specialization (+1, since it applies). Roll 3D6 + REFLEXES [3], getting 1, 5, and 2. Discard the 5. Total: 1 + 2 + 3 + 1 = 7. *Partial Success*. Your specialization secured the hit. 
 
 ## Momentum
 
@@ -154,7 +147,7 @@ You start each mission with **2 momentum points** and gain additional points by 
 
 ### Gain Momentum
 
-When you make an **action roll**, in addition to the result of the roll, gain *momentum* as follows:
+When you make an *action roll*, in addition to the result of the roll, gain *momentum* as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -173,7 +166,7 @@ When you make an **action roll**, in addition to the result of the roll, gain *m
 
 As you gain momentum, points accumulate until you spend them. See the following section. 
 
-Unspent momentum **resets** to its starting value of **2** when resting at a *laying-up point* or returning to base after a mission. See [Rest and Recovery](combat.md#rest-and-recovery).
+Unspent momentum **resets** to its starting value of **2** when resting at a *laying-up position* or returning to base after a mission. See [Rest and Recovery](combat.md#rest-and-recovery).
 
 ### Spend Momentum
 
@@ -181,46 +174,46 @@ You can spend your *momentum* points to gain bonuses to your actions or to avoid
 
 | Option | Cost | Bonus |
 | - | :-: | - |
-| ASSIST | 1 | Grant *advantage* to a team member’s *action roll*. |
-| PUSH YOURSELF | 2 | Gain *advantage* on your action roll, improve the result of a successful action roll, or take an extra action in a combat round. |
+| ASSIST | 1 | Grant *advantage* to a team member’s action roll. |
+| PUSH YOURSELF | 2 | Gain *advantage* on your action roll. |
 | EXPLOIT | 3 | Increase the effect of a successful result. |
 | SURGE | 4 | Take another action. |
-| EVADE | 5 | Roll to avoid the *consequence* of a failed action roll. |
-| FLASHBACK | 6 | Retroactively establish your pre-mission preparation. |
+| EVADE | 5 | Avoid the *consequence* of a failed action roll. |
+| FLASHBACK | 6 | Retroactively establish your pre-mission preparation or a discovery. |
 
 Details for each option follow. 
 
 #### Assist
 
-Spend **1 momentum** point to *assist* a team member, granting *advantage* on their next *action roll*. Assisting exposes you to the same risk the team member faces. 
+Spend **1 momentum** to *assist* a team member, granting them *advantage* on their next *action roll*. Assisting exposes you to the same risk the team member faces. 
 
 #### Push Yourself
 
-Spend **2 momentum** points to gain *advantage* on your next *action roll*.
+Spend **2 momentum** to gain *advantage* on your next *action roll*.
 
 #### Exploit
 
-Spend **3 momentum** points to enhance the effect of a **successful** action roll, whether it’s a *partial* or *complete* success. The GM increases the scale, speed, effectiveness, or secondary benefits of your action. If the success was partial, you’ll still take the *complication*.
+Spend **3 momentum** to enhance the effect of a **successful** action roll, whether it’s a *partial* or *complete* success. The GM increases the scale, speed, effectiveness, or secondary benefits of your action. If the success was partial, you’ll still take the *complication*.
 
 #### Surge
 
-Spend **4 momentum** points to take an additional *action* during a combat round. For details on combat, see the [Combat section](combat.md). You can take even more actions, spending 4 momentum per activation. 
+Spend **4 momentum** to take an additional *action* during a combat round. For details on combat, see the [Combat section](combat.md). You can take even more actions, spending 4 momentum per activation. 
 
 #### Evade
 
-Spend **5 momentum** points to avoid the *consequence* of a failed *action roll*. Your action still **fails**, but you no longer suffer that *consequence*.
+Spend **5 momentum** to avoid the *consequence* of a failed *action roll*. Your action still **fails**, but you no longer suffer that *consequence*.
 
 See [Consequences of Failing](#consequences-of-failing).
 
 !!! example
 
-	While being pursued by the enemy, you attempt to scale a wall. Your REFLEXES action roll fails. You not only fail to make it over the wall but also take a consequence described by the GM, landing flat on your back and dropping your weapon.
+	While being pursued by the enemy, you attempt to scale a wall. Your REFLEXES action roll *fails*. You not only fail to make it over the wall but also take a *consequence* described by the GM, landing flat on your back and dropping your weapon.
 	
-	You can spend 4 momentum to evade this consequence. You still won’t make it over the wall, but at least you’re on your feet, combat-ready, with your rifle at the ready. 
+	You can spend 5 momentum to *Evade*. You still won’t make it over the wall, but at least you’re on your feet, combat-ready, with your rifle at the ready. 
 
 #### Flashback
 
-Spend **6 momentum** points to establish that you did something before the mission or found something during the mission that had not been noticed before. The flashback retroactively adds those preparations to the current mission.
+Spend **6 momentum** to establish that you did something before the mission or found something during the mission that had not been noticed before. The flashback retroactively adds those preparations to the current mission.
 
 !!! example
 

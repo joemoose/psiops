@@ -40,9 +40,9 @@ Roll **2D6 + Attribute**.
 
 </div>
 
-### Momentum
+### Gain Momentum
 
-When you make an **action roll**, in addition to the result of the roll, gain *momentum* as follows:
+When you make an *action roll*, in addition to the result of the roll, gain *momentum* as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -57,12 +57,14 @@ When you make an **action roll**, in addition to the result of the roll, gain *m
 
 #### Spend Momentum
 
-| Option | Cost | Effect |
-| :- | :-: | :- |
-| ASSIST | 1 | Grant *advantage* to a team member's *action roll*. |
-| PUSH YOURSELF | 2 | Gain *advantage* on your action roll, improve the result of a successful action roll, or take an extra action in a combat round. |
-| EVADE | 4 | Roll to avoid the *consequence* of a failed action roll. |
-| FLASHBACK | 8 | Retroactively establish your pre-mission preparation. |
+| Option | Cost | Bonus |
+| - | :-: | - |
+| ASSIST | 1 | Grant *advantage* to a team member’s *action roll*. |
+| PUSH YOURSELF | 2 | Gain *advantage* on your action roll. |
+| EXPLOIT | 3 | Increase the effect of a successful result. |
+| SURGE | 4 | Take another action. |
+| EVADE | 5 | Avoid the *consequence* of a failed action roll. |
+| FLASHBACK | 6 | Retroactively establish your pre-mission preparation. |
 
 ### Initiative Roll
 
@@ -116,11 +118,11 @@ Roll **2D6 + WILLPOWER** and apply the following result:
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|:-------|
-| **6–** | Your neural weapon **doesn't activate**, and you take **1** *fatigue*.<br/>You can also **no longer** activate this neural weapon during the mission. |
+|:-:|-|
+| **6–** | Your neural weapon **doesn’t activate**, and you take **1** *fatigue*.<br/>You **can’t activate** this neural weapon again during the mission unless you rest at a *laying-up position*. |
 | **7–9** | The power **manifests**, but you take **1** *fatigue*. |
-| **10–12** | The power **manifests**.  |
-| **13+** | The power **manifests**. The effect is greater than expected. Work with the GM to specify what else happens. |
+| **10–12** | The power **manifests**. |
+| **13+** | The power **manifests**. The effect is greater than expected. Work with the GM to determine what else happens. |
 
 </div>
 
@@ -134,8 +136,8 @@ When you reach 0 HP or lower, roll **2D6 + STRENGTH**, then **subtract** the num
 |:----:|:-------|
 | **6–** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *injuries*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. See the following section. |
-| **10–12** | You're *knocked down*, unconscious but stable at **1 HP**. Take **1** *injury*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you're wearing a helmet, you're still knocked down but not unconscious. Spend 1 action to climb to your feet. |
-| **13+** | You take **1** *injury*, but you're **relentless** with **1D6 current HP**, up to your maximum. You are one tough SOB. |
+| **10–12** | You're *knocked down*, unconscious but stable at **1 HP**. Take **1** *injury*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you're wearing a helmet, you're still knocked down but conscious. Spend 1 action to climb to your feet. |
+| **13+** | You take **1** *injury*, but you're **relentless** with **1D6 current HP**, up to your maximum. You're one tough SOB. |
 
 </div>
 
@@ -162,14 +164,14 @@ When you reach 6 *stress*, roll **2D6 + WILLPOWER** and apply the following resu
 
 | Roll | Result |
 | :----: | ------- |
-| **6–** | You **panic**. Roll **1D6** and see the following [Panicking table](#panicking) for the effect. |
+| **6–** | You **panic**. Roll **1D6** and see the following [Panicked table](#panicked) for the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You are **locked into the flow** of combat. Remove **all** stress, then roll **1D6** and see the following [Locked-In table](#locked-in) for the effect. |
+| **13+** | You are **locked-in to the flow** of combat. Remove **all** stress, then roll **1D6** and see the following [Locked-In table](#locked-in) for the effect. |
 
 </div>
 
-#### Panicking
+#### panicked
 
 Roll **1D6** and apply the result:
 

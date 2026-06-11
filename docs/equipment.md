@@ -80,7 +80,7 @@ Tactical supplies are items of tactical equipment, such as climbing gear, flashl
 
 When you need a piece of tactical gear you don’t have, request it from your tactical supplies. If the GM agrees the item qualifies as a tactical supply (see the following [examples](#examples)), remove one unit of *tactical supply* from your inventory and replace it with the requested item. The requested item will occupy its standard number of inventory slots. 
 
-These abstracted tactical supplies let you avoid deciding in advance which additional gear to pack beyond your basic kit, weapons loadout, and mission-specific gear. Equipment classified as tactical supplies can always be added to your inventory separately and carried on the mission. Spent tactical supplies can be resupplied at a *laying-up point*. See [Rest and Recovery](combat.md#rest-and-recovery).
+These abstracted tactical supplies let you avoid deciding in advance which additional gear to pack beyond your basic kit, weapons loadout, and mission-specific gear. Equipment classified as tactical supplies can always be added to your inventory separately and carried on the mission. Spent tactical supplies can be resupplied at a *laying-up position*. See [Rest and Recovery](combat.md#rest-and-recovery).
 
 ### Examples
 
@@ -114,7 +114,7 @@ Items that aren’t classified as tactical supplies include weaponry, complex de
 
 ## Combat Weapons
 
-You may carry any combat weapons you prefer. Weapons are loaded with ammunition. For extended operations, extra ammunition can be carried or replenished from your *tactical supplies* or at a *laying-up point*. See [Rest and Recovery](combat.md#rest-and-recovery).
+You may carry any combat weapons you prefer. Weapons are loaded with ammunition. For extended operations, extra ammunition can be carried or replenished from your *tactical supplies* or at a *laying-up position*. See [Rest and Recovery](combat.md#rest-and-recovery).
 
 | Weapon Type | Damage Modifier | Ammo Rating | Inventory Slots | Notes |
 | :- | :-: | :-: | :-: | :-: |
@@ -138,13 +138,13 @@ Your personal protective system consists of two parts: *ballistic body armor* an
 
 ### Ballistic Body Armor
 
-Ballistic body armor forms the foundation of your protective system. Three tiers of ballistic body armor are available, each offering greater protection at the cost of added weight and bulk. 
+Ballistic body armor forms the foundation of your protective system. Three tiers of ballistic body armor are available: light, medium, and heavy. Each tier offers greater protection at the cost of added weight and bulk. 
 
 #### Armor Rating 
 
-Each tier has an *armor rating* of **1**, **2**, or **3**. When you’re hit by an attack, **subtract** your armor rating from the damage.
+The tiers provide an *armor rating* of **1** (light), **2** (medium), or **3** (heavy). When you’re hit by an attack, **subtract** your armor rating from the damage dealt.
 
-Each tier occupies a number of *inventory slots* equal to its armor rating.
+Each tier takes up a number of *inventory slots* equal to its armor rating.
 
 #### Armor Summary
 
@@ -174,7 +174,7 @@ The **maximum** damage reduction from your personal protective system is capped 
 
 !!! example
 
-	If you wear tier-2 ballistic body armor and have both a riot shield and a helmet equipped, your armor rating is 2 + 1 + 1 = 4. However, the maximum damage reduction is capped at 3, so only 3 points of damage are deducted. 
+	If you wear medium ballistic body armor and have both a riot shield and a helmet equipped, your armor rating is 2 + 1 + 1 = 4. However, the maximum damage reduction is capped at 3, so only 3 points of damage are deducted. 
 
 #### Additional Functionality
 
@@ -253,7 +253,7 @@ Handset squad-coordination radios from the Cold War era are less capable than to
 - Sidearm
 - Rifle
 - Combat knife — GM rules that it's worn on the body but doesn’t require a slot.
-- Tier-1 ballistic body armor
+- Light ballistic body armor
 - Riot shield
 - Demolitions kit
 - Extra ammunition
