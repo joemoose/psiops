@@ -353,7 +353,7 @@ All affected creatures are pinned for their combat round. Pinned targets general
 
 If a pinned target becomes visible to you, for example, by attacking or moving out of cover, you may immediately interrupt their turn to make a **free attack** with *advantage* against them.
 
-### Example
+!!! example
 
 	Your squad is assaulting a bunker patrolled by automated guard drones. An open zone lies between you and the bunker.
 	
