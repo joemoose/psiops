@@ -55,7 +55,7 @@ When you make an *action roll*, in addition to the result of the roll, gain *mom
 
 </div>
 
-#### Spend Momentum
+#### Expend Momentum
 
 | Option | Cost | Bonus |
 | - | :-: | - |
@@ -136,7 +136,7 @@ When you reach 0 HP or lower, roll **2D6 + STRENGTH**, then **subtract** the num
 |:----:|:-------|
 | **6–** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *injuries*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. See the following section. |
-| **10–12** | You're *knocked down*, unconscious but stable at **1 HP**. Take **1** *injury*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you're wearing a helmet, you're still knocked down but conscious. Spend 1 action to climb to your feet. |
+| **10–12** | You're *knocked down*, unconscious but stable at **1 HP**. Take **1** *injury*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you're wearing a helmet, you're still knocked down but remain conscious. Spend 1 action to climb to your feet. |
 | **13+** | You take **1** *injury*, but you're **relentless** with **1D6 current HP**, up to your maximum. You're one tough SOB. |
 
 </div>

@@ -92,7 +92,7 @@ Assign a ***codename*** to your character.
 
 Your operator is ready. The following chapters explain how missions run. Read and know them.
 
-Weapons free, soldier. Oscar Mike.
+Weapons free, soldier. Move out.
 
 ---
 
@@ -141,7 +141,7 @@ You and every team member on your squad have a distinct *core drive* that fuels 
 
 ## Neural Weapons
 
-Neural weapons are your cryptoneurological abilities — anomalous cognitive phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The research division found you and recruited you for your abilities. In the field, they're your edge. 
+Neural weapons are your paracognitive abilities — anomalous neural phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The research division found you and recruited you for your abilities. In the field, they're your edge. 
 
 The following table lists known neural weapon loadouts. Many descriptions refer to game mechanics detailed in the [Field Operations](playing.md) section.
 

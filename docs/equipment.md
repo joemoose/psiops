@@ -35,7 +35,7 @@ The *basic kit* is an abstract container for your standard-issue personal gear. 
 
 The basic kit exists so you don’t have to itemize every item in your personal utility kit before a mission — it’s ready whenever you need it.
 
-When you need an item from the kit, declare it and retrieve it. No inventory slot is required. Your combat fatigues, boots, and other standard-issue clothing or webbing are assumed to be worn. If your basic kit or any of its items are lost or destroyed due to operational circumstances, they’re gone. The kit doesn’t replace them.
+When you need an item from the kit, declare it and retrieve it. No inventory slot is required. Your combat fatigues, boots, and other standard-issue clothing or webbing are assumed to be worn. If your basic kit or any of its items are lost or destroyed due to tactical circumstances, they’re gone. The kit doesn’t replace them.
 
 Items not originally part of a basic kit, such as weapons or recovered equipment, cannot be stored in it.
 
@@ -76,9 +76,9 @@ Your *basic kit* contains the small, sundry, standard-issue personal field equip
 
 ## Tactical Supplies
 
-Tactical supplies are items of tactical equipment, such as climbing gear, flashlights, and ammunition. Each unit takes up **1** inventory slot, and you start each mission with up to **2** units of tactical supplies.
+*Tactical supplies* are items of tactical equipment, such as climbing gear, flashlights, and ammunition. Each unit takes up **1** inventory slot, and you start each mission with up to **2** units of tactical supplies.
 
-When you need a piece of tactical gear you don’t have, request it from your tactical supplies. If the GM agrees the item qualifies as a tactical supply (see the following [examples](#examples)), remove one unit of *tactical supply* from your inventory and replace it with the requested item. The requested item will occupy its standard number of inventory slots. 
+When you need a piece of tactical gear you don’t have, request it using your tactical supplies. If the GM agrees the item qualifies as a tactical supply (see the following [examples](#examples)), remove one unit of tactical supply from your inventory and replace it with the requested item. If the item occupies more slots than the tactical supply it replaces, free enough inventory space first. 
 
 These abstracted tactical supplies let you avoid deciding in advance which additional gear to pack beyond your basic kit, weapons loadout, and mission-specific gear. Equipment classified as tactical supplies can always be added to your inventory separately and carried on the mission. Spent tactical supplies can be resupplied at a *laying-up position*. See [Rest and Recovery](combat.md#rest-and-recovery).
 

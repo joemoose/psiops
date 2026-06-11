@@ -100,7 +100,7 @@ To compare the four types of results for an action roll, consider the following 
 
 ## Modifying Action Rolls
 
-Depending on your current operational circumstances, **action rolls** might have higher or lower odds of success, as described in the following sections.  
+Depending on your current tactical circumstances, **action rolls** might have higher or lower odds of success, as described in the following sections.  
 
 ### Advantage
 
@@ -143,7 +143,7 @@ You’re firing a rifle from the street at a rooftop target (disadvantage) and h
 
 *Momentum* is the tactical edge that separates a decisive operator from a hesitant one. Momentum builds as you progress through your mission and complete risky actions. 
 
-You start each mission with **2 momentum points** and gain additional points by making successful *action rolls*. You can then spend your momentum points to change the outcome of your action rolls. 
+You start each mission with **2 momentum points** and gain additional points by making a *complete* or *critical* success on any *action rolls*. You can then expend your momentum points to change the outcome of subsequent action rolls and events. 
 
 ### Gain Momentum
 
@@ -162,15 +162,15 @@ When you make an *action roll*, in addition to the result of the roll, gain *mom
 
 !!! note
 
-	If you spend momentum to change an action roll, that roll does not, in turn, generate momentum.
+	If you expend momentum to change an action roll, that roll does not, in turn, generate momentum.
 
-As you gain momentum, points accumulate until you spend them. See the following section. 
+As you gain momentum, points accumulate until you expend them. See the following section. 
 
 Unspent momentum **resets** to its starting value of **2** when resting at a *laying-up position* or returning to base after a mission. See [Rest and Recovery](combat.md#rest-and-recovery).
 
-### Spend Momentum
+### Expend Momentum
 
-You can spend your *momentum* points to gain bonuses to your actions or to avoid negative *consequences*. 
+You can expend your *momentum* points to gain bonuses to your actions or to avoid negative *consequences*. 
 
 | Option | Cost | Bonus |
 | - | :-: | - |
@@ -185,23 +185,33 @@ Details for each option follow.
 
 #### Assist
 
-Spend **1 momentum** to *assist* a team member, granting them *advantage* on their next *action roll*. Assisting exposes you to the same risk the team member faces. 
+Expend **1 momentum** to *assist* a team member, granting them *advantage* on their next *action roll*. Assisting exposes you to the same risk the team member faces. 
 
 #### Push Yourself
 
-Spend **2 momentum** to gain *advantage* on your next *action roll*.
+Expend **2 momentum** to gain *advantage* on your next *action roll*.
 
 #### Exploit
 
-Spend **3 momentum** to enhance the effect of a **successful** action roll, whether it’s a *partial* or *complete* success. The GM increases the scale, speed, effectiveness, or secondary benefits of your action. If the success was partial, you’ll still take the *complication*.
+Expend **3 momentum** to improve the result of a **success** on your *action roll*, whether *partial*, *complete*, or “critical”. The GM enhances the outcome of your action, such as increasing its scale, speed, effectiveness, or secondary benefits.
+
+Essentially, you’re turning a partial or complete success into a critical success. If the action was already a critical success, the result could be legendary. Work with your GM to determine the improved outcome. 
+
+!!! note
+
+	If the success was partial, you’ll still take a *complication* in addition to the improved result. 
 
 #### Surge
 
-Spend **4 momentum** to take an additional *action* during a combat round. For details on combat, see the [Combat section](combat.md). You can take even more actions, spending 4 momentum per activation. 
+Expend **4 momentum** to take an extra *action* in a combat round. For details on combat rounds and actions, see [Combat](combat.md). You can expend 4 momentum again to take additional actions as long as you have enough momentum. 
+
+!!! note
+
+	Surge grants one additional action, not an additional move. If you wish to move again, use that action to move.
 
 #### Evade
 
-Spend **5 momentum** to avoid the *consequence* of a failed *action roll*. Your action still **fails**, but you no longer suffer that *consequence*.
+Expend **5 momentum** to avoid the *consequence* of a failed *action roll*. Your action still **fails**, but you no longer suffer that *consequence*.
 
 See [Consequences of Failing](#consequences-of-failing).
 
@@ -209,11 +219,11 @@ See [Consequences of Failing](#consequences-of-failing).
 
 	While being pursued by the enemy, you attempt to scale a wall. Your REFLEXES action roll *fails*. You not only fail to make it over the wall but also take a *consequence* described by the GM, landing flat on your back and dropping your weapon.
 	
-	You can spend 5 momentum to *Evade*. You still won’t make it over the wall, but at least you’re on your feet, combat-ready, with your rifle at the ready. 
+	You can expend 5 momentum to *Evade*. You still won’t make it over the wall, but at least you’re on your feet, combat-ready, with your rifle at the ready. 
 
 #### Flashback
 
-Spend **6 momentum** to establish that you did something before the mission or found something during the mission that had not been noticed before. The flashback retroactively adds those preparations to the current mission.
+Expend **6 momentum** to establish that you did something before the mission or found something during the mission that had not been noticed before. The flashback retroactively adds those preparations to the current mission.
 
 !!! example
 

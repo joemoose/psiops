@@ -4,9 +4,9 @@ During a mission, you will accumulate *stress* — the mental and physical toll 
 
 ## Gaining Stress
 
-A *stress points* number tracks your stress level, starting at **0** at the start of a mission. As the mission progresses, events and circumstances may increase your rating.
+A running total of *stress points* tracks your current stress level, starting at **0** at the beginning of a mission. As the mission progresses, events and circumstances may increase your stress points.
 
-Common sources of stress include:
+Common stressors include:
 
 - Being knocked unconscious
 - Encountering anomalous entities, locations, or events
@@ -19,6 +19,17 @@ Each exposure to a stressor adds **1** point to your stress total.
 
 Keep track of your total stress. Your character sheet includes a place to record your current stress. The GM will inform you when the results of events or actions increase your stress.
 
+### Stress Procedure
+
+Your stress during the mission is handled as follows:
+
+1. You’re exposed to a stressor, such as sustaining an *injury*.
+2. Add **1** to your total *stress*. Your **maximum** stress is capped at 6.
+3. If your stress total reaches **6**, make a *stress roll*.
+4. While at 6 stress, each new stressor triggers another stress roll, even though your total cannot increase further.
+
+See the following sections for details. 
+
 ### Reaching Maximum Stress
 
 If left unchecked, *stress* can degrade your performance and increase the risk of failure.
@@ -29,7 +40,7 @@ When your total stress reaches **6**, you must immediately make a **stress roll*
 
 | Roll | Result |
 |:-:|-|
-| **6–** | You **panic**. Roll **1D6** and consult the [Panicking table](#panicking) to determine the effect. |
+| **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
 | **13+** | You are now **locked-in to** the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in) to determine the effect. |
@@ -46,22 +57,23 @@ All *panicked* and *locked-in* effects persist until the **end** of the mission 
 
 Total stress is capped at **6**. Any stress beyond **6** is not added to your total. Staying at **6** stress does not, by itself, trigger additional rolls. However, a new stressor, even though it doesn’t increase your total, still triggers an immediate stress roll. 
 
-### Panicking
+### Panicked
 
 When you *panic*, roll **1D6** and apply the result as follows:  
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
-| **1** | Compromised | You have **-1 ARMOR**. |
-| **2** | Demoralized | You fail all your *initiative rolls*. |
+| **1** | Compromised | You have **-1 ARMOR**, with a minimum of 0. |
+| **2** | Demoralized | You automatically fail any *initiative roll*. |
 | **3** | Detached | *Disadvantage* on all your *action rolls* that could benefit a team member. |
 | **4** | Rattled | *Disadvantage* on all your *action rolls* in combat. |
 | **5** | Shutdown | You lose all your *momentum* and no longer gain any. |
-| **6** | Volatile | Allies gain **1** stress when you see them fail an *action roll*. |
+| **6** | Volatile | A team member gains **1** stress when you see them fail an *action roll*. |
 
-!!! note
+!!! note "Notes"
 
-	If you panic again and trigger another condition, the effects **stack**.
+	- If you panic again and trigger another condition, the effects **stack**.
+	- Panicked and locked-in conditions can co-exist. Apply all effects currently affecting you. 
 
 ### Locked-In
 
@@ -76,9 +88,10 @@ When you’re locked in, roll **1D6** and apply the result as follows:
 | **5** | Sharp | *Advantage* on all +REFLEXES rolls. |
 | **6** | Steady | When you succeed on an *action roll*, team members within sight of you remove **1** stress. |
 
-!!! note
+!!! note "Notes"
 
-If you lock in again and trigger a different condition, the effects stack.
+	- If you lock in again and trigger a different condition, the effects stack.
+	- Panicked and locked-in conditions can co-exist. Apply all effects currently affecting you. 
 
 ## Removing Stress, Panic, and Lock-In
 

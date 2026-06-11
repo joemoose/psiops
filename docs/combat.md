@@ -29,6 +29,8 @@ A *combat round* is about 6 seconds, enough time to **move once** and take **1 a
 
 Complex actions that take more than 6 seconds may require multiple combat rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a door, or dropping an item, are free and don’t count as your 1 action.
 
+In each round of combat, both your squad and the opposing force take turns moving and taking actions, each as a group. Determining which side takes the first turn is described in the following section. 
+
 ### The First Round and Initiative Roll
 
 Whether you act before the enemy in the **first** round of combat is determined by an *initiative roll*. Roll **2D6 + TACTICS** and apply the result as follows:
@@ -36,33 +38,39 @@ Whether you act before the enemy in the **first** round of combat is determined 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|--------|
-| **6–** | You **do not** act in the first round of combat. The enemy gets the drop on you, and you’ll have to wait until the **second round** to move or take any action.  |
+| :- | - |
+| **6–** | You **do not** act in the first round of combat. The enemy gets the drop on you, so you can’t take an action or move during your turn. You’ll have to wait until the **second round** to move or take any action. |
 | **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
 | **10–12** | You get the drop on the enemy and act **first**. |
 | **13+** | You get the drop on the enemy and act **first**. You gain an *advantage* on your next *action roll*. |
 
 </div>
 
-After the initiative roll, all members of your squad who can act in the first round declare their actions and determine the results. See the following sections for details. 
+After the initiative roll, all members of your squad who can act in the first turn take their turn and resolve their actions. Afterward, the opposing force takes its turn. The first round of combat is complete. 
 
-Afterward, the opposing force takes its turn. The first round of combat is now complete. 
+!!! note
+
+	Like any other action roll, initiative rolls can have *advantage* or *disadvantage* depending on tactical circumstances. 
 
 ### The Second and Subsequent Rounds
 
-In the second and subsequent rounds of combat, you **no longer** roll initiative. You and your squad always act first in each subsequent round, followed by the enemy, until one side is eliminated or withdraws.
+In the second and subsequent rounds of combat, you **no longer** make an *initiative roll*. You and your squad **always** take the first turn, followed by the enemy, until one side is eliminated or withdraws.
 
 ### Ambushes
 
-Circumstances or careful planning can determine which side acts first rather than *initiative rolls*. If you *ambush* the enemy, your squad doesn’t make an initiative roll and instead acts first, gaining *advantage* on all action rolls in the first combat round.
+Who takes the first turn can be determined by circumstances or careful planning rather than by *initiative rolls*. If you *ambush* the enemy, you don’t make an initiative roll. Instead, you take the first turn and gain *advantage* on action rolls.
 
-Afterward, combat proceeds as usual: your squad takes actions, then the opposing force takes actions. Because your squad acts first in the next round, a successful ambush gives you two consecutive rounds of action before the enemy can respond.
+Afterward, combat proceeds as usual: your squad takes the first turn, then the opposing force takes its turn.
 
-If the enemy ambushes you, your squad doesn’t take any action during the first round of combat. In subsequent rounds, combat proceeds as usual.
+!!! tip
+
+	Because your squad always acts first in the second and subsequent rounds, an ambush gives you two consecutive turns before the enemy can respond. This is a powerful tactical advantage. Exploit it. 
+
+If the enemy ambushes you, your squad doesn’t take a turn during the first round of combat. You can take no actions or move, and the enemy goes first. In the second and subsequent rounds, combat proceeds as usual.
 
 ## Simultaneous Squad Actions
 
-In a combat round, your actions and your team members’ actions occur **at the same time**. Everyone declares their actions for the current combat round upfront, before any results are determined. Actions are not declared individually and resolved one by one. 
+During your turn, all your squad’s actions and moves occur **at the same time**. Everyone declares their actions for the current turn upfront, before any results are determined. Actions and moves are not declared individually and resolved one at a time. The GM then manages the sequence for resolving your squad’s action rolls and moves. 
 
 !!! note
 
@@ -74,9 +82,9 @@ You may hold an action and specify a trigger, for example, “I wait until the e
 
 ## Determining the Results
 
-As described in [Actions](playing.md#actions), the outcome of any *risky* or *uncertain* action you attempt is determined by an *action roll*. Because nearly every decision and action you make in combat is perilous, you’ll make an *action roll* whenever you declare an action in a combat round.
+As described in [Actions](playing.md#actions), the outcome of any *risky* or *uncertain* action you attempt is determined by an *action roll*. Because nearly every decision and action you make in combat is perilous, you’ll make an *action roll* whenever you declare an action during your turn.
 
-The following sections provide details on specific combat-related *action rolls*, such as *attacking* and *defending*. Regardless of what you attempt in combat, all actions are resolved using the PsiOps core mechanic: **2D6 + Attribute** to determine the result.  
+The following sections provide details on specific combat-related *action rolls*, such as *attacking* and *defending*. Regardless of what you attempt in combat, all actions are resolved using the PsiOps core mechanic: **2D6 + Attribute**.  
 
 ## Attacking
 
@@ -95,7 +103,7 @@ When you **attack** a target, make an *attack roll*. Roll **2D6 + Applicable Att
 
 ### Applicable Attributes
 
-The *applicable attribute* for your *attack roll* depends on how you describe your attack. Examples:
+The *applicable attribute* for your *attack roll* depends on how you describe the attack. Examples follow:
 
 | Attribute | Example Attack |
 | - | - |
@@ -106,28 +114,28 @@ The *applicable attribute* for your *attack roll* depends on how you describe yo
 
 !!! note
 
-	*Advantage* or *disadvantage* may also apply to your attack roll based on your range to the target. See the [Attack Roll Modifiers](#attack-roll-modifiers).
+	*Advantage* or *disadvantage* may also apply to your attack roll based on your distance to the target or other tactical circumstances. See the [Attack Roll Modifiers](#attack-roll-modifiers).
 
 ### Weapon Damage Modifiers
 
-Your attack's damage modifier is determined by your weapon. Specific modifiers for each weapon class are listed in the Equipment sections. See [Combat Weapons](equipment.md#combat-weapons).
+The damage modifier for your attack is determined by the type of weapon you’re using. Specific modifiers for each weapon type are listed in the Equipment sections. See [Combat Weapons](equipment.md#combat-weapons).
 
 For weapons or other attack types not listed on the Combat Weapons list, the GM uses the following general guidelines to determine damage modifiers:
 
 | Level of Effect | Examples | Modifier |
 | :- | :- | :-: |
 | **Unarmed** | — | -1 |
-| **Minimal** | boot knives, brass knuckles | +0 |
+| **Improvised** | club, shiv | +0 |
 | **Light** | combat knives, sidearms | +1 |
 | **Medium** | rifles, shotguns | +2 |
-| **Devastating** | antiarmor missiles, sniper rifles | +3 |
-| **Anomalous** | \[REDACTED\] | +4 |
+| **Heavy** | antiarmor missiles, sniper rifles | +3 |
+| **Anomalous** | \[*REDACTED*\] | +4 |
 
 ### Blast Damage
 
-Attacks with the *blast* quality, such as explosives, can affect multiple targets in a zone. To determine how many targets are affected by the blast, roll **1D6 + the weapon's damage modifier**. The sum is the number of targets affected in the zone. See [Zones](zones.md).
+Attacks with the *blast* quality, such as explosives or frag grenades, can affect multiple targets in a zone. To determine how many targets are affected, roll **1D6 + the weapon's damage modifier**. The result is the number of targets affected in the zone. See [Zones](zones.md). 
 
-If there are more targets in a zone than the blast’s target count, the GM randomly determines which targets are hit, up to the number affected. 
+All targets caught in the blast then suffer the same *attack roll* results. If there are more targets in a zone than the blast’s target count, the GM randomly determines which targets are hit, up to the total number affected. 
 
 !!! note
 
@@ -135,15 +143,15 @@ Against a *mob*, a blast attack removes a number of opponents from the mob equal
 
 ### Multiple Attackers
 
-If you and other team members attack the same opponent, determine the damage for each attack separately, but apply only the **highest value**. Damage from multiple attackers is not cumulative.
+If you and other team members attack the same target, make all *attack rolls* separately, but apply only the **highest amount of damage**. Damage from multiple attackers is not cumulative.
 
 ## Attack Roll Modifiers
 
-The effectiveness of your attacks is modified by weapon type, optimal engagement distance, and tactical situations. See the following tables for attack modifiers. 
+The effectiveness of your *attack rolls* is modified by weapon type, engagement distance, and tactical circumstances. See the following tables for attack modifiers. 
 
 ### Distance Modifiers
 
-Each weapon type has a distinct optimal engagement distance. Depending on your weapon and the distance to your target, your *attack roll* may have *advantage*, *disadvantage*, or be *impossible*. Distance to your target is measured by the number of intervening zones. See [Tactical Zones](zones.md).
+Each weapon type has a distinct optimal engagement distance. Depending on your weapon and the distance to your target, your *attack roll* may have *advantage*, *disadvantage*, or be *impossible*. Distance to your target is measured by the number of intervening *zones*. See [Tactical Zones](zones.md).
 
 Weapon distance modifiers are as follows:
 
@@ -197,8 +205,8 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2D6 +
 
 | Roll | Result |
 |:----:|:-------|
-| **6–** | You take **damage** equal to the **highest D6 result** plus your enemy’s weapon’s damage modifier. |
-| **7–9** | You take **damage** equal to the **lowest D6 result** plus your enemy’s weapon's damage modifier. |
+| **6–** | You take **damage** equal to the **highest D6 result** plus your enemy’s *damage modifier*. |
+| **7–9** | You take **damage** equal to the **lowest D6 result** plus your enemy’s *damage modifier*. |
 | **10–12** | You take **no** damage. |
 | **13+** | You take **no** damage, and your next *action roll* has *advantage*. |
 
@@ -206,16 +214,20 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2D6 +
 
 ### Applicable Attribute
 
-The *applicable attribute* for your *defense roll* depends on the type of attack you’re trying to avoid. The GM will tell you which attribute applies. Examples:
+The *applicable attribute* for your *defense roll* depends on the type of attack you’re trying to avoid. Examples follow:
 
 | Attribute | Defensive Example |
 | - | - |
 | STRENGTH | An attack that can’t be dodged, such as poisoning or electrocution |
 | REFLEXES | An attack that can be dodged, such as gunfire |
-| TACTICS | An attack that can be avoided through instinctive training and observation, such as avoiding an enemy ambush |
-| WILLPOWER | Resisting a mental attack, such as a neural weapon |
+| TACTICS | An attack that can be avoided through instinctive training and observation, such as an ambush |
+| WILLPOWER | Resisting a mental attack, such as one from a neural weapon |
+
+The GM will suggest which attribute applies to your defense roll.
 
 ## Damage, Wounds, and Dying
+
+Your job is inherently perilous. It may be a matter of when, rather than if, you one day take damage. 
 
 ### Damage
 
@@ -233,7 +245,7 @@ Immediately after being *wounded*, make a *wound roll*. Roll **2D6 + STRENGTH** 
 |:----:|:-------|
 | **6–** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *injuries*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. See the following section. |
-| **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *injury*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you’re wearing a helmet, you’re still knocked down but not unconscious. Spend 1 action to climb to your feet. |
+| **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *injury*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you’re wearing a helmet, you’re still knocked down but remain conscious. Spend 1 action to climb to your feet. |
 | **13+** | You take **1** *injury*, but you’re **relentless** with **1D6 current HP**, up to your maximum. You are one tough SOB. |
 
 </div>
@@ -373,7 +385,7 @@ To activate your neural weapon, make a *neural attack roll*. Roll **2D6 + WILLPO
 
 | Roll | Result |
 |:----:|:-------|
-| **6–** | Your neural weapon **doesn’t activate**, and you take **1** *fatigue*. See [Fatigue](#fatigue).<br/>You can’t activate this neural weapon again during the mission unless you rest at a *laying-up position*. See [Rest and Recovery](#rest-and-recovery). |
+| **6–** | Your neural weapon **doesn’t activate**. You take **1** *fatigue* and can **no longer activate this neural weapon** during the mission unless you rest at a *laying-up position*. See [Fatigue](#fatigue) and [Rest and Recovery](#rest-and-recovery). |
 | **7–9** | The power **manifests**, but you take **1** *fatigue*. |
 | **10–12** | The power **manifests**. |
 | **13+** | The power **manifests**. The effect is greater than expected. Work with the GM to determine what else happens. |
@@ -414,39 +426,39 @@ Retreating from a fight while engaged in combat can leave the retreating force v
 
 ## Mobs
 
-When facing a large number of relatively weak, identical opponents, such as a group of untrained guards, the GM may merge them into a *mob*. A mob is treated as a **single** opponent in combat rather than as many individuals. This abstraction can speed up gameplay and allow for large swarms of nonhuman opponents.
+When facing a large number of relatively weak, identical opponents, such as a rabble of untrained militants, the GM may merge them into a *mob*. A mob is treated as a **single** opponent in combat rather than as many individuals. This abstraction can speed up gameplay and allow for large swarms of nonhuman opponents.
 
 ### Stats
 
-The mob’s *hit points*, *armor rating*, and the number of attacks per round depend on how many individual opponents are grouped together, as follows:
+The mob’s *armor rating* and the number of attacks per round depend on how many opponents are grouped together, as follows:
 
 | Number | Armor | Attacks |
 | :-: | :-: | :-: |
-| 1–4 | 2 | 1 |
+| 1–4 | 1 | 1 |
 | 5–8 | 1 | 2 |
-| 9–12 | 1 | 3 |
+| 9–12 | 0 | 3 |
 | 13–16 | 0 | 4 |
 | 17+ | 0 | 5 |
 
-Regardless of a mob’s size, its damage modifier is fixed, typically at **+1**. Your GM will let you know. 
-
 !!! note
 
-	You’ll notice that armor increases as the numbers decrease. The mob isn’t equipping more body armor. Rather, mobs with larger numbers are denser and easier to hit. 
+	You’ll notice that armor increases as the number of opponents decreases. The mob isn’t equipping more body armor. Rather, larger mobs are less spread out, increasing their target density.
+
+Regardless of a mob’s size, its *damage modifier* is fixed, typically **+1**. Your GM will let you know. 
 
 !!! example
 
-	The GM merges 10 opponents into a single mob. The resulting mob, with 10 members, has **1** armor, **+1** damage, and can attack up to **3** times per combat round. 
+	The GM merges *10* opponents into a single mob. The resulting mob, composed of 10 members, has **1** armor and can attack up to **3** times per combat round. Its damage modifier is set by the GM at +1*.
  
 ### Attacking a Mob
 
-For **each point** of damage a mob takes, the number of members in the mob decreases by **1**. The number of members in the mob can be considered its HP.
+For **each point** of damage a mob takes, its member count decreases by **1**. The number of members can be considered the mob’s HP.
 
-As the number of members decreases, the mob’s stats also decrease. Once a mob reaches **0** members, it is eliminated.
+As the member count decreases, the mob’s stats can change once it crosses the threshold for the next size down. When a mob reaches **0** members, it’s eliminated.
 
 !!! example
 
-	An operator faces a mob of **14** members with 2 armor and 4 attacks. The operator's attack deals **4** points of damage to the mob, reducing it to **10** members. Because of the smaller size, 10 versus the original 14, the mob’s stats decrease to 1 armor and 3 attacks.
+	An operator faces a mob of **14** members with *0* armor and *4* attacks. The operator's attack deals **4** points of damage to the mob, reducing it to **10** members. Because of the smaller size, the mob’s stats change to *1* armor and *3* attacks.
 
 ## Emergency Deployment
 

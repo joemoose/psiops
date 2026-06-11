@@ -8,7 +8,7 @@ If this is your first role-playing game, you’ll be up and running in no time. 
 
 ## Before We Begin
 
-This game can explore dark themes such as violence, psychological stress, and the supernatural. Before your first session, the GM and players should agree on which topics or themes should and shouldn’t be included.
+This game can explore dark themes, including violence, psychological stress, and the supernatural. Before your first session, the GM and players should agree on which topics or themes to exclude.
 
 Anyone at the table can call the following at any time:
 
@@ -30,7 +30,7 @@ Ask questions. Take chances. The game rewards risk-taking.
 
 The core of **PsiOps** is a conversation between you and the game master (GM). The GM describes your current mission situation. You and your fellow players then ask questions and tell the GM what your characters are doing. The GM explains the results of your actions, and you respond by describing more actions, and so on.
 
-If the actions you describe are risky and the outcome isn't immediately clear, you'll roll dice to determine the result.
+If the actions you describe are risky and the outcome isn't immediately clear, you'll roll the dice to determine a result.
 
 The GM answers your questions and always respects your freedom of choice. The GM presents challenges, obstacles, and situations for you to solve and overcome during the mission. However, the game is more than just a story narrated by the GM — it’s an interactive narrative shaped by your and your fellow players' decisions. Think of it as both writing and starring in an action film at the same time. 
 
