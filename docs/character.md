@@ -4,9 +4,24 @@ You won’t make the headlines. You’re an off-ledger operator fighting on a Co
 
 Welcome to the unit, operator. 
 
+## Dice
+
+Before we get started creating your character, here’s a summary of the dice-roll notation in *PsiOps*.
+
+| Dice Roll | Description |
+| :-: | - |
+| **1D3** | Roll one six-sided die, divide the result by 2, and round up. |
+| **1D6** | Roll one six-sided die. |
+| **2D6** | Roll two six-sided dice and add the results. |
+| **D66** | Roll two six-sided dice, but instead of adding the results, read them in order to form a 2-digit number. For example, a 2 followed by a 4 is a **24**. A 1 followed by another 1 is an **11**. |
+
 ## Fielding an Operator
 
-To create your character, follow these steps. Record each step’s result on your character sheet.
+To create your character, follow these steps. Record each step’s result on your character sheet. An [online character sheet](https://docs.google.com/spreadsheets/d/1nXl3zzDPdnynzU9b2nkZ7mkdb1ej1KRLOmVsH0DlBbU/export?format=xlsx) is available.
+
+!!! note
+
+	The equipment you carry is a significant part of fielding your operator. See the [Equipment](equipment.md) section for details and descriptions. 
 
 ---
 
@@ -14,11 +29,18 @@ To create your character, follow these steps. Record each step’s result on you
 
 Assign the scores **2**, **1**, **0**, and **-1** to your four attributes: ***STRENGTH***, ***REFLEXES***, ***TACTICS***, and ***WILLPOWER***, in any order.
 
-Higher scores indicate greater ability. See [Choosing an Attribute](playing.md).
+Attributes represent your character’s innate physical and mental characteristics:
+
+- STRENGTH: Physical power and endurance
+- REFLEXES: Agility and speed
+- TACTICS: Logic and training
+- WILLPOWER: Presence and resolve
+
+Higher scores indicate greater ability. See [Applicable Attributes](playing.md#applicable-attributes).
 
 !!! example
 
-	A physically powerful and tenacious operator who's not particularly dextrous or tactically minded: STRENGTH 2, REFLEXES -1, TACTICS 0, WILLPOWER 1.
+	A physically powerful and headstrong operator who's not particularly dextrous or tactically minded: STRENGTH 2, REFLEXES -1, TACTICS 0, WILLPOWER 1.
 
 ---
 
@@ -54,7 +76,7 @@ Set your maximum ***Hit Points*** to 6 and your starting ***Momentum Points*** t
 
 Add a ***Basic Kit*** and 2 units of ***Tactical Supplies*** to your inventory. Both items are pre-listed on your character sheet.
 
-You can remove 1 or both Tactical Supplies after your mission briefing. See [Basic Kit](equipment.md) and [Tactical Supplies](equipment.md). 
+You can remove 1 or both Tactical Supplies after your mission briefing. See [Basic Kit](equipment.md#basic-kit) and [Tactical Supplies](equipment.md#tactical-supplies). 
 
 ---
 
@@ -62,7 +84,7 @@ You can remove 1 or both Tactical Supplies after your mission briefing. See [Bas
 
 Choose your ***Combat Weapons*** and ***Mission-Specific Equipment***. You can defer these selections until you receive a mission briefing.
 
-See [Combat Weapons](equipment.md) and [Mission-Specific Equipment](equipment.md).
+See [Combat Weapons](equipment.md#combat-weapons) and [Mission-Specific Equipment](equipment.md#mission-specific-equipment).
 
 ---
 
@@ -98,7 +120,7 @@ Weapons free, soldier. Move out.
 
 ## Core Drives
 
-You and every team member on your squad have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an *advancement condition*. If you meet the advancement condition during a mission, you can improve your character’s abilities upon returning to base. See [Character Advancement](playing.md).
+You and every team member on your squad have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an *advancement condition*. If you meet the advancement condition during a mission, you can improve your character’s abilities upon returning to base. See [Character Advancement](playing.md#character-advancement).
 
 | D66 | core drive | Description |
 | :-: | - | - |
@@ -143,14 +165,14 @@ You and every team member on your squad have a distinct *core drive* that fuels 
 
 Neural weapons are your paracognitive abilities — anomalous neural phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The research division found you and recruited you for your abilities. In the field, they're your edge. 
 
-The following table lists known neural weapon loadouts. Many descriptions refer to game mechanics detailed in the [Field Operations](playing.md) section.
+The following table lists known neural weapon loadouts. Many descriptions refer to combat-related game mechanics, such as *distance modifiers* and *damage*. These are detailed in the [Combat](combat.md) section.
 
 | D66 | Neural Weapon | Description |
 | :-: | :- | :- |
 | 11 | Bad Feed | Make a person within a clear, unaided line of sight hallucinate for as long as you maintain concentration. |
 | 12 | Bio Sweep | Sense all life around you, not their exact locations, but a general idea of where or in which direction the lifeform is. |
 | 13 | Booster | Move three times per combat round for as long as you maintain concentration. |
-| 14 | Burnline | Ignite a flammable object within a clear, unaided line of sight, or attack an enemy using **sidearm** range modifiers, dealing **+0** damage that bypasses ballistic body armor. A riot shield reduces damage. If the target takes damage, it ignites, taking **1** damage per combat round with no damage reduction until extinguished. |
+| 14 | Burnline | Ignite a flammable object within a clear, unaided line of sight, or attack an enemy using **sidearm** distance modifiers, dealing **+0** damage that bypasses ballistic body armor. A riot shield reduces damage. If the target takes damage, it ignites, taking **1** damage per combat round with no damage reduction until extinguished. |
 | 15 | Choke | Seize a lifeform’s throat or another known vulnerable spot with mental force, then crush it for **1D6** damage, bypassing armor. |
 | 16 | Expunge | Erase 15 minutes of an event from a person’s memory if they are within a clear, unaided line of sight. Each use lets you extend the erasure by another 15 minutes or erase a new event from memory. Alternatively, you can restore blocked memories. |
 | 21 | Fast Forward | Take two actions in your next combat round. |
@@ -158,31 +180,31 @@ The following table lists known neural weapon loadouts. Many descriptions refer 
 | 23 | Fold | Move instantly to a location within a clear, unaided line of sight, or to a location you’ve previously visited and know well. |
 | 24 | Hard Extract | Compel a person to answer questions truthfully for as long as you maintain concentration. |
 | 25 | Hard Pause | Paralyze a target within a clear, unaided line of sight for as long as you maintain concentration. |
-| 26 | Hard Push | Generate a powerful blast of mental force that attacks with **shotgun** range modifiers, deals **+3** damage, and knocks bipedal targets off their feet. |
+| 26 | Hard Push | Generate a powerful blast of mental force that attacks with **shotgun** distance modifiers, deals **+3** damage, and knocks bipedal targets off their feet. |
 | 31 | Hard Shell | When activated on yourself, gain **+1 armor** and increase the damage-reduction cap to **4**, exceeding the usual cap of **3**, for the duration of combat. If you target another person, the effect lasts only as long as you maintain concentration. You can apply the effect to a target only once per combat. |
 | 32 | Harvest | When you make your next attack, regain HP equal to half the damage you deal (rounded up), up to your maximum. |
 | 33 | Inner Shield | Create an invisible mental shield around you and nearby team members, blocking passive mind-affecting effects for as long as you maintain concentration. If attacked with a neural weapon, gain *advantage* on your defense rolls. |
 | 34 | Leash | Take control of a person within a clear, unaided line of sight, making them your puppet for as long as you maintain concentration. They perform only actions a team member would and won’t harm themselves directly. |
-| 35 | Live Wire | Control nearby electrical energy to recharge batteries, short-circuit devices, or create light shows. Alternatively, attack a target with electricity using a **sidearm’s** range modifiers, dealing **+1** damage and bypassing armor. Gain *advantage* when attacking mechanical or electronic targets. |
+| 35 | Live Wire | Control nearby electrical energy to recharge batteries, short-circuit devices, or create light shows. Alternatively, attack a target with electricity using a **sidearm’s** distance modifiers, dealing **+1** damage and bypassing armor. Gain *advantage* when attacking mechanical or electronic targets. |
 | 36 | Long Look | Observe *or* listen at any location by specifying a direction, distance, and elevation from your position, ignoring intervening objects. The effect lasts for as long as you maintain concentration. |
 | 41 | Meat | Control a corpse within a clear, unaided line of sight for as long as you maintain concentration. The corpse’s current state will limit its abilities. |
 | 42 | Muscle Pump | When activated on yourself, add **+1D3** to your STRENGTH score for the duration of combat. If you target another person, the effect lasts only as long as you maintain concentration. You can apply the effect to a target only once per combat. |
 | 43 | Null | Disappear from view for as long as you maintain concentration. |
 | 44 | Null Weight | Levitate and move in any direction for as long as you maintain concentration. |
 | 45 | Overclock | When activated on yourself, increase all four of your attribute scores by **1** for the duration of combat. If you target another person, the effect lasts only as long as you maintain concentration. You can apply the effect to any target only once per combat. |
-| 46 | Overload | Stun a target within a clear, unaided line of sight each combat round for as long as you maintain concentration. |
-| 51 | Reach | Move objects up to **150 kilograms** within a clear, unaided line of sight for as long as you maintain concentration. Hurl the object as an attack, using **sidearm** range modifiers and dealing **+0** to **+4** damage based on the object’s size. Armor reduces damage. |
+| 46 | Overload | Knock a target unconscious within a clear, unaided line of sight for as long as you maintain concentration. |
+| 51 | Reach | Move objects up to **150 kilograms** within a clear, unaided line of sight for as long as you maintain concentration. Hurl the object as an attack, using **sidearm** distance modifiers and dealing **+0** to **+4** damage based on the object’s size. Armor reduces damage. |
 | 52 | Reflexive Read | Gain *advantage* on your next action roll. This ability can’t affect any target other than you. |
 | 53 | Reskin | Alter a person’s appearance for as long as you maintain concentration. To mimic a specific person’s biometric data, you need a sample of their DNA. |
 | 54 | Restitch | Restore 1 or your TACTICS score HP, whichever is higher, up to the target’s maximum. The target must be within a clear, unaided line of sight and can’t receive Restitch again until they take additional damage. |
-| 55 | Scrub | Remove a negative effect, such as poisoning or panic, from a person within a clear, unaided line of sight, or remove a beneficial effect. |
+| 55 | Scrub | Remove a negative effect, such as panicked conditions, from a person within a clear, unaided line of sight, or remove a beneficial effect. |
 | 56 | Second Wind | Remove **1** stress or **1** fatigue from a target within a clear, unaided line of sight. The target can’t receive Second Wind again until they take more stress or fatigue. |
 | 61 | Soft Read | Read the thoughts of a person within a clear, unaided line of sight for as long as you maintain concentration. |
 | 62 | Stasis | Meditate in a trance-like state without needing food, water, or air for as long as you maintain concentration. |
-| 63 | Thread Work | Manipulate tiny objects with your mind, gaining *advantage* on related *action rolls* for as long as you maintain concentration. You can also attack with **combat knife** range modifiers, dealing **+0 damage** and bypassing armor. |
+| 63 | Thread Work | Manipulate tiny objects with your mind, gaining *advantage* on related *action rolls* for as long as you maintain concentration. You can also attack with **combat knife** distance modifiers, dealing **+0 damage** and bypassing armor. |
 | 64 | Whisper | Plant a hypnotic suggestion in a person within a clear, unaided line of sight. The suggestion lasts until the target completes the task or is damaged by an attack. Targets won’t follow suggestions that would directly harm them. |
 | 65 | Wizard | Create illumination or lighting effects anywhere within a clear, unaided line of sight for as long as you maintain concentration. |
-| 66 | Zero Point | Freeze up to 5 cubic meters of material. You can also attack by freezing, applying **sidearm** range modifiers, dealing **+1 damage**, and bypassing armor. |
+| 66 | Zero Point | Freeze up to 5 cubic meters of material. You can also attack by freezing, applying **sidearm** distance modifiers, dealing **+1 damage**, and bypassing armor. |
 
 ## Advanced Specializations
 

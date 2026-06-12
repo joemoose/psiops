@@ -23,11 +23,9 @@ The number of inventory slots each piece of equipment occupies depends on its si
 - Ballistic armor occupies **1–3** slots, depending on its level of protection.
 - Equipment that requires two people to lift can’t be stored in your inventory. Other transport methods will be needed.
 
-The GM can help you clarify the required inventory slots for all your equipment. 
-
 ### Retrieval
 
-During a *combat round*, retrieving an item from your rucksack requires an *action*. Retrieving an item carried in a body slot is a *free action*. See [Combat Rounds](combat.md#combat-rounds).
+During a *combat round*, retrieving an item from your rucksack requires an *action*. Retrieving an item carried in a body slot is a *free action*. See [Combat Rounds](combat.md#rounds).
 
 ## Basic Kit
 
@@ -60,7 +58,7 @@ Your *basic kit* contains the small, sundry, standard-issue personal field equip
 - Harness
 - Rucksack
 
-#### Field tools
+#### Field Tools
 
 - ChemLight sticks
 - Duct tape
@@ -68,21 +66,21 @@ Your *basic kit* contains the small, sundry, standard-issue personal field equip
 - Paracord
 - Penlight
 
-#### Food and first aid
+#### Food and First Aid
 
 - Canteen
 - Field rations
-- Individual first-aid kit (IFAK)
+- Individual Aid Kit
 
 ## Tactical Supplies
 
 *Tactical supplies* are items of tactical equipment, such as climbing gear, flashlights, and ammunition. Each unit takes up **1** inventory slot, and you start each mission with up to **2** units of tactical supplies.
 
-When you need a piece of tactical gear you don’t have, request it using your tactical supplies. If the GM agrees the item qualifies as a tactical supply (see the following [examples](#examples)), remove one unit of tactical supply from your inventory and replace it with the requested item. If the item occupies more slots than the tactical supply it replaces, free enough inventory space first. 
+When you need a piece of tactical gear you don’t have, request it using your tactical supplies. If the GM agrees the item qualifies as a tactical supply (see the following examples), remove one unit of tactical supply from your inventory and replace it with the requested item. If the item occupies more slots than the tactical supply it replaces, free enough inventory space first. 
 
-These abstracted tactical supplies let you avoid deciding in advance which additional gear to pack beyond your basic kit, weapons loadout, and mission-specific gear. Equipment classified as tactical supplies can always be added to your inventory separately and carried on the mission. Spent tactical supplies can be resupplied at a *laying-up position*. See [Rest and Recovery](combat.md#rest-and-recovery).
+These abstracted tactical supplies let you avoid deciding in advance which additional gear to pack beyond your basic kit, weapons loadout, and mission-specific gear. Equipment classified as tactical supplies can always be added to your inventory separately and carried on the mission. Spent tactical supplies can be resupplied at a *rally point*. See [Rally Point](damage.md#rally-point).
 
-### Examples
+### Examples of Tactical Supplies
 
 Examples of tactical supplies include the following:
 
@@ -97,7 +95,7 @@ Examples of tactical supplies include the following:
 - Wire cutters
 - Zip-ties
 
-### Non-Examples
+### Non-Examples of Tactical Supplies
 
 Items that aren’t classified as tactical supplies include weaponry, complex devices, exotic gear, and mission‑specific equipment, such as the following:
 
@@ -114,7 +112,7 @@ Items that aren’t classified as tactical supplies include weaponry, complex de
 
 ## Combat Weapons
 
-You may carry any combat weapons you prefer. Weapons are loaded with ammunition. For extended operations, extra ammunition can be carried or replenished from your *tactical supplies* or at a *laying-up position*. See [Rest and Recovery](combat.md#rest-and-recovery).
+You may carry any combat weapons you prefer. Weapons are loaded with ammunition. For extended operations, extra ammunition can be carried, produced from your *tactical supplies*, or resupplied at a *rally point*. See [Rally Point](damage.md#rally-point).
 
 | Weapon Type | Damage Modifier | Ammo Rating | Inventory Slots | Notes |
 | :- | :-: | :-: | :-: | :-: |
@@ -123,14 +121,25 @@ You may carry any combat weapons you prefer. Weapons are loaded with ammunition.
 | Combat knife | +1 | — | 0 | — |
 | Combat shotgun | +2 | 6/6 | 2 | — |
 | Command-detonated mine | +3 | single-use | 1 | Blast |
-| Frag grenade | +1 | single-use | 2 in 1 slot | Blast |
-| Grenade launcher | — | 1/1 | 2 | Damage and effect by grenade type |
+| Frag grenade | +1 | single-use | Up to 4 in 1 slot | Blast |
+| Grenade launcher | — | 1/1 | 2 | Damage and effect by grenade type, the the following table. |
 | LMG | +3 | 6/6 | 2 | — |
 | Sidearm | +1 | 6/6 | 1 | — |
 | SMG | +1 | 6/6 | 1 | — |
 | Sniper rifle | +3 | 6/6 | 2 | — |
 
 For specific examples of military weapons used by Cold War-era nations, see the [National Armament Roster](appendix.md#national-armament-roster) in the Appendix.
+
+### Grenades
+
+Several types of grenades are available to you. Up to 4 grenades occupy 1 inventory slot. Descriptions follow:
+
+| Grenade | Descriptions |
+| - | - |
+| Fragmentation | Deals **+1** *blast* damage. See [Blast Damage](combat.md#blast-damage). |
+| Smoke | Used to signal and obscure movement. In game terms, it can be used to create *soft cover*. See [Cover](combat.md#cover).  |
+| Flashbang | Typically mission-specific and used to stun opponents when breaching a room. In game terms, it *ambushes* your opponents. See [Ambushes](combat.md#ambushes). |
+| Thermite | Typically mission-specific and used to destroy equipment and documentation. |
 
 ## Personal Protective System
 
@@ -182,17 +191,20 @@ In addition to an armor rating bonus, secondary protection provides the followin
 
  **Helmets**
 
-- You are not knocked *unconscious* when *wounded*. See [Wounds](combat.md#wounds).
-- *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
+- You are not knocked *unconscious* when *injured*. See [Zero HP](damage.md#zero-hp).
+- *Advantage* when defending against attacks that deal *blast* damage.
  **Riot Shield**
  - You can **destroy** the riot shield to prevent **all** damage you’d otherwise take from a single attack.
-
  - *Advantage* when defending against attacks that deal *blast* damage.
  - Reduces certain types of attack damage that would otherwise bypass your ballistic armor, including damage from intense flames.
 
+!!! note
+
+For details on blast damage, see [Blast](combat.md#blast-damage).
+
 #### Trade-offs
 
-Equipping secondary armor entails tactical trade-offs. The GM may apply *disadvantage* to *action rolls* that rely on perception, quick reactions, or stealth.
+Equipping secondary armor entails tactical trade-offs. You typically have a *disadvantage* on your *action rolls* that rely on perception, quick reactions, or stealth.
 
 Examples include spotting a hidden enemy sniper, acting before your opponents in the first round of combat, or moving without being heard. 
 
@@ -206,7 +218,7 @@ At the start of your mission, select any mission-specific equipment you need. Th
 
 ### Inventory Slots
 
-All mission-specific equipment, regardless of size, occupies at least **1** inventory slot unless it requires two hands to use or is bulky, in which case it occupies **2** slots. Massive equipment that is otherwise operator-portable may require additional slots. The GM can let you know. 
+All mission-specific equipment, regardless of size, occupies at least **1** inventory slot unless it requires two hands to use or is bulky, in which case it occupies **2** slots. Massive equipment that is otherwise operator-portable may require additional slots. 
 
 ### Examples
 
@@ -223,7 +235,7 @@ All mission-specific equipment, regardless of size, occupies at least **1** inve
 | Ghillie suit | Camouflaged over-suit designed to blend with the background terrain |
 | Infiltration and disguise kit | Forged papers, uniforms, civilian clothing, makeup, replica badges, and language cheat sheets |
 | Infrared spotlight and viewer | Active IR flashlight and IR viewing goggles or scope |
-| Medical and trauma kit | Field dressings, tourniquets, morphine, nerve-agent detector and antidotes, splints, antiseptics |
+| Medical and trauma kit | Field dressings, tourniquets, morphine, nerve-agent detector and antidotes, splints, antiseptics; better supplied than an individual aid kit |
 | NBC kit | Full-body over-suit with oxygen, gas mask, protective gloves, containment bags, and detector paper |
 | Night vision goggles | Device that passively amplifies ambient light, allowing operators to see in darkness |
 | Parachute kit | Freefall rig, altimeter, oxygen equipment, and navigation gear |

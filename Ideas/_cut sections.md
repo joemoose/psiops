@@ -107,3 +107,17 @@ text text text
 
 ==Given PsiOps's general focus on in-game fun and non-simulationist tactical missions, a lighter, mobile load of 15+ kg seems reasonable, hence the 12 abstracted inventory slots.==
 
+---
+
+1. Roll initiative to determine whether you can act in the first round of combat.
+2. If you can act in the first round:
+	- Declare actions
+	- Make required action rolls
+	- Apply the results
+3. Start the next round of combat:
+	- Declare actions
+	- Make required action rolls
+	- Apply the results
+4. Repeat Step 3 until combat ends. 
+
+Details for these steps follow.

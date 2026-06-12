@@ -27,18 +27,19 @@ Many commonly used weapons during the Cold War era are as follows:
 
 ### Action Roll
 
-Roll **2D6 + Attribute**.
+Roll **2D6 + Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|:-------|
-| **6–** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section.  |
+| :-: | - |
+| **6–** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
 | **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
 | **10–12** | It's a **complete success**. You achieve your goal. |
 | **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
 
 </div>
+
 
 ### Gain Momentum
 
@@ -47,11 +48,11 @@ When you make an *action roll*, in addition to the result of the roll, gain *mom
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|:-------|
-| **6–** | You don't gain any momentum. |
-| **7–9** | You don't gain any momentum. |
-| **10–12** | You gain **1** points of momentum. |
-| **13+** | You gain **2** points of momentum. |
+| :-: | - |
+| **6–** | You don’t gain momentum. |
+| **7–9** | You don't gain momentum. |
+| **10–12** | You gain **1** momentum. |
+| **13+** | You gain **2** momentum. |
 
 </div>
 
@@ -59,22 +60,22 @@ When you make an *action roll*, in addition to the result of the roll, gain *mom
 
 | Option | Cost | Bonus |
 | - | :-: | - |
-| ASSIST | 1 | Grant *advantage* to a team member’s *action roll*. |
+| ASSIST | 1 | Grant *advantage* to a team member’s action roll. |
 | PUSH YOURSELF | 2 | Gain *advantage* on your action roll. |
 | EXPLOIT | 3 | Increase the effect of a successful result. |
 | SURGE | 4 | Take another action. |
 | EVADE | 5 | Avoid the *consequence* of a failed action roll. |
-| FLASHBACK | 6 | Retroactively establish your pre-mission preparation. |
+| FLASHBACK | 6 | Retroactively establish your pre-mission preparation or a discovery. |
 
 ### Initiative Roll
 
-Roll **2D6 + TACTICS** and apply the following result:
+Roll **2D6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|--------|
-| **6–** | You **do not** act in the first round of combat. The enemy gets the drop on you, and you'll have to wait until the **second round** to move or take any action.  |
+| :- | - |
+| **6–** | You **do not** act in the first round of combat. The enemy gets the drop on you, so you can’t take an action or move during your turn. You’ll have to wait until the **second round** to move or take any action. |
 | **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
 | **10–12** | You get the drop on the enemy and act **first**. |
 | **13+** | You get the drop on the enemy and act **first**. You gain an *advantage* on your next *action roll*. |
@@ -83,29 +84,29 @@ Roll **2D6 + TACTICS** and apply the following result:
 
 ### Attacking
 
-Roll **2D6 + Applicable Attribute** and apply the following result:
+Roll **2D6 + Applicable Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |:----:|:-------|
 | **6–** | The attack misses. You deal **no damage**. |
-| **7–9** | You deal damage equal to the **lowest D6 roll** plus your weapon's **damage modifier**. |
-| **10–12** | You deal damage equal to the **highest D6 roll** plus your weapon's **damage modifier**. |
-| **13+** | You deal damage equal to the **sum of both dice** plus your weapon's **damage modifier**. |
+| **7–9** | You deal damage equal to the **lower** of the two D6 rolls, plus your weapon's **damage modifier**. |
+| **10–12** | You deal damage equal to the **higher** of the two D6 rolls, plus your weapon's **damage modifier**. |
+| **13+** | You deal damage equal to the **sum** of both dice, plus your weapon's **damage modifier**. |
 
 </div>
 
 ### Defending
 
-Roll **2D6 + Applicable Attribute** and apply the following result:
+Roll **2D6 + Applicable Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |:----:|:-------|
-| **6–** | You take **damage** equal to the **highest D6 result** plus your enemy weapon's damage modifier. |
-| **7–9** | You take **damage** equal to the **lowest D6 result** plus your enemy weapon's damage modifier. |
+| **6–** | You take **damage** equal to the **highest D6 result** plus your enemy’s *damage modifier*. |
+| **7–9** | You take **damage** equal to the **lowest D6 result** plus your enemy’s *damage modifier*. |
 | **10–12** | You take **no** damage. |
 | **13+** | You take **no** damage, and your next *action roll* has *advantage*. |
 
@@ -113,43 +114,43 @@ Roll **2D6 + Applicable Attribute** and apply the following result:
 
 ### Activating Neural Weapons
 
-Roll **2D6 + WILLPOWER** and apply the following result:
+Roll **2D6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:-:|-|
-| **6–** | Your neural weapon **doesn’t activate**, and you take **1** *fatigue*.<br/>You **can’t activate** this neural weapon again during the mission unless you rest at a *laying-up position*. |
+|:----:|:-------|
+| **6–** | Your neural weapon **doesn’t activate**. You take **1** *fatigue* and can **no longer activate this neural weapon** during the mission unless you regroup at a *rally point*. |
 | **7–9** | The power **manifests**, but you take **1** *fatigue*. |
 | **10–12** | The power **manifests**. |
-| **13+** | The power **manifests**. The effect is greater than expected. Work with the GM to determine what else happens. |
+| **13+** | The power **manifests**. The effect is greater than expected. |
 
 </div>
 
-### Wounds
+### Zero HP
 
-When you reach 0 HP or lower, roll **2D6 + STRENGTH**, then **subtract** the number of points you’ve gone below 0. Apply the following result:
+When you reach **0** HP or lower, roll **2D6 + STRENGTH**, then **subtract** the number of points you’ve gone below 0. Apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |:----:|:-------|
 | **6–** | You're **dead**. Roll up a new operator. |
-| **7–9** | You're *incapacitated* at **0 HP**. Take **2** *injuries*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. See the following section. |
-| **10–12** | You're *knocked down*, unconscious but stable at **1 HP**. Take **1** *injury*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you're wearing a helmet, you're still knocked down but remain conscious. Spend 1 action to climb to your feet. |
-| **13+** | You take **1** *injury*, but you're **relentless** with **1D6 current HP**, up to your maximum. You're one tough SOB. |
+| **7–9** | You're *incapacitated* at **0 HP**. Take **2** *injuries*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. |
+| **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *injury*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you’re wearing a helmet, you’re still knocked down but remain conscious. Spend 1 action to climb to your feet. |
+| **13+** | You take **1** *injury*, but you’re **relentless** with **1D6 current HP**, up to your maximum. You are one tough SOB. |
 
 </div>
 
 ### Retreating
 
-Roll **2D6 + REFLEXES** and apply the following result: 
+Roll **2D6 + REFLEXES** and apply the result as follows: 
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |:----:|:-------|
-| **6–** | Your opponent makes a **free attack** immediately against you. |
+| **6–** | Your opponent makes a **free attack** against you immediately. |
 | **7–9** | You disengage, but you suffer a *complication*. |
 | **10–12** | You disengage without mishap. |
 | **13+** | You make a **free attack** against your opponent, then disengage without mishap. |
@@ -158,35 +159,35 @@ Roll **2D6 + REFLEXES** and apply the following result:
 
 ### Stress
 
-When you reach 6 *stress*, roll **2D6 + WILLPOWER** and apply the following result:
+When you reach 6 *stress*, roll **2D6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-| :----: | ------- |
-| **6–** | You **panic**. Roll **1D6** and see the following [Panicked table](#panicked) for the effect. |
+|:-:|-|
+| **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You are **locked-in to the flow** of combat. Remove **all** stress, then roll **1D6** and see the following [Locked-In table](#locked-in) for the effect. |
+| **13+** | You are now **locked-in to** the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in) to determine the effect. |
 
 </div>
 
-#### panicked
+#### Panicked
 
-Roll **1D6** and apply the result:
+Roll **1D6** and apply the result as follows:
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
-| **1** | Compromised | You have **-1 ARMOR**. |
-| **2** | Demoralized | You fail all your *initiative rolls*. |
+| **1** | Compromised | You have **-1 ARMOR**, with a minimum of 0. |
+| **2** | Demoralized | You automatically fail any *initiative roll*. |
 | **3** | Detached | *Disadvantage* on all your *action rolls* that could benefit a team member. |
 | **4** | Rattled | *Disadvantage* on all your *action rolls* in combat. |
 | **5** | Shutdown | You lose all your *momentum* and no longer gain any. |
-| **6** | Volatile | Allies gain **1** stress when you see them fail an *action roll*. |
+| **6** | Volatile | A team member gains **1** stress when you see them fail an *action roll*. |
 
 #### Locked-In
 
-Roll **1D6** and apply the result:
+Roll **1D6** and apply the result as follows:
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
@@ -196,3 +197,4 @@ Roll **1D6** and apply the result:
 | **4** | Hardened | +1 ARMOR to base (cap remains at 3 points of damage reduction) |
 | **5** | Sharp | *Advantage* on all +REFLEXES rolls. |
 | **6** | Steady | When you succeed on an *action roll*, team members within sight of you remove **1** stress. |
+

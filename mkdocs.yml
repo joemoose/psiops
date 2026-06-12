@@ -16,9 +16,10 @@ nav:
   - index.md
   - character.md
   - playing.md
-  - combat.md
   - zones.md
   - stress.md
+  - combat.md
+  - damage.md
   - equipment.md
   - appendix.md
   - attribution.md

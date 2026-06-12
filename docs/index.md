@@ -1,6 +1,6 @@
-# Operational Preface
+# Introduction
 
-**PsiOps** is a squad-based role-playing game in which operators conduct off-the-books Cold War missions against classified paranormal threats. The Cold War era was stranger than anyone admits. There were things in the dark even the superpowers feared.
+***PsiOps*** is a squad-based role-playing game in which operators conduct off-the-books Cold War missions against classified paranormal threats. The Cold War era was stranger than anyone admits. There were things in the dark even the superpowers feared.
 
 The system is built around a single mechanic: roll two six-sided dice, add an *attribute score*, and see how well you do. That’s it. Four attributes cover everything from strength to resolve. A *momentum* system rewards relentless action. A *stress* system tracks your exposure to things best left unseen. 
 
@@ -28,14 +28,18 @@ Ask questions. Take chances. The game rewards risk-taking.
 
 ## Game Overview
 
-The core of **PsiOps** is a conversation between you and the game master (GM). The GM describes your current mission situation. You and your fellow players then ask questions and tell the GM what your characters are doing. The GM explains the results of your actions, and you respond by describing more actions, and so on.
+The heart of the game is a conversation between you and the game master (GM). The GM describes your current situation. You and your fellow players then ask questions and tell the GM what your characters do. The GM explains the results of your actions, and you respond by describing additional actions, and so on.
 
-If the actions you describe are risky and the outcome isn't immediately clear, you'll roll the dice to determine a result.
+When the actions you describe are risky and the outcome isn’t immediately clear, you’ll roll the dice to determine the result.
 
-The GM answers your questions and always respects your freedom of choice. The GM presents challenges, obstacles, and situations for you to solve and overcome during the mission. However, the game is more than just a story narrated by the GM — it’s an interactive narrative shaped by your and your fellow players' decisions. Think of it as both writing and starring in an action film at the same time. 
+The GM answers your questions and always respects your freedom of choice. The GM presents challenges, obstacles, and situations for you to solve and overcome during the mission. However, the game is more than a story narrated by the GM — it’s an interactive narrative shaped by the GM, you, and your fellow players. Everyone’s choices influence the story. Think of it as both writing and starring in an action film at the same time. 
 
 ## How to Use this Field Manual
 
-In the next chapter, you’ll create your character. You’ll encounter game terms such as *momentum*, *tactical supplies*, *advantage*, and *action rolls*. Don’t worry about them yet. The game’s mechanics and rules are covered in later chapters.
+In the next section, you’ll create your character. You’ll encounter game terms such as *momentum*, *tactical supplies*, *advantage*, and *action rolls*. Don’t worry about them yet. The game’s mechanics and rules are covered in later chapters.
 
-Use your character sheet as a focal point while reading the manual. A [rules summary](appendix.md#rules-summary) is included at the back of the manual. You may find it a useful reference during your missions.
+Use your character sheet as a reference while reading the manual. An [online character sheet](https://docs.google.com/spreadsheets/d/1nXl3zzDPdnynzU9b2nkZ7mkdb1ej1KRLOmVsH0DlBbU/export?format=xlsx) is available. A [rules summary](appendix.md#rules-summary) is included in the appendix and may be useful during missions.
+
+
+
+

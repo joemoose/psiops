@@ -1,46 +1,40 @@
-## Tactical Zones
+# Zones
 
-Once gameplay shifts from *operational mode* to *combat mode*, the GM divides the area of action into *tactical zones*. These zones organize the battlefield into a connected set of meaningful positions, each with a distinct location and tactical significance.
+Once gameplay shifts from *operational mode* to *combat mode*, your area of action is organized into *zones*. These zones divide the battlefield into a connected set of tactical positions, each with a distinct location and tactical significance.
 
-Zones don’t represent mapped areas on a measured grid. A single zone might encompass an entire warehouse, or there might be several if crates are scattered throughout. A zone could be a hilltop or a corridor. It depends on the tactical positions the GM presents for the upcoming action.
+Zones don’t represent mapped areas on a measured grid. A single zone might encompass an entire warehouse, or there might be several if crates are scattered throughout. A zone could be an entire hilltop or a short corridor ending at a door. It all depends on the relevant tactical positions in the surrounding battle area.
 
 Characters move between zones, not along gridlines. Ranges become relationships between zones, not measurements. Zones can change based on your actions. Flipping a table could split a zone into two. Tossing tear gas would make the zone hazardous to enemy movement. 
 
-At a minimum, the GM will present three tactical zones at the start of combat: your squad’s position, your enemy’s position, and the area between the two.
+At a minimum, there are three tactical zones at the start of combat: your squad’s position, your enemy’s position, and the area between the two.
 
-### Moving Through Zones
+## Movement
 
-Characters move *between tactical zones* rather than calculating distance and movement rates on a grid. Entering an adjacent zone consumes **1** movement in a *combat round*, regardless of the zone’s size. You can spend your second action to move again and enter another adjacent zone. 
+Characters move *between tactical zones* rather than calculating distance and movement rates on a grid. Entering an adjacent zone requires **1** movement on your turn during a *combat round*, regardless of the zone’s size. You can spend your action to move again and enter another adjacent zone. 
 
 Zone boundaries or conditions within a zone can complicate movement:
 
-- **Difficult terrain** (rubble, standing water, thick smoke): Requires 2 moves to cross.
-- **Free action**: Slipping through an open interior door or moving within the same tactical zone. No movement action is required; the GM narrates the transition.
+- **Difficult terrain** (rubble, standing water, thick smoke): Requires 2 moves to traverse.
+- **Free action**: Slipping through an open interior door or moving within the same tactical zone. No movement or action is required.
 - **Hazardous environment** (poison gas, flame): Movement through the zone may cause damage without protective gear.
 
-## Zone Distances
+## Distances
 
-Range is measured in tactical zone hops, i.e., the number of zones between you and your target.
+The distance between you and a target is measured in tactical *zone* hops, i.e., the number of zones between you and your target.
 
-| Hops | Tactical Zones Example |
-|---|---|
-| 0 | **Close**: within the same zone |
-| 1 | **Nearby**: across a room or over a barrier |
-| 2 | **Far**: across a street |
-| 3 | **Distant**: across uneven terrain |
-| 4+ | **Extreme**: across several city blocks |
+| Hops | Distance | Example |
+| :-: | - | - |
+| 0 | Close | Within the same room |
+| 1 | Nearby | Over a dividing barrier |
+| 2 | Far | Across a street |
+| 3 | Distant | Across wide, uneven terrain |
+| 4+ | Extreme | Several city blocks away |
 
-Count the *shortest* path through adjacent, connected zones, not a straight line on a map.
+Count the *shortest* path through adjacent, connected zones, not a straight line on a map. These distances modify your *attack rolls* based on weapon type. See [Distance Modifiers](combat.md#distance-modifiers).
 
-### Weapon Ranges
+## Example
 
-The *zone distance* measures your target’s range relative to your weapon’s *optimal engagement distance*. This distance determines whether there are any *advantages* or *disadvantages* on your attack roll.
-
-See [Distance Modifiers](combat.md#distance-modifiers).
-
-### Zones Example
-
-For example, the GM divides your objective area, a research facility, into several interconnected tactical zones, as shown in the following diagram.
+For example, the GM divides your objective area, a research facility, into several tactical zones, as shown in the following diagram.
 
 <figure class="zones-diagram">
 --8<-- "img/zones.svg"
@@ -68,10 +62,6 @@ Using the zones’ tactical characteristics, your squad’s actions emerge and a
 
 Decisions, immediate movement, *action rolls*, then results. No rulers, no math. Grid combat asks, “*Where is everyone standing*?” Zone combat asks, “*Which part of the tactical landscape are you leveraging*?”
 
-!!! note
-
-	At a game table, your GM may quickly set up tactical zones using labeled index cards. When playing online, digital Post-It notes on a shared whiteboard work well.
-
-### After Action
+## After Action
 
 If you’ve come up through tabletop combat with a battlemat and a measuring tape, this will feel off at first. Lean into it. By the end of your first operation, you’ll enjoy the change of pace.
