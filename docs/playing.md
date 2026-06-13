@@ -251,7 +251,7 @@ Complex tasks requiring multiple actions to complete or impending threats are tr
 
 ### Example Clocks
 
-<figure class="diagram" style="--diagram-max-width: 420px">
+<figure class="diagram" style="--diagram-max-width: 430px">
 --8<-- "img/clocks.svg"
 <figcaption>Mission Clocks Example</figcaption>
 </figure>

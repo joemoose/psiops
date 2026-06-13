@@ -36,20 +36,20 @@ Count the *shortest* path through adjacent, connected zones, not a straight line
 
 For example, the GM divides your objective area, a research facility, into several tactical zones, as shown in the following diagram.
 
-<figure class="diagram">
+<figure class="diagram" style="--diagram-max-width: 430px">
 --8<-- "img/zones.svg"
 <figcaption>Tactical Zones Example</figcaption>
 </figure>
 
 | Zone | Description |
 | - | - |
-| Forest edge | Total cover, blanketed in snow |
-| Kill Zone | An open, exposed field covered in deep snow |
-| Main floor | Filled with crates and forklifts, with an open exterior |
-| Catwalks | Rusted walkways above the main floor |
-| Office | Enclosed with windows and a solid cover |
-| Generator | Secured behind a locked door |
-| Research facility | A laboratory containing volatile chemicals |
+| **Forest edge** | Total cover, blanketed in snow |
+| **Kill Zone** | An open, exposed field covered in deep snow |
+| **Main floor** | Filled with crates and forklifts, with an open exterior |
+| **Catwalks** | Rusted walkways above the main floor |
+| **Office** | Enclosed with windows and a solid cover |
+| **Generator** | Secured behind a locked door |
+| **Research facility** | A laboratory containing volatile chemicals |
 
 Using the zones’ tactical characteristics, your squad’s actions emerge and are resolved quickly in-game. The combat scene unfolds at a faster pace with a more cinematic feel when crossing zone boundaries, rather than by plotting and moving along mapped grid positions. 
 
