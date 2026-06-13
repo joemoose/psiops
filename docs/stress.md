@@ -12,18 +12,18 @@ Common stressors include:
 - Encountering anomalous entities, locations, or events
 - Going more than 24 hours without water
 - Riding in a vehicle hit by a heavy-weapons attack
-- Sustaining an *injury* in combat
-- Witnessing a team member or civilian die
+- Sustaining a *wound* in combat
+- Witnessing a team member or a civilian die
 
-Each exposure to a stressor adds **1** point to your stress total. Keep track of your total stress. Your character sheet includes a place to record your current stress.
+Each exposure to a stressor adds **1** point to your stress. Keep track of your stress. Your character sheet includes a place to record your current stress.
 
 ### Process
 
 Your stress during the mission is handled as follows:
 
-1. You’re exposed to a stressor, such as sustaining an *injury*.
-2. Add **1** to your total *stress*. Your **maximum** stress is capped at 6.
-3. If your stress total reaches **6**, make a *stress roll*.
+1. You’re exposed to a stressor, such as sustaining a *wound*.
+2. Add **1** to your *stress*. Your **maximum** stress is capped at 6.
+3. If your stress reaches **6**, make a *stress roll*.
 4. While at 6 stress, each new stressor triggers another stress roll, even though your total cannot increase further.
 
 See the following sections for details. 
@@ -32,7 +32,7 @@ See the following sections for details.
 
 If left unchecked, *stress* can degrade your performance and increase the risk of failure.
 
-When your total stress reaches **6**, you must immediately make a **stress roll**. Roll **2D6 + WILLPOWER** and apply the result as follows:
+When your stress reaches **6**, you immediately make a **stress roll**. Roll **2D6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 

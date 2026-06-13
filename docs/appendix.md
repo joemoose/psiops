@@ -136,9 +136,9 @@ When you reach **0** HP or lower, roll **2D6 + STRENGTH**, then **subtract** the
 | Roll | Result |
 |:----:|:-------|
 | **6–** | You're **dead**. Roll up a new operator. |
-| **7–9** | You're *incapacitated* at **0 HP**. Take **2** *injuries*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. |
-| **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *injury*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you’re wearing a helmet, you’re still knocked down but remain conscious. Spend 1 action to climb to your feet. |
-| **13+** | You take **1** *injury*, but you’re **relentless** with **1D6 current HP**, up to your maximum. You are one tough SOB. |
+| **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. |
+| **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 action.<br/><br/>**Note**: If you’re wearing a helmet, you’re still knocked down but remain conscious. Spend 1 action to climb to your feet. |
+| **13+** | You take **1** *wound*, but you’re **relentless** with **1D6 current HP**, up to your maximum. You are one tough SOB. |
 
 </div>
 
@@ -164,7 +164,7 @@ When you reach 6 *stress*, roll **2D6 + WILLPOWER** and apply the result as foll
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:-:|-|
+| :-: | - |
 | **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |

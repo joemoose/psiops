@@ -66,7 +66,7 @@ You can always default to your REFLEXES when firing a rifle, which is perfectly 
 
 #### Named Action Rolls with Specific Attributes
 
-Keep in mind that describing your action to specify the *applicable attribute* deliberately **differs** from game rules that specify a **specific** attribute for an *action roll*. For example, an *initiative roll* always uses your TACTICS attribute, an *injury roll* uses your STRENGTH, and *activating* a *neural weapon* uses WILLPOWER regardless of the situation. 
+Keep in mind that describing your action to specify the *applicable attribute* deliberately **differs** from game rules that specify a **specific** attribute for an *action roll*. For example, an *initiative roll* always uses your TACTICS attribute, an *wound roll* uses your STRENGTH, and *activating* a *neural weapon* uses WILLPOWER regardless of the situation. 
 
 When a specific attribute is required for an action roll, the rule for that roll is given a unique name, such as a *defense roll*, and it specifies which attribute to use. Most action rolls that use specific attributes are part of combat mechanics. See the [Combat](combat.md) section. 
 

@@ -191,22 +191,18 @@ In addition to an armor rating bonus, secondary protection provides the followin
 
  **Helmets**
 
-- You are not knocked *unconscious* when *injured*. See [Zero HP](damage.md#zero-hp).
-- *Advantage* when defending against attacks that deal *blast* damage.
+- You are not knocked *unconscious* when *wounded*. See [Wounded](damage.md#wounded).
+- *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
+
  **Riot Shield**
+ 
  - You can **destroy** the riot shield to prevent **all** damage you’d otherwise take from a single attack.
- - *Advantage* when defending against attacks that deal *blast* damage.
+ - *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
  - Reduces certain types of attack damage that would otherwise bypass your ballistic armor, including damage from intense flames.
-
-!!! note
-
-For details on blast damage, see [Blast](combat.md#blast-damage).
 
 #### Trade-offs
 
-Equipping secondary armor entails tactical trade-offs. You typically have a *disadvantage* on your *action rolls* that rely on perception, quick reactions, or stealth.
-
-Examples include spotting a hidden enemy sniper, acting before your opponents in the first round of combat, or moving without being heard. 
+Using secondary armor entails tactical trade-offs. You may have *disadvantage* on *action rolls* that rely on perception, quick reactions, or stealth. Examples include spotting a hidden enemy sniper, acting before your opponents in the first round of combat, or moving without being heard. 
 
 !!! note
 
@@ -248,7 +244,7 @@ All mission-specific equipment, regardless of size, occupies at least **1** inve
 
 ## Squad Radios 
 
-Handset squad-coordination radios from the Cold War era are less capable than today’s standards. Terrain, vegetation, and urban environments degrade signal quality and range. Rapid movement prevents communication. In-game handset radio ranges are as follows:
+ Terrain, vegetation, and urban environments degrade the signal quality and range of your handset squad-coordination radios. Rapid movement prevents communication. In-game handset radio ranges are as follows:
 
 | Situation | Limitations |
 | - | - |
