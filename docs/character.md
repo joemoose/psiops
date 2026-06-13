@@ -8,12 +8,12 @@ Welcome to the unit, operator.
 
 Before we get started creating your character, here’s a summary of the dice-roll notation in *PsiOps*.
 
-| Dice Roll | Description |
+| Roll | Description |
 | :-: | - |
-| **1D3** | Roll one six-sided die, divide the result by 2, and round up. |
-| **1D6** | Roll one six-sided die. |
-| **2D6** | Roll two six-sided dice and add the results. |
-| **D66** | Roll two six-sided dice, but instead of adding the results, read them in order to form a 2-digit number. For example, a 2 followed by a 4 is a **24**. A 1 followed by another 1 is an **11**. |
+| 1D3 | Roll one six-sided die, divide the result by 2, and round up. |
+| 1D6 | Roll one six-sided die. |
+| 2D6 | Roll two six-sided dice and add the results. |
+| D66 | Roll two six-sided dice, but instead of adding the results, read them in order to form a 2-digit number. For example, a 2 followed by a 4 is a **24**. A 1 followed by another 1 is an **11**. |
 
 ## Fielding an Operator
 
@@ -112,7 +112,7 @@ Assign a ***codename*** to your character.
 
 ---
 
-Your operator is ready. The following chapters explain how missions run. Read and know them.
+Your operator is ready. The following chapters explain how missions run. Read them. Know them.
 
 Weapons free, soldier. Move out.
 

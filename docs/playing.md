@@ -145,23 +145,17 @@ First, describe how your specialization applies to the action. If the GM agrees,
 
 !!! example
 
-	You’re going to fast rope from a hovering helicopter taking fire. To reach the ground without incident, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll **2D6 + REFLEXES + 1**.
+	You’re going to fast rope from a hovering helicopter that's taking fire. To reach the ground without incident, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll **2D6 + REFLEXES + 1**.
 
 ### Action Roll Modifier Examples
 
-Examples of *action roll* modifiers follow. 
+Examples of *action roll* modifiers follow:
 
-#### Advantage Scenario
-
-You ambush unaware targets from concealment (*advantage*). Roll **3D6 + TACTICS** (2), getting 5, 6, and 4. Discard the **4**. Sum: 5 + 6 + 2 = 13. *Critical success*.
-
-#### Disadvantage Scenario
-
-You are engaged while surprised (*disadvantage*). Roll **3D6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Sum: 3 + 1 + 2 = 6. *Fail*.
-
-#### Specialization Scenario
-
-You are engaged while surprised (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies (+1). Roll **3D6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. 
+| Modifier | Example |
+| - | - |
+| Advantage | You ambush unaware targets from concealment (*advantage*). Roll **3D6 + TACTICS** (2), getting 5, 6, and 4. Discard the **4**. Sum: 5 + 6 + 2 = 13. *Critical success*. |
+| Disadvantage | You are engaged while surprised (*disadvantage*). Roll **3D6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Sum: 3 + 1 + 2 = 6. *Fail*. |
+| Specialization | You are engaged while surprised (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies (+1). Roll **3D6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
 
 ## Momentum
 
@@ -257,7 +251,7 @@ Complex tasks requiring multiple actions to complete or impending threats are tr
 
 ### Example Clocks
 
-<figure class="clocks-diagram">
+<figure class="diagram" style="--diagram-max-width: 420px">
 --8<-- "img/clocks.svg"
 <figcaption>Mission Clocks Example</figcaption>
 </figure>

@@ -81,7 +81,7 @@ To **stabilize a team member in combat**, first acquire medical supplies, then m
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|------|--------|
+| :-: | - |
 | **6–** | You do **not** mark off a segment on the mission clock and **use up** your medical supplies. Remove them from your inventory.<br/>You’ll need to acquire additional medical supplies to continue making *stabilization rolls*. |
 | **7–9** | Mark off **1** segment on the mission clock. |
 | **10–12** | Mark off **2** segments on the mission clock. |
@@ -123,7 +123,7 @@ If your character dies, create a new one while the game continues. When you’re
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|:-------|
+| :-: | - |
 | **6–** | You join the squad but encounter a *complication*. |
 | **7–9** | You join the squad. |
 | **10–12** | You join the squad and may optionally gain an **additional** *tactical supply*. |

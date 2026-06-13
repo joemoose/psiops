@@ -122,7 +122,7 @@ You may carry any combat weapons you prefer. Weapons are loaded with ammunition.
 | Combat shotgun | +2 | 6/6 | 2 | — |
 | Command-detonated mine | +3 | single-use | 1 | Blast |
 | Frag grenade | +1 | single-use | Up to 4 in 1 slot | Blast |
-| Grenade launcher | — | 1/1 | 2 | Damage and effect by grenade type, the the following table. |
+| Grenade launcher | — | 1/1 | 2 | Damage and effect by grenade type. See the following table. |
 | LMG | +3 | 6/6 | 2 | — |
 | Sidearm | +1 | 6/6 | 1 | — |
 | SMG | +1 | 6/6 | 1 | — |
@@ -137,9 +137,9 @@ Several types of grenades are available to you. Up to 4 grenades occupy 1 invent
 | Grenade | Descriptions |
 | - | - |
 | Fragmentation | Deals **+1** *blast* damage. See [Blast Damage](combat.md#blast-damage). |
-| Smoke | Used to signal and obscure movement. In game terms, it can be used to create *soft cover*. See [Cover](combat.md#cover).  |
-| Flashbang | Typically mission-specific and used to stun opponents when breaching a room. In game terms, it *ambushes* your opponents. See [Ambushes](combat.md#ambushes). |
-| Thermite | Typically mission-specific and used to destroy equipment and documentation. |
+| Smoke | Used to signal and obscure movement. In game terms, it can create *soft cover*. See [Cover](combat.md#cover). |
+| Flashbang | Typically mission-specific. Used to stun opponents when breaching a room. Treat stunning as an *ambush*. See [Ambushes](combat.md#ambushes). |
+| Thermite | Typically mission-specific. Used to destroy equipment and documentation. |
 
 ## Personal Protective System
 
@@ -191,7 +191,7 @@ In addition to an armor rating bonus, secondary protection provides the followin
 
  **Helmets**
 
-- You are not knocked *unconscious* when *wounded*. See [Wounded](damage.md#wounded).
+- You are **not** knocked *unconscious* when *wounded*. See [Wounded](damage.md#wounded).
 - *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
 
  **Riot Shield**
@@ -206,7 +206,7 @@ Using secondary armor entails tactical trade-offs. You may have *disadvantage* o
 
 !!! note
 
-	Wearing ballistic body armor doesn't entail any of these tactical trade-offs.  
+	Wearing ballistic body armor doesn't entail these tactical trade-offs.  
 
 ## Mission-Specific Equipment
 

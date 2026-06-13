@@ -36,7 +36,7 @@ Count the *shortest* path through adjacent, connected zones, not a straight line
 
 For example, the GM divides your objective area, a research facility, into several tactical zones, as shown in the following diagram.
 
-<figure class="zones-diagram">
+<figure class="diagram">
 --8<-- "img/zones.svg"
 <figcaption>Tactical Zones Example</figcaption>
 </figure>

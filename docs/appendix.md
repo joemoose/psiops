@@ -19,8 +19,6 @@ Many commonly used weapons during the Cold War era are as follows:
 
 *† The Soviet military used the compact AKS-74U as an SMG equivalent.*
 
-<br/>
-
 ---
 
 ## Rules Summary

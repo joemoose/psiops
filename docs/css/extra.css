@@ -176,50 +176,52 @@ figcaption {
 }
 
 /* ---- Diagram theming (inlined SVG) ------------------------------------
-   The zone/clock SVGs are inlined, so the page cascade reaches them. Ink
-   is currentColor and follows --md-default-fg-color (which flips per
-   colour scheme), so only the surface fills need a dark override. Drop
-   shadows are baked light-mode only; in dark mode the currentColor
-   strokes carry the shape outlines.
-     --diagram-surface   card / clock-dial fill
+   Inlined SVGs sit in the page cascade, so theming reaches them. One
+   class — .diagram — now covers every diagram figure (zones, clocks,
+   combat flowchart, anything added later). Ink is currentColor and
+   follows --md-default-fg-color (which flips per colour scheme), so only
+   the surface fills need a dark override. Drop shadows are baked
+   light-mode only; in dark mode the currentColor strokes carry the shape
+   outlines.
+     --diagram-surface   card / clock-dial / box fill
      --diagram-empty     unfilled clock segments
      --diagram-on-fill   numerals on a coloured segment (kept light in
                          both schemes, hence no dark override)
    ---------------------------------------------------------------------- */
 
-.md-typeset .zones-diagram,
-.md-typeset .clocks-diagram {
+.md-typeset .diagram {
     color: var(--md-default-fg-color);
     --diagram-surface: #fff;
     --diagram-empty:   #F0EFEA;
     --diagram-on-fill: #F0EFEA;
 }
 
-[data-md-color-scheme="slate"] .md-typeset .zones-diagram,
-[data-md-color-scheme="slate"] .md-typeset .clocks-diagram {
+[data-md-color-scheme="slate"] .md-typeset .diagram {
     --diagram-surface: var(--md-default-bg-color);
     --diagram-empty:   #3b3b42;   /* subtle dark "empty" tone — tune to taste */
 }
 
 /* ---- Diagram sizing ---------------------------------------------------
-   Inline SVGs size from CSS only — keep the <svg> roots carrying a
-   viewBox but NO width/height attributes, so width + height:auto scale
-   them by the viewBox ratio. max-width caps each within its figure;
-   margin: 0 auto centres it under the prose.
+   One rule sizes every diagram. Inline SVGs size from CSS only — keep the
+   <svg> roots carrying a viewBox but NO width/height attributes, so
+   width + height:auto scale them by the viewBox ratio.
+
+   Per-figure width comes from --diagram-max-width, set in each figure's
+   style attribute; the 360px fallback applies to any figure that doesn't
+   set its own. The <svg> is matched by element, not by class, so a
+   diagram's root needs no sizing hook of its own.
+
+   margin: 0 auto centres it. NOTE: width:100% is relative to the figure,
+   whose own max-width is 60ch (see the Figures section above) — so that
+   column width is the real ceiling. A --diagram-max-width larger than the
+   column makes the SVG fill the column but not exceed it; to go wider
+   than the prose measure, raise the figure cap too.
    ---------------------------------------------------------------------- */
 
-.md-typeset .zones-diagram .zones-svg {
+.md-typeset .diagram svg {
     display: block;
     width: 100%;
     height: auto;
-    max-width: 360px;
-    margin: 0 auto;
-}
-
-.md-typeset .clocks-diagram .clocks-svg {
-    display: block;
-    width: 100%;
-    height: auto;
-    max-width: 420px;
+    max-width: var(--diagram-max-width, 360px);
     margin: 0 auto;
 }

@@ -6,9 +6,9 @@ Combat is like any risky action: attacking requires an *action roll* to deal dam
 
 Once combat begins, the game proceeds through a fixed sequence of steps as follows:
 
-<figure class="zones-diagram">
+<figure class="diagram" style="--diagram-max-width: 640px">
 --8<-- "img/combat.svg"
-<figcaption>Combat Sequence</figcaption>
+<figcaption>Combat Flowchart</figcaption>
 </figure>
 
 ## Rounds
@@ -30,7 +30,7 @@ Whether you act before the enemy in the **first** round of combat is determined 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-| :- | - |
+| :-: | - |
 | **6–** | You **do not** act in the first turn of combat. The enemy gets the drop on you, so you can’t take an action or move during your turn. You’ll have to wait until the **second round** to move or take any action. |
 | **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
 | **10–12** | You get the drop on the enemy and act **first**. |
@@ -85,7 +85,7 @@ When you **attack** a target, make an *attack roll*. Roll **2D6 + Applicable Att
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|:-------|
+| :-: | - |
 | **6–** | The attack misses. You deal **no damage**. |
 | **7–9** | You deal damage equal to the **lower** of the two D6 rolls, plus your weapon's **damage modifier**. |
 | **10–12** | You deal damage equal to the **higher** of the two D6 rolls, plus your weapon's **damage modifier**. |
@@ -115,7 +115,7 @@ The damage modifier for your attack is determined by the type of weapon you’re
 For weapons or other attack types not listed on the Combat Weapons list, use the following guidelines to gauge damage modifiers:
 
 | Level of Effect | Examples | Modifier |
-| :- | :- | :-: |
+| - | - | :-: |
 | **Unarmed** | — | -1 |
 | **Improvised** | club, shiv | +0 |
 | **Light** | combat knives, sidearms | +1 |
@@ -201,7 +201,7 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2D6 +
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|:-------|
+| :-: | - |
 | **6–** | You take **damage** equal to the **highest D6 result** plus your enemy’s *damage modifier*. |
 | **7–9** | You take **damage** equal to the **lowest D6 result** plus your enemy’s *damage modifier*. |
 | **10–12** | You take **no** damage. |
@@ -295,7 +295,7 @@ To activate your neural weapon, make a *neural attack roll*. Roll **2D6 + WILLPO
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|:-------|
+| :-: | - |
 | **6–** | Your neural weapon **doesn’t activate**. You take **1** *fatigue* and can **no longer activate this neural weapon** during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
 | **7–9** | The power **manifests**, but you take **1** *fatigue*. |
 | **10–12** | The power **manifests**. |
@@ -319,21 +319,22 @@ Neural weapons that **do not** require concentration are one-shot — you must r
 	
 ## Retreating
 
-Retreating from a fight while engaged in combat can leave the retreating force vulnerable to additional attack, which interrupts their turn in a combat round.
+Retreating from a fight while engaged in combat can leave the retreating force vulnerable to additional attacks.
 
-- If your **opponents** retreat, you can immediately make a free attack against them before they move.
-- If **you** retreat, make a *retreat roll*. Roll **2D6 + TACTICS** and apply the result as follows:
+If **you** disengage, make a *retreat roll*. Roll **2D6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
-|:----:|:-------|
-| **6–** | Your opponent makes a **free attack** against you immediately. |
-| **7–9** | You disengage, but you suffer a *complication*. |
+| :-: | :- |
+| **6–** | Your opponent immediately makes a **free attack** against you while you disengage. |
+| **7–9** | You disengage, but suffer a *complication*. |
 | **10–12** | You disengage without mishap. |
-| **13+** | You make a **free attack** against your opponent, then disengage without mishap. |
+| **13+** | You disengage without mishap, and can optionally take an **extra** move this turn without spending an anction. |
 
 </div>
+
+If your **opponents** disengage, you can immediately make a free attack against them before they move.
 
 ## Mobs
 
