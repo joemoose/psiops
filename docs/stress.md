@@ -1,6 +1,6 @@
 # Stress
 
-During a mission, you will accumulate *stress* — the mental and physical toll of constant danger, sustained vigilance, and traumatic exposure. 
+During a mission, you'll accumulate *stress* — the mental and physical toll of constant danger, sustained vigilance, and traumatic exposure.
 
 ## Gaining Stress
 
@@ -26,7 +26,7 @@ Your stress during the mission is handled as follows:
 3. If your stress reaches **6**, make a *stress roll*.
 4. While at 6 stress, each new stressor triggers another stress roll, even though your total cannot increase further.
 
-See the following sections for details. 
+See the following sections for details.
 
 ### Maximum Stress
 
@@ -41,7 +41,7 @@ When your stress reaches **6**, you immediately make a **stress roll**. Roll **2
 | **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You are now **locked-in to** the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
+| **13+** | You're now **locked-in to** the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
 
 </div>
 
@@ -49,11 +49,11 @@ All *panicked* and *locked-in* effects persist until the end of the mission or u
 
 !!! example
 
-	Your stress is currently 5. The APC you're riding in is hit by an RPG, increasing your stress to 6. You must now make a *stress roll*. You roll a 5 and a 3, then add your 1 WILLPOWER, for a total of 9. You keep it together — for now.
+	Your stress is currently **5**. The APC you're riding in is hit by an RPG, increasing your stress to **6**. You must now make a *stress roll*. You roll a 5 and a 3, then add your 1 WILLPOWER, for a total of 9. You keep it together — for now.
 
 ### Panicked Effects
 
-When you *panic*, roll **1D6** and apply the effect as follows:  
+When you *panic*, roll **1D6** and apply the effect as follows:
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
@@ -67,7 +67,7 @@ When you *panic*, roll **1D6** and apply the effect as follows:
 !!! note "Notes"
 
 	- If you panic again and trigger another effect, the effects **stack**.
-	- Panicked and locked-in effects can co-exist. Apply all effects. 
+	- Panicked and locked-in effects can co-exist. Apply all effects.
 
 ### Locked-In Effects
 
@@ -85,7 +85,7 @@ When you’re locked in, roll **1D6** and apply the effect as follows:
 !!! note "Notes"
 
 	- If you lock in again and trigger a different effect, the effects **stack**.
-	- Panicked and locked-in effects can co-exist. Apply all effects. 
+	- Panicked and locked-in effects can co-exist. Apply all effects.
 
 ## Remove Stress and Effects
 
@@ -106,7 +106,7 @@ Regrouping at a *rally point* automatically removes all *panicked* and *locked-i
 
 !!! note
 
-	Removing panicked effects at a rally point is helpful, but it also means you’ll lose any locked-in benefits. 
+	Removing panicked effects at a rally point is helpful, but it also means you’ll lose any locked-in benefits.
 
 
 

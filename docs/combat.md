@@ -4,7 +4,7 @@ Combat is like any risky action: attacking requires an *action roll* to deal dam
 
 ## Combat Sequence
 
-Once combat begins, the game proceeds through a fixed sequence of steps as follows:
+Once *combat mode* begins, the game proceeds through a fixed sequence of steps as follows:
 
 <figure class="diagram" style="--diagram-max-width: 640px">
 --8<-- "img/combat.svg"
@@ -13,7 +13,7 @@ Once combat begins, the game proceeds through a fixed sequence of steps as follo
 
 ## Rounds
 
-A *combat round* is about 6 seconds, enough time to **move once** and take **1 action**, such as firing at a target or moving again. You can move or act in any order, or choose to forgo either. 
+A *combat round* is about 6 seconds, enough time to **move once** and take **1 action**, such as firing at a target or moving again. You can move or act in any order, or choose to forgo either.
 
 !!! note
 
@@ -21,7 +21,7 @@ A *combat round* is about 6 seconds, enough time to **move once** and take **1 a
 
 Complex actions that take more than 6 seconds may require multiple combat rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a doorway, or dropping an item, are free and don’t count as your 1 action.
 
-In each round of combat, both your squad and the opposing force take turns moving and taking actions, each as a group. Determining which side takes the first turn is described in the following section. 
+In each round of combat, both your squad and the opposing force take turns moving and taking actions, each as a group. Determining which side takes the first turn is described in the following section.
 
 ### First Round and Initiative Roll
 
@@ -38,37 +38,45 @@ Whether you act before the enemy in the **first** round of combat is determined 
 
 </div>
 
-After the initiative roll, all squad members who act **first** in the combat round take their turn and resolve their movement and actions. Other team members must sit out the first round and wait to act until the **second** round.
-
-Afterward, the opposing force takes its turn. The first round of combat ends. 
-
 !!! note
 
-	Like any other *action roll*, initiative rolls can have *advantage* or *disadvantage* depending on tactical circumstances. 
+	Like any other *action roll*, initiative rolls can have *advantage* or *disadvantage* depending on tactical circumstances.
+
+#### Completing the First Combat Round
+
+After the initiative roll, all squad members who act first in the combat round take their turn and resolve their movement and actions. Other team members who failed their initiative roll must sit out the first round and wait to act until the second round.
+
+Afterward, the opposing force takes its turn. The first round of combat ends.
 
 ### Subsequent Rounds
 
-In the second and subsequent rounds of combat, you **no longer** make an *initiative roll*. You and your squad **always** take the first turn, followed by the enemy, until one side is eliminated or withdraws.
+In the second and subsequent rounds of combat, you no longer make an *initiative roll*. You and your squad always take the first turn, followed by the enemy, until one side is eliminated or withdraws.
 
 ### Ambushes
 
-Who takes the first turn can be determined by circumstances or careful planning rather than by *initiative rolls*. If you *ambush* the enemy, you **don’t** make an initiative roll. Instead, you and your teammates act **first** in the first turn and gain *advantage* on all *action rolls*. The enemy takes no turn in the first combat round.
+Who takes the first turn can be determined by circumstances or careful planning rather than by *initiative rolls*.
+
+#### Ambushing the Opponents
+
+If you *ambush* the enemy, you don’t make an initiative roll. Instead, you and your teammates act first in the first turn and gain *advantage* on all *action rolls*. The enemy takes no turn in the first combat round.
 
 Afterward, in the second and subsequent rounds, combat proceeds as usual: your squad takes the first turn, followed by the opposing force.
 
 !!! tip
 
-	Because your squad always acts first in the second round, an ambush gives you two consecutive turns before the enemy can respond. This is a powerful tactical advantage. Exploit it. 
+	Because your squad always acts first in the second round, an ambush gives you two consecutive turns before the enemy can respond. This is a powerful tactical advantage. Exploit it.
 
-If the enemy ambushes **you**, your squad doesn’t take a turn in the first round of combat. You can take **no** actions or move until the **second** round, and the enemy goes first. In the second and subsequent rounds, combat proceeds as usual.
+#### Being Ambushed
+
+If the enemy ambushes you, your squad doesn’t take a turn in the first round of combat. You can take no actions or move until the second round, and the enemy goes first. In the second and subsequent rounds, combat proceeds as usual.
 
 ## Simultaneous Actions
 
-During your turn, all your squad’s actions and moves occur **at the same time**. Everyone declares their actions and moves for the current turn upfront, before any results are determined. Actions and moves are not declared individually by each player and then resolved one at a time. 
+During your turn, all your squad’s actions and moves occur **at the same time**. Everyone declares their actions and moves for the current turn upfront, before any results are determined. Actions and moves are not declared individually by each player and then resolved one at a time.
 
 !!! note
 
-	The GM will give you a general sense of what the enemy is doing to help you plan your actions. 
+	The GM will give you a general sense of what the enemy is doing to help you plan your actions.
 
 ### Interrupting Turns
 
@@ -102,7 +110,7 @@ The *applicable attribute* for your *attack roll* depends on how you describe th
 | STRENGTH | I kick down the door and blast my shotgun at anything I see. |
 | REFLEXES | I run through the house, slide into cover, and fire from there. |
 | TACTICS | I go around the side of the house, flank them, and fire through the window. |
-| WILLPOWER | I knock on the door, wait for someone to open it, say 'Hi!', then fire when they respond. |
+| WILLPOWER | I lure someone to the doorway, then fire when they respond.. |
 
 !!! note
 
@@ -125,9 +133,9 @@ For weapons or other attack types not listed on the Combat Weapons list, use the
 
 ### Blast Damage
 
-Attacks with the *blast* quality, such as explosives or frag grenades, can affect multiple targets in a zone. To determine how many targets are affected, roll **1D6 + the weapon's damage modifier**. The result is the number of targets affected in the zone. See [Zones](zones.md). 
+Attacks with the *blast* quality, such as explosives or frag grenades, can affect multiple targets in a zone. To determine how many targets are affected, roll **1D6 + the weapon's damage modifier**. The result is the number of targets affected in the zone. See [Zones](zones.md).
 
-All targets caught in the blast then suffer the same *attack roll* results. If there are more targets in a zone than the target count, the targets caught by the blast are selected randomly. 
+All targets caught in the blast then suffer the same *attack roll* results. If there are more targets in a zone than the target count, the targets caught by the blast are selected randomly.
 
 !!! note
 
@@ -144,7 +152,7 @@ If you and other team members attack the same target, make all *attack rolls* se
 
 ## Attack Roll Modifiers
 
-The effectiveness of your *attack rolls* is modified by weapon type, engagement distance, and tactical circumstances. See the following tables for attack modifiers. 
+The effectiveness of your *attack rolls* is modified by weapon type, engagement distance, and tactical circumstances. See the following tables for attack modifiers.
 
 ### Distance Modifiers
 
@@ -175,12 +183,12 @@ Tactical decisions apply attack modifiers as follows:
 
 ## Expending Ammunition
 
-At the start of a mission, all your small arms have an *ammo rating* of **6**. 
+At the start of a mission, all your small arms have an *ammo rating* of **6**.
 
 Each time you attack, your weapon’s *ammo rating* may decrease as follows:
 
 - If your *attack roll* **fails**, reduce your weapon's *ammo rating* by **1**.
-- If your *attack roll* is a **success** (*partial*, *complete*, or *critical*), you do **not** reduce your *ammo rating*. 
+- If your *attack roll* is a **success** (*partial*, *complete*, or *critical*), you do **not** reduce your *ammo rating*.
 
 When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
 
@@ -188,7 +196,7 @@ When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resup
 
 You can resupply your ammunition in several ways: carrying extra ammunition in your inventory, using your *tactical supplies*, or restocking at a *rally point*. See [Rally Point](damage.md#rally-point).
 
-If you recover enemy ammunition during the mission, it increases the *ammo rating* of **one** weapon by **1**.
+If you recover enemy ammunition during the mission, increase the *ammo rating* of one weapon by **1**.
 
 !!! note
 
@@ -222,7 +230,7 @@ The *applicable attribute* for your *defense roll* depends on the type of attack
 
 ## Cover
 
-When you duck behind cover to avoid an enemy attack, your *defense roll* has ***advantage***, regardless of the type of cover. Hard cover also reduces the damage you might take.
+When you duck behind cover to avoid an enemy attack, your *defense roll* has *advantage*, regardless of the type of cover. Hard cover also reduces the damage you might take.
 
 Cover is rated as follows:
 
@@ -231,7 +239,7 @@ Cover is rated as follows:
 | **No cover** | None | Fully exposed |
 | **Soft** | *Advantage* on *defense rolls* | Foliage, furniture, smoke, or thin barriers |
 | **Hard** | *Advantage* on *defense rolls* and +1 DAMAGE REDUCTION | Concrete barriers, walls, vehicles, sandbags, and large machinery |
-| **Total** | The attacker cannot directly target you unless they flank, use indirect fire, or breach the cover. | Wall, AFV hull, thick tree |  
+| **Total** | The attacker cannot directly target you unless they flank, use indirect fire, or breach the cover. | Wall, AFV hull, thick tree |
 
 ### Hard Cover Damage Reduction
 
@@ -251,9 +259,9 @@ You can reduce the damage you take by using a personal protective system and by 
 
 !!! example
 
-	An operator crouches behind a concrete barrier. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by 1 point. The operator wears heavy ballistic body armor (3 armor) and a helmet (+1 armor), resulting in a damage reduction of *3* rather than 4 because the helmet’s +1 bonus to the armor rating exceeds the 3-point damage-reduction cap. If hit by hostile fire, the total damage reduction would be 3 (armor) + 1 (hard cover) = 4 points.
+	You take cover behind a concrete barrier. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by **1** point. You're wearing heavy ballistic body armor (**3** armor) and a helmet (**+1** armor), which results in a damage reduction of *3* rather than **4** because the helmet’s **+1** bonus to the armor rating exceeds the 3-point damage-reduction cap. If hit by hostile fire, the total damage reduction would be **3** (armor) + **1** (hard cover) = **4** points.
 
-	Continuing the example, assume the operator is attacked with a flamethrower. Ballistic body armor and helmets do not reduce this type of damage, but hard cover still does. The total damage reduction would be 1 point. 
+	Continuing the example, assume you're attacked with a flamethrower. Ballistic body armor and helmets don't reduce this type of damage, but hard cover still does. The total damage reduction would be **1** point from the cover.
 
 ## Suppressing Fire
 
@@ -278,11 +286,11 @@ If a pinned target becomes visible to you, for example, by attacking or moving o
 
 !!! example
 
-	Your squad is assaulting a bunker patrolled by automated guard drones. An open zone lies between you and the bunker.
-	
+	Your squad is assaulting a bunker patrolled by automated guard drones. A zone with no cover lies between you and the bunker.
+
 	You lay down suppressing fire with your LMG on the bunker’s zone, and the rest of the squad moves forward into the open zone, then uses their actions to move again and continue sprinting into the bunker’s zone. Your squad’s turn is now complete.
-	
-	The drones go next. Following only their programming and lacking any instinct for self-preservation, they swivel to fire on your team members now occupying their zone. However, this exposes the drones to your suppressing fire. You immediately interrupt their turn and make a free attack with advantage against each drone. Send it! 
+
+	The drones go next. Following only their programming and lacking any instinct for self-preservation, they swivel to fire on the team members now occupying their zone. However, this exposes the drones to your suppressing fire. You immediately interrupt their turn and make a free attack with advantage against each drone. Send it!
 
 ## Neural Weapons
 
@@ -296,7 +304,7 @@ To activate your neural weapon, make a *neural attack roll*. Roll **2D6 + WILLPO
 
 | Roll | Result |
 | :-: | - |
-| **6–** | Your neural weapon **doesn’t activate**. You take **1** *fatigue* and can **no longer activate this neural weapon** during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
+| **6–** | Your neural weapon **doesn’t activate**. You take **1** *fatigue* and can **no longer activate** this neural weapon during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
 | **7–9** | The power **manifests**, but you take **1** *fatigue*. |
 | **10–12** | The power **manifests**. |
 | **13+** | The power **manifests**. The effect is greater than expected. |
@@ -305,23 +313,27 @@ To activate your neural weapon, make a *neural attack roll*. Roll **2D6 + WILLPO
 
 ### Ongoing Neural Effects and Concentration
 
-Many neural weapons require *concentration* to sustain their effects. As long as concentration is maintained each combat round, the effect persists. 
-
-Neural weapons that **do not** require concentration are one-shot — you must reactivate them each time. An ongoing neural weapon needs to be reactivated only if concentration is broken. 
+Many neural weapons require *concentration* to sustain their effects. As long as concentration is maintained each combat round, the effect persists.
 
 - To keep an ongoing neural weapon’s effect active, you must spend an *action* each combat round to maintain concentration.
-- If you declare any action other than concentrating at the start of your combat round, the neural weapon’s effect ends immediately.
+- If you take any action other than concentrating at the start of your combat round, the neural weapon’s effect ends immediately.
 - If you take damage while concentrating, your focus is disrupted, and the neural weapon’s effect ends immediately.
 
 !!! note
 
-	You are still free to **move** into another zone during your round; only an action is required to maintain concentration. Any movement you initiate does not break your concentration.
-	
+	- You're still free to **move** into another zone during your round; only an action is required to maintain concentration. Any movement you initiate does not break your concentration.
+
 ## Retreating
 
 Retreating from a fight while engaged in combat can leave the retreating force vulnerable to additional attacks.
 
-If **you** disengage, make a *retreat roll*. Roll **2D6 + TACTICS** and apply the result as follows:
+### Opponent Retreats
+
+If your **opponents** retreat, you can immediately make a free attack against them before they move.
+
+### You Retreat
+
+If **you** retreat, make a *retreat roll*. Roll **2D6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -330,11 +342,9 @@ If **you** disengage, make a *retreat roll*. Roll **2D6 + TACTICS** and apply th
 | **6–** | Your opponent immediately makes a **free attack** against you while you disengage. |
 | **7–9** | You disengage, but suffer a *complication*. |
 | **10–12** | You disengage without mishap. |
-| **13+** | You disengage without mishap, and can optionally take an **extra** move this turn without spending an anction. |
+| **13+** | You disengage without mishap, and can optionally take an **extra** move this turn without spending an action. |
 
 </div>
-
-If your **opponents** disengage, you can immediately make a free attack against them before they move.
 
 ## Mobs
 
@@ -353,30 +363,30 @@ The mob’s *armor rating* and *attacks per round* depend on the number of membe
 | 17–20 | 0 | 5 |
 | 21+ | 0 | 6 |
 
-The number of attacks per round indicates how many opponents the mob can attack during its turn in a combat round. If there are fewer opponents than the mob’s attacks, the remaining attacks are wasted. 
+The number of attacks per round indicates how many opponents the mob can attack during its turn in a combat round. If there are fewer opponents than the mob’s attacks, the remaining attacks are wasted.
 
 !!! note
 
 	You’ll notice that armor increases as the number of opponents decreases. The mob isn’t equipping more body armor. Rather, larger mobs are less spread out, increasing their target density.
 
-Regardless of a mob’s size, its *damage modifier* is fixed, typically **+1**. 
+Regardless of a mob’s size, its *damage modifier* is fixed, typically **+1**.
 
 !!! example
 
-	You face *10* street thugs. The GM merges them into a mob. The resulting mob, composed of the 10 thugs, has **1** armor and can attack up to **3** times. The GM sets its damage modifier to +1*.
- 
+	You face **10** street thugs. The GM merges them into a mob. The resulting mob, composed of the 10 thugs, has **1** armor and can attack up to **3** times. The GM sets its damage modifier to **+1**.
+
 ### Attacking a Mob
 
-For **each point** of damage a mob takes, its member count decreases by **1**. The member count can be considered the mob’s HP.
+For each point of damage a mob takes, its member count decreases by **1**. The member count can be considered the mob’s HP.
 
 !!! note
 
-	When you and other team members attack the same mob, all damage is cumulative. Mobs are an exception to the general rule that cumulative damage doesn’t apply when attacking a target. See [Multiple Attackers](#multiple-attackers).
+	When you and other team members attack the same mob, all damage is cumulative.<br/>Mobs are an exception to the general rule that cumulative damage doesn’t apply when attacking a target. See [Multiple Attackers](#multiple-attackers).
 
 As a mob’s member count decreases, its stats change when it crosses the threshold for the next size down. When a mob reaches **0** members, it’s eliminated.
 
 !!! example
 
-	An operator faces a mob of **14** members with *0* armor and *4* attacks. The operator's attack deals **4** points of damage, reducing the mob to **10** members. Because the mob is smaller, its stats change to *1* armor and *3* attacks.
+	You face a mob of **14** members with **0** armor and **4** attacks. You attack and deal **4** points of damage, reducing the mob to **10** members. Because the mob is smaller, its stats change to **1** armor and **3** attacks.
 
 

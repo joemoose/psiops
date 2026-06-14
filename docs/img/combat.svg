@@ -73,27 +73,27 @@
      class="cf__edge"
      id="path2" />
   <path
-     d="M178 111v30m-6-11 6 11 6-11m-6 121v46m-6-11 6 11 6-11"
+     d="M178 142v30m-6-11 6 11 6-11m-6 121v46m-6-11 6 11 6-11"
      class="cf__edge"
      id="path3" />
   <text
      x="194"
-     y="286"
+     y="317"
      class="cf__elbl"
      font-size="14"
      id="text3">NO</text>
   <path
-     d="M178 415v63m-6-11 6 11 6-11"
+     d="M178 446v63m-6-11 6 11 6-11"
      class="cf__edge"
      id="path4" />
   <text
      x="194"
-     y="446"
+     y="477"
      class="cf__elbl"
      font-size="14"
      id="text4">NO</text>
   <path
-     d="M178 534v51m-6-11 6 11 6-11m388-410v56m-6-11 6 11 6-11m-6 83v54m-6-11 6 11 6-11m-6 99v50m-6-11 6 11 6-11m-6 83v40m-6-11 6 11 6-11m-6 143v67m-6-11 6 11 6-11"
+     d="M178 565v51m-6-11 6 11 6-11m388-441v56m-6-11 6 11 6-11m-6 83v54m-6-11 6 11 6-11m-6 99v50m-6-11 6 11 6-11m-6 83v40m-6-11 6 11 6-11m-6 143v67m-6-11 6 11 6-11"
      class="cf__edge"
      id="path5" />
   <text
@@ -103,7 +103,7 @@
      font-size="14"
      id="text5">YES</text>
   <path
-     d="M266 196h34v182h152"
+     d="M266 227h134v151h52"
      class="cf__edge"
      id="path6" />
   <path
@@ -112,12 +112,12 @@
      id="path7" />
   <text
      x="283"
-     y="183"
+     y="214"
      class="cf__elbl"
      font-size="14"
      id="text7">YES</text>
   <path
-     d="M283 356h55V114h114"
+     d="M283 387h55V114h114"
      class="cf__edge"
      id="path8" />
   <path
@@ -126,12 +126,12 @@
      id="path9" />
   <text
      x="319.5"
-     y="343.5"
+     y="374.5"
      class="cf__elbl"
      font-size="14px"
      id="text9">YES</text>
   <path
-     d="M290 648h86V144h76"
+     d="M290 679h86V144h76"
      class="cf__edge"
      id="path10" />
   <path
@@ -140,12 +140,12 @@
      id="path11" />
   <text
      x="333"
-     y="635"
+     y="666"
      class="cf__elbl"
      font-size="14"
      id="text11">YES</text>
   <path
-     d="M178 711h236V404h38"
+     d="M178 742h236V404h38"
      class="cf__edge"
      id="path12" />
   <path
@@ -154,7 +154,7 @@
      id="path13" />
   <text
      x="296"
-     y="698"
+     y="729"
      class="cf__elbl"
      font-size="14"
      id="text13">NO</text>
@@ -182,13 +182,13 @@
      width="192"
      height="50"
      x="82"
-     y="61"
+     y="92"
      class="cf__box cf__term"
      rx="25"
      id="rect16" />
   <text
      x="178"
-     y="86"
+     y="117"
      class="cf__lbl"
      font-size="16"
      id="text17"><tspan
@@ -196,12 +196,12 @@
        dy="0"
        id="tspan16">Combat Mode Begins</tspan></text>
   <path
-     d="m178 141 88 55-88 55-88-55Z"
+     d="m178 172 88 55-88 55-88-55Z"
      class="cf__box"
      id="path17" />
   <text
      x="178"
-     y="187"
+     y="218"
      class="cf__lbl"
      font-size="15"
      id="text18"><tspan
@@ -212,12 +212,12 @@
        dy="18"
        id="tspan18">ambushed?</tspan></text>
   <path
-     d="m178 297 105 59-105 59-105-59Z"
+     d="m178 328 105 59-105 59-105-59Z"
      class="cf__box"
      id="path18" />
   <text
      x="178"
-     y="347"
+     y="378"
      class="cf__lbl"
      font-size="15"
      id="text20"><tspan
@@ -231,13 +231,13 @@
      width="178"
      height="56"
      x="89"
-     y="478"
+     y="509"
      class="cf__box"
      rx="2"
      id="rect20" />
   <text
      x="178"
-     y="506"
+     y="537"
      class="cf__lbl"
      font-size="16"
      id="text21"><tspan
@@ -245,12 +245,12 @@
        dy="0"
        id="tspan21">Roll Initiative</tspan></text>
   <path
-     d="m178 585 112 63-112 63-112-63Z"
+     d="m178 616 112 63-112 63-112-63Z"
      class="cf__box"
      id="path21" />
   <text
      x="178"
-     y="639"
+     y="670"
      class="cf__lbl"
      font-size="15"
      id="text23"><tspan

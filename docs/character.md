@@ -1,8 +1,8 @@
 # Character
 
-You won’t make the headlines. You’re an off-ledger operator fighting on a Cold War front no one will acknowledge. The research divisions don't use the word *psychic*. What you carry are *neural weapons* — cataloged, classified, and deployed. You’ve seen things that’ll never be passed up the chain of command. The threats you face bleed, yet they shouldn't exist. You won't fight alone. You won't fight safe.
+You won’t make the headlines. You’re an off-ledger operator fighting on a Cold War front no one will acknowledge. The research divisions don't use the word *psychic*. What you carry are *neural weapons* — cataloged, classified, and deployed. You’ve seen things that’ll never be passed up the chain of command. The threats you face bleed, yet they should not exist. You won't fight alone. You won't fight safe.
 
-Welcome to the unit, operator. 
+Welcome to the unit, operator.
 
 ## Dice
 
@@ -21,13 +21,13 @@ To create your character, follow these steps. Record each step’s result on you
 
 !!! note
 
-	The equipment you carry is a significant part of fielding your operator. See the [Equipment](equipment.md) section for details and descriptions. 
+	The equipment you carry is a significant part of fielding your operator. See the [Equipment](equipment.md) section for details and descriptions.
 
 ---
 
 ### Step 1: Attribute Scores
 
-Assign the scores **2**, **1**, **0**, and **-1** to your four attributes: ***STRENGTH***, ***REFLEXES***, ***TACTICS***, and ***WILLPOWER***, in any order.
+Assign the scores **2**, **1**, **0**, and **-1** to your four attributes: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**, in any order.
 
 Attributes represent your character’s innate physical and mental characteristics:
 
@@ -40,13 +40,13 @@ Higher scores indicate greater ability. See [Applicable Attributes](playing.md#a
 
 !!! example
 
-	A physically powerful and headstrong operator who's not particularly dextrous or tactically minded: STRENGTH 2, REFLEXES -1, TACTICS 0, WILLPOWER 1.
+	A physically powerful and headstrong operator who's not particularly dexterous or tactically minded: STRENGTH 2, REFLEXES -1, TACTICS 0, WILLPOWER 1.
 
 ---
 
 ### Step 2: Core Drives
 
-Roll a **D66** to select your character’s ***Core Drive*** from the [Core Drives table](#core-drives). Each team member in your squad must have a unique core drive. Reroll any duplicates.
+Roll a **D66** to select your character’s **Core Drive** from the [Core Drives table](#core-drives). Each team member in your squad must have a unique core drive. Reroll any duplicates.
 
 !!! note
 
@@ -56,33 +56,33 @@ Roll a **D66** to select your character’s ***Core Drive*** from the [Core Driv
 
 ### Step 3: Neural Weapons
 
-Roll a **D66** twice to select two ***Neural Weapons*** from the [Neural Weapons table](#neural-weapons). If you roll a duplicate, reroll until you get a different one.
+Roll a **D66** twice to select two **Neural Weapons** from the [Neural Weapons table](#neural-weapons). If you roll a duplicate, reroll until you get a different one.
 
 ---
 
 ### Step 4: Advanced Specializations
 
-Roll a **D66** twice to select two ***Advanced Specializations*** from the [Advanced Specializations table](#advanced-specializations).
+Roll a **D66** twice to select two **Advanced Specializations** from the [Advanced Specializations table](#advanced-specializations).
 
 ---
 
 ### Step 5: Hit Points and Momentum
 
-Set your maximum ***Hit Points*** to 6 and your starting ***Momentum Points*** to 2. These values are pre-filled on your character sheet.
+Set your maximum **Hit Points** to 6 and your starting **Momentum Points** to 2. These values are pre-filled on your character sheet.
 
 ---
 
 ### Step 6: Basic Kit and Tactical Supplies
 
-Add a ***Basic Kit*** and 2 units of ***Tactical Supplies*** to your inventory. Both items are pre-listed on your character sheet.
+Add a **Basic Kit** and 2 units of **Tactical Supplies** to your inventory. Both items are pre-listed on your character sheet.
 
-You can remove 1 or both Tactical Supplies after your mission briefing. See [Basic Kit](equipment.md#basic-kit) and [Tactical Supplies](equipment.md#tactical-supplies). 
+You can remove 1 or both Tactical Supplies after your mission briefing. See [Basic Kit](equipment.md#basic-kit) and [Tactical Supplies](equipment.md#tactical-supplies).
 
 ---
 
 ### Step 7: Weapons and Equipment
 
-Choose your ***Combat Weapons*** and ***Mission-Specific Equipment***. You can defer these selections until you receive a mission briefing.
+Choose your **Combat Weapons** and **Mission-Specific Equipment**. You can defer these selections until you receive a mission briefing.
 
 See [Combat Weapons](equipment.md#combat-weapons) and [Mission-Specific Equipment](equipment.md#mission-specific-equipment).
 
@@ -90,7 +90,7 @@ See [Combat Weapons](equipment.md#combat-weapons) and [Mission-Specific Equipmen
 
 ### Step 8: Armor
 
-Add ***Light Ballistic Body Armor*** and a ***Helmet*** to your inventory, then set your ***Armor Rating*** to **2**. Both items are pre-listed on your character sheet. 
+Add **Light Ballistic Body Armor** and a **Helmet** to your inventory, then set your **Armor Rating** to **2**. Both items are pre-listed on your character sheet.
 
 You can modify your personal protective kit after your mission briefing. See [Personal Protective System](equipment.md).
 
@@ -102,13 +102,13 @@ Choose your native language and an additional number of languages equal to **1**
 
 !!! example
 
-	If your TACTICS is -1, you would choose no additional languages. With a TACTICS score of 2, you would choose 3 additional languages. 
+	If your TACTICS is -1, you’d choose no additional languages. With a TACTICS score of 2, you’d choose 3 additional languages.
 
 ---
 
 ### Step 10: Codename
 
-Assign a ***codename*** to your character. 
+Assign a **CODENAME** to your character.
 
 ---
 
@@ -122,7 +122,7 @@ Weapons free, soldier. Move out.
 
 You and every team member on your squad have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an *advancement condition*. If you meet the advancement condition during a mission, you can improve your character’s abilities upon returning to base. See [Character Advancement](playing.md#character-advancement).
 
-| D66 | core drive | Description |
+| D66 | Core Drive | Description |
 | :-: | - | - |
 | 11 | Addict | Describe your insatiable vice. Advance if you unexpectedly indulge your foible during the mission. |
 | 12 | Agitator | Describe a persistent, oppressive establishment that harmed you. Advance if your actions weaken it or help those it oppresses. |
@@ -163,7 +163,7 @@ You and every team member on your squad have a distinct *core drive* that fuels 
 
 ## Neural Weapons
 
-Neural weapons are your paracognitive abilities — anomalous neural phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The research division found you and recruited you for your abilities. In the field, they're your edge. 
+Neural weapons are your paracognitive abilities — anomalous neural phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The research division found you and recruited you for your abilities. In the field, they're your edge.
 
 The following table lists known neural weapon loadouts. Many descriptions refer to combat-related game mechanics, such as *distance modifiers* and *damage*. These are detailed in the [Combat](combat.md) section.
 
@@ -184,7 +184,7 @@ The following table lists known neural weapon loadouts. Many descriptions refer 
 | 31 | Hard Shell | When activated on yourself, gain **+1 armor** and increase the damage-reduction cap to **4**, exceeding the usual cap of **3**, for the duration of combat. If you target another person, the effect lasts only as long as you maintain concentration. You can apply the effect to a target only once per combat. |
 | 32 | Harvest | When you make your next attack, regain HP equal to half the damage you deal (rounded up), up to your maximum. |
 | 33 | Inner Shield | Create an invisible mental shield around you and nearby team members, blocking passive mind-affecting effects for as long as you maintain concentration. If attacked with a neural weapon, gain *advantage* on your defense rolls. |
-| 34 | Leash | Take control of a person within a clear, unaided line of sight, making them your puppet for as long as you maintain concentration. They perform only actions a team member would and won’t harm themselves directly. |
+| 34 | Leash | Take control of a person within a clear, unaided line of sight, making them your puppet for as long as you maintain concentration. They won’t harm themselves directly. |
 | 35 | Live Wire | Control nearby electrical energy to recharge batteries, short-circuit devices, or create light shows. Alternatively, attack a target with electricity using a **sidearm’s** distance modifiers, dealing **+1** damage and bypassing armor. Gain *advantage* when attacking mechanical or electronic targets. |
 | 36 | Long Look | Observe *or* listen at any location by specifying a direction, distance, and elevation from your position, ignoring intervening objects. The effect lasts for as long as you maintain concentration. |
 | 41 | Meat | Control a corpse within a clear, unaided line of sight for as long as you maintain concentration. The corpse’s current state will limit its abilities. |
@@ -208,11 +208,11 @@ The following table lists known neural weapon loadouts. Many descriptions refer 
 
 ## Advanced Specializations
 
-Your character is a highly trained military professional capable of almost any action. However, *advanced specializations* increase the likelihood of success on related tasks. See [Using Advanced Specializations](playing.md). 
+Your character is a highly trained military professional capable of almost any action. However, *advanced specializations* increase the likelihood of success on related tasks. See [Using Advanced Specializations](playing.md).
 
 Many of the specializations listed below, such as survival and evasion, are part of standard special forces training. Specializations are advanced courses and certifications beyond basic training.
 
-Unlike *attributes*, your advanced specializations aren’t given numerical ratings. You either have the specialization or you don’t.
+Unlike *attributes*, your advanced specializations aren’t given numerical ratings. You either have the specialization, or you don’t.
 
 | D66 | Specialization | Description |
 | :-: | :- | :- |
@@ -244,7 +244,7 @@ Unlike *attributes*, your advanced specializations aren’t given numerical rati
 | 52 | Small Arms: Rifle | Precision engagement at long ranges and instinctive fire at close quarters, while maintaining accuracy under adverse weather, movement, and stress that impair less-trained shooters. |
 | 53 | Small Arms: Shotgun | Ballistic breaching, close-quarters engagement, and selecting the appropriate load, such as breaching rounds, buckshot, or a slug, for the situation. |
 | 54 | Small Arms: Sidearm | Drawing and engaging at contact distance, shooting accurately on the move, and remaining effective one-handed, injured, or in darkness when a rifle isn't an option. |
-| 55 | Small Arms: SMG | Engaging in close-quarters combat and suppressive fire with submachine guns, which are effective at close range when rifles are cumbersome and sidearms are inadequate. |
+| 55 | Small Arms: SMG | Engaging in close-quarters combat and suppressive fire with submachine guns, which are effective at close range when rifles are cumbersome, or sidearms are inadequate. |
 | 56 | Small Unit Tactics | Analyzing terrain for tactical advantage, planning assaults and ambushes, identifying chokepoints and vulnerabilities, and predicting engagement outcomes before the first shot is fired. |
 | 61 | Surveillance & Counter-Electronics | Installing surveillance devices, bypassing electronic security, and fabricating or repairing field equipment with available components when standard parts are unavailable. |
 | 62 | Tactical Interrogation | Extracting information from uncooperative sources using psychological pressure, controlled rapport, and patience. Knowing when to push, when to wait, and when someone is lying to tell you what you want to hear. |

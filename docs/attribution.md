@@ -19,12 +19,12 @@
 After reading the following books, I knew they would provide a solid foundation for an enjoyable game.
 
 - Eric Haney’s ***Inside Delta Force***, Andy McNab’s ***Bravo Two Zero***, Sean Naylor’s ***Relentless Strike***, and Mark Owen’s ***No Easy Day*** immerse you in the world of special operations forces.
-- Tim Power’s ***Declare*** portrays a Cold War setting with a hidden supernatural history beneath the surface.
+- Tim Powers' ***Declare*** portrays a Cold War setting with a hidden supernatural history beneath the surface.
 - Charles Stross’ ***The Atrocity Archives*** depicts British bureaucratic occult espionage that’s both disturbing and darkly funny.
 - The ***SCP Foundation***, whose contributors, writing collectively and often anonymously, have built an unsettling world of the strange and the occult.
 
-I would be remiss not to include the Netflix TV series ***Stranger Things*** as an inspiration. Rewrite that story, replacing the kids with special forces operators, and you have ***PsiOps***. 
+I would be remiss not to include the Netflix TV series ***Stranger Things*** as an inspiration. Rewrite that story, replacing the kids with special forces operators, and you have ***PsiOps***.
 
 ## License
 
-***PsiOps*** by [Zachary Taylor](https://zacharytaylor.itch.io) is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license.
+***PsiOps*** by [Zachary Taylor](https://zacharytaylor.itch.io) is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.

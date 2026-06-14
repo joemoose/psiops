@@ -1,6 +1,6 @@
 # Equipment
 
-The equipment you carry into the field is organized into five categories:
+The equipment you carry into the field falls into five categories:
 
 - Basic kit
 - Tactical supplies
@@ -8,18 +8,18 @@ The equipment you carry into the field is organized into five categories:
 - Personal protective system
 - Mission-specific equipment
 
-Details on each category follow. 
+Details on each category follow.
 
 ## Inventory
 
-You have **12** inventory slots for carrying equipment: **two** in your hands, **four** on your body, and **six** in your rucksack. Inventory slots are abstract and can be rearranged. To use an item, place it in your hands; to wear it or keep it at the ready, place it on your body; the rest goes in your rucksack. 
+You have **12** inventory slots for carrying equipment: **two** in your hands, **four** on your body, and **six** in your rucksack. Inventory slots are abstract and can be rearranged. To use an item, place it in your hands; to wear it or keep it at the ready, place it on your body; the rest goes in your rucksack.
 
 The number of inventory slots each piece of equipment occupies depends on its size, bulk, or the number of hands required to use it effectively, as follows:
 
 - Items occupy **1** inventory slot unless otherwise specified.
 - Small items, such as grenades, can be bundled so that multiple units occupy **1** slot. If only one of the bundled items is carried, it still takes up **1** slot.
-- Other small, standard items, such as a combat knife or the individual components of your basic kit, **don’t** take up a slot.
-- Bulky, heavy, or two-handed items occupy **two** slots.
+- Other small, standard items, such as a combat knife or the individual components of your basic kit, don’t take up a slot.
+- Bulky, heavy, or two-handed items occupy **2** slots.
 - Ballistic armor occupies **1–3** slots, depending on its level of protection.
 - Equipment that requires two people to lift can’t be stored in your inventory. Other transport methods will be needed.
 
@@ -76,7 +76,7 @@ Your *basic kit* contains the small, sundry, standard-issue personal field equip
 
 *Tactical supplies* are items of tactical equipment, such as climbing gear, flashlights, and ammunition. Each unit takes up **1** inventory slot, and you start each mission with up to **2** units of tactical supplies.
 
-When you need a piece of tactical gear you don’t have, request it using your tactical supplies. If the GM agrees the item qualifies as a tactical supply (see the following examples), remove one unit of tactical supply from your inventory and replace it with the requested item. If the item occupies more slots than the tactical supply it replaces, free enough inventory space first. 
+When you need a piece of tactical gear you don’t have, request it using your tactical supplies. If the GM agrees the item qualifies as a tactical supply (see the following examples), remove one unit of tactical supply from your inventory and replace it with the requested item. If the item occupies more slots than the tactical supply it replaces, free enough inventory space first.
 
 These abstracted tactical supplies let you avoid deciding in advance which additional gear to pack beyond your basic kit, weapons loadout, and mission-specific gear. Equipment classified as tactical supplies can always be added to your inventory separately and carried on the mission. Spent tactical supplies can be resupplied at a *rally point*. See [Rally Point](damage.md#rally-point).
 
@@ -143,13 +143,13 @@ Several types of grenades are available to you. Up to 4 grenades occupy 1 invent
 
 ## Personal Protective System
 
-Your personal protective system consists of two parts: *ballistic body armor* and *secondary armor*, such as a helmet or a riot shield. You can equip as much or as little armor as you like. The heavier your protective system, the less equipment and fewer weapons you can carry. 
+Your personal protective system consists of two parts: *ballistic body armor* and *secondary armor*, such as a helmet or a riot shield. You can equip as much or as little armor as you like. The heavier your protective system, the less equipment and fewer weapons you can carry.
 
 ### Ballistic Body Armor
 
-Ballistic body armor forms the foundation of your protective system. Three tiers of ballistic body armor are available: light, medium, and heavy. Each tier offers greater protection at the cost of added weight and bulk. 
+Ballistic body armor forms the foundation of your protective system. Three tiers of ballistic body armor are available: light, medium, and heavy. Each tier offers greater protection at the cost of added weight and bulk.
 
-#### Armor Rating 
+#### Armor Rating
 
 The tiers provide an *armor rating* of **1** (light), **2** (medium), or **3** (heavy). When you’re hit by an attack, **subtract** your armor rating from the damage dealt.
 
@@ -165,11 +165,11 @@ Each tier takes up a number of *inventory slots* equal to its armor rating.
 
 !!! warning
 
-	Some forms of attack damage, including intense flames and most neural weapons, are **not reduced** by ballistic armor. 
+	Some forms of attack damage, including intense flames and most neural weapons, are **not reduced** by ballistic armor.
 
 ### Secondary Armor
 
-You can equip *secondary armor*, such as a helmet or a riot shield, for additional protection. 
+You can equip *secondary armor*, such as a helmet or a riot shield, for additional protection.
 
 #### Armor Bonus
 
@@ -183,30 +183,30 @@ The **maximum** damage reduction from your personal protective system is capped 
 
 !!! example
 
-	If you wear medium ballistic body armor and have both a riot shield and a helmet equipped, your armor rating is 2 + 1 + 1 = 4. However, the maximum damage reduction is capped at 3, so only 3 points of damage are deducted. 
+	If you wear medium ballistic body armor and have both a riot shield and a helmet equipped, your armor rating is 2 + 1 + 1 = 4. However, the maximum damage reduction is capped at 3, so only 3 points of damage are deducted.
 
 #### Additional Functionality
 
 In addition to an armor rating bonus, secondary protection provides the following effects:
 
- **Helmets**
+##### Helmets
 
-- You are **not** knocked *unconscious* when *wounded*. See [Wounded](damage.md#wounded).
+- You're **not** knocked *unconscious* when *wounded*. See [Wounded](damage.md#wounded).
 - *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
 
- **Riot Shield**
- 
- - You can **destroy** the riot shield to prevent **all** damage you’d otherwise take from a single attack.
- - *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
- - Reduces certain types of attack damage that would otherwise bypass your ballistic armor, including damage from intense flames.
+#####  Riot Shield
+
+- You can **destroy** the riot shield to prevent **all** damage you’d otherwise take from a single attack.
+- *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
+- Reduces certain types of attack damage that would otherwise bypass your ballistic armor, including damage from intense flames.
 
 #### Trade-offs
 
-Using secondary armor entails tactical trade-offs. You may have *disadvantage* on *action rolls* that rely on perception, quick reactions, or stealth. Examples include spotting a hidden enemy sniper, acting before your opponents in the first round of combat, or moving without being heard. 
+Using a riot shield or wearing a helmet involves tactical trade-offs. You might have a *disadvantage* on *action rolls* that rely on perception, quick reactions, or stealth. Examples include spotting a hidden enemy sniper, acting before your opponents in the first round of combat, or moving without being heard.
 
 !!! note
 
-	Wearing ballistic body armor doesn't entail these tactical trade-offs.  
+	Wearing ballistic body armor doesn't entail these tactical trade-offs.
 
 ## Mission-Specific Equipment
 
@@ -214,7 +214,7 @@ At the start of your mission, select any mission-specific equipment you need. Th
 
 ### Inventory Slots
 
-All mission-specific equipment, regardless of size, occupies at least **1** inventory slot unless it requires two hands to use or is bulky, in which case it occupies **2** slots. Massive equipment that is otherwise operator-portable may require additional slots. 
+All mission-specific equipment, regardless of size, occupies at least **1** inventory slot unless it requires two hands to use or is bulky, in which case it occupies **2** slots. Massive equipment that is otherwise operator-portable may require additional slots.
 
 ### Examples
 
@@ -242,7 +242,7 @@ All mission-specific equipment, regardless of size, occupies at least **1** inve
 | Survival kit | Fishing kit, fire-starting tools, compass, water purification, saw, needle, thread, mylar blanket, and related |
 | Vertical Access Kit | Rappelling line, ascenders, descenders, pitons, carabiners, grapnel launcher |
 
-## Squad Radios 
+## Squad Radios
 
  Terrain, vegetation, and urban environments degrade the signal quality and range of your handset squad-coordination radios. Rapid movement prevents communication. In-game handset radio ranges are as follows:
 
@@ -254,7 +254,7 @@ All mission-specific equipment, regardless of size, occupies at least **1** inve
 
 ## Example: Stowing a Loadout
 
-*An operator loads their equipment before the mission. They carry the following items:*
+*You load your equipment before the mission. You’re carrying the following items:*
 
 - Basic kit
 - 2 tactical supplies
@@ -266,7 +266,7 @@ All mission-specific equipment, regardless of size, occupies at least **1** inve
 - Demolitions kit
 - Extra ammunition
 
-Their inventory is arranged as follows:
+You arrange your inventory as follows:
 
 | Item | Location | Slots |
 | :-- | :-: | :-: |
@@ -281,9 +281,9 @@ Their inventory is arranged as follows:
 | Demo kit | Rucksack | 1 |
 | Ammo | Rucksack | 1 |
 
-The operator has 0 hand slots remaining, 1 open body slot, and 1 open rucksack slot. 
+You have 0 hand slots remaining, 1 open body slot, and 1 open rucksack slot.
 
 !!! note
 
-	In this example, the operator is not wearing a helmet. If the operator were to take a helmet on the mission, it would fill the remaining body slot.
+	In this example, you're not wearing a helmet. If you were to take a helmet on the mission, it would fill your remaining body slot.
 
