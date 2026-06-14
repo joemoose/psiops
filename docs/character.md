@@ -196,8 +196,8 @@ The following table lists known neural weapon loadouts. Many descriptions refer 
 | 51 | Reach | Move objects up to **150 kilograms** within a clear, unaided line of sight for as long as you maintain concentration. Hurl the object as an attack, using **sidearm** distance modifiers and dealing **+0** to **+4** damage based on the object’s size. Armor reduces damage. |
 | 52 | Reflexive Read | Gain *advantage* on your next action roll. This ability can’t affect any target other than you. |
 | 53 | Reskin | Alter a person’s appearance for as long as you maintain concentration. To mimic a specific person’s biometric data, you need a sample of their DNA. |
-| 54 | Restitch | Restore 1 or your TACTICS score HP, whichever is higher, up to the target’s maximum. The target must be within a clear, unaided line of sight and can’t receive Restitch again until they take additional damage. |
-| 55 | Scrub | Remove a negative effect, such as panicked conditions, from a person within a clear, unaided line of sight, or remove a beneficial effect. |
+| 54 | Restitch | Restores HP equal to 1 or your TACTICS score, whichever is higher, up to the target’s maximum. The target must be within a clear, unaided line of sight and can’t receive Restitch again until they take additional damage. |
+| 55 | Scrub | Remove a negative effect, such as a panicked condition, from a person within a clear, unaided line of sight, or remove a beneficial effect. |
 | 56 | Second Wind | Remove **1** stress or **1** fatigue from a target within a clear, unaided line of sight. The target can’t receive Second Wind again until they take more stress or fatigue. |
 | 61 | Soft Read | Read the thoughts of a person within a clear, unaided line of sight for as long as you maintain concentration. |
 | 62 | Stasis | Meditate in a trance-like state without needing food, water, or air for as long as you maintain concentration. |

@@ -34,7 +34,7 @@ When the actions you describe are risky, and the outcome isn’t immediately cle
 
 The GM answers your questions and always respects your freedom of choice. The GM presents challenges, obstacles, and situations for you to solve and overcome during the mission. However, the game is more than a story narrated by the GM — it’s an interactive narrative shaped by you, your fellow players, and the GM. Everyone’s choices influence the story. Think of it as both writing and starring in an action film at the same time.
 
-## How to Use this Field Manual
+## How to Use This Field Manual
 
 In the next section, you’ll create your character. You’ll encounter game terms such as *momentum*, *tactical supplies*, *advantage*, and *action rolls*. Don’t worry about them yet. The game’s mechanics and rules are covered in later chapters.
 
