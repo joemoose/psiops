@@ -8,7 +8,7 @@ Once *combat mode* begins, the game proceeds through a fixed sequence of steps a
 
 <figure class="diagram" style="--diagram-max-width: 640px">
 --8<-- "img/combat.svg"
-<figcaption>Combat Flowchart</figcaption>
+<figcaption>Combat Sequence</figcaption>
 </figure>
 
 ## Rounds
