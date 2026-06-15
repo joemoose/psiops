@@ -5,3 +5,6 @@ site/
 ideas/
 world/
 *.pdf
+/world 
+/world /inspiration
+/world /mood-board
