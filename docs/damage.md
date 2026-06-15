@@ -28,7 +28,7 @@ See [Wounds](#wounds), [Fatigue](#fatigue), and [Stress](stress.md) for details 
 
 !!! note
 
-	If knocked *unconscious* and pushed to maximum *stress*, you still make a *stress roll*. Any resulting *panicked* or *locked-in* conditions take effect once you revive. See [Maximum Stress](stress.md#maximum-stress).
+	If knocked *unconscious* and pushed to *maximum stress*, you still make a *stress roll*. Any resulting *panicked* or *locked-in* conditions take effect once you revive. See [Maximum Stress](stress.md#maximum-stress).
 
 !!! example
 
