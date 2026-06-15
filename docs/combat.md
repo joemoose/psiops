@@ -238,7 +238,7 @@ Cover is rated as follows:
 | :-: | - | - |
 | **No cover** | None | Fully exposed |
 | **Soft** | *Advantage* on *defense rolls* | Foliage, smoke, lying prone, or thin barriers |
-| **Hard** | *Advantage* on *defense rolls* and +1 DAMAGE REDUCTION | Concrete barriers, vehicles, sandbags, or 200-liter drums |
+| **Hard** | *Advantage* on *defense rolls* and +1 DAMAGE REDUCTION | Concrete barriers, vehicles, sandbags, or 200-liter barrels |
 | **Total** | The attacker cannot directly target you unless they flank, use indirect fire, or breach the cover. | Wall, AFV hull, wide tree |
 
 ### Hard Cover Damage Reduction
