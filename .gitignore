@@ -2,4 +2,6 @@
 .DS_Store
 /.cache
 site/
+ideas/
+world/
 *.pdf
