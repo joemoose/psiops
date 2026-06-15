@@ -4,7 +4,7 @@ Consider this chapter your basic training, soldier. Master these skills. They’
 
 ## Actions
 
-An *action* is any task your character attempts in the game, such as crossing open ground under fire, cracking a Soviet cipher lock, or bluffing your way through a checkpoint. The outcome of your action is as you describe it unless the action involves risk or uncertainty. In that case, dice rolls determine the result.
+An *action* is any task your character attempts in the game, such as crossing open ground under fire, cracking a Soviet cipher lock, or bluffing your way through a checkpoint. The outcome of your action is exactly as you describe it unless the action is meaningful to the mission and involves risk or uncertainty. In that case, dice rolls determine the result.
 
 !!! note
 
@@ -14,7 +14,7 @@ An *action* is any task your character attempts in the game, such as crossing op
 
 The game operates in two modes: **Operational** and **Combat**.
 
-Each mode represents a different scale of action. Operational mode zooms out to keep the mission moving forward, while Combat mode zooms in to resolve conflict with tactical precision.
+Each mode represents a different scale of action. Operational mode *zooms out* to keep the mission moving forward, while Combat mode *zooms in* to resolve conflict with tactical precision.
 
 The modes flow naturally into one another as the game’s pacing and focus shift in response to your actions and the situation.
 
@@ -24,9 +24,11 @@ Most of the game unfolds in *operational mode*. This mode emphasizes your squad�
 
 ### Combat Mode
 
-*Combat mode* begins the moment the situation demands split‑second decisions. The game shifts to structured rounds, defined zones, and sequenced actions. Time becomes granular, and movement becomes precise. Every choice carries immediate consequences.
+*Combat mode* begins the moment the situation demands split‑second decisions. The game shifts to structured *rounds*, defined *zones*, and sequenced *actions*. Time becomes granular, and movement becomes precise. Every choice carries immediate consequences.
 
-Each round, you declare your actions, resolve them, and adapt to the battlefield as threats evolve. Combat mode emphasizes positioning, timing, and decisive tactical play. See the [Combat](combat.md) section for details.
+Each round, you declare your actions, resolve them, and adapt to the battlefield as threats evolve. Combat mode emphasizes positioning, timing, and decisive tactical play.
+
+See the [Combat](combat.md) section for details.
 
 ## Action Rolls
 
