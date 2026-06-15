@@ -153,9 +153,9 @@ Examples of *action roll* modifiers follow:
 
 | Modifier | Example |
 | - | - |
-| Advantage | You ambush an unaware target from concealment (*advantage*). Roll **3D6 + TACTICS** (2), getting 5, 6, and 4. Discard the **4**. Sum: 5 + 6 + 2 = 13. *Critical success*. |
-| Disadvantage | You're engaged while flanked (*disadvantage*). Roll **3D6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Sum: 3 + 1 + 2 = 6. *Failure*. |
-| Specialization | You're engaged while flanked (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies (+1). Roll **3D6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
+| Advantage | You attack an unaware target (*advantage*). Roll **3D6 + TACTICS** (2), getting 5, 6, and 4. Discard the **4**. Sum: 5 + 6 + 2 = 13. *Critical success*. |
+| Disadvantage | You're attacked by surprise (*disadvantage*). Roll **3D6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Sum: 3 + 1 + 2 = 6. *Failure*. |
+| Specialization | You're attacked by surprise (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies (+1). Roll **3D6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
 
 ## Momentum
 
