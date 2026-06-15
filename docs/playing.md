@@ -287,11 +287,11 @@ After returning to base, describe how you met your core drive's *advancement con
 
 | Improvement | Effect | Limit |
 | - | - | :-: |
-| Attribute increase | **+ 1** to one attribute | Max score of 3. |
-| HP increase | Roll **1D3** and add to max HP | No upper limit. |
-| New neural weapon | Roll **D66** to determine the result. See [Neural Weapons](character.md#neural-weapons). | None |
-| New specialization | Choose **one** related to a significant action you took during a previous mission. See [Advanced Specializations](character.md#advanced-specializations). | None |
+| Attribute increase | Add **+1** to one attribute | Max score of 3. |
+| HP increase | Roll **1D3** and add the result to max HP | No upper limit. |
+| New neural weapon | Roll **D66** to determine the new ability. See [Neural Weapons](character.md#neural-weapons). If you roll a duplicate, reroll until you receive a new one. | None |
+| New specialization | Choose **one** new specialization related to **meaningful** actions you took that helped complete a previous mission. See [Advanced Specializations](character.md#advanced-specializations). | None |
 
 !!! note
 
-	If your core drive feels played out, you can choose a new one at base between missions after advancing your **current core drive** at least once.
+	If your *core drive* feels played out, you can choose a new one at base between missions after advancing your **current core drive** at least once.
