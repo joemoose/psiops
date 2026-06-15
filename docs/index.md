@@ -30,7 +30,7 @@ Ask questions. Take chances. The game rewards risk-taking.
 
 The heart of the game is a conversation between you and the game master (GM). The GM describes your current situation. You and your fellow players then ask questions and tell the GM what you do. The GM explains the results of your actions, and you respond by describing additional actions, and so on.
 
-When the actions you describe are risky, and the outcome isn’t immediately clear, you’ll roll the dice to determine the result.
+When the actions you describe are risky, meaningful, and the outcome isn’t immediately clear, you’ll roll the dice to determine the result.
 
 The GM answers your questions and always respects your freedom of choice. The GM presents challenges, obstacles, and situations for you to solve and overcome during the mission. However, the game is more than a story narrated by the GM — it’s an interactive narrative shaped by you, your fellow players, and the GM. Everyone’s choices influence the story. Think of it as both writing and starring in an action film at the same time.
 
