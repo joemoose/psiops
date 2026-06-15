@@ -14,6 +14,6 @@
 
 ## License
 
-**PsiOps** by [Zachary Taylor](https://zacharytaylor.itch.io) is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license.
+**PsiOps** by [Zachary Taylor](https://zacharytaylor.itch.io) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
-You are free to share and adapt the material for any purpose, including commercially, provided you give appropriate credit and distribute your contributions under the same license.
+You are free to copy, share, and modify this material for noncommercial use, provided you give appropriate credit and license any adaptations under the same terms.
