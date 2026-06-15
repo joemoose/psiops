@@ -1,6 +1,6 @@
 # Attribution
 
-***PsiOps*** is a “Powered by the Apocalypse” game, and its design was informed by *Apocalypse World* by D. Vincent Baker (copyright 2010).
+**PsiOps** is a “Powered by the Apocalypse” game, and its design was informed by *Apocalypse World* by D. Vincent Baker (copyright 2010).
 
 - Attack and defense rolls mechanic inspired by [*Vagabonds of Dyfed*](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed), authored by Ben Dutter, copyright Sigil Stone Publishing, 2018.
 - Core drives and neural weapons inspired by [*FIST: Ultra Edition*](https://claymorerpgs.itch.io/fist), a product of CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
