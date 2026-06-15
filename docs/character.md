@@ -58,7 +58,7 @@ Roll a **D66** twice to select two **Neural Weapons** from the [Neural Weapons t
 
 ### Step 4: Advanced Specializations
 
-Roll a **D66** twice to select two **Advanced Specializations** from the [Advanced Specializations table](#advanced-specializations).
+Roll a **D66** twice to select two **Advanced Specializations** from the [Advanced Specializations table](#advanced-specializations). If you roll a duplicate, reroll until you get a different one.
 
 ---
 
