@@ -193,14 +193,6 @@ layers:
       image: *background_image
       color: *background_color
 
-  # Logo
-  - size: { width: 144, height: 144 }
-    offset: { x: 992, y: 64 }
-    background:
-      image: *logo
-    icon:
-      value: *logo_icon
-      color: *color
 
   # Site name
   - size: { width: 832, height: 42 }
