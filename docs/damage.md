@@ -128,8 +128,8 @@ If your character dies, create a new one while the game continues. When you’re
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You join the squad but may take damage while deploying. Make a *defense roll* with *advantage*. See [Defending](combat.md#defending). Armor reduces the damage. |
-| **7–9** | You join the squad but with a *complication* during deployment. |
+| **6–** | You join the squad, possibly taking damage while deploying. Make a *defense roll* with *advantage*. See [Defending](combat.md#defending). Armor reduces damage. |
+| **7–9** | You join the squad, but deployment comes with a *complication*. |
 | **10–12** | You join the squad. |
 | **13+** | You join the squad and may optionally add **1** *tactical supply* to your inventory. |
 
