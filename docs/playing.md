@@ -229,7 +229,7 @@ Spend **4 momentum** to take an extra *action* on your turn in a combat round. F
 
 Spend **5 momentum** to avoid the *consequence* of a *failed*  result on an *action roll*. Your action still **fails**, but you no longer suffer that consequence.
 
-See [Consequences of Failing](#consequences-of-failing).
+See [Consequences of Failing](#consequences-of-failure).
 
 !!! example
 
