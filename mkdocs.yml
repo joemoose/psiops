@@ -86,3 +86,7 @@ extra_css:
 plugins:
   - search:
       lang: en
+  - social:
+      cards_layout_options:
+        background_image: docs/img/background.png
+        background_color: transparent
