@@ -53,8 +53,6 @@ The process may seem cumbersome at first, but with practice, you’ll make actio
 
 The *attribute* that applies to your *action rolls* depends on how you describe the action you're undertaking. The attribute that most seems to influence a successful outcome is the one that applies, whether it is STRENGTH, REFLEXES, TACTICS, or WILLPOWER.
 
-Your own imagination and creativity shape how your operator approaches their tasks. Play to your character’s abilities.
-
 Descriptions of the attributes and how they might be used follow:
 
 | Attribute | Description |
@@ -64,7 +62,7 @@ Descriptions of the attributes and how they might be used follow:
 | TACTICS | Governs the application of logic and training, including coordinating or avoiding an ambush, penetrating secure computer systems, or operating machinery. |
 | WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing, creating disguises, or activating neural weapons. |
 
-You can always default to your REFLEXES when firing a rifle, which is perfectly fine. However, a creative approach to your tactical situation might suggest using a different attribute. If the GM agrees, you’ll use that attribute for your *action roll*. Ask the GM questions about your environment and circumstances. Be resourceful. Find an edge and use any available advantage.
+You can always default to your REFLEXES, for example, when firing a rifle, which is perfectly fine. However, a creative approach to your tactical situation might suggest using a different attribute. If the GM agrees, you'll use that attribute for your action roll. Ask the GM questions about your environment and circumstances. Be resourceful. Find an edge and use any available advantage.
 
 #### Named Action Rolls with Specific Attributes
 
@@ -76,9 +74,9 @@ When a specific attribute is required for an action roll, the rule for that roll
 
 When you created your character, you assigned a *score* to each of your character’s *attributes*, with higher scores indicating greater ability. These scores can increase or decrease your chances of success on *action rolls*.
 
-To make an *action roll*, roll **2D6 + Attribute score**.
+To make an action roll, roll **2D6 + Attribute score**.
 
-The **sum** of the dice roll and the attribute score determines how well you succeed at your action, as shown in the following list:
+The **sum** of the dice roll and the attribute score determines how well you succeed at your *action*, as shown in the following list:
 
 <div class="roll-table" markdown="1">
 
@@ -93,13 +91,13 @@ The **sum** of the dice roll and the attribute score determines how well you suc
 
 !!! example
 
-	You make an action roll using your REFLEXES score of 2. The dice roll is 3 and 4. The sum is 3 + 4 + 2 = 9, resulting in a *partial success*.
+	You make an action roll using your REFLEXES score of 2. The dice roll is 3 and 4. The sum is 3 + 4 + 2 = 9, resulting in a partial success.
 
 ### Consequences and Complications
 
-*Consequences* and *complications* arise when the results of your actions aren’t a *complete success*. Consequences stem from *fails*, whereas complications stem from *partial successes*.
+*Consequences* and *complications* arise when the results of your actions aren’t a *complete success*. Consequences stem from *failures*, whereas complications stem from *partial successes*.
 
-#### Consequences of Failing
+#### Consequences of Failure
 
 When you *fail* an *action roll*, you don’t achieve your intended outcome. In addition, something else goes wrong, worsening your tactical situation or combat readiness. You could be injured, damage equipment, trigger a new threat, or be separated from your squad. Your situation deteriorates, and circumstances turn against you.
 
@@ -118,7 +116,7 @@ To compare the four types of results for an *action roll*, consider the followin
 | **6–** | Failure | “You can’t pick the lock, and the door remains **locked**. You hear someone approaching your position. You’re trapped in the hallway.” |
 | **7–9** | Partial Success | “The door is now **unlocked**. No one hears you, but you break your lock pick. Remove it from your inventory.” |
 | **10–12** | Complete Success | “The door is now **unlocked**. No one hears you. You're good to go.” |
-| **13+** | Critical Success | “The door is now **unlocked**. No one hears you. You’re good to go. You peek around the door **and** spot a guard asleep at a security console.” |
+| **13+** | Critical Success | “The door is now **unlocked**. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at their security console.” |
 
 ## Modifying Action Rolls
 
