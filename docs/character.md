@@ -48,10 +48,6 @@ Higher scores indicate greater ability. See [Applicable Attributes](playing.md#a
 
 Roll a **D66** to select your character’s **Core Drive** from the [Core Drives table](#core-drives). Each team member in your squad must have a unique core drive. Reroll any duplicates.
 
-!!! note
-
-	**What's a D66?** Roll **1D6** twice. Instead of summing the dice, read the results in order to form a 2-digit number. For example, a 2 followed by a 4 is **24**. A 1 followed by another 1 is **11**.
-
 ---
 
 ### Step 3: Neural Weapons
