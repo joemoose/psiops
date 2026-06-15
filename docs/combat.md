@@ -120,7 +120,7 @@ The *applicable attribute* for your *attack roll* depends on how you describe th
 
 The *damage modifier* applied to a successful attack is determined by the type of weapon you’re using. Modifiers for each weapon type are listed in the [Equipment](equipment.md) section. See [Combat Weapons](equipment.md#combat-weapons).
 
-For weapons or other attack types not listed on the Combat Weapons list, use the following guidelines to gauge damage modifiers:
+For weapons or other attacks not listed on the Combat Weapons list, use the following guidelines to gauge damage modifiers:
 
 | Level of Effect | Examples | Modifier |
 | - | - | :-: |
@@ -133,13 +133,13 @@ For weapons or other attack types not listed on the Combat Weapons list, use the
 
 ### Blast Damage
 
-Attacks with the *blast* quality, such as explosives or frag grenades, can affect multiple targets in a zone. To determine how many targets are affected, roll **1D6 + the weapon's damage modifier**. The result is the number of targets affected in the zone. See [Zones](zones.md).
+Attacks with the *blast* quality, such as explosives or frag grenades, can affect multiple targets in the target *zone*. To determine how many targets are affected, roll **1D6 + the weapon's damage modifier**. The result is the number of targets affected in the zone. See [Zones](zones.md).
 
-All targets caught in the blast then suffer the same *attack roll* results. If there are more targets in a zone than the target count, the targets caught by the blast are selected randomly.
+All targets caught in the blast then suffer the same *attack roll* results. If there are more targets in a zone than the target count, select the targets randomly.
 
 !!! note
 
-	Against a *mob*, the blast attack removes a number of members from the mob equal to the blast’s target count. See [Mobs](#mobs).
+	Against a *mob*, a blast attack removes a number of members equal to the blast’s target count. See [Mobs](#mobs).
 
 ### Multiple Attackers
 
@@ -147,16 +147,16 @@ If you and other team members attack the same target, make all *attack rolls* se
 
 !!! note
 
-	When attacking *mobs*, damage from multiple attackers is cumulative, unlike when attacking a single target. See [Mobs](#mobs).
+	When attacking *mobs*, damage from multiple attackers is cumulative. Damage to a mob is the exception to this rule. See [Mobs](#mobs).
 
 
 ## Attack Roll Modifiers
 
-The effectiveness of your *attack rolls* is modified by weapon type, engagement distance, and tactical circumstances. See the following tables for attack modifiers.
+The odds for success on your *attack roll* is modified by weapon type, engagement distance, and tactical circumstances. See the following tables for the modifiers.
 
 ### Distance Modifiers
 
-Each weapon type has a distinct optimal engagement distance. Depending on your weapon and the distance to your target, your *attack roll* may have *advantage*, *disadvantage*, or be *impossible*. Distance to your target is measured by the number of intervening *zones*. See [Zone Distances](zones.md#distances).
+Each weapon type has a distinct *optimal engagement distance*. Depending on your weapon and the distance to your target, your *attack roll* may have *advantage*, *disadvantage*, or be *impossible*. Measure distance to your target by the number of intervening *zones*. See [Zone Distances](zones.md#distances).
 
 Weapon distance modifiers are as follows:
 
@@ -194,7 +194,7 @@ When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resup
 
 ### Resupply
 
-You can resupply your ammunition in several ways: carrying extra ammunition in your inventory, using your *tactical supplies*, or restocking at a *rally point*. See [Rally Point](damage.md#rally-point).
+You can resupply ammunition in several ways: carrying extra ammunition in your inventory, using your *tactical supplies*, or restocking at a *rally point*. See [Rally Point](damage.md#rally-point).
 
 If you recover enemy ammunition during the mission, increase the *ammo rating* of one weapon by **1**.
 
@@ -221,7 +221,7 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2D6 +
 
 The *applicable attribute* for your *defense roll* depends on the type of attack you’re trying to avoid. Examples follow:
 
-| Attribute | Defensive Example |
+| Attribute | Attack Type |
 | - | - |
 | STRENGTH | An attack that can’t be dodged, such as poisoning or electrocution |
 | REFLEXES | An attack that can be dodged, such as gunfire |
@@ -230,20 +230,20 @@ The *applicable attribute* for your *defense roll* depends on the type of attack
 
 ## Cover
 
-When you duck behind cover to avoid an enemy attack, your *defense roll* has *advantage*, regardless of the type of cover. Hard cover also reduces the damage you might take.
+When you move behind cover to avoid an enemy attack, your *defense roll* has *advantage*, regardless of the type of cover. Hard cover also reduces the *damage* you might take.
 
 Cover is rated as follows:
 
 | Cover | Bonus | Example |
 | :-: | - | - |
 | **No cover** | None | Fully exposed |
-| **Soft** | *Advantage* on *defense rolls* | Foliage, furniture, smoke, or thin barriers |
-| **Hard** | *Advantage* on *defense rolls* and +1 DAMAGE REDUCTION | Concrete barriers, walls, vehicles, sandbags, and large machinery |
-| **Total** | The attacker cannot directly target you unless they flank, use indirect fire, or breach the cover. | Wall, AFV hull, thick tree |
+| **Soft** | *Advantage* on *defense rolls* | Foliage, smoke, lying prone, or thin barriers |
+| **Hard** | *Advantage* on *defense rolls* and +1 DAMAGE REDUCTION | Concrete barriers, vehicles, sandbags, or 200-liter drums |
+| **Total** | The attacker cannot directly target you unless they flank, use indirect fire, or breach the cover. | Wall, AFV hull, wide tree |
 
 ### Hard Cover Damage Reduction
 
-The damage reduction from hard cover is in **addition** to your personal protective system’s *armor rating*. The maximum damage reduction from your personal protective system is capped at **3** points. When behind hard cover, your total damage reduction includes **both** your armor rating and the **+1** cover bonus.
+The *damage reduction* from hard cover is in **addition** to your personal protective system’s *armor rating*. The maximum damage reduction from your personal protective system is capped at **3** points. When behind hard cover, your total damage reduction includes **both** your armor rating and the **+1** cover bonus.
 
 Hard cover protects against certain types of damage that bypass ballistic body armor, such as intense flames. See [Personal Protective System](equipment.md#personal-protective-system).
 
@@ -256,6 +256,8 @@ You can reduce the damage you take by using a personal protective system and by 
 | Base armor | 1–3 | Yes, with secondary |
 | Secondary armor | +1 | Capped at 3 total |
 | Hard Cover | +1 | Yes, independent of armor |
+
+Some *neural weapons* can also provide damage reduction. See [Neural Weapons](character.md#neural-weapons).
 
 !!! example
 
@@ -280,7 +282,7 @@ Only automatic weapons, including assault rifles, SMGs, machine guns, and simila
 
 ### Free Attacks
 
-All affected creatures are pinned for their combat round. Pinned targets generally remain behind full cover and avoid exposing themselves to attack unless they have no other choice or are fanatical or mindless.
+All targets in a suppressed zone are pinned down for their combat round. Pinned targets generally remain behind cover and avoid exposing themselves to attack unless they have no other choice or are fanatical or mindless.
 
 If a pinned target becomes visible to you, for example, by attacking or moving out of cover, you may immediately interrupt their turn to make a **free attack** with *advantage* against them.
 
@@ -290,7 +292,7 @@ If a pinned target becomes visible to you, for example, by attacking or moving o
 
 	You lay down suppressing fire with your LMG on the bunker’s zone, and the rest of the squad moves forward into the open zone, then uses their actions to move again and continue sprinting into the bunker’s zone. Your squad’s turn is now complete.
 
-	The drones go next. Following only their programming and lacking any instinct for self-preservation, they swivel to fire on the team members now occupying their zone. However, this exposes the drones to your suppressing fire. You immediately interrupt their turn and make a free attack with advantage against each drone. Send it!
+	The drones go next. Following only their programming and lacking any instinct for self-preservation, they stop and swivel to fire on the team members now occupying their zone. However, this exposes the drones to your suppressing fire. You immediately interrupt their turn and make a free attack with advantage against each drone. Send it!
 
 ## Neural Weapons
 
@@ -298,16 +300,16 @@ If a pinned target becomes visible to you, for example, by attacking or moving o
 
 ### Activating Neural Weapons
 
-To activate your neural weapon, make a *neural attack roll*. Roll **2D6 + WILLPOWER** and apply the result as follows:
+To activate your *neural weapon*, make a *neural attack roll*. Roll **2D6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 | :-: | - |
-| **6–** | Your neural weapon **doesn’t activate**. You take **1** *fatigue* and can **no longer activate** this neural weapon during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
-| **7–9** | The power **manifests**, but you take **1** *fatigue*. |
-| **10–12** | The power **manifests**. |
-| **13+** | The power **manifests**. The effect is greater than expected. |
+| **6–** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
+| **7–9** | The power **activates**, but you take **1** *fatigue*. |
+| **10–12** | The power **activates**. |
+| **13+** | The power **activates**, and the effect is greater than expected. |
 
 </div>
 
