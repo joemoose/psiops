@@ -15,16 +15,16 @@ Common stressors include:
 - Sustaining a *wound* in combat
 - Witnessing a team member or a civilian die
 
-Each exposure to a stressor adds **1** point to your stress. Keep track of your stress. Your character sheet includes a place to record your current stress.
+Each exposure to a stressor adds **1** point to your stress. Keep track of your stress. Your character sheet includes a place to record your current total stress.
 
 ### Process
 
-Your stress during the mission is handled as follows:
+You manage stress in-game as follows:
 
-1. You’re exposed to a stressor, such as sustaining a *wound*.
-2. Add **1** to your *stress*. Your **maximum** stress is capped at 6.
+1. You’re exposed to a stressor.
+2. Add **1** to your *stress*. Your total stress is capped at **6**.
 3. If your stress reaches **6**, make a *stress roll*.
-4. While at 6 stress, each new stressor triggers another stress roll, even though your total cannot increase further.
+4. While at **6** stress, each new stressor triggers another stress roll, even though your total cannot increase further.
 
 See the following sections for details.
 
@@ -32,7 +32,7 @@ See the following sections for details.
 
 If left unchecked, *stress* can degrade your performance and increase the risk of failure.
 
-When your stress reaches **6**, you immediately make a **stress roll**. Roll **2D6 + WILLPOWER** and apply the result as follows:
+When your stress reaches **6**, you immediately make a *stress roll**. Roll **2D6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -41,7 +41,7 @@ When your stress reaches **6**, you immediately make a **stress roll**. Roll **2
 | **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You're now **locked-in to** the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
+| **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
 
 </div>
 
@@ -57,46 +57,46 @@ When you *panic*, roll **1D6** and apply the effect as follows:
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
-| **1** | Compromised | You have **-1 ARMOR**, with a minimum of 0. |
+| **1** | Compromised | You have **-1** ARMOR, to a minimum of **0**. |
 | **2** | Demoralized | You automatically fail any *initiative roll*. |
 | **3** | Detached | *Disadvantage* on all your *action rolls* that could benefit a team member. |
-| **4** | Rattled | *Disadvantage* on all your *action rolls* in combat. |
+| **4** | Rattled | *Disadvantage* on all your *action rolls*. |
 | **5** | Shutdown | You lose all your *momentum* and no longer gain any. |
 | **6** | Volatile | A team member gains **1** stress when you see them fail an *action roll*. |
 
 !!! note "Notes"
 
-	- If you panic again and trigger another effect, the effects **stack**.
-	- Panicked and locked-in effects can co-exist. Apply all effects.
+	- If you *panic* again and trigger another effect, the effects **stack**.
+	- *Panicked* and *locked-in* effects can co-exist. Apply all effects.
 
 ### Locked-In Effects
 
-When you’re locked in, roll **1D6** and apply the effect as follows:
+When you’re *locked in*, roll **1D6** and apply the effect as follows:
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
-| **1** | Calculating | *Advantage* on all +TACTICS rolls. |
-| **2** | Aggressive | *Advantage* on all +STRENGTH rolls. |
-| **3** | Focused | *Advantage* on all +WILLPOWER rolls. |
+| **1** | Calculating | *Advantage* on all TACTICS *action rolls*. |
+| **2** | Aggressive | *Advantage* on all STRENGTH *action rolls*. |
+| **3** | Focused | *Advantage* on all WILLPOWER *action rolls*. |
 | **4** | Hardened | +1 ARMOR (**note**: damage reduction remains capped at 3 points). |
-| **5** | Sharp | *Advantage* on all +REFLEXES rolls. |
-| **6** | Steady | When you succeed on an *action roll*, team members within sight of you remove **1** stress. |
+| **5** | Sharp | *Advantage* on all REFLEXES *action rolls*. |
+| **6** | Steady | When you *succeed* on an *action roll*, team members within sight of you remove **1** stress. |
 
 !!! note "Notes"
 
-	- If you lock in again and trigger a different effect, the effects **stack**.
-	- Panicked and locked-in effects can co-exist. Apply all effects.
+	- If you *lock in* again and trigger a different effect, the effects **stack**.
+	- *Locked-in* and *panicked* effects can co-exist. Apply all effects.
 
-## Remove Stress and Effects
+## Remove Stress and Stress Effects
 
-You can reduce your stress points and remove panic and locked-in effects during a mission as follows.
+You can reduce your _stress_ points and remove *panicked* and *locked-in* effects during a mission as follows.
 
 ### Stress
 
-Overcoming a *notable opponent* or a *major obstacle* reduces your stress by **1** point.
+Overcoming a *notable opponent* or a *major obstacle* reduces your stress by **1**.
 
 - **Notable opponent**: A named or significant adversary whose defeat materially advances your mission, such as a primary target or commanding officer.
-- **Major obstacle**: An operationally critical barrier that, if unaddressed, prevents your mission from progressing or leads to mission failure, such as failed containment or a security lockdown.
+- **Major obstacle**: An operationally critical barrier that, if unaddressed, prevents your mission from progressing or causes mission failure, such as a security lockdown or failed containment of a hostile.
 
 Stress can also be removed as the chosen benefit of regrouping at a *rally point*. See [Rally Point](damage.md#rally-point).
 
@@ -106,7 +106,4 @@ Regrouping at a *rally point* automatically removes all *panicked* and *locked-i
 
 !!! note
 
-	Removing panicked effects at a rally point is helpful, but it also means you’ll lose any locked-in benefits.
-
-
-
+	Removing panicked effects at a rally point is helpful, but it means you’ll also lose any locked-in benefits.
