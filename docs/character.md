@@ -70,7 +70,7 @@ Set your maximum **Hit Points** to 6 and your starting **Momentum Points** to 2.
 
 ### Step 6: Basic Kit and Tactical Supplies
 
-Add a **Basic Kit** and 2 units of **Tactical Supplies** to your inventory. Both items are pre-listed on your character sheet.
+Add a **Basic Kit** and *2* units of **Tactical Supplies** to your inventory. Both items are pre-listed on your character sheet.
 
 You can remove 1 or both Tactical Supplies after your mission briefing. See [Basic Kit](equipment.md#basic-kit) and [Tactical Supplies](equipment.md#tactical-supplies).
 
@@ -86,9 +86,9 @@ See [Combat Weapons](equipment.md#combat-weapons) and [Mission-Specific Equipmen
 
 ### Step 8: Armor
 
-Add **Light Ballistic Body Armor** and a **Helmet** to your inventory, then set your **Armor Rating** to **2**. Both items are pre-listed on your character sheet.
+Add **Light Ballistic Body Armor** and a **Helmet** to your inventory, then set your **Armor Rating** to **2**. Both items are pre-listed on your character sheet. You can modify your personal protective kit after your mission briefing.
 
-You can modify your personal protective kit after your mission briefing. See [Personal Protective System](equipment.md).
+See [Personal Protective System](equipment.md).
 
 ---
 
@@ -206,7 +206,7 @@ The following table lists known neural weapon loadouts. Many descriptions refer 
 
 Your character is a highly trained military professional capable of almost any action. However, *advanced specializations* increase the likelihood of success on related tasks. See [Using Advanced Specializations](playing.md).
 
-Many of the specializations listed below, such as survival and evasion, are part of standard special forces training. Specializations are advanced courses and certifications beyond basic training.
+Many of the specializations listed below, such as *survival and evasion*, are part of standard special forces training. Specializations are advanced courses and certifications beyond basic training.
 
 Unlike *attributes*, your advanced specializations aren’t given numerical ratings. You either have the specialization, or you don’t.
 
