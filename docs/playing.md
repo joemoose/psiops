@@ -159,9 +159,9 @@ Examples of *action roll* modifiers follow:
 
 ## Momentum
 
-*Momentum* is the tactical edge that separates a decisive operator from a hesitant one. Momentum builds as you progress through your mission and complete risky actions.
+*Momentum* is the tactical edge that separates a decisive operator from a hesitant one. Momentum builds as you progress through your mission and complete risky *actions*.
 
-You start each mission with **2 momentum points** and gain more by achieving a *complete* or *critical* success on any *action roll*. You can then spend your momentum points to change the outcome of subsequent action rolls and events to your advantage.
+You start each mission with **2 momentum points** and gain additional points by achieving a *complete* or *critical* success on any *action roll*. You can then spend your momentum points to change the outcome of action rolls and events in your favor.
 
 ### Gain Momentum
 
@@ -184,7 +184,7 @@ When you make an *action roll*, in addition to the roll's result, gain *momentum
 
 As you gain momentum, points accumulate until you spend them. See the following section.
 
-Unspent momentum **resets** to its starting value of **2** when regrouping at a *rally point* or returning to base after a mission. See [Rest and Recovery](damage.md#rally-point).
+Unspent momentum **resets** to its starting value of **2** when regrouping at a *rally point* or returning to base after your mission. See [Rest and Recovery](damage.md#rally-point).
 
 ### Expend Momentum
 
@@ -192,12 +192,12 @@ You can spend your *momentum* points to gain bonuses to your actions or to avoid
 
 | Option | Cost | Bonus |
 | - | :-: | - |
-| ASSIST | 1 | Grant *advantage* to a team member’s action roll. |
-| PUSH YOURSELF | 2 | Gain *advantage* on your action roll. |
-| EXPLOIT | 3 | Increase the effect of a successful result. |
-| SURGE | 4 | Take another action. |
-| EVADE | 5 | Avoid the *consequence* of a failed action roll. |
-| FLASHBACK | 6 | Retroactively establish your pre-mission preparation or a discovery. |
+| ASSIST | 1 | Grant *advantage* to a team member’s *action roll*. |
+| PUSH YOURSELF | 2 | Gain *advantage* on your *action roll*. |
+| EXPLOIT | 3 | Increase the effect of a *successful* action roll. |
+| SURGE | 4 | Take another *action*. |
+| EVADE | 5 | Avoid the *consequence* of a *failed* action roll. |
+| FLASHBACK | 6 | Retroactively establish your pre-mission preparation or a discovery in-mission. |
 
 Details for each option follow.
 
@@ -211,7 +211,7 @@ Spend **2 momentum** to gain *advantage* on your next *action roll*.
 
 #### Exploit
 
-Spend **3 momentum** to improve the outcome of a **success** on your *action roll*, whether *partial*, *complete*, or *critical*. Essentially, you’re turning a partial or complete success into a critical success. If the action was already a critical success, the result could be legendary.
+Spend **3 momentum** to improve the outcome of a *succesful* result on an *action roll*, whether *partial*, *complete*, or *critical*. Essentially, you’re turning a partial or complete success into a critical success. If the action was already a critical success, the result could be legendary.
 
 !!! note
 
@@ -219,7 +219,7 @@ Spend **3 momentum** to improve the outcome of a **success** on your *action rol
 
 #### Surge
 
-Spend **4 momentum** to take an extra *action* on your turn in a combat round. For details on combat rounds and actions, see [Rounds](combat.md#rounds). You can spend 4 momentum again to take another action as long as you have enough momentum.
+Spend **4 momentum** to take an extra *action* on your turn in a combat round. For details on combat rounds and actions, see [Rounds](combat.md#rounds). You can spend 4 momentum again to take another action, provided you have enough momentum.
 
 !!! note
 
@@ -227,13 +227,13 @@ Spend **4 momentum** to take an extra *action* on your turn in a combat round. F
 
 #### Evade
 
-Spend **5 momentum** to avoid the *consequence* of a *failed action roll*. Your action still **fails**, but you no longer suffer that consequence.
+Spend **5 momentum** to avoid the *consequence* of a *failed*  result on an *action roll*. Your action still **fails**, but you no longer suffer that consequence.
 
 See [Consequences of Failing](#consequences-of-failing).
 
 !!! example
 
-	While being pursued by the enemy, you attempt to scale a wall. Your REFLEXES action roll fails. You not only fail to make it over the wall but also take a consequence, landing flat on your back and dropping your weapon.
+	While being pursued, you attempt to scale a wall. Your REFLEXES action roll fails. You not only fail to make it over the wall but you also take a consequence: you land flat on your back and drop your weapon.
 
 	You can spend **5** momentum to Evade. You still won’t make it over the wall, but at least you’re on your feet, combat-ready, with your rifle at the ready.
 
