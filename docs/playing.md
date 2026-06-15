@@ -32,9 +32,7 @@ See the [Combat](combat.md) section for details.
 
 ## Action Rolls
 
-When you attempt an *action* with a risky or uncertain outcome, you make an *action roll* to determine the result. You’ll make an action roll only when your character encounters a **meaningful** obstacle — one that is risky, uncertain, or consequential.
-
-If success is guaranteed or the result has no real impact on the mission’s current circumstances, the GM won’t require a roll. Instead, your action succeeds as you described it.
+When you attempt a meaningful *action* with a risky or uncertain outcome, you make an *action roll* to determine the result. If success is guaranteed or the result has no real impact on the mission's current circumstances, the GM won't require a roll. Instead, the outcome is as you described it.
 
 !!! tip
 
@@ -46,14 +44,16 @@ The process for making an *action roll* has four steps:
 
 1. Select an *applicable attribute*. See the following section.
 2. Roll **2D6** and add the *attribute score*.
-3. Compare the sum to the results list.
+3. Compare the sum to the *results* list.
 4. Apply the result.
 
-The process may seem cumbersome at first, but with practice, you’ll make action rolls instinctively. Details follow.
+The process may seem cumbersome at first, but with practice, you’ll make action rolls instinctively.
 
 ### Applicable Attributes
 
-The attribute that determines the outcome of your actions depends on how you describe the action you’re undertaking. Your own imagination and creativity shape how your operator approaches their tasks. Play to your character’s abilities.
+The *attribute* that applies to your *action rolls* depends on how you describe the action you're undertaking. The attribute that most seems to influence a successful outcome is the one that applies, whether it is STRENGTH, REFLEXES, TACTICS, or WILLPOWER.
+
+Your own imagination and creativity shape how your operator approaches their tasks. Play to your character’s abilities.
 
 Descriptions of the attributes and how they might be used follow:
 
