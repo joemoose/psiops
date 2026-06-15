@@ -124,24 +124,24 @@ Depending on your current tactical circumstances, *action rolls* might have high
 
 ### Advantage
 
-Given the current tactical situation, if your action is easier than it would be otherwise, the *action roll* has *advantage*. For example, firing from a rooftop at enemies in the street below provides a clear advantage and improves your odds of success. When you make an action roll with advantage, roll **3D6 + Attribute** instead of the usual two dice, then discard the **lowest** die.
+Given the current tactical situation, if your action is easier than it would be otherwise, the *action roll* has an *advantage*. For example, firing from a rooftop at enemies in the street below provides a clear advantage and improves your odds of success. When you make an action roll with advantage, roll **3D6 + Attribute** instead of the usual two dice, then discard the **lowest** die.
 
 ### Disadvantage
 
-Given the current tactical situation, if your action is more difficult than it would be otherwise, such as attacking a target on a rooftop from the street below, your *action roll* has *disadvantage*. Disadvantage reduces your odds of success. When you make an action roll with disadvantage, roll **3D6 + Attribute** and discard the **highest** die.
+Given the current tactical situation, if your action is more difficult than it would be otherwise, such as attacking a target on a rooftop from the street below, your *action roll* has a *disadvantage*. Disadvantage reduces your odds of success. When you make an action roll with disadvantage, roll **3D6 + Attribute** and discard the **highest** die.
 
 !!! note "Notes"
 
-	- If an action roll has both advantage and disadvantage, they cancel each other out, so roll 2D6 + Attribute as normal.
+	- If an action roll has both an advantage and a disadvantage, they cancel each other out. Roll 2D6 + Attribute as normal.
 	- Multiple advantages don't stack. The maximum number of dice in any action roll is 3D6.
 	- Nonetheless, an action roll with multiple advantages may not be considered risky and may therefore succeed automatically.
-	- Conversely, multiple disadvantages may make success impossible.
+	- Conversely, multiple disadvantages may make a successful outcome impossible.
 
 ### Advanced Specializations
 
-Your *advanced specializations* increase your chances of success on related risky actions. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action roll*. In other words, roll **2D6 + Attribute + 1**.
+Your *advanced specializations* increase your chances of success on related risky *actions*. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action roll*. In other words, roll **2D6 + Attribute + 1**.
 
-First, describe how your specialization applies to the action. If the GM agrees, the bonus applies.
+Describe how your specialization applies to the action. If the GM agrees, the bonus applies.
 
 !!! example
 
@@ -153,9 +153,9 @@ Examples of *action roll* modifiers follow:
 
 | Modifier | Example |
 | - | - |
-| Advantage | You ambush unaware targets from concealment (*advantage*). Roll **3D6 + TACTICS** (2), getting 5, 6, and 4. Discard the **4**. Sum: 5 + 6 + 2 = 13. *Critical success*. |
-| Disadvantage | You're engaged while surprised (*disadvantage*). Roll **3D6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Sum: 3 + 1 + 2 = 6. *Fail*. |
-| Specialization | You're engaged while surprised (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies (+1). Roll **3D6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
+| Advantage | You ambush an unaware target from concealment (*advantage*). Roll **3D6 + TACTICS** (2), getting 5, 6, and 4. Discard the **4**. Sum: 5 + 6 + 2 = 13. *Critical success*. |
+| Disadvantage | You're engaged while flanked (*disadvantage*). Roll **3D6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Sum: 3 + 1 + 2 = 6. *Failure*. |
+| Specialization | You're engaged while flanked (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies (+1). Roll **3D6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
 
 ## Momentum
 
