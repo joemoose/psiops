@@ -315,19 +315,19 @@ To activate your *neural weapon*, make a *neural attack roll*. Roll **2D6 + WILL
 
 ### Ongoing Neural Effects and Concentration
 
-Many neural weapons require *concentration* to sustain their effects. As long as concentration is maintained each combat round, the effect persists.
+Many *neural weapons* can continue their effect across multiple combat rounds. Doing so requires that you maintain *concentration* to sustain the effect. As long as you maintain concentration on each of your turns in the combat round, the effect persists.
 
-- To keep an ongoing neural weapon’s effect active, you must spend an *action* each combat round to maintain concentration.
-- If you take any action other than concentrating at the start of your combat round, the neural weapon’s effect ends immediately.
-- If you take damage while concentrating, your focus is disrupted, and the neural weapon’s effect ends immediately.
+- To keep an ongoing neural weapon's effect active, you must spend an *action* each combat round to maintain concentration.
+- If you take any action other than concentrating at the start of your combat round, the effect ends immediately.
+- If you take damage while concentrating, your focus is disrupted, and the effect ends immediately.
 
 !!! note
 
-	- You're still free to **move** into another zone during your round; only an action is required to maintain concentration. Any movement you initiate does not break your concentration.
+	- You're still free to **move** into another zone during your round; only your action is required to maintain concentration. Any movement you initiate does not break your concentration.
 
 ## Retreating
 
-Retreating from a fight while engaged in combat can leave the retreating force vulnerable to additional attacks.
+Retreating from a *zone* while engaged in combat can leave the retreating force vulnerable to further attacks.
 
 ### Opponent Retreats
 
@@ -341,10 +341,10 @@ If **you** retreat, make a *retreat roll*. Roll **2D6 + TACTICS** and apply the 
 
 | Roll | Result |
 | :-: | :- |
-| **6–** | Your opponent immediately makes a **free attack** against you while you disengage. |
-| **7–9** | You disengage, but suffer a *complication*. |
+| **6–** | Your opponent immediately makes a **free attack** against you as you disengage. |
+| **7–9** | You disengage but suffer a *complication*. |
 | **10–12** | You disengage without mishap. |
-| **13+** | You disengage without mishap, and can optionally take an **extra** move this turn without spending an action. |
+| **13+** | You disengage without mishap and can optionally take an **extra** move this turn without spending an action. |
 
 </div>
 
@@ -354,7 +354,7 @@ When facing a large number of relatively weak, identical opponents, such as a ra
 
 ### Mob Stats
 
-The mob’s *armor rating* and *attacks per round* depend on the number of members in the group, as follows:
+The mob's *armor rating* and *attacks per round* depend on the number of members in the group, as follows:
 
 | Number | Armor | Attacks |
 | :-: | :-: | :-: |
@@ -365,7 +365,7 @@ The mob’s *armor rating* and *attacks per round* depend on the number of membe
 | 17–20 | 0 | 5 |
 | 21+ | 0 | 6 |
 
-The number of attacks per round indicates how many opponents the mob can attack during its turn in a combat round. If there are fewer opponents than the mob’s attacks, the remaining attacks are wasted.
+The number of attacks per round determines how many individual opponents the mob can attack during its turn in a single combat round. If there are fewer opponents than the mob's number of attacks, the remaining attacks are wasted.
 
 !!! note
 
@@ -390,5 +390,3 @@ As a mob’s member count decreases, its stats change when it crosses the thresh
 !!! example
 
 	You face a mob of **14** members with **0** armor and **4** attacks. You attack and deal **4** points of damage, reducing the mob to **10** members. Because the mob is smaller, its stats change to **1** armor and **3** attacks.
-
-
