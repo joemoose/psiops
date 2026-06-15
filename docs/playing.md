@@ -239,7 +239,7 @@ See [Consequences of Failing](#consequences-of-failing).
 
 #### Flashback
 
-Spend **6 momentum** to establish that you did something before the mission or found something during the mission that had not been noticed before. If the GM agrees the flashback is reasonable, you retroactively add those preparations to the current mission.
+Spend **6 momentum** to establish that you did something before the mission or found something during the mission that had not been noticed before. In other words, you make a change to the story that did not occur during the current game session. If the GM agrees the flashback is reasonable, you retroactively add those preparations to the current mission.
 
 !!! example
 
@@ -247,7 +247,7 @@ Spend **6 momentum** to establish that you did something before the mission or f
 
 ## Mission Clocks
 
-Complex tasks requiring multiple actions to complete or impending threats are tracked on mission clocks, typically divided into 4, 6, or 8 segments. The more complex the task or the more time available before the threat manifests, the more segments the clock has. Progress is tracked by marking off segments.
+Mission clocks track complex tasks involving multiple actions or imminent threats. The clock is usually divided into 4, 6, or 8 segments. The number of segments increases with task complexity or the amount of time before the threat appears. Progress is indicated by marking off segments.
 
 ### Example Clocks
 
@@ -262,14 +262,14 @@ You’ll face complex obstacles during the mission, such as accessing a classifi
 
 #### Marking Off Task Segments
 
-As you take *actions* to complete the task, mark off segments from the mission clock or return them based on the results of your *action rolls* as follows:
+As you take *actions* to complete your task, mark off segments from the mission clock or return them based on the results of your *action rolls* as follows:
 
 - *Failure* nullifies **1 completed** segment, returning it to the clock.
 - *Partial success* marks off **1** segment.
 - *Complete success* marks off **2** segments.
 - *Critical success* marks off **3** segments.
 
-Once all segments are marked off, the task is complete.
+Once all segments are marked off, your task is complete.
 
 ### Impending Threats
 
@@ -283,7 +283,7 @@ If you *fail* any *action roll* while the threat is imminent, mark off a segment
 
 You improve your character’s abilities by staying true to their *core drive* during the mission. For example, a *True Believer* advances by acting ethically to complete their mission.
 
-After returning to base, describe how you met your core drive's advancement condition. If the GM agrees, choose **one** improvement to your character's abilities from the table below:
+After returning to base, describe how you met your core drive's *advancement condition*. If the GM agrees, choose **one** improvement to your character's abilities from the following options:
 
 | Improvement | Effect | Limit |
 | - | - | :-: |
