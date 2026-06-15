@@ -1,6 +1,6 @@
 # Character
 
-You won’t make the headlines. You’re an off-ledger operator fighting on a Cold War front no one will acknowledge. The research divisions don't use the word *psychic*. What you carry are *neural weapons* — cataloged, classified, and deployed. You’ve seen things that’ll never be passed up the chain of command. The threats you face bleed, yet they should not exist. You won't fight alone. You won't fight safe.
+You won’t make the headlines. You’re an off-ledger operator fighting on a Cold War front no one will acknowledge. The research divisions don't use the word *psychic*. What you carry are *neural weapons* — cataloged, classified, and deployed. You’ve seen things that’ll never be passed up the chain of command. The threats you face bleed, but they should not exist. You won't fight alone. You won't fight safe.
 
 Welcome to the unit, operator.
 
