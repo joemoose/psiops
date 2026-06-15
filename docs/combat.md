@@ -1,6 +1,6 @@
 # Combat
 
-Combat is like any risky action: attacking requires an *action roll* to deal damage, and defending against an attack requires an *action roll* to avoid damage. Details follow.
+Combat is like any risky action: attacking requires an *action roll* to deal damage, and defending against an attack requires an *action roll* to avoid taking damage. Details follow.
 
 ## Combat Sequence
 
@@ -17,7 +17,7 @@ A *combat round* is about 6 seconds, enough time to **move once** and take **1 a
 
 !!! note
 
-	If you use your action to move again, you make two moves, which counts as sprinting.
+	If you use your action to move again, you make two moves, which counts as a sprint.
 
 Complex actions that take more than 6 seconds may require multiple combat rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a doorway, or dropping an item, are free and don’t count as your 1 action.
 
@@ -31,7 +31,7 @@ Whether you act before the enemy in the **first** round of combat is determined 
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You **do not** act in the first turn of combat. The enemy gets the drop on you, so you can’t take an action or move during your turn. You’ll have to wait until the **second round** to move or take any action. |
+| **6–** | You **do not** act in the first round of combat. You’ll wait until the **second round** to move or take any action. |
 | **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
 | **10–12** | You get the drop on the enemy and act **first**. |
 | **13+** | You get the drop on the enemy, act **first**, and you gain an *advantage* on your next *action roll*. |
@@ -44,13 +44,13 @@ Whether you act before the enemy in the **first** round of combat is determined 
 
 #### Completing the First Combat Round
 
-After the initiative roll, all squad members who act first in the combat round take their turn and resolve their movement and actions. Other team members who failed their initiative roll must sit out the first round and wait to act until the second round.
+After the *initiative roll*, all squad members who act first in the combat round take their turn and resolve their movement and actions. Other team members who failed their initiative roll must sit out the first round and wait until the second round before they.
 
 Afterward, the opposing force takes its turn. The first round of combat ends.
 
 ### Subsequent Rounds
 
-In the second and subsequent rounds of combat, you no longer make an *initiative roll*. You and your squad always take the first turn, followed by the enemy, until one side is eliminated or withdraws.
+In the second and subsequent rounds of combat, you **do not** make an *initiative roll*. You and your squad **always** take the first turn, followed by the enemy, until one side is eliminated or withdraws.
 
 ### Ambushes
 
@@ -58,33 +58,33 @@ Who takes the first turn can be determined by circumstances or careful planning 
 
 #### Ambushing the Opponents
 
-If you *ambush* the enemy, you don’t make an initiative roll. Instead, you and your teammates act first in the first turn and gain *advantage* on all *action rolls*. The enemy takes no turn in the first combat round.
+If you *ambush* the enemy, you don't make an *initiative roll*. Instead, you and your team each take a turn in the combat round and gain *advantage* on *action rolls*. The enemy takes no turn in the first combat round.
 
 Afterward, in the second and subsequent rounds, combat proceeds as usual: your squad takes the first turn, followed by the opposing force.
 
 !!! tip
 
-	Because your squad always acts first in the second round, an ambush gives you two consecutive turns before the enemy can respond. This is a powerful tactical advantage. Exploit it.
+	Because your squad always acts first in the second round, an ambush gives you two consecutive turns before the enemy can respond. This is a commanding tactical advantage. Exploit it.
 
 #### Being Ambushed
 
-If the enemy ambushes you, your squad doesn’t take a turn in the first round of combat. You can take no actions or move until the second round, and the enemy goes first. In the second and subsequent rounds, combat proceeds as usual.
+If the enemy *ambushes* you, your squad doesn’t take a turn in the first round of combat. You can take no actions or move until the second round, and the enemy goes first. In the second and subsequent rounds, combat proceeds as usual.
 
 ## Simultaneous Actions
 
-During your turn, all your squad’s actions and moves occur **at the same time**. Everyone declares their actions and moves for the current turn upfront, before any results are determined. Actions and moves are not declared individually by each player and then resolved one at a time.
+During your turn, all actions and moves for your entire squad occur **at the same time**. Everyone declares their actions and moves for the current turn upfront, before any results are determined. Actions and moves are not declared individually by each player and then resolved one at a time.
 
 !!! note
 
-	The GM will give you a general sense of what the enemy is doing to help you plan your actions.
+	Ask questions. The GM can give you a general sense of what the enemy is doing to help you plan your actions.
 
 ### Interrupting Turns
 
-You may hold an action and specify a trigger, for example, “I wait until the enemy rounds the corner.” When the trigger occurs, you act immediately, interrupting the enemy’s turn.
+You may hold your action and specify a trigger, for example, “I wait until the enemy rounds the corner.” IF the trigger occurs, you act immediately, interrupting the enemy’s turn.
 
 ## Determining the Results
 
-As described in [Actions](playing.md#actions), the outcome of any *risky* or *uncertain* action you attempt is determined by an *action roll*. Because nearly every decision and action you make in combat is perilous, you’ll make an *action roll* whenever you declare an action during your turn.
+As described in [Actions](playing.md#actions), the outcome of any *risky* or *uncertain* action you attempt is determined by an *action roll*. Since nearly every action you take in combat is risky, you’ll make an *action roll* whenever you declare an action during your turn.
 
 ## Attacking
 
@@ -107,18 +107,18 @@ The *applicable attribute* for your *attack roll* depends on how you describe th
 
 | Attribute | Example Attack |
 | - | - |
-| STRENGTH | I kick down the door and blast my shotgun at anything I see. |
+| STRENGTH | I kick down the door and fire my shotgun at anything I see. |
 | REFLEXES | I run through the house, slide into cover, and fire from there. |
 | TACTICS | I go around the side of the house, flank them, and fire through the window. |
-| WILLPOWER | I lure someone to the doorway, then fire when they respond.. |
+| WILLPOWER | I lure someone to the doorway, then fire when they respond. |
 
 !!! note
 
-	*Advantage* or *disadvantage* may also apply to your attack roll based on your distance to the target or other tactical circumstances. See the [Attack Roll Modifiers](#attack-roll-modifiers).
+	*Advantage* or *disadvantage* may also apply to your attack roll based on the distance to your target or other tactical circumstances. See [Attack Roll Modifiers](#attack-roll-modifiers).
 
 ### Weapon Damage Modifiers
 
-The damage modifier for your attack is determined by the type of weapon you’re using. Specific modifiers for each weapon type are listed in the Equipment sections. See [Combat Weapons](equipment.md#combat-weapons).
+The *damage modifier* applied to a successful attack is determined by the type of weapon you’re using. Modifiers for each weapon type are listed in the [Equipment](equipment.md) section. See [Combat Weapons](equipment.md#combat-weapons).
 
 For weapons or other attack types not listed on the Combat Weapons list, use the following guidelines to gauge damage modifiers:
 
