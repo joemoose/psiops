@@ -87,6 +87,8 @@ plugins:
   - search:
       lang: en
   - social:
+      cards_layout_dir: layouts
+      cards_layout: no-title
       cards_layout_options:
         background_image: docs/img/background.png
         background_color: transparent
