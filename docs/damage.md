@@ -1,10 +1,10 @@
 # Damage
 
-Your job is inherently perilous. It may be a matter of when, not if, you’re wounded. This section explains how to take damage and recover from it.
+Your job is inherently dangerous. It might be a question of when, not if, you’re wounded. This section explains how to take damage and recover from it.
 
 ## Hit Points
 
-*Hit points* (HP) represent your physical health. When you take damage, subtract it from your current HP. Keep track of your HP. Your character sheet includes spaces to record your maximum and current HP.
+*Hit points* (HP) represent your physical health. When you take damage, subtract the damage from your current HP. Keep track of your HP. Your character sheet includes spaces to record your maximum and current HP.
 
 - If you have at least **1 HP** remaining after taking damage, you’re still in the fight.
 - If your HP drops to **0 or below**, you’re *wounded*, possibly grievously. See the next section.
@@ -28,53 +28,53 @@ See [Wounds](#wounds), [Fatigue](#fatigue), and [Stress](stress.md) for details 
 
 !!! note
 
-	If knocked unconscious and pushed to maximum *stress*, you still make a *stress roll*. Any resulting *panicked* or *locked-in* conditions take effect once you revive. See [Maximum Stress](stress.md#maximum-stress).
+	If knocked *unconscious* and pushed to maximum *stress*, you still make a *stress roll*. Any resulting *panicked* or *locked-in* conditions take effect once you revive. See [Maximum Stress](stress.md#maximum-stress).
 
 !!! example
 
-	You have 2 STRENGTH and 2 current HP, and you take 3 points of damage. You now have -1 HP and must make a *wound roll*.
+	You have 2 STRENGTH and 2 current HP, and take 3 points of damage. You now have -1 HP and must make a *wound roll*.
 
-	You roll **2D6 + 2** (STRENGTH) and subtract **1** (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You're *knocked down*, but not *unconscious* because you're wearing a *helmet*. You add **1** wound, **1** fatigue, **1** stress, and increase current HP to **1**.
+	You roll **2D6 + 2** (STRENGTH) and subtract **1** (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You're *knocked down*, but not *unconscious* because you're wearing a *helmet*. You would have been knocked out otherwise  You add **1** wound, **1** fatigue, **1** stress, and increase current HP to **1**.
 
-	You spend their action to get back on your feet. You’re wounded, growing tired, and a little more stressed, but not yet out of the fight.
+	You spend **1** action to get back on your feet. You’re wounded, growing tired, and a little more stressed, but not yet out of the fight.
 
 ### Wounds
 
-Each *wound* you sustain reduces your *maximum HP* by **1**. Your current HP remains unchanged unless it exceeds the new maximum. If it does, reduce your current HP to the new maximum. Wounds can’t be healed in the field and require medical treatment at the base after the mission.
+Each *wound* you sustain reduces your *maximum HP* by **1**. Your current HP remains unchanged unless it exceeds the new maximum. If it does, reduce your current HP to the new maximum. Wounds **can’t be healed** in the field and require medical treatment at the base after the mission.
 
 !!! warning
 
-	Wounds cause permanent HP loss until treated at base. If multiple wounds reduce your maximum HP to **0**, you **die**.
+	Wounds cause permanent HP loss until treated at base. If multiple wounds reduce your maximum HP to **0**, you **die**. Roll up a new operator.
 
 ### Fatigue
 
-All *fatigue* you sustain must be stored in your **inventory** as an abstract item. Each unit of fatigue takes up 1 slot. If your inventory is full, drop equipment to free a slot for fatigue.
+All *fatigue* you sustain must be stored in your **inventory** as an abstract item. Each unit of fatigue takes up **1** slot. If your inventory is full, drop equipment to free a slot for fatigue.
 
 !!! warning
 
-	Accumulated fatigue is debilitating. If your inventory reaches **12** units of fatigue, you **die**.
+	Accumulated fatigue is debilitating. If your inventory reaches **12** units of fatigue, you **die**. Roll up a new operator.
 
 ## Restore HP and Fatigue
 
-Lost *hit points* can be restored, and *fatigue* removed by regrouping at a *rally point*. See [Rally Point](#rally-point).
+Lost *hit points* can be restored, and *fatigue* can be removed, by regrouping at a *rally point*. See [Rally Point](#rally-point).
 
-Some neural weapons can also restore lost HP and remove fatigue. See [Neural Weapons](character.md#neural-weapons).
+Some *neural weapons* also restore lost HP and remove fatigue. See [Neural Weapons](character.md#neural-weapons).
 
-!!! note
+!!! tip
 
 	Experimental or anomalous medical restoratives are rumored to exist.
 
 ## Stabilize Team Members
 
-Stabilizing an *incapacitated* team member requires medical supplies, such as the individual aid kit in your basic kit.
+Stabilizing an *incapacitated* team member requires medical supplies, such as the individual aid kit in your basic kit. Once medical supplies are available, you can stabilize a team member after combat or during the battle, as described in the following sections.
 
 ### After Combat
 
-If you have medical supplies, you **automatically** stabilize an incapacitated team member **after** combat ends. After stabilizing your team member, remove the medical supplies from your inventory.
+If you have medical supplies, you **automatically** stabilize an *incapacitated* team member **after** combat ends. After stabilizing your team member, remove the medical supplies from your inventory.
 
 ### During Combat
 
-If you need to stabilize an incapacitated team member **during** combat, the action is complex and risky, and it uses a *mission clock* to track progress. The clock typically has 4 segments. See [Mission Clocks](playing.md#mission-clocks).
+If you need to stabilize an *incapacitated* team member **during** combat, the action is complex and risky, and it uses a *mission clock* to track progress. The clock typically has 4 segments. See [Mission Clocks](playing.md#mission-clocks).
 
 To **stabilize a team member in combat**, first acquire medical supplies, then make a *stabilization roll*. Roll **2D6 + TACTICS**. Apply the result as follows:
 
@@ -91,22 +91,24 @@ To **stabilize a team member in combat**, first acquire medical supplies, then m
 
 Once all segments are marked off the clock, the incapacitated team member is stabilized. Remove the medical supply you used from your inventory.
 
-Stabilized operators are back on their feet and combat-effective, though not at peak form, with **0 HP**. Until you’re patched up at a *rally point*, any damage immediately reduces your HP below zero, triggering another *wound roll*. See the next section.
+### Stabilized
+
+Once you're *stabilized*, you're back on your feet and combat-effective, though at **0** HP. Until you're *patched up* at a *rally point* and recover lost HP, any damage you take immediately reduces your HP below zero, triggering a *wound roll*. See the next section.
 
 ## Rally Point
 
-Once per mission, your squad can fall back to a designated *rally point* to regroup. The rally point is a location where you and your team members can rest and replenish supplies.
+Once per mission, your squad can fall back to a designated *rally point*. The rally point is a location where you and your team members can rest and regroup. A rally point is typically a concealed, defensible position. The GM will tell you where it is if your squad decides to rest and regroup during the mission.
 
-Your rally point is typically a concealed, defensible position. The GM will tell you where it is if your squad decides to fall back and regroup during the mission.
+!!! Important
 
-There are enough supplies at the rally point for your squad to rest and resupply **once** during the mission.
+There are only enough supplies at the rally point for your squad to rest and regroup **once** during the mission.
 
 ### Rest and Regroup
 
-Reaching the rally point automatically resets the following effects:
+Reaching the *rally point* automatically resets the following effects:
 
-- You lose your current *momentum*, and it resets to its starting value of **2** points. If you have fewer than 2 momentum, it increases to 2.
-- Reactivate any *neural weapons* that are no longer usable.
+- You lose your current *momentum*, which resets to its starting value of **2** points. If you have fewer than 2 momentum, it increases to 2.
+- Any *neural weapons* that are no longer usable reactivate.
 - Remove all *panicked* and *locked-in* effects.
 
 Additionally, you may choose **one** benefit from the following options:
@@ -116,20 +118,20 @@ Additionally, you may choose **one** benefit from the following options:
 | INTEL | Ask a single question about the mission, and the GM will reply with a “yes” or “no.” |
 | PATCH UP | If you have medical supplies, such as the individual aid kit in your basic kit, recover **1D6 HP** up to your *maximum HP*.<br/>You can patch up yourself or a team member. After patching up, remove the medical supply from your inventory.<br/>Note that *wounds* reduce your maximum HP. Wounds can’t be healed at the *rally point*. See [Wounds](#wounds). |
 | RECUPERATE | Remove **1D3** *stress* and **1D3** *fatigue* from yourself. |
-| RESUPPLY | Add **1** *tactical* supply to your or a team member’s inventory. |
+| RESUPPLY | Add **1** *tactical supply* to your or a team member’s inventory. |
 
 ## Backfill
 
-If your character dies, create a new one while the game continues. When you’re ready to rejoin, make a *backfill roll*. Roll **2D6 + TACTICS** and apply the result as follows:
+If your character dies, create a new one while the game continues. When you’re ready to rejoin your squad, make a *backfill roll*. Roll **2D6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You join the squad but encounter a *complication*. |
-| **7–9** | You join the squad. |
-| **10–12** | You join the squad and may optionally gain an **additional** *tactical supply*. |
-| **13+** | You deploy normally, may optionally gain an **additional** *tactical supply*, and your next *action roll* has *advantage*. |
+| **6–** | You join the squad but may take damage while deploying. Make a *defense roll* with *advantage*. See [Defending](combat.md#defending). Armor reduces the damage. |
+| **7–9** | You join the squad but with a *complication* during deployment. |
+| **10–12** | You join the squad. |
+| **13+** | You join the squad and may optionally add **1** *tactical supply* to your inventory. |
 
 </div>
 
