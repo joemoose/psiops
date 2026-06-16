@@ -58,12 +58,12 @@ When you make an *action roll*, in addition to the result of the roll, gain *mom
 
 | Option | Cost | Bonus |
 | - | :-: | - |
-| ASSIST | 1 | Grant *advantage* to a team member's action roll. |
-| PUSH YOURSELF | 2 | Gain *advantage* on your action roll. |
-| EXPLOIT | 3 | Increase the effect of a successful result. |
-| SURGE | 4 | Take another action. |
-| EVADE | 5 | Avoid the *consequence* of a failed action roll. |
-| FLASHBACK | 6 | Retroactively establish your pre-mission preparation or a discovery. |
+| ASSIST | 1 | Grant *advantage* to a team member's *action roll*. |
+| PUSH YOURSELF | 2 | Gain *advantage* on your *action roll*. |
+| EXPLOIT | 3 | Increase the effect of a *successful* action roll. |
+| SURGE | 4 | Take another *action*. |
+| EVADE | 5 | Avoid the *consequence* of a *failed* action roll. |
+| FLASHBACK | 6 | Retroactively establish your pre-mission preparation or a discovery in-mission. |
 
 ### Initiative Roll
 
@@ -73,7 +73,7 @@ Roll **2D6 + TACTICS** and apply the result as follows:
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You **do not** act in the first turn of combat. The enemy gets the drop on you, so you can't take an action or move during your turn. You'll have to wait until the **second round** to move or take any action. |
+| **6–** | You **do not** act in the first round of combat. You'll wait until the **second round** to move or take any action. |
 | **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
 | **10–12** | You get the drop on the enemy and act **first**. |
 | **13+** | You get the drop on the enemy, act **first**, and you gain an *advantage* on your next *action roll*. |
@@ -118,10 +118,25 @@ Roll **2D6 + WILLPOWER** and apply the result as follows:
 
 | Roll | Result |
 | :-: | - |
-| **6–** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and can **no longer activate** this neural weapon during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
-| **7–9** | The power **manifests**, but you take **1** *fatigue*. |
-| **10–12** | The power **manifests**. |
-| **13+** | The power **manifests**. The effect is greater than expected. |
+| **6–** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. |
+| **7–9** | The power **activates**, but you take **1** *fatigue*. |
+| **10–12** | The power **activates**. |
+| **13+** | The power **activates**, and the effect is greater than expected. |
+
+</div>
+
+### Retreating
+
+Roll **2D6 + TACTICS** and apply the result as follows:
+
+<div class="roll-table" markdown="1">
+
+| Roll | Result |
+| :-: | :- |
+| **6–** | Your opponent immediately makes a **free attack** against you as you disengage. |
+| **7–9** | You disengage but suffer a *complication*. |
+| **10–12** | You disengage without mishap. |
+| **13+** | You disengage without mishap and can optionally take an **extra** move this turn without spending an action. |
 
 </div>
 
@@ -136,22 +151,7 @@ Roll **2D6 + STRENGTH**, then **subtract** the number of points you’ve gone be
 | **6–** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. |
 | **10–12** | You're *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 *action*.<br/>**Note**: If you're wearing a helmet, you're knocked down but remain conscious. Spend 1 *action* to climb to your feet. |
-| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1D6**, up to your maximum after reducing it from the wound.<br/>You're one tough SOB. |
-
-</div>
-
-### Retreating
-
-Roll **2D6 + TACTICS** and apply the result as follows:
-
-<div class="roll-table" markdown="1">
-
-| Roll | Result |
-| :-: | :- |
-| **6–** | Your opponent immediately makes a **free attack** against you while you disengage. |
-| **7–9** | You disengage, but suffer a *complication*. |
-| **10–12** | You disengage without mishap. |
-| **13+** | You disengage without mishap, and can optionally take an **extra** move this turn without spending an action. |
+| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1D6**, up to your maximum after reducing it from the wound. See [Wounds](#wounds).<br/>You're one tough SOB. |
 
 </div>
 
@@ -163,12 +163,12 @@ Roll **2D6 + WILLPOWER** and apply the result as follows:
 
 | Roll | Result |
 |:-:|-|
-| **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked) to determine the effect. |
+| **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You're now **locked-in to** the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in) to determine the effect. |
+| **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
 
-</div>c
+</div>
 
 #### Panicked
 
@@ -176,10 +176,10 @@ Roll **1D6** and apply the result as follows:
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
-| **1** | Compromised | You have **-1 ARMOR**, with a minimum of 0. |
+| **1** | Compromised | You have **-1** ARMOR, to a minimum of **0**. |
 | **2** | Demoralized | You automatically fail any *initiative roll*. |
 | **3** | Detached | *Disadvantage* on all your *action rolls* that could benefit a team member. |
-| **4** | Rattled | *Disadvantage* on all your *action rolls* in combat. |
+| **4** | Rattled | *Disadvantage* on all your *action rolls*. |
 | **5** | Shutdown | You lose all your *momentum* and no longer gain any. |
 | **6** | Volatile | A team member gains **1** stress when you see them fail an *action roll*. |
 
@@ -189,10 +189,9 @@ Roll **1D6** and apply the result as follows:
 
 | D6 | Condition | Effect |
 | :-: | :-: | - |
-| **1** | Calculating | *Advantage* on all +TACTICS rolls. |
-| **2** | Aggressive | *Advantage* on all +STRENGTH rolls. |
-| **3** | Focused | *Advantage* on all +WILLPOWER rolls. |
+| **1** | Calculating | *Advantage* on all TACTICS *action rolls*. |
+| **2** | Aggressive | *Advantage* on all STRENGTH *action rolls*. |
+| **3** | Focused | *Advantage* on all WILLPOWER *action rolls*. |
 | **4** | Hardened | +1 ARMOR (**note**: damage reduction remains capped at 3 points). |
-| **5** | Sharp | *Advantage* on all +REFLEXES rolls. |
-| **6** | Steady | When you succeed on an *action roll*, team members within sight of you remove **1** stress. |
-
+| **5** | Sharp | *Advantage* on all REFLEXES *action rolls*. |
+| **6** | Steady | When you *succeed* on an *action roll*, team members within sight of you remove **1** stress. |
