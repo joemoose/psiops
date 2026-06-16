@@ -151,7 +151,7 @@ Roll **2D6 + STRENGTH**, then **subtract** the number of points you’ve gone be
 | **6–** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. |
 | **10–12** | You're *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 *action*.<br/>**Note**: If you're wearing a helmet, you're knocked down but remain conscious. Spend 1 *action* to climb to your feet. |
-| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1D6**, up to your maximum after reducing it from the wound. See [Wounds](#wounds).<br/>You're one tough SOB. |
+| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1D6**, up to your maximum after reducing it from the wound.<br/>You're one tough SOB. |
 
 </div>
 
@@ -163,10 +163,10 @@ Roll **2D6 + WILLPOWER** and apply the result as follows:
 
 | Roll | Result |
 |:-:|-|
-| **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
+| **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
+| **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in) to determine the effect. |
 
 </div>
 

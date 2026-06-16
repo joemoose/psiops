@@ -116,7 +116,7 @@ Items that aren’t classified as tactical supplies include weaponry, complex de
 
 ## Combat Weapons
 
-You may carry any combat weapons you prefer. Weapons are equipped with **6** AMMO. See [Expending Ammunition](#combat.md#expending-ammunition).
+You may carry any combat weapons you prefer. Weapons are equipped with **6** AMMO. See [Expending Ammunition](combat.md#expending-ammunition).
 
 For extended operations, extra ammunition can be added in your inventory, retrieved from your *tactical supplies*, or resupplied at a *rally point*. See [Rally Point](damage.md#rally-point).
 
