@@ -7,11 +7,11 @@
 - Cover art by Zachary Taylor. Source photo by [Aleksey Kashmar](https://unsplash.com/@pricetac) on [Unsplash](https://unsplash.com/photos/a-man-in-camouflage-holding-a-machine-gun-6F3UOhnbBHU).
 - Equipment and specializations inspired by *Modern War*, authored by Paul Elliott, published by [Zozer Games](https://www.paulelliottbooks.com), and licensed as [Open Game Content](https://opengamingfoundation.org/ogl.html).
 - Examples of attributes paraphrased from Ripley on the [FIST Discord server](https://discord.com/channels/959600183186952232/959731595793805322/1158274780319981639).
-- Mission Clocks based on [Blades in the Dark](https://bladesinthedark.com/), a product of One Seven Design, developed and authored by John Harper, and licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/).
 - Mobs mechanic based on [*HECATONCHEIRES*](https://threeyelloweyes.itch.io/fist-hecatoncheires), authored by Moth, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - Momentum mechanic based on *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - Specializations mechanic inspired by [*Offworlders*](https://chrispwolf.itch.io/offworlders), authored by Chris Wolf and licensed under the [Creative Commons Attribution License 3.0](https://creativecommons.org/licenses/by/3.0/us/).
 - Stress mechanic inspired by ["Stress system for Adventurous: Where high risk meets high reward!"](https://www.dawnfist.com/blog/mechanics/stress-system-for-adventurous/), *The Dawnfist Blog!*, authored by Sebastian Grabne.
+- This work is based on [*Blades in the Dark*](https://github.com/amazingrando/blades-in-the-dark-srd-content), a product of One Seven Design, developed and authored by John Harper, and licensed for use under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) license.
 - Zones inspired by *XD6 System Reference Document* by [Stellagama Publishing](https://stellagamapublishing.co), published under the [Creative Commons Attribution License v4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Inspiration

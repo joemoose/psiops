@@ -163,13 +163,13 @@ Weapon distance modifiers are as follows:
 | Weapon | Same Zone (Close) | 1 Zone (Nearby) | 2 Zones (Far) | 3 Zones (Distant) | 4+ Zones (Extreme) |
 | - | :-: | :-: | :-: | :-: | :-: |
 | **Antiarmor** | impossible | disadvantage | normal | normal | disadvantage |
-| **Assault rifle** | disadvantage | normal | normal | impossible | impossible |
+| **Assault rifle** | disadvantage | normal | normal | disadvantage | impossible |
 | **Combat knife** | normal | impossible | impossible | impossible | impossible |
 | **Combat shotgun** | normal | normal | disadvantage | impossible | impossible |
 | **Command-detonated mine** | advantage | normal | impossible | impossible | impossible |
 | **Frag grenade** | normal | normal | impossible | impossible | impossible |
 | **Grenade launcher** | impossible | normal | normal | disadvantage | impossible |
-| **LMG** | impossible | normal | normal | normal | disadvantage |
+| **LMG** | impossible | normal | advantage | normal | impossible |
 | **Sidearm** | normal | advantage | disadvantage | impossible | impossible |
 | **SMG** | normal | advantage | disadvantage | impossible | impossible |
 | **Sniper rifle** | impossible | disadvantage | advantage | normal | normal |
