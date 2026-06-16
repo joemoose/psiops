@@ -12,16 +12,17 @@ Details on each category follow.
 
 ## Inventory
 
-You have **12** inventory slots for carrying equipment: **two** in your hands, **four** on your body, and **six** in your rucksack. Inventory slots are abstract and can be rearranged. To use an item, place it in your hands; to wear it or keep it at the ready, place it on your body; the rest goes in your rucksack.
+You have **12** inventory slots for carrying equipment: **two** in your hands, **four** on your body, and **six** in your rucksack. Inventory slots are abstract and can be rearranged. To **use** an item, place it in your hands; to **wear** it or keep it at the ready, place it on your body; the **rest** goes in your rucksack.
 
 The number of inventory slots each piece of equipment occupies depends on its size, bulk, or the number of hands required to use it effectively, as follows:
 
 - Items occupy **1** inventory slot unless otherwise specified.
 - Small items, such as grenades, can be bundled so that multiple units occupy **1** slot. If only one of the bundled items is carried, it still takes up **1** slot.
-- Other small, standard items, such as a combat knife or the individual components of your basic kit, don’t take up a slot.
+- Other small, standard items, such as a combat knife or the individual components of your basic kit, don't take up a slot.
 - Bulky, heavy, or two-handed items occupy **2** slots.
 - Ballistic armor occupies **1–3** slots, depending on its level of protection.
-- Equipment that requires two people to lift can’t be stored in your inventory. Other transport methods will be needed.
+- Enormous equipment that can be carried by a single person requires **3** or more slots.
+- Equipment that requires two people to lift can't be stored in your inventory. Other transport methods will be needed.
 
 ### Retrieval
 
@@ -31,15 +32,17 @@ During a *combat round*, retrieving an item from your rucksack requires an *acti
 
 The *basic kit* is an abstract container for your standard-issue personal gear. It’s stowed in your rucksack and always occupies **1** inventory slot, regardless of how many items it contains. Items from the basic kit don’t take up additional slots when used.
 
-The basic kit exists so you don’t have to itemize every item in your personal utility kit before a mission — it’s ready whenever you need it.
+The basic kit exists so you don’t have to itemize every item in your personal utility kit on your character sheet before a mission — it’s ready whenever you need it.
 
-When you need an item from the kit, declare it and retrieve it. No inventory slot is required. Your combat fatigues, boots, and other standard-issue clothing or webbing are assumed to be worn. If your basic kit or any of its items are lost or destroyed due to tactical circumstances, they’re gone. The kit doesn’t replace them.
+When you need an item from the kit, declare it and retrieve it. No inventory slot is required. Recall that it takes **1** in combat to retrieve an item from your rucksack.
+
+Your combat fatigues, boots, and other standard-issue clothing or webbing are assumed to be worn. If any of the items in your basic are lost or destroyed due to tactical circumstances, they’re gone. The kit doesn’t replace them.
 
 Items not originally part of a basic kit, such as weapons or recovered equipment, cannot be stored in it.
 
 ### Basic Kit Manifest
 
-Your *basic kit* contains the small, sundry, standard-issue personal field equipment issued to operators for a mission. The kit includes the following items:
+Your *basic kit* contains the small, sundry, standard-issue personal field equipment issued to all operators for a mission. The kit includes the following items:
 
 #### Communication and Navigation
 
@@ -65,6 +68,7 @@ Your *basic kit* contains the small, sundry, standard-issue personal field equip
 - Folding knife
 - Paracord
 - Penlight
+- Plastic restraints
 
 #### Food and First Aid
 
@@ -74,9 +78,9 @@ Your *basic kit* contains the small, sundry, standard-issue personal field equip
 
 ## Tactical Supplies
 
-*Tactical supplies* are items of tactical equipment, such as climbing gear, flashlights, and ammunition. Each unit takes up **1** inventory slot, and you start each mission with up to **2** units of tactical supplies.
+*Tactical supplies* are items of tactical equipment, such as climbing gear, flashlights, and ammunition. Each tactical supply takes up **1** inventory slot, and you start each mission with up to **2** tactical supplies.
 
-When you need a piece of tactical gear you don’t have, request it using your tactical supplies. If the GM agrees the item qualifies as a tactical supply (see the following examples), remove one unit of tactical supply from your inventory and replace it with the requested item. If the item occupies more slots than the tactical supply it replaces, free enough inventory space first.
+When you need a piece of tactical gear you don’t have, retrieve it from your tactical supplies. If the GM agrees the item qualifies as a tactical supply (see the following examples), remove **1** tactical supply from your inventory and replace it with the requested item. If the item occupies more slots than the tactical supply it replaces, free enough inventory space first.
 
 These abstracted tactical supplies let you avoid deciding in advance which additional gear to pack beyond your basic kit, weapons loadout, and mission-specific gear. Equipment classified as tactical supplies can always be added to your inventory separately and carried on the mission. Spent tactical supplies can be resupplied at a *rally point*. See [Rally Point](damage.md#rally-point).
 
@@ -86,14 +90,13 @@ Examples of tactical supplies include the following:
 
 - Ammunition
 - Binoculars
-- Climbing gear
+- Climbing rope
 - Field rations and water
 - Gun-mounted flashlight
 - Medical supplies
 - Signal flares
 - Smoke grenades
 - Wire cutters
-- Zip-ties
 
 ### Non-Examples of Tactical Supplies
 
@@ -108,11 +111,14 @@ Items that aren’t classified as tactical supplies include weaponry, complex de
 - HALO freefall rig
 - Heavy weapons
 - Infiltration clothing and disguises
+- Relics
 - Small arms
 
 ## Combat Weapons
 
-You may carry any combat weapons you prefer. Weapons are loaded with ammunition. For extended operations, extra ammunition can be carried, produced from your *tactical supplies*, or resupplied at a *rally point*. See [Rally Point](damage.md#rally-point).
+You may carry any combat weapons you prefer. Weapons are equipped with **6** AMMO. See [Expending Ammunition](#combat.md#expending-ammunition).
+
+For extended operations, extra ammunition can be added in your inventory, retrieved from your *tactical supplies*, or resupplied at a *rally point*. See [Rally Point](damage.md#rally-point).
 
 | Weapon Type | Damage Modifier | Ammo Rating | Inventory Slots | Notes |
 | :- | :-: | :-: | :-: | :-: |
@@ -128,7 +134,7 @@ You may carry any combat weapons you prefer. Weapons are loaded with ammunition.
 | SMG | +1 | 6/6 | 1 | — |
 | Sniper rifle | +3 | 6/6 | 2 | — |
 
-For specific examples of military weapons used by Cold War-era nations, see the [National Armament Roster](appendix.md#national-armament-roster) in the Appendix.
+For specific examples of military weapons commonly used by Cold War-era nations, see the [National Armament Roster](appendix.md#national-armament-roster) in the [Appendix](appendix.md).
 
 ### Grenades
 
@@ -137,7 +143,7 @@ Several types of grenades are available to you. Up to 4 grenades occupy 1 invent
 | Grenade | Descriptions |
 | - | - |
 | Fragmentation | Deals **+1** *blast* damage. See [Blast Damage](combat.md#blast-damage). |
-| Smoke | Used to signal and obscure movement. In game terms, it can create *soft cover*. See [Cover](combat.md#cover). |
+| Smoke | Used to signal and obscure movement. It creates *soft cover*. See [Cover](combat.md#cover). |
 | Flashbang | Typically mission-specific. Used to stun opponents when breaching a room. Treat stunning as an *ambush*. See [Ambushes](combat.md#ambushes). |
 | Thermite | Typically mission-specific. Used to destroy equipment and documentation. |
 
@@ -147,11 +153,15 @@ Your personal protective system consists of two parts: *ballistic body armor* an
 
 ### Ballistic Body Armor
 
-Ballistic body armor forms the foundation of your protective system. Three tiers of ballistic body armor are available: light, medium, and heavy. Each tier offers greater protection at the cost of added weight and bulk.
+Ballistic body armor forms the foundation of your protective system. Three tiers are available: light, medium, and heavy. Each tier offers greater protection at the cost of added weight and bulk.
 
-#### Armor Rating
+The tiers provide an *armor rating* as follows:
 
-The tiers provide an *armor rating* of **1** (light), **2** (medium), or **3** (heavy). When you’re hit by an attack, **subtract** your armor rating from the damage dealt.
+- **1** (light)
+- **2** (medium)
+- **3** (heavy)
+
+When you take damage, **subtract** your armor rating from the damage dealt.
 
 Each tier takes up a number of *inventory slots* equal to its armor rating.
 
@@ -173,7 +183,7 @@ You can equip *secondary armor*, such as a helmet or a riot shield, for addition
 
 #### Armor Bonus
 
-Secondary armor provides an *armor rating bonus* of **+1**. Add this bonus to your ballistic body armor’s rating to determine your total damage reduction.
+*Secondary armor* provides an *armor rating bonus* of **+1**. Add this bonus to your ballistic body armor’s rating to determine your total damage reduction.
 
 Each piece of secondary armor requires **1** *inventory slot*. The riot shield must be held in your hand to be effective.
 
@@ -183,11 +193,11 @@ The **maximum** damage reduction from your personal protective system is capped 
 
 !!! example
 
-	If you wear medium ballistic body armor and have both a riot shield and a helmet equipped, your armor rating is 2 + 1 + 1 = 4. However, the maximum damage reduction is capped at 3, so only 3 points of damage are deducted.
+	If you wear medium ballistic body armor (2 armor) and have both a riot shield (+1 armor) and a helmet (+1 armor)  equipped, your *armor rating* is 2 + 1 + 1 = 4. However, the *maximum damage reduction* is capped at **3**, so only 3 points of damage are deducted.
 
 #### Additional Functionality
 
-In addition to an armor rating bonus, secondary protection provides the following effects:
+In addition to an armor bonus, secondary protection provides the following effects:
 
 ##### Helmets
 
@@ -196,13 +206,13 @@ In addition to an armor rating bonus, secondary protection provides the followin
 
 #####  Riot Shield
 
-- You can **destroy** the riot shield to prevent **all** damage you’d otherwise take from a single attack.
+- You can **destroy** a riot shield equipped in your hand to prevent **all** damage you’d otherwise take from an attack.
 - *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
 - Reduces certain types of attack damage that would otherwise bypass your ballistic armor, including damage from intense flames.
 
 #### Trade-offs
 
-Using a riot shield or wearing a helmet involves tactical trade-offs. You might have a *disadvantage* on *action rolls* that rely on perception, quick reactions, or stealth. Examples include spotting a hidden enemy sniper, acting before your opponents in the first round of combat, or moving without being heard.
+Using a riot shield or wearing a helmet involves tactical trade-offs. You might have a *disadvantage* on *action rolls* that rely on perception, quick reactions, or stealth. Examples include *initiative rolls*, , or moving without being heardspotting a hidden enemy sniper.
 
 !!! note
 
@@ -210,18 +220,16 @@ Using a riot shield or wearing a helmet involves tactical trade-offs. You might 
 
 ## Mission-Specific Equipment
 
-At the start of your mission, select any mission-specific equipment you need. The following list of example equipment is not exhaustive. Work with your GM to add any additional mission-specific equipment you may require.
+At the start of your mission, select any mission-specific equipment required to achieve your mission goals. The following list of example equipment is not exhaustive. Work with your GM to add any additional mission-specific equipment you may require.
 
-### Inventory Slots
-
-All mission-specific equipment, regardless of size, occupies at least **1** inventory slot unless it requires two hands to use or is bulky, in which case it occupies **2** slots. Massive equipment that is otherwise operator-portable may require additional slots.
+All mission-specific equipment, regardless of size, occupies at least **1** inventory slot. Larger items may require **2** or more slots.
 
 ### Examples
 
 | Item | Description |
 | :- | :-- |
 | Assault kit | Spare ammunition, flashbangs, and smoke grenades |
-| Breaching kit | Tools for forced entry, including pry bars, hammers, bolt cutters, and cutting tools |
+| Breaching kit | Tools for forced entry, including pry bar, hammer, and bolt cutter |
 | Communications kit | Backpack-mounted PRC radio (long-range VHF), encryption pads, headset, batteries, signal flares, and IR markers |
 | Counter-Surveillance kit | Bug detectors, RF sweep tools, and signal masking devices |
 | Demolitions kit | Blocks of plastic explosives, det cord, command wires, and firing triggers |
@@ -244,23 +252,23 @@ All mission-specific equipment, regardless of size, occupies at least **1** inve
 
 ## Squad Radios
 
- Terrain, vegetation, and urban environments degrade the signal quality and range of your handset squad-coordination radios. Rapid movement prevents communication. In-game handset radio ranges are as follows:
+Terrain, vegetation, and urban environments degrade the signal quality and range of your handset squad radio, and rapid movement prevents communication. In-game handset radio ranges are as follows:
 
 | Situation | Limitations |
 | - | - |
-| Outdoor coordination | ~500 m–3 km, depending on vegetation and elevation differences |
-| Urban | 100s of meters, with intermittent failures |
-| Long-range comms | Requires backpack-mounted PRC or SATCOM equipment |
+| Outdoor coordination | ~500 meters–3 kilometers, depending on vegetation and elevation differences |
+| Urban coordination | 100s of meters, with intermittent failures |
+| Longer-range comms | Requires backpack-mounted PRC or SATCOM equipment |
 
-## Example: Stowing a Loadout
+## Example Loadout
 
-*You load your equipment before the mission. You’re carrying the following items:*
+*You’re carrying the following items:*
 
 - Basic kit
 - 2 tactical supplies
 - Sidearm
 - Rifle
-- Combat knife — GM rules that it's worn on the body but doesn’t require a slot.
+- Combat knife — GM rules that it's worn on the body and doesn’t require a slot.
 - Light ballistic body armor
 - Riot shield
 - Demolitions kit
@@ -285,5 +293,4 @@ You have 0 hand slots remaining, 1 open body slot, and 1 open rucksack slot.
 
 !!! note
 
-	In this example, you're not wearing a helmet. If you were to take a helmet on the mission, it would fill your remaining body slot.
-
+	In this example, you're not wearing a helmet. If you were to wear a helmet, it would fill your remaining body slot.
