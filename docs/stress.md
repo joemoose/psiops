@@ -67,7 +67,7 @@ When you *panic*, roll **1D6** and apply the effect as follows:
 !!! note "Notes"
 
 	- If you *panic* again and trigger another effect, the effects **stack**.
-	- *Panicked* and *locked-in* effects can co-exist. Apply all effects.
+	- *Panicked* and *locked-in* effects co-exist. Apply all effects.
 
 ### Locked-In Effects
 
@@ -85,7 +85,7 @@ When you’re *locked in*, roll **1D6** and apply the effect as follows:
 !!! note "Notes"
 
 	- If you *lock in* again and trigger a different effect, the effects **stack**.
-	- *Locked-in* and *panicked* effects can co-exist. Apply all effects.
+	- *Locked-in* and *panicked* effects co-exist. Apply all effects.
 
 ## Remove Stress and Stress Effects
 

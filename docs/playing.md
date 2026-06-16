@@ -70,7 +70,7 @@ Keep in mind that describing your action to specify the *applicable attribute* d
 
 When a specific attribute is required for an action roll, the rule for that roll is given a unique name, such as a *defense roll*, and it specifies which attribute to use. Most action rolls that use specific attributes are part of combat mechanics. See the [Combat](combat.md) section.
 
-### Roll the Dice
+### Rolling the Dice and Results
 
 When you created your character, you assigned a *score* to each of your character’s *attributes*, with higher scores indicating greater ability. These scores can increase or decrease your chances of success on *action rolls*.
 
