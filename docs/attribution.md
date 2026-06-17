@@ -23,7 +23,7 @@ After reading the following books, I knew they would provide a solid foundation 
 - Charles Stross’ ***The Atrocity Archives*** depicts British bureaucratic occult espionage that’s both disturbing and darkly funny.
 - The ***SCP Foundation***, whose contributors, writing collectively and often anonymously, have built an unsettling world of the strange and the occult.
 
-I would be remiss not to include the Netflix TV series ***Stranger Things*** as an inspiration. Rewrite that story, replacing the kids with special forces operators, and you have ***PsiOps***.
+I would be remiss not to include the Netflix TV series ***Stranger Things*** as an inspiration. Rewrite that story, replacing the kids with special forces operators, and you have **PsiOps**.
 
 ## License
 
