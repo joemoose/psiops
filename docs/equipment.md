@@ -123,16 +123,16 @@ For extended operations, extra ammunition can be added in your inventory, retrie
 | Weapon Type | Damage Modifier | Ammo Rating | Inventory Slots | Notes |
 | :- | :-: | :-: | :-: | :-: |
 | Antiarmor missile | +3 | single-use | 2 | Blast |
-| Assault rifle | +2 | 6/6 | 2 | — |
+| Assault rifle | +2 | 5/5 | 2 | — |
 | Combat knife | +1 | — | 0 | — |
-| Combat shotgun | +2 | 6/6 | 2 | — |
+| Combat shotgun | +2 | 5/5 | 2 | — |
 | Command-detonated mine | +3 | single-use | 1 | Blast |
 | Frag grenade | +1 | single-use | Up to 4 in 1 slot | Blast |
 | Grenade launcher | — | 1/1 | 2 | Damage and effect by grenade type. See the following table. |
-| LMG | +3 | 6/6 | 2 | — |
-| Sidearm | +1 | 6/6 | 1 | — |
-| SMG | +1 | 6/6 | 1 | — |
-| Sniper rifle | +3 | 6/6 | 2 | — |
+| LMG | +3 | 5/5 | 2 | — |
+| Sidearm | +1 | 5/5 | 1 | — |
+| SMG | +1 | 5/5 | 1 | — |
+| Sniper rifle | +3 | 5/5 | 2 | — |
 
 For specific examples of military weapons commonly used by Cold War-era nations, see the [National Armament Roster](appendix.md#national-armament-roster) in the [Appendix](appendix.md).
 

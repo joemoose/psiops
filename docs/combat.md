@@ -183,14 +183,18 @@ Tactical decisions apply attack modifiers as follows:
 
 ## Expending Ammunition
 
-At the start of a mission, all your small arms have an *ammo rating* of **6**.
+At the start of a mission, all your small arms have an *ammo rating* of **5**.
 
 Each time you attack, your weapon’s *ammo rating* may decrease as follows:
 
 - If your *attack roll* **fails**, reduce your weapon's *ammo rating* by **1**.
-- If your *attack roll* is a **success** (*partial*, *complete*, or *critical*), you do **not** reduce your *ammo rating*.
+- If your *attack roll* is a **success** (*partial*, *complete*, or *critical*), do **not** reduce your *ammo rating*.
 
 When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
+
+!!! note
+
+	Some weapons are marked *single-use*, such as antiarmor missiles. These weapons have no *ammo rating* and are removed from your inventory after use.
 
 ### Resupply
 
@@ -198,9 +202,6 @@ You can resupply ammunition in several ways: carrying extra ammunition in your i
 
 If you recover enemy ammunition during the mission, increase the *ammo rating* of one weapon by **1**.
 
-!!! note
-
-	Some weapons are marked *single-use*, such as antiarmor missiles. These weapons have no ammo rating and are removed from your inventory after use.
 
 ## Defending
 

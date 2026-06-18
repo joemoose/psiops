@@ -1,0 +1,368 @@
+# A Dungeons & Dragons Player's Primer to PsiOps
+
+*Moving from a d20 to 2d6.*
+
+## TL;DR
+
+The [**PsiOps** role-playing game](https://github.com/joemoose/psiops) comes from a different design lineage than Dungeons & Dragons. It draws inspiration from *[Powered by the Apocalypse](https://www.lumpley.games/2023/11/22/what-is-pbta/)* and *[Blades in the Dark](https://www.bladesinthedark.com)*.
+
+That means:
+
+- 2d6 dice rolls instead of d20
+- Tiered outcomes rather than pass/fail
+- No classes, levels, or experience points
+- Lethal in a way modern D&D typically isn't
+
+Details follow.
+
+## How to Use This Primer
+
+You already know how to play tabletop role-playing games. Perhaps you've run a game (I hope so; it's a blast). That experience is an asset, but some assumptions about how these games work may not apply in **PsiOps**, especially if you come from a modern Dungeons & Dragons background.
+
+This primer isn't a complete rules reference (the *[PsiOps Field Manual](https://joemoose.github.io/psiops/)* provides that), but it offers an overview of how **PsiOps** differs from D&D and helps align your assumptions with **PsiOps'** design. Read this primer to orient yourself and become familiar with the key elements before moving on to the *[PsiOps Field Manual](https://joemoose.github.io/psiops/)* and your first game session.
+
+## Part 1: Habits to Leave Behind
+
+Here are common Dungeons & Dragons habits that don't apply to **PsiOps**.
+
+| D&D Instinct | PsiOps |
+| --- | --- |
+| "What's the DC? What do I need to roll?" | There are **no DCs**. You roll 2d6 + Attribute against a fixed target. A **7+** is some level of success. |
+| "I rolled a 14. Do I hit?" | Outcomes come in **four tiers**: *failure*, *partial success*, *success*, and *critical success*, rather than D&D's binary **two tiers** of *hit* or *miss*. |
+| "I missed, so nothing happens." | A **failure always makes things worse** by introducing an unwanted consequence, such as a new threat or the loss of your equipment. |
+| "Advantage means roll two d20." | Advantage means roll **3d6 and drop the lowest die**. Different math. |
+| "Better armor means I'm harder to hit." | Armor **reduces damage after you're hit**. You never become harder to hit. |
+| "The DM rolls the monster's attack against my AC." | When you're attacked, **you roll to defend**. The GM rolls very little in **PsiOps**. |
+| "Roll initiative — we go in order." | Initiative is rolled **once**, only in the first round. Initiative does not set the order of everyone's turns but determines whether you **can act** in that first round. In the second and subsequent rounds, players always go first. |
+| "I move 30 feet — count the squares." | No grid, no feet or meters. You **move between tactical zones** during combat. |
+| "I'll cast a spell — which slot?" | No spell slots, spell levels, or daily preparation. You set **two fixed powers** when you create your character. |
+| "We all pile damage onto the boss." | Against a single target, **only the highest single hit counts.** |
+| "Let's take a long rest to heal up." | Healing is limited to **one rally point** per mission. |
+| "My character will level up to 5th soon." | **No levels, no XP.** Advancement is an upgrade to one ability in your build, earned between missions at base. It's earned through roleplay, not XP. |
+
+## Part 2: 2d6 and the *Partial Success*
+
+The core task-resolution system in **PsiOps** uses 2d6 and *partial success*, whereas Dungeons & Dragons uses a d20 and *pass*/*fail*. This is the most significant change from D&D.
+
+### The Dice Roll
+
+ `2d6 + an attribute score`.
+ 
+ That's the entire task-resolution mechanic.
+
+### The Tiered Outcome
+
+Four outcomes of a 2d6 + Attribute roll underlie nearly every rule in **PsiOps**:
+
+- **6 or lower**: *Failure*. You don't get what you wanted, *and* something else goes wrong.
+- **7–9**: *Partial Success*. You get what you wanted, but at a cost or with some complication.
+- **10–12**: *Success*. You get what you wanted.
+- **13+**: *Critical Success*. You get more than expected, to your benefit.
+
+### Probability Feels Different
+
+2d6 produces a bell-shaped curve centered on 7, unlike the flat d20. As a result, rolls cluster around the middle (*partial success*), and your **attribute scores matter tremendously**. The gap between a +2 and a -1 attribute on a 2d6 roll is much larger than the same gap on a d20 roll.
+
+### Here Are the Probabilities
+
+For fellow dice-math geeks, here's a 2d6 vs. d20 probability comparison. If you're not one, skip this diagram. 
+
+![2d6 vs. d20 Probabilities](img/2d6-vs-d20.svg "2d6 vs. d20 Probabilities")
+
+To keep the comparison fair, both systems start with the same base success rate (~40%), so the chart shows only how much each +1 shifts the probability:
+
+- **2d6**: needing 8+ (41.7%)
+- **d20**: needing 13+ (40%)
+
+On the d20, every +1 is worth a flat 5 percentage points. On 2d6, the same +1 is worth far more in the middle of the curve: +16.7, then +13.9, then +11.1 points. At +3, 2d6 succeeds 83% of the time, compared to the d20's 55%, even though both start at nearly the same percentage.
+
+**The takeaway**: In a bell-curve 2d6 system, modifiers swing outcomes dramatically; on a flat d20, the same +3 barely moves the needle. Bonuses mean more in a 2d6 system.
+
+### Advantage and Disadvantage
+
+The terms *advantage* and *disadvantage* are borrowed from Dungeons & Dragons, but their implementation differs.
+
+- *Advantage:* roll **3d6, drop the lowest**.
+- *Disadvantage:* roll **3d6, drop the highest**.
+- They don't stack and cancel each other out. The maximum number of dice in any roll is 3d6, regardless of circumstances. Multiple advantages might mean the GM lets you succeed without rolling. Conversely, multiple disadvantages might mean the current approach won't work — try something else.
+
+### The 7–9 *Partial Success* Result Is the Heart of PsiOps
+
+Dungeons & Dragons does not build partial successes directly into its core resolution mechanic. D&D's rules as written are binary: *success* or *failure*, *hit* or *miss*. In **PsiOps**, the most common result is "you succeed, but…", a *partial success*. Expect partial successes and lean into the complications; they drive the story.
+
+### There Are No Target Numbers
+
+In Dungeons & Dragons, difficult tasks are often assigned a *difficulty class* (DC). **PsiOps** has no DC and instead determines difficulty through *fictional positioning*, meaning the descriptions of the challenge you're facing and the approach you take to overcome it.
+
+Circumstances in the story — cover, visibility, equipment, preparation, environment, or time pressure — change your odds of success. These circumstances may grant *advantage* or impose *disadvantage*, shifting your roll toward higher or lower results, but the tiered outcomes of *failure* (6–), *partial success* (7–9), *success* (10–12), and *critical success* (13+) always remain the same.
+
+## Part 3: Building an Operator (vs. Building a PC)
+
+You'll use almost none of the Dungeons & Dragons character-creation approach.
+
+### Four Attributes, Not Six
+
+**PsiOps** characters have STRENGTH, REFLEXES, TACTICS, and WILLPOWER.
+
+- There's no CON attribute (durability is covered by STRENGTH and HP).
+- INT and WIS collapse into TACTICS (logic and training).
+- WILLPOWER covers presence (CHA) and resolve. It's the "casting stat" for your powers.
+
+### A Limited, Assigned Array of Attribute Scores
+
+Distribute **2**, **1**, **0**, and **-1** among the four attributes. No 4d6-drop-lowest rolls, no point buy, no 3–18 range.
+
+- **The score *is* the modifier.** A "2" means you add 2 to the roll. Negative modifiers are normal and acceptable. The ceiling, reachable only through advancement, is **3**.
+- **The "applicable attribute" depends on how you narrate your action.** This is genuinely different. The same task can be resolved with different attributes. Consider an attack: STRENGTH for kicking the door and blasting, REFLEXES for sliding into cover and firing, TACTICS for flanking through a window, or WILLPOWER for baiting an enemy. You describe it; the GM then agrees or redirects.
+	- **Exception**: Some rolls have a **fixed** attribute by rule and a special name (for example, initiative rolls are always TACTICS, and the wound roll is always STRENGTH). Most of these fixed-attribute rolls are combat-related. 
+
+### No Class. No Level. No XP.
+
+Your starting "build" includes your attributes, 1 *core drive*, 2 *advanced specializations*, and 2 *neural weapons*. You assign your attribute scores, but you randomly select your core drive, specializations, and neural weapons.
+
+#### Core Drive
+
+Your *core drive* is a little like the Dungeons & Dragons Bond/Ideal/Flaw, fused with a character advancement threshold. It's a one-line motivation *and* the trigger for improving your character's abilities. You advance by playing to your drive — easing a conflict, getting revenge, or protecting someone — **not** by accumulating kills or XP.
+
+### Advanced Specializations
+
+Your *advanced specializations* are essentially your skills. They are binary, not scored like skills in Dungeons & Dragons. There are no ranks or scaling proficiency bonuses. You either have a specialization or you don't. If one applies to your action, you add a flat **+1** to the roll. The baseline assumption is that a trained operator can attempt almost anything. Specializations just improve your odds.
+
+### Neural Weapons
+
+We'll discuss these later, in [Part 6](#part-6-magic-without-spell-slots-neural-weapons). 
+
+### Character Advancement Is One Ability at a Time
+
+After a mission where you satisfied your *core drive*, you'll choose one character improvement: increase an attribute score, increase your maximum HP, randomly gain a new neural weapon, or learn a new advanced specialization applicable to things yoy did on the mission. There's no leveling table or class features you unlock.
+
+## Part 4: Inventory is Abstract and Constrained
+
+Tracking a character's inventory is another major difference between **PsiOps** and Dungeons & Dragons.
+
+D&D tracks inventory **by weight in pounds**. Every item has a listed weight, and your carrying capacity is your Strength score × 15. Manually adding up individual weights is fiddly. Bookkeeping for large inventories is no fun, so it's often hand-waved (at least I do). Some groups might require a fighter with 15 Strength to carry no more than 210 pounds of gear, probably using a spreadsheet. Regardless, it's a **ledger** listing equipment and treasure. You can keep adding items until the GM says the total is unreasonable or you reach your maximum weight by strength. 
+
+*PsiOps* uses **12** abstract inventory slots. Most equipment takes **1** slot. Larger items or two-handed equipment, such as a rifle, take **2** slots. Body armor occupies **1–3** slots, depending on its level of damage reduction. Small items, such as grenades, can be **bundled** into a single slot. 
+
+**PsiOps'** inventory system intentionally constrains what you carry on your mission, forcing trade-offs, decisions, and coordination among the players. The abstracted integer values of 1 or 2 slots, totaling 12, streamline management. You're **choosing** what to carry rather than measuring whether you **can** carry it.
+
+## Part 5: Combat Is a Different Beast
+
+**PsiOps** combat runs differently from Dungeons & Dragons.
+
+### There Is No Armor Class
+
+Nothing makes you inherently harder to hit.
+
+### Armor Is Damage Reduction
+
+When a hit lands, you **subtract** your armor rating from the damage. The total damage reduction from armor is capped at **3**. Hard cover can provide additional damage reduction.
+
+### Defense Rolls
+
+When an enemy attacks, *you* make a **defense roll** (2d6 + an applicable attribute) to determine whether you take damage and how much. This inverts the Dungeons & Dragons table dynamic. In **PsiOps**, the GM rolls no attack dice, and players roll their own defense.
+
+### The Attack Roll and the Damage Roll Use the Same Dice
+
+There is no separate damage roll or weapon damage die. The *attack roll* itself determines the resulting damage based on which outcome tier you roll:
+
+- **6 or lower** (failure): no damage.
+- **7–9** (partial success): The **lower** die + weapon modifier.
+- **10–12** (success): The **higher** die + weapon modifier.
+- **13+** (critical): The **sum** of both dice + weapon modifier.
+
+Weapons have a flat **damage modifier** (-1, +0, +1, +2, +3, or +4), not a damage die. There is no *1d8 longsword*; instead, there is a *sidearm, +1 damage*.
+
+### Initiative Is a One-Time Go/No-Go Result
+
+Like Dungeons & Dragons, when combat breaks out, you roll for *initiative*: 2d6 + TACTICS. But that's where the similarity ends. The initiative roll determines **whether you act** in the first round. If you fail, you must wait until the **second** round to act. You're skipped in the first round. 
+
+Starting in the second round of combat, you and your squad **always** take the first turn. There are no longer any initiative rolls.
+
+### Your Squad Acts Simultaneously
+
+There's no initiative-based turn order for combatants during a combat round. Your squad's actions and moves happen **all at once** during your turn. The opposing side's actions and moves happen all at once during their turn.
+
+Players declare their actions and moves up front, before any individual outcomes or movement are determined. You then resolve all actions and moves together. You can also **hold an action** with a trigger ("when the guard rounds the corner…") to interrupt the enemy's turn.
+
+### Tactical Zones, Not a Grid
+
+The battlefield consists of a handful of named tactical zones — your position, the opponent's position, the space between them, and other tactical positions and locations with distinct features.
+
+You take one move to enter an **adjacent zone**, regardless of its real-world size; difficult terrain costs two moves. Distance is measured in **hops** across zones: Close (0) / Nearby (1) / Far (2) / Distant (3) / Extreme (4+). Zones can be altered during combat: flip a table to split a zone or throw tear gas to make one hazardous.
+
+### Weapon Ranges Result in Advantage, Disadvantage, or Impossible
+
+Each weapon has an *optimal range* based on zone distance, granting *advantage* on attack rolls. Attacks outside that range may be made normally, with *disadvantage*, or may be *impossible*. An assault rifle suffers *disadvantage* at long (3 zones) range, a sniper rifle is *impossible* at close (same zone) range, and an SMG gains *advantage* at nearby (1 zone) range.
+
+If you're accustomed to games that measure combat in grids, feet, or meters, this may feel strange at first. "A sniper rifle can shoot someone standing ten feet away in real life. Why not in **PsiOps**?"
+
+The question isn't about whether the rifle can physically fire, but whether it's suited to that engagement range within **PsiOps's** tactical model.
+
+**PsiOps** is less concerned with simulation than with presenting enjoyable tactical decisions and satisfying gameplay. Weapon ranges, zones, cover, and positioning are designed to create meaningful trade-offs and advantages, not to model real-world ballistics. The game favors fast-paced, cinematic action grounded in abstraction rather than precise combat simulation.
+
+### Ammo Is an Abstract Rating That Depletes on Failure
+
+Small arms start with a **5** ammo rating. You lose **1** ammo on a *failed* attack. Successful attacks, of any tier, don't reduce ammo. No bullet counting required.
+
+### New Combat Options to Learn
+
+- **Cover**: Grants advantage on your *defense roll*. *Hard* cover adds damage reduction, and when you're behind *total* cover, you can't be targeted. Of course, you can't target enemies either. It's a tactical choice based on what's in a zone and on your actions or movement, not a static bonus for the position.
+- **Interrupts**: A free attack available against pinned or retreating enemies who expose themselves to fire.
+- **Suppressing fire**: No roll required and no damage. Instead, you pin everyone in a zone (friend and foe) and set up interrupt attacks.
+
+### Damage From Multiple Attackers *Doesn't* Stack
+
+If several team members attack the *same target*, only the **highest** damage result applies.
+
+- **…except against a mob.** A crowd of weak enemies is run as **one stat block** whose armor and number of attacks scale with its size. Damage removes members one-for-one, so multiple attackers all contribute damage.
+
+## Part 6: First-Session Mental Model
+
+Picture how a single combat turn *feels* different:
+
+---
+
+In Dungeons & Dragons, you wait for your initiative number to come up on the initiative track. The DM tells you the enemy's AC doesn't matter because you rolled a 19, so you hit. Then you roll a separate longsword d8 for damage. If the enemy falls, the next player on the initiative track can change their plan and attack another target. Otherwise, they pile on the same enemy. Further along the track, an enemy attacks you. The DM rolls to hit your AC and any damage while you sit still. When the round ends, everyone rolls initiative again, and the order resets. 
+
+---
+
+In **PsiOps**, at the start of the round, your whole squad decides together what you're all doing this turn. You describe flanking through the office window and firing, so this is a TACTICS attack at one zone's distance, giving your SMG its optimal range and an advantage because you're firing into an adjacent zone. Another player describes blasting through the front door with a STRENGTH attack. Another provides overwatch and holds their REFLEXES attack in case an opponent survives the initial assault. You all then resolve your declared actions. 
+
+You roll 2d6 + TACTICS and get a 7–9, dealing the *lower* die plus your weapon modifier. Your team member makes their STRENGTH attack. Because both attacks target the same enemy in the office, only the higher damage result applies. However, you have a team member holding their action to interrupt an enemy's turn if the enemy exposes themselves to attack on their own turn. 
+
+After your squad's actions and moves are resolved, your turn ends. It's now the enemy's turn. But you've got 4 Momentum saved; you spend 4 to *Surge* (see [Part 7](#part-7-the-action-movie-layer-momentum-and-mission-clocks)) and immediately take another action to move into the office zone and take cover.
+
+When an enemy returns your fire, *you* roll to defend from behind cover with an advantage and apply your armor rating plus a hard cover bonus to reduce any damage from a hit.
+
+Welcome to the unit, operator.
+
+---
+
+Different rhythm, different rules, but both share the same tension, the same crossing of fingers for good rolls, and the fundamental joy of tabletop role-playing games.
+
+## Part 6: Magic Without Spell Slots: Neural Weapons
+
+Magic in **PsiOps** works nothing like Vancian spellcasting.
+
+You start with **two neural weapons**, and those are your only "spells" unless you advance and choose to gain another. There's no spell list to choose from each morning, and no spell levels. You **can't choose** specific neural weapons when creating your character or when advancing your ability; they're chosen randomly. 
+
+### Activation Is a Roll, Not a Slot
+
+Roll 2d6 + WILLPOWER to activate (cast) your neural weapon:
+
+- **6–**: It fails. You take 1 fatigue, and that power is locked out for the rest of the mission (until a rally point). Harsher than a failed Dungeons & Dragons check.
+- **7–9**: It works, but you take 1 fatigue.
+- **10–12**: It works.
+- **13+**: It works, with an enhanced effect. 
+
+### Concentration Resembles Dungeons & Dragons, but Costs More
+
+Many neural weapons persist only if you **spend an action each round** to maintain them, and taking damage breaks the effect. You *can* move freely without breaking concentration. Unlike D&D, the upkeep consumes your entire action, not a saving throw.
+
+Powers produce *tactical* effects (movement, control, damage that often bypasses armor, healing, buffs) rather than the gamut and utility of a Dungeons & Dragons spell list.
+
+## Part 8: The "Action Movie" Layer: Momentum and Mission Clocks
+
+These subsystems have no direct Dungeons & Dragons equivalent. Momentum enhances your combat actions and keeps the action flowing. Clocks track progress toward completing complex obstacles and count down impending threats. 
+
+**Momentum**: You start each mission with 2 points and gain more with success or critical success rolls. Spend your momentum to gain a combat benefit:
+
+- **Assist** (1 momentum): Grant a team member an advantage.
+- **Push Yourself** (2 momentum): Grant *yourself* advantage.
+- **Exploit** (3 momentum): Upgrade a success to a better one.
+- **Surge** (4 momentum): Take an extra action this round.
+- **Evade** (5 momentum): Cancel the consequence of a failed roll (the roll still fails; you just avoid the extra fallout).
+- **Flashback** (6 momentum): Retroactively establish that you prepared something before the mission or found something earlier in the mission. *In effect, you can edit the past.* This *Blades in the Dark*-style move differs significantly from D&D's ever-forward narrative and is one of the most powerful tools in PsiOps.
+
+The closest D&D equivalent to Momentum is *inspiration*, but momentum offers more options and is always in play.
+
+### Mission Clocks (aka Segmented Progress Trackers)
+
+**Complex tasks** don't resolve on a single roll. Instead, they fill a clock with 4, 6, or 8 segments over multiple actions. *Partial success* fills 1 segment, *success* fills 2, *critical success* fills 3, and *failure* removes 1 filled segment.
+
+**Threats** have their own countdown clocks that tick down on *any* failed roll. The closest Dungeons & Dragons equivalent is the 4e skill *challenge*.
+
+## Part 9: Damage, Wounds, Stress, and Recovery
+
+Damage is grittier and typically more lethal than in modern Dungeons & Dragons.
+
+### HP Is Limited
+
+You start with a maximum of **6** HP, and it doesn't increase as Gygaxian HP pools do when you advance. Combat is dangerous for everyone, veterans and rookies alike.
+
+### 0 HP Doesn't Mean Death; It Means a Wound Roll
+
+When you drop to **0** HP or lower, you roll 2d6 + STRENGTH, then subtract how far below zero you are.
+
+- **6–**: Immediate death.
+- **7–9**: Incapacitated.
+- **10-12**: Knocked down. Unconscious if not wearing a helmet.
+- **13+**: Still on your feet. Rally and recover HP.
+
+There is no "three-death saves" safety net as in Dungeons & Dragons.
+
+### Wounds Are Lasting Injuries
+
+Each wound **permanently reduces your max HP** until you're treated back at base after the mission. Too many wounds mean death. You can't heal wounds in the field.
+
+### Fatigue Is Stored as an Inventory Item
+
+As you grow fatigued, you can carry less equipment. Each point of fatigue **occupies a physical inventory slot**, crowding out your gear. 12 fatigue (an inventory full of fatigue) means death. This is unlike anything in Dungeons & Dragons. 
+
+### Stress Is a Sanity-Style Meter
+
+Witnessing death, taking wounds, and especially encountering the paranormal add *stress*. Once your *Stress* is maxed out, you make a *Stress Roll* (2d6 + WILLPOWER):
+
+- **Panicked**: A random debilitating condition strikes.
+- **No effect**: You keep it together — for now.
+- **No effect**: You keep it together and shake off **1** stress.
+- **Lock-in:** You clear all stress and gain a *combat buff*.
+
+Maxing out your *stress* can be a **good** thing. It's a gamble. That's the opposite of what a Dungeons & Dragons player might expect from an *overwhelmed* sanity track.
+
+### Recovery Occurs Only at the Rally Point, Once Per Mission
+
+Falling back to a *rally point* resets your momentum to its starting value of **2**, clears panicked and locked-in effects, and re-enables spent neural weapons. You then choose **one** benefit (gain intel, recover HP, remove stress/fatigue, or resupply). Note the trade-off: clearing panicked conditions also removes any locked-in combat buffs. There is no per-day rest cycle or "adventuring day." Some neural weapons can restore HP or remove negative effects.
+
+## Part 10: Cheat Sheet
+
+Here are some short reminders. 
+
+### Universal Outcomes
+
+Nearly every roll uses the same four **tiered outcomes**:
+
+| Roll | Result |
+| :-: | --- |
+| 6– | Failure |
+| 7–9 | Partial success |
+| 10–12 | Success |
+| 13+ | Critical success |
+
+The number ranges are fixed, regardless of whether the difficulty is low or high, based on your circumstances.
+
+### Common Gotchas
+
+These rules are some of the most different between the two games:
+
+- **7+** on 2d6 is the target for at least *partial success*, and there is no DC
+- *Advantage*: roll **3d6** and drop the **lowest** die.
+- *Disadvantage*: roll **3d6** and drop the **highest** die.
+- Armor **reduces** damage; it doesn't affect whether you're hit.
+- **You roll** to defend yourself on the enemy's turn.
+- The attack dice **are also** the damage dice.
+- Roll *initiative* **once** to determine whether you can act in the first round. Afterward, you act first every round.
+- Move to an adjacent *zone*; there are no movement rates or grids.
+- A failed magic power can lock it out for the entire mission.
+- You have 12 inventory slots, and each item typically occupies 1 or 2 slots.
+- *Fatigue* occupies inventory slots.
+- Multiple attacks on one enemy apply **only the highest** damage (except against mobs).
+
+### Final Thoughts
+
+**PsiOps** vs. Dungeons & Dragons. Both distinct. Both fun. Lean into the differences; you might enjoy the change of style after your first mission. Now move out, soldier!
+
+## Postscript
+
+If you'd like to delve deeper into the comparison between modern Dungeons & Dragons and minimalist indie RPGs such as **PsiOps**, a definitive resource is *[Principia Apocrypha](https://www.osr.camp/principia-apocrypha)*. It's an enjoyable read.
