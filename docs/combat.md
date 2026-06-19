@@ -17,7 +17,7 @@ A *combat round* is about 6 seconds, enough time to **move once** and take **1 a
 
 !!! note
 
-	If you use your action to move again, you make two moves, which counts as a sprint.
+	If you use your action to move again, you make two moves, which count as a sprint.
 
 Complex actions that take more than 6 seconds may require multiple combat rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a doorway, or dropping an item, are free and don’t count as your 1 action.
 
@@ -188,7 +188,7 @@ At the start of a mission, all your small arms have an *ammo rating* of **5**.
 Each time you attack, your weapon’s *ammo rating* may decrease as follows:
 
 - If your *attack roll* **fails**, reduce your weapon's *ammo rating* by **1**.
-- If your *attack roll* is a **success** (*partial*, *complete*, or *critical*), do **not** reduce your *ammo rating*.
+- If your *attack roll* is any type of **success** (*partial*, or better), do **not** reduce your *ammo rating*.
 
 When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
 

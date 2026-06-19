@@ -33,7 +33,7 @@ Roll **2D6 + Applicable Attribute** and apply the result as follows:
 | :-: | - |
 | **6–** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
 | **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
-| **10–12** | It's a **complete success**. You achieve your goal. |
+| **10–12** | It's a **success**. You achieve your goal. |
 | **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
 
 </div>

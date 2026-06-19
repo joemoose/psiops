@@ -84,7 +84,7 @@ The **sum** of the dice roll and the attribute score determines how well you suc
 | :-: | - |
 | **6–** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
 | **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
-| **10–12** | It's a **complete success**. You achieve your goal. |
+| **10–12** | It's a **success**. You achieve your goal. |
 | **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
 
 </div>
@@ -95,15 +95,15 @@ The **sum** of the dice roll and the attribute score determines how well you suc
 
 ### Consequences and Complications
 
-*Consequences* and *complications* arise when the results of your actions aren’t a *complete success*. Consequences stem from *failures*, whereas complications stem from *partial successes*.
+*Consequences* and *complications* arise when your action roll results in either *failure* or a *partial success*.  
 
-#### Consequences of Failure
+#### *Consequences* of Failure
 
-When you *fail* an *action roll*, you don’t achieve your intended outcome. In addition, something else goes wrong, worsening your tactical situation or combat readiness. You could be injured, damage equipment, trigger a new threat, or be separated from your squad. Your situation deteriorates, and circumstances turn against you.
+When you *fail* an *action roll*, you don’t achieve your intended outcome. But something else goes wrong, worsening your tactical situation or combat readiness. You could be injured, damage equipment, trigger a new threat, or be separated from your squad. Your situation deteriorates, and circumstances turn against you.
 
-#### Complications of Partial Success
+#### *Complications* of Partial Success
 
-When you *partially* succeed on an *action roll*, you achieve your intended outcome, but at a cost. You might have to make a difficult choice or trade-off, and your tactical situation is likely to become more complicated.
+When you *partially succeed* on an *action roll*, you achieve your intended outcome, but at a cost. You might have to make a difficult choice or trade off, and your tactical situation is likely to become more complicated.
 
 ### Example Results
 
@@ -115,7 +115,7 @@ To compare the four types of results for an *action roll*, consider the followin
 | :-: | - | - |
 | **6–** | Failure | “You can’t pick the lock, and the door remains **locked**. You hear someone approaching your position. You’re trapped in the hallway.” |
 | **7–9** | Partial Success | “The door is now **unlocked**. No one hears you, but you break your lock pick. Remove it from your inventory.” |
-| **10–12** | Complete Success | “The door is now **unlocked**. No one hears you. You're good to go.” |
+| **10–12** | Success | “The door is now **unlocked**. No one hears you. You're good to go.” |
 | **13+** | Critical Success | “The door is now **unlocked**. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at their security console.” |
 
 ## Modifying Action Rolls
@@ -161,7 +161,7 @@ Examples of *action roll* modifiers follow:
 
 *Momentum* is the tactical edge that separates a decisive operator from a hesitant one. Momentum builds as you progress through your mission and complete risky *actions*.
 
-You start each mission with **2 momentum points** and gain additional points by achieving a *complete* or *critical* success on any *action roll*. You can then spend your momentum points to change the outcome of action rolls and events in your favor.
+You start each mission with **2 momentum points** and gain additional points by achieving a *success* or *critical success* on any *action roll*. You can then spend your momentum points to change the outcome of action rolls and events in your favor.
 
 ### Gain Momentum
 
@@ -211,11 +211,11 @@ Spend **2 momentum** to gain *advantage* on your next *action roll*.
 
 #### Exploit
 
-Spend **3 momentum** to improve the outcome of a *succesful* result on an *action roll*, whether *partial*, *complete*, or *critical*. Essentially, you’re turning a partial or complete success into a critical success. If the action was already a critical success, the result could be legendary.
+Spend **3 momentum** to improve the outcome of any tier of a successful *action roll*. Essentially, you’re turning *success* or *partial success* into *critical success*. If the action was already a *critical success*, the result could be *legendary*.
 
 !!! note
 
-	If the success was partial, you’ll still take a *complication* in addition to the improved outcome.
+	If the result is a *partial success*, you’ll still incur its associated *complication* in addition to the improved outcome.
 
 #### Surge
 
@@ -266,7 +266,7 @@ As you take *actions* to complete your task, mark off segments from the mission 
 
 - *Failure* nullifies **1 completed** segment, returning it to the clock.
 - *Partial success* marks off **1** segment.
-- *Complete success* marks off **2** segments.
+- *Success* marks off **2** segments.
 - *Critical success* marks off **3** segments.
 
 Once all segments are marked off, your task is complete.
