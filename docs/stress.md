@@ -32,16 +32,16 @@ See the following sections for details.
 
 If left unchecked, *stress* can degrade your performance and increase the risk of failure.
 
-When your stress reaches **6**, you immediately make a *stress roll**. Roll **2D6 + WILLPOWER** and apply the result as follows:
+When your stress reaches **6**, you immediately make a *stress roll**. Roll **2d6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |:-:|-|
-| **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
+| **6–** | You **panic**. Roll **1d6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
+| **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1d6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
 
 </div>
 
@@ -53,9 +53,9 @@ All *panicked* and *locked-in* effects persist until the end of the mission or u
 
 ### Panicked Effects
 
-When you *panic*, roll **1D6** and apply the effect as follows:
+When you *panic*, roll **1d6** and apply the effect as follows:
 
-| D6 | Condition | Effect |
+| d6 | Condition | Effect |
 | :-: | :-: | - |
 | **1** | Compromised | You have **-1** ARMOR, to a minimum of **0**. |
 | **2** | Demoralized | You automatically fail any *initiative roll*. |
@@ -71,9 +71,9 @@ When you *panic*, roll **1D6** and apply the effect as follows:
 
 ### Locked-In Effects
 
-When you’re *locked in*, roll **1D6** and apply the effect as follows:
+When you’re *locked in*, roll **1d6** and apply the effect as follows:
 
-| D6 | Condition | Effect |
+| d6 | Condition | Effect |
 | :-: | :-: | - |
 | **1** | Calculating | *Advantage* on all TACTICS *action rolls*. |
 | **2** | Aggressive | *Advantage* on all STRENGTH *action rolls*. |

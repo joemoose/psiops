@@ -1,6 +1,6 @@
 # Introduction
 
-***PsiOps*** is a squad-based role-playing game in which operators conduct off-the-books Cold War missions against classified paranormal threats. The Cold War era was stranger than anyone admits. There were things in the dark even the superpowers feared.
+***PSIOPS*** is a squad-based role-playing game in which operators conduct off-the-books Cold War missions against classified paranormal threats. The Cold War era was stranger than anyone admits. There were things in the dark even the superpowers feared.
 
 The system uses a single mechanic: roll two six-sided dice, add an *attribute score*, and see how well you do. That’s it. Four attributes cover everything from strength to resolve. A *momentum* system rewards relentless action. A *stress* system tracks your exposure to things best left unseen.
 

@@ -25,7 +25,7 @@ Commonly used Cold War-era weapons include:
 
 ### Action Roll
 
-Roll **2D6 + Applicable Attribute** and apply the result as follows:
+Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -67,7 +67,7 @@ When you make an *action roll*, in addition to the result of the roll, gain *mom
 
 ### Initiative Roll
 
-Roll **2D6 + TACTICS** and apply the result as follows:
+Roll **2d6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -82,29 +82,29 @@ Roll **2D6 + TACTICS** and apply the result as follows:
 
 ### Attacking
 
-Roll **2D6 + Applicable Attribute** and apply the result as follows:
+Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 | :-: | - |
 | **6–** | The attack misses. You deal **no damage**. |
-| **7–9** | You deal damage equal to the **lower** of the two D6 rolls, plus your weapon's **damage modifier**. |
-| **10–12** | You deal damage equal to the **higher** of the two D6 rolls, plus your weapon's **damage modifier**. |
+| **7–9** | You deal damage equal to the **lower** of the two d6 rolls, plus your weapon's **damage modifier**. |
+| **10–12** | You deal damage equal to the **higher** of the two d6 rolls, plus your weapon's **damage modifier**. |
 | **13+** | You deal damage equal to the **sum** of both dice, plus your weapon's **damage modifier**. |
 
 </div>
 
 ### Defending
 
-Roll **2D6 + Applicable Attribute** and apply the result as follows:
+Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You take **damage** equal to the **highest D6 result** plus your enemy's *damage modifier*. |
-| **7–9** | You take **damage** equal to the **lowest D6 result** plus your enemy's *damage modifier*. |
+| **6–** | You take **damage** equal to the **highest d6 result** plus your enemy's *damage modifier*. |
+| **7–9** | You take **damage** equal to the **lowest d6 result** plus your enemy's *damage modifier*. |
 | **10–12** | You take **no** damage. |
 | **13+** | You take **no** damage, and your next *action roll* has *advantage*. |
 
@@ -112,7 +112,7 @@ Roll **2D6 + Applicable Attribute** and apply the result as follows:
 
 ### Activating Neural Weapons
 
-Roll **2D6 + WILLPOWER** and apply the result as follows:
+Roll **2d6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -127,7 +127,7 @@ Roll **2D6 + WILLPOWER** and apply the result as follows:
 
 ### Retreating
 
-Roll **2D6 + TACTICS** and apply the result as follows:
+Roll **2d6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -142,7 +142,7 @@ Roll **2D6 + TACTICS** and apply the result as follows:
 
 ### Wounded
 
-Roll **2D6 + STRENGTH**, then **subtract** the number of points you’ve gone below 0. Apply the result as follows:
+Roll **2d6 + STRENGTH**, then **subtract** the number of points you’ve gone below 0. Apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -151,30 +151,30 @@ Roll **2D6 + STRENGTH**, then **subtract** the number of points you’ve gone be
 | **6–** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. |
 | **10–12** | You're *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 *action*.<br/>**Note**: If you're wearing a helmet, you're knocked down but remain conscious. Spend 1 *action* to climb to your feet. |
-| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1D6**, up to your maximum after reducing it from the wound.<br/>You're one tough SOB. |
+| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1d6**, up to your maximum after reducing it from the wound.<br/>You're one tough SOB. |
 
 </div>
 
 ### Stress
 
-Roll **2D6 + WILLPOWER** and apply the result as follows:
+Roll **2d6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 |:-:|-|
-| **6–** | You **panic**. Roll **1D6** and consult the [Panicked table](#panicked) to determine the effect. |
+| **6–** | You **panic**. Roll **1d6** and consult the [Panicked table](#panicked) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1D6** and consult the [Locked-In table](#locked-in) to determine the effect. |
+| **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1d6** and consult the [Locked-In table](#locked-in) to determine the effect. |
 
 </div>
 
 #### Panicked
 
-Roll **1D6** and apply the result as follows:
+Roll **1d6** and apply the result as follows:
 
-| D6 | Condition | Effect |
+| d6 | Condition | Effect |
 | :-: | :-: | - |
 | **1** | Compromised | You have **-1** ARMOR, to a minimum of **0**. |
 | **2** | Demoralized | You automatically fail any *initiative roll*. |
@@ -185,9 +185,9 @@ Roll **1D6** and apply the result as follows:
 
 #### Locked-In
 
-Roll **1D6** and apply the result as follows:
+Roll **1d6** and apply the result as follows:
 
-| D6 | Condition | Effect |
+| d6 | Condition | Effect |
 | :-: | :-: | - |
 | **1** | Calculating | *Advantage* on all TACTICS *action rolls*. |
 | **2** | Aggressive | *Advantage* on all STRENGTH *action rolls*. |

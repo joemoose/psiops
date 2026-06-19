@@ -11,7 +11,7 @@ Your job is inherently dangerous. It might be a question of when, not if, you’
 
 ## Wounded
 
-Once *wounded*, with **0** or fewer HP, immediately make a *wound roll*. Roll **2D6 + STRENGTH**, then **subtract** the number of HP you’ve fallen below zero. If your HP is exactly zero, subtract nothing. Apply the result as follows:
+Once *wounded*, with **0** or fewer HP, immediately make a *wound roll*. Roll **2d6 + STRENGTH**, then **subtract** the number of HP you’ve fallen below zero. If your HP is exactly zero, subtract nothing. Apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -20,7 +20,7 @@ Once *wounded*, with **0** or fewer HP, immediately make a *wound roll*. Roll **
 | **6–** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. See [Stabilize Team Members](#stabilize-team-members). |
 | **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending **1** *action*.<br/>**Note**: If you’re wearing a helmet, you’re knocked down but remain conscious. Spend **1** *action* to climb to your feet. |
-| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1D6**, up to your maximum after reducing it from the wound. See [Wounds](#wounds).<br/>You're one tough SOB. |
+| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1d6**, up to your maximum after reducing it from the wound. See [Wounds](#wounds).<br/>You're one tough SOB. |
 
 </div>
 
@@ -34,7 +34,7 @@ See [Wounds](#wounds), [Fatigue](#fatigue), and [Stress](stress.md) for details 
 
 	You have 2 STRENGTH and 2 current HP, and take 3 points of damage. You now have -1 HP and must make a *wound roll*.
 
-	You roll **2D6 + 2** (STRENGTH) and subtract **1** (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You're *knocked down*, but not *unconscious* because you're wearing a *helmet*. You would have been knocked out otherwise  You add **1** wound, **1** fatigue, **1** stress, and increase current HP to **1**.
+	You roll **2d6 + 2** (STRENGTH) and subtract **1** (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You're *knocked down*, but not *unconscious* because you're wearing a *helmet*. You would have been knocked out otherwise  You add **1** wound, **1** fatigue, **1** stress, and increase current HP to **1**.
 
 	You spend **1** action to get back on your feet. You’re wounded, growing tired, and a little more stressed, but not yet out of the fight.
 
@@ -76,7 +76,7 @@ If you have medical supplies, you **automatically** stabilize an *incapacitated*
 
 If you need to stabilize an *incapacitated* team member **during** combat, the action is complex and risky, and it uses a *mission clock* to track progress. The clock typically has 4 segments. See [Mission Clocks](playing.md#mission-clocks).
 
-To **stabilize a team member in combat**, first acquire medical supplies, then make a *stabilization roll*. Roll **2D6 + TACTICS**. Apply the result as follows:
+To **stabilize a team member in combat**, first acquire medical supplies, then make a *stabilization roll*. Roll **2d6 + TACTICS**. Apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -116,13 +116,13 @@ Additionally, you may choose **one** benefit from the following options:
 | Benefit | Description |
 | - | - |
 | INTEL | Ask a single question about the mission, and the GM will reply with a “yes” or “no.” |
-| PATCH UP | If you have medical supplies, such as the individual aid kit in your basic kit, recover **1D6 HP** up to your *maximum HP*.<br/>You can patch up yourself or a team member. After patching up, remove the medical supply from your inventory.<br/>Note that *wounds* reduce your maximum HP. Wounds can’t be healed at the *rally point*. See [Wounds](#wounds). |
-| RECUPERATE | Remove **1D3** *stress* and **1D3** *fatigue* from yourself. |
+| PATCH UP | If you have medical supplies, such as the individual aid kit in your basic kit, recover **1d6 HP** up to your *maximum HP*.<br/>You can patch up yourself or a team member. After patching up, remove the medical supply from your inventory.<br/>Note that *wounds* reduce your maximum HP. Wounds can’t be healed at the *rally point*. See [Wounds](#wounds). |
+| RECUPERATE | Remove **1d3** *stress* and **1d3** *fatigue* from yourself. |
 | RESUPPLY | Add **1** *tactical supply* to your or a team member’s inventory. |
 
 ## Backfill
 
-If your character dies, create a new one while the game continues. When you’re ready to rejoin your squad, make a *backfill roll*. Roll **2D6 + TACTICS** and apply the result as follows:
+If your character dies, create a new one while the game continues. When you’re ready to rejoin your squad, make a *backfill roll*. Roll **2d6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 

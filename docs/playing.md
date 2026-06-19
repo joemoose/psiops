@@ -43,7 +43,7 @@ When you attempt a meaningful *action* with a risky or uncertain outcome, you ma
 The process for making an *action roll* has four steps:
 
 1. Select an *applicable attribute*. See the following section.
-2. Roll **2D6** and add the *attribute score*.
+2. Roll **2d6** and add the *attribute score*.
 3. Compare the sum to the *results* list.
 4. Apply the result.
 
@@ -74,7 +74,7 @@ When a specific attribute is required for an action roll, the rule for that roll
 
 When you created your character, you assigned a *score* to each of your character’s *attributes*, with higher scores indicating greater ability. These scores can increase or decrease your chances of success on *action rolls*.
 
-To make an action roll, roll **2D6 + Attribute score**.
+To make an action roll, roll **2d6 + Attribute score**.
 
 The **sum** of the dice roll and the attribute score determines how well you succeed at your *action*, as shown in the following list:
 
@@ -109,7 +109,7 @@ When you *partially succeed* on an *action roll*, you achieve your intended outc
 
 To compare the four types of results for an *action roll*, consider the following example:
 
-*You want to quietly pick a door lock. Roll 2D6 + REFLEXES. The result is*:
+*You want to quietly pick a door lock. Roll 2d6 + REFLEXES. The result is*:
 
 | Sum | Result | Outcome |
 | :-: | - | - |
@@ -124,28 +124,28 @@ Depending on your current tactical circumstances, *action rolls* might have high
 
 ### Advantage
 
-Given the current tactical situation, if your action is easier than it would be otherwise, the *action roll* has an *advantage*. For example, firing from a rooftop at enemies in the street below provides a clear advantage and improves your odds of success. When you make an action roll with advantage, roll **3D6 + Attribute** instead of the usual two dice, then discard the **lowest** die.
+Given the current tactical situation, if your action is easier than it would be otherwise, the *action roll* has an *advantage*. For example, firing from a rooftop at enemies in the street below provides a clear advantage and improves your odds of success. When you make an action roll with advantage, roll **3d6 + Attribute** instead of the usual two dice, then discard the **lowest** die.
 
 ### Disadvantage
 
-Given the current tactical situation, if your action is more difficult than it would be otherwise, such as attacking a target on a rooftop from the street below, your *action roll* has a *disadvantage*. Disadvantage reduces your odds of success. When you make an action roll with disadvantage, roll **3D6 + Attribute** and discard the **highest** die.
+Given the current tactical situation, if your action is more difficult than it would be otherwise, such as attacking a target on a rooftop from the street below, your *action roll* has a *disadvantage*. Disadvantage reduces your odds of success. When you make an action roll with disadvantage, roll **3d6 + Attribute** and discard the **highest** die.
 
 !!! note "Notes"
 
-	- If an action roll has both an advantage and a disadvantage, they cancel each other out. Roll 2D6 + Attribute as normal.
-	- Multiple advantages don't stack. The maximum number of dice in any action roll is 3D6.
+	- If an action roll has both an advantage and a disadvantage, they cancel each other out. Roll 2d6 + Attribute as normal.
+	- Multiple advantages don't stack. The maximum number of dice in any action roll is 3d6.
 	- Nonetheless, an action roll with multiple advantages may not be considered risky and may therefore succeed automatically.
 	- Conversely, multiple disadvantages may make a successful outcome impossible.
 
 ### Advanced Specializations
 
-Your *advanced specializations* increase your chances of success on related risky *actions*. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action roll*. In other words, roll **2D6 + Attribute + 1**.
+Your *advanced specializations* increase your chances of success on related risky *actions*. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action roll*. In other words, roll **2d6 + Attribute + 1**.
 
 Describe how your specialization applies to the action. If the GM agrees, the bonus applies.
 
 !!! example
 
-	You’re going to fast rope from a hovering helicopter that's taking fire. To reach the ground without incident, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll **2D6 + REFLEXES + 1**.
+	You’re going to fast rope from a hovering helicopter that's taking fire. To reach the ground without incident, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll **2d6 + REFLEXES + 1**.
 
 ### Action Roll Modifier Examples
 
@@ -153,9 +153,9 @@ Examples of *action roll* modifiers follow:
 
 | Modifier | Example |
 | - | - |
-| Advantage | You attack an unaware target (*advantage*). Roll **3D6 + TACTICS** (2), getting 5, 6, and 4. Discard the **4**. Sum: 5 + 6 + 2 = 13. *Critical success*. |
-| Disadvantage | You're attacked by surprise (*disadvantage*). Roll **3D6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Sum: 3 + 1 + 2 = 6. *Failure*. |
-| Specialization | You're attacked by surprise (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies (+1). Roll **3D6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
+| Advantage | You attack an unaware target (*advantage*). Roll **3d6 + TACTICS** (2), getting 5, 6, and 4. Discard the **4**. Sum: 5 + 6 + 2 = 13. *Critical success*. |
+| Disadvantage | You're attacked by surprise (*disadvantage*). Roll **3d6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Sum: 3 + 1 + 2 = 6. *Failure*. |
+| Specialization | You're attacked by surprise (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies (+1). Roll **3d6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
 
 ## Momentum
 
@@ -288,8 +288,8 @@ After returning to base, describe how you met your core drive's *advancement con
 | Improvement | Effect | Limit |
 | - | - | :-: |
 | Attribute increase | Add **+1** to one attribute | Max score of 3. |
-| HP increase | Roll **1D3** and add the result to max HP | No upper limit. |
-| New neural weapon | Roll **D66** to determine the new ability. See [Neural Weapons](character.md#neural-weapons). If you roll a duplicate, reroll until you receive a new one. | None |
+| HP increase | Roll **1d3** and add the result to max HP | No upper limit. |
+| New neural weapon | Roll **d66** to determine the new ability. See [Neural Weapons](character.md#neural-weapons). If you roll a duplicate, reroll until you receive a new one. | None |
 | New specialization | Choose **one** new specialization related to **meaningful** actions you took that helped complete a previous mission. See [Advanced Specializations](character.md#advanced-specializations). | None |
 
 !!! note

@@ -1,6 +1,6 @@
 # Attribution
 
-**PsiOps** is a “Powered by the Apocalypse” game, and its design was informed by *Apocalypse World* by D. Vincent Baker (copyright 2010).
+**PSIOPS** is a “Powered by the Apocalypse” game, and its design was informed by *Apocalypse World* by D. Vincent Baker (copyright 2010).
 
 - Attack and defense rolls mechanic inspired by [*Vagabonds of Dyfed*](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed), authored by Ben Dutter, copyright Sigil Stone Publishing, 2018.
 - Core drives and neural weapons inspired by [*FIST: Ultra Edition*](https://claymorerpgs.itch.io/fist), a product of CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
@@ -23,10 +23,10 @@ After reading the following books, I knew they would provide a solid foundation 
 - Charles Stross’ ***The Atrocity Archives*** depicts British bureaucratic occult espionage that’s both disturbing and darkly funny.
 - The ***SCP Foundation***, whose contributors, writing collectively and often anonymously, have built an unsettling world of the strange and the occult.
 
-I would be remiss not to include the Netflix TV series ***Stranger Things*** as an inspiration. Rewrite that story, replacing the kids with special forces operators, and you have **PsiOps**.
+I would be remiss not to include the Netflix TV series ***Stranger Things*** as an inspiration. Rewrite that story, replacing the kids with special forces operators, and you have **PSIOPS**.
 
 ## License
 
-**PsiOps** by [Zachary Taylor](https://zacharytaylor.itch.io) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+**PSIOPS** by [Zachary Taylor](https://zacharytaylor.itch.io) is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 You are free to copy, share, and modify this material for noncommercial use, provided you give appropriate credit and license any adaptations under the same terms.

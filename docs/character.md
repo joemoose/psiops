@@ -6,14 +6,14 @@ Welcome to the unit, operator.
 
 ## Dice
 
-Before we get started creating your character, here’s a summary of the dice-roll notation in *PsiOps*.
+Before we get started creating your character, here’s a summary of the dice-roll notation in *PSIOPS*.
 
 | Roll | Description |
 | :-: | - |
-| 1D3 | Roll one six-sided die, divide the result by 2, and round up. |
-| 1D6 | Roll one six-sided die. |
-| 2D6 | Roll two six-sided dice and add the results. |
-| D66 | Roll two six-sided dice, but instead of adding the results, read them in order to form a 2-digit number. For example, a 2 followed by a 4 is a **24**. A 1 followed by another 1 is an **11**. |
+| 1d3 | Roll one six-sided die, divide the result by two, and round up. |
+| 1d6 | Roll one six-sided die. |
+| 2d6 | Roll two six-sided dice and add the results. |
+| d66 | Roll two six-sided dice, but instead of adding the results, read them in order to form a 2-digit number. For example, a **2** followed by a **4** is a **24**. A **1** followed by another **1** is an **11**. |
 
 ## Fielding an Operator
 
@@ -46,19 +46,19 @@ Higher scores indicate greater ability. See [Applicable Attributes](playing.md#a
 
 ### Step 2: Core Drives
 
-Roll a **D66** to select your character’s **Core Drive** from the [Core Drives table](#core-drives). Each team member in your squad must have a unique core drive. Reroll any duplicates.
+Roll a **d66** to select your character’s **Core Drive** from the [Core Drives table](#core-drives). Each team member in your squad must have a unique core drive. Reroll any duplicates.
 
 ---
 
 ### Step 3: Neural Weapons
 
-Roll a **D66** twice to select two **Neural Weapons** from the [Neural Weapons table](#neural-weapons). If you roll a duplicate, reroll until you get a different one.
+Roll a **d66** twice to select two **Neural Weapons** from the [Neural Weapons table](#neural-weapons). If you roll a duplicate, reroll until you get a different one.
 
 ---
 
 ### Step 4: Advanced Specializations
 
-Roll a **D66** twice to select two **Advanced Specializations** from the [Advanced Specializations table](#advanced-specializations). If you roll a duplicate, reroll until you get a different one.
+Roll a **d66** twice to select two **Advanced Specializations** from the [Advanced Specializations table](#advanced-specializations). If you roll a duplicate, reroll until you get a different one.
 
 ---
 
@@ -118,7 +118,7 @@ Weapons free, soldier. Move out.
 
 You and every team member on your squad have a distinct *core drive* that fuels your reason to fight. Each core drive includes a backstory prompt and an *advancement condition*. If you meet the advancement condition during a mission, you can improve your character’s abilities upon returning to base. See [Character Advancement](playing.md#character-advancement).
 
-| D66 | Core Drive | Description |
+| d66 | Core Drive | Description |
 | :-: | - | - |
 | 11 | Addict | Describe your insatiable vice. Advance if you unexpectedly indulge your foible during the mission. |
 | 12 | Agitator | Describe a persistent, oppressive establishment that harmed you. Advance if your actions weaken it or help those it oppresses. |
@@ -126,7 +126,7 @@ You and every team member on your squad have a distinct *core drive* that fuels 
 | 14 | Blank Slate | Describe your most recent memory, such as waking up in a vat a week ago or discovering your name in an unfamiliar wallet in your coat. Advance if your understanding of yourself or the world changes during the mission. |
 | 15 | Broker | Describe your foolproof strategy for closing any deal. Advance if you finish the mission with significantly more wealth, influence, or capital than at the start. |
 | 16 | Burned | Describe a high-caliber crime you committed or were falsely accused of. Advance if you made efforts to clear your name or fought against law enforcement. |
-| 21 | Chameleon | Your worldview and motivations are in a constant state of flux. Explain why. Before each mission, roll **D66** to determine a temporary random core drive to use during the mission. After returning to base, the temporary core drive is abandoned, and you revert to being a Chameleon. **Note**: Chameleon has no advancement condition of its own. Instead, you must meet the advancement condition of your temporary core drive. |
+| 21 | Chameleon | Your worldview and motivations are in a constant state of flux. Explain why. Before each mission, roll **d66** to determine a temporary random core drive to use during the mission. After returning to base, the temporary core drive is abandoned, and you revert to being a Chameleon. **Note**: Chameleon has no advancement condition of its own. Instead, you must meet the advancement condition of your temporary core drive. |
 | 22 | Champion | Describe your experiences with the creation, mistreatment, or elimination of humans like you with anomalous cognitive abilities. Advance if you prove that anomalous humans could and should stand on their own, or if you liberate another anomalous human. |
 | 23 | Conspiracist | Describe a commonly known fact that is actually false, and explain the much more complex truth. Advance if you make things even more complicated or obscure important truths. |
 | 24 | Contractor | Describe how you ended up working with these weirdos in your squad. Advance if the mission goes as planned and you receive your pay. |
@@ -163,13 +163,13 @@ Neural weapons are your paracognitive abilities — anomalous neural phenomena t
 
 The following table lists known neural weapon loadouts. Many descriptions refer to combat-related game mechanics, such as *distance modifiers* and *damage*. These are detailed in the [Combat](combat.md) section.
 
-| D66 | Neural Weapon | Description |
+| d66 | Neural Weapon | Description |
 | :-: | :- | :- |
 | 11 | Bad Feed | Make a person within a clear, unaided line of sight hallucinate for as long as you maintain concentration. |
 | 12 | Bio Sweep | Sense all life around you, not their exact locations, but a general idea of where or in which direction the lifeform is. |
 | 13 | Booster | Move three times per combat round for as long as you maintain concentration. |
 | 14 | Burnline | Ignite a flammable object within a clear, unaided line of sight, or attack an enemy using **sidearm** distance modifiers, dealing **+0** damage that bypasses ballistic body armor. A riot shield reduces damage. If the target takes damage, it ignites, taking **1** damage per combat round with no damage reduction until extinguished. |
-| 15 | Choke | Seize a lifeform’s throat or another known vulnerable spot with mental force, then crush it for **1D6** damage, bypassing armor. |
+| 15 | Choke | Seize a lifeform’s throat or another known vulnerable spot with mental force, then crush it for **1d6** damage, bypassing armor. |
 | 16 | Expunge | Erase 15 minutes of an event from a person’s memory if they are within a clear, unaided line of sight. Each use lets you extend the erasure by another 15 minutes or erase a new event from memory. Alternatively, you can restore blocked memories. |
 | 21 | Fast Forward | Take two actions in your next combat round. |
 | 22 | Flood | Evoke a strong emotion in a person within a clear, unaided line of sight. The effect lasts as long as you maintain concentration. |
@@ -184,7 +184,7 @@ The following table lists known neural weapon loadouts. Many descriptions refer 
 | 35 | Live Wire | Control nearby electrical energy to recharge batteries, short-circuit devices, or create light shows. Alternatively, attack a target with electricity using a **sidearm’s** distance modifiers, dealing **+1** damage and bypassing armor. Gain *advantage* when attacking mechanical or electronic targets. |
 | 36 | Long Look | Observe *or* listen at any location by specifying a direction, distance, and elevation from your position, ignoring intervening objects. The effect lasts for as long as you maintain concentration. |
 | 41 | Meat | Control a corpse within a clear, unaided line of sight for as long as you maintain concentration. The corpse’s current state will limit its abilities. |
-| 42 | Muscle Pump | When activated on yourself, add **+1D3** to your STRENGTH score for the duration of combat. If you target another person, the effect lasts only as long as you maintain concentration. You can apply the effect to a target only once per combat. |
+| 42 | Muscle Pump | When activated on yourself, add **+1d3** to your STRENGTH score for the duration of combat. If you target another person, the effect lasts only as long as you maintain concentration. You can apply the effect to a target only once per combat. |
 | 43 | Null | Disappear from view for as long as you maintain concentration. |
 | 44 | Null Weight | Levitate and move in any direction for as long as you maintain concentration. |
 | 45 | Overclock | When activated on yourself, increase all four of your attribute scores by **1** for the duration of combat. If you target another person, the effect lasts only as long as you maintain concentration. You can apply the effect to any target only once per combat. |
@@ -210,7 +210,7 @@ Many of the specializations listed below, such as *survival and evasion*, are pa
 
 Unlike *attributes*, your advanced specializations aren’t given numerical ratings. You either have the specialization, or you don’t.
 
-| D66 | Specialization | Description |
+| d66 | Specialization | Description |
 | :-: | :- | :- |
 | 11 | Advanced Navigation & Fire Control | Advanced training in dead reckoning on featureless terrain, urban navigation during a blackout, and precise coordination of artillery and close air support to avoid friendly fire. |
 | 12 | Antiarmor & Heavy Ordnance | Engaging targets and armored vehicles with portable antiarmor weapons and grenade launchers, including assessment, backblast clearance, and reloading under fire. |

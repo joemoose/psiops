@@ -25,7 +25,7 @@ In each round of combat, both your squad and the opposing force take turns movin
 
 ### First Round and Initiative Roll
 
-Whether you act before the enemy in the **first** round of combat is determined by an *initiative roll*. Roll **2D6 + TACTICS** and apply the result as follows:
+Whether you act before the enemy in the **first** round of combat is determined by an *initiative roll*. Roll **2d6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -88,15 +88,15 @@ As described in [Actions](playing.md#actions), the outcome of any *risky* or *un
 
 ## Attacking
 
-When you **attack** a target, make an *attack roll*. Roll **2D6 + Applicable Attribute** and apply the result as follows:
+When you **attack** a target, make an *attack roll*. Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 | :-: | - |
 | **6–** | The attack misses. You deal **no damage**. |
-| **7–9** | You deal damage equal to the **lower** of the two D6 rolls, plus your weapon's **damage modifier**. |
-| **10–12** | You deal damage equal to the **higher** of the two D6 rolls, plus your weapon's **damage modifier**. |
+| **7–9** | You deal damage equal to the **lower** of the two d6 rolls, plus your weapon's **damage modifier**. |
+| **10–12** | You deal damage equal to the **higher** of the two d6 rolls, plus your weapon's **damage modifier**. |
 | **13+** | You deal damage equal to the **sum** of both dice, plus your weapon's **damage modifier**. |
 
 </div>
@@ -133,7 +133,7 @@ For weapons or other attacks not listed on the Combat Weapons list, use the foll
 
 ### Blast Damage
 
-Attacks with the *blast* quality, such as explosives or frag grenades, can affect multiple targets in the target *zone*. To determine how many targets are affected, roll **1D6 + the weapon's damage modifier**. The result is the number of targets affected in the zone. See [Zones](zones.md).
+Attacks with the *blast* quality, such as explosives or frag grenades, can affect multiple targets in the target *zone*. To determine how many targets are affected, roll **1d6 + the weapon's damage modifier**. The result is the number of targets affected in the zone. See [Zones](zones.md).
 
 All targets caught in the blast then suffer the same *attack roll* results. If there are more targets in a zone than the target count, select the targets randomly.
 
@@ -205,14 +205,14 @@ If you recover enemy ammunition during the mission, increase the *ammo rating* o
 
 ## Defending
 
-When you **defend** against an enemy attack, make a *defense roll*. Roll **2D6 + Applicable Attribute** and apply the result.
+When you **defend** against an enemy attack, make a *defense roll*. Roll **2d6 + Applicable Attribute** and apply the result.
 
 <div class="roll-table" markdown="1">
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You take **damage** equal to the **highest D6 result** plus your enemy’s *damage modifier*. |
-| **7–9** | You take **damage** equal to the **lowest D6 result** plus your enemy’s *damage modifier*. |
+| **6–** | You take **damage** equal to the **highest d6 result** plus your enemy’s *damage modifier*. |
+| **7–9** | You take **damage** equal to the **lowest d6 result** plus your enemy’s *damage modifier*. |
 | **10–12** | You take **no** damage. |
 | **13+** | You take **no** damage, and your next *action roll* has *advantage*. |
 
@@ -301,7 +301,7 @@ If a pinned target becomes visible to you, for example, by attacking or moving o
 
 ### Activating Neural Weapons
 
-To activate your *neural weapon*, make a *neural attack roll*. Roll **2D6 + WILLPOWER** and apply the result as follows:
+To activate your *neural weapon*, make a *neural attack roll*. Roll **2d6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -336,7 +336,7 @@ If your **opponents** retreat, you can immediately make a free attack against th
 
 ### You Retreat
 
-If **you** retreat, make a *retreat roll*. Roll **2D6 + TACTICS** and apply the result as follows:
+If **you** retreat, make a *retreat roll*. Roll **2d6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
