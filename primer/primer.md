@@ -95,7 +95,7 @@ Dungeons & Dragons does not build partial successes directly into its core resol
 
 In Dungeons & Dragons, difficult tasks are often assigned a *difficulty class* (DC). *PSIOPS* has no DC and instead determines difficulty through *fictional positioning*, which means the descriptions of the challenge you're facing and the approach you describe to overcome it.
 
-These circumstances may grant an *advantage* or impose a *disadvantage* on your roll, shifting the odds toward higher or lower results, but the outcome tiers of *failure* (6–), *partial success* (7–9), *success* (10–12), and *critical success* (13+) remain unchanged.
+These circumstances may grant an *advantage* or impose a *disadvantage* on your roll, shifting the odds toward higher or lower results, but the number ranges for *failure* (6–), *partial success* (7–9), *success* (10–12), and *critical success* (13+) remain unchanged.
 
 ## Part 3: Building an Operator (vs. Building a PC)
 
@@ -172,15 +172,15 @@ When an enemy attacks, *you* make a **defense roll**, **2d6 + an applicable attr
 
 ### Initiative Is a One-Time Go/No-Go Result
 
-Like Dungeons & Dragons, when combat breaks out, you roll for *initiative*: **2d6 + TACTICS**. But that's where the similarity ends. The initiative roll determines **whether you can act** in the first round. If you fail, you must wait until the **second** round to act. You're skipped in the first round.
+Like Dungeons & Dragons, when combat breaks out, you roll for *initiative*: **2d6 + TACTICS**. But that's where the similarity ends. The initiative roll determines **whether you can act** in the first round. If you fail, you must wait until the **second round** to act. You're skipped in the first round.
 
 Starting in the second round of combat, you and your team members **always** take the first turn. No further initiative rolls are made. This approach eliminates the need to re‑roll initiative each round while keeping initiative important and the first round tense.
 
 ### Your Squad Acts Simultaneously
 
-There’s no initiative order for all the combatants to take their turns during combat. Your squad’s actions and moves happen **all at once** during your turn. The opposing side’s actions and moves happen all at once during their turn.
+There’s no initiative order that has all combatants take turns in sequence, one by one, during a round. Your squad’s actions and moves happen **all at once** on your turn. The opposing side’s actions and moves happen all at once on their turn.
 
-Every player declares their actions and moves up front, before any individual outcomes or movement are determined. You then resolve the declared actions and moves together. You can also **hold an action** with a trigger (“when the guard rounds the corner…”) to interrupt the enemy’s turn.
+You and the other players declare all actions and moves for the round **up front**, before any outcomes are known. You then resolve all declared actions and moves as a group. You can also **hold an action** with a trigger (“when the guard rounds the corner…”) to interrupt the enemy’s turn.
 
 ### Tactical Zones, Not a Grid
 
@@ -283,11 +283,11 @@ Damage is grittier and can be more lethal than in modern Dungeons & Dragons.
 
 ### HP Is Limited
 
-You start with a maximum of **6** HP, and it doesn’t increase as you advance, unlike D&D’s HP pools. Combat is dangerous for everyone, veterans and rookies alike.
+You start with a maximum of **6** HP, and it doesn’t automatically increase as you advance, unlike D&D’s HP pools. When you advance, you must specifically choose a **1d6** increase to your max HP rather than another type of improvement. Combat is dangerous for everyone, veterans and rookies alike.
 
 ### 0 HP Doesn't Mean Death; It Means a Wound Roll
 
-When you drop to **0** HP or lower, you roll **2d6 + STRENGTH**, then subtract the amount you are below zero.
+When you drop to **0** HP or lower, you make a *wound roll*, **2d6 + STRENGTH**, then subtract the amount you are below zero.
 
 - **6–**: Immediate death.
 - **7–9**: Incapacitated.
@@ -334,7 +334,7 @@ Nearly every roll uses the same four **tiered outcomes**:
 | 10–12 | Success |
 | 13+ | Critical success |
 
-The number ranges are fixed, regardless of whether the difficulty is low or high, based on your circumstances.
+The number ranges are fixed, regardless of whether your task is made easier or more difficult by current circumstances.
 
 ### Common Gotchas
 
