@@ -27,7 +27,7 @@ Many Dungeons & Dragons conventions don’t apply to *PSIOPS*. Details on each d
 
 | D&D | PSIOPS |
 | --- | --- |
-| What's the DC? What do I need to roll? | There are **no DCs**. Changing the likelihood of success is adjusted by applying advantage or disadvantage to the roll, not by changing the target number.  |
+| What’s the **DC**? What do I need to roll? | There are **no Difficulty Class (DC)** modifiers to the target number for die rolls. The likelihood of success is adjusted by applying advantage or disadvantage to the roll, not by changing the target number. |
 | Advantage means roll two d20. | *Advantage* means roll 3d6 and drop the **lowest** die. *Disadvantage* means roll 3d6 and drop the **highest** die. |
 | I rolled a 14. Do I hit? | Outcomes come in **four tiers**: *failure*, *partial success*, *success*, and *critical success*, rather than **two tiers** of *hit* or *miss*. |
 | I missed, so nothing happens. | A **failure always makes things worse** by introducing an unwanted consequence. |
