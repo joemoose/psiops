@@ -195,3 +195,7 @@ Roll **1d6** and apply the result as follows:
 | **4** | Hardened | +1 ARMOR (**note**: damage reduction remains capped at 3 points). |
 | **5** | Sharp | *Advantage* on all REFLEXES *action rolls*. |
 | **6** | Steady | When you *succeed* on an *action roll*, team members within sight of you remove **1** stress. |
+
+## Character Sheet
+
+An [online character sheet](https://docs.google.com/spreadsheets/d/13iXOYL2xXxRbhtij5ctxEta8CvKbJu153RTHmmcoaDE/?editformat=xlsx) is available.

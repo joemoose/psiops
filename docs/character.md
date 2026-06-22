@@ -6,22 +6,22 @@ Welcome to the unit, operator.
 
 ## Dice
 
-Before we get started creating your character, here’s a summary of the dice-roll notation in *PSIOPS*.
+Before we start creating your character, here’s a summary of the dice-roll notation.
 
 | Roll | Description |
 | :-: | - |
 | 1d3 | Roll one six-sided die, divide the result by two, and round up. |
 | 1d6 | Roll one six-sided die. |
 | 2d6 | Roll two six-sided dice and add the results. |
-| d66 | Roll two six-sided dice, but instead of adding the results, read them in order to form a 2-digit number. For example, a **2** followed by a **4** is a **24**. A **1** followed by another **1** is an **11**. |
+| d66 | Roll two six-sided dice, but instead of adding the results, read them in order to form a 2-digit number. For example, a **2** followed by a **4** is **24**. A **1** followed by another **1** is **11**. |
 
 ## Fielding an Operator
 
-To create your character, follow these steps. Record each step’s result on your character sheet. An [online character sheet](https://docs.google.com/spreadsheets/d/1nXl3zzDPdnynzU9b2nkZ7mkdb1ej1KRLOmVsH0DlBbU/export?format=xlsx) is available.
+To create your character, follow these steps. Record each step’s result on your character sheet. An [online character sheet](https://docs.google.com/spreadsheets/d/13iXOYL2xXxRbhtij5ctxEta8CvKbJu153RTHmmcoaDE/?editformat=xlsx) is available.
 
 !!! note
 
-	The equipment you carry is a significant part of fielding your operator. See the [Equipment](equipment.md) section for details and descriptions.
+	The equipment you carry is a significant part of fielding your operator. See the [Equipment](equipment.md) section for details.
 
 ---
 
