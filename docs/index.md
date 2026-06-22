@@ -38,7 +38,7 @@ The GM answers your questions and always respects your freedom of choice. The GM
 
 In the next section, you’ll create your character. You’ll encounter game terms such as *momentum*, *tactical supplies*, *advantage*, and *action rolls*. Don’t worry about them yet. The game’s mechanics and rules are covered in later chapters.
 
-Use your character sheet as a reference while reading the manual. An [online character sheet](https://docs.google.com/spreadsheets/d/13iXOYL2xXxRbhtij5ctxEta8CvKbJu153RTHmmcoaDE/?editformat=xlsx) is available. A [rules summary](appendix.md#rules-summary) is included in the appendix and may be useful during missions.
+Use your character sheet as a reference while reading the manual. An [online character sheet](https://docs.google.com/spreadsheets/d/1HzHjX9m-Y-rcoRL-xnx1RtbJGfHi2h_p-d7V-lTz88Q/edit?usp=share_link) is available. A [rules summary](appendix.md#rules-summary) is included in the appendix and may be useful during missions.
 
 
 
