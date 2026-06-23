@@ -101,7 +101,7 @@ Once per mission, your squad can fall back to a designated *rally point*. The ra
 
 !!! important
 
-There are only enough supplies at the rally point for your squad to rest and regroup **once** during the mission.
+	There are only enough supplies at the rally point for your squad to rest and regroup **once** during the mission.
 
 ### Rest and Regroup
 
