@@ -66,10 +66,18 @@ body {
 /* ---- Admonition titles ------------------------------------------------
    Barlow Condensed for admonition/details title bars, matching headings.
    Slightly wider tracking than body headings suits the smaller size.
+
+   SPECIFICITY NOTE: Material's minified stylesheet qualifies these
+   selectors with [dir=ltr] and [dir=rtl] attribute selectors, raising
+   specificity to (0,2,1). Our rules must match that weight to win by
+   source order. The :is([dir=ltr],[dir=rtl]) wrapper adds the attribute
+   selector without duplicating declarations, and lands at the same
+   (0,2,1) specificity — which then wins on source order since extra.css
+   is declared after the Material stylesheet in the <head>.
    ---------------------------------------------------------------------- */
 
-.md-typeset .admonition-title,
-.md-typeset details > summary {
+:is([dir=ltr],[dir=rtl]) .md-typeset .admonition-title,
+:is([dir=ltr],[dir=rtl]) .md-typeset details > summary {
     font-family: "Barlow Condensed", "Arial Narrow", Arial, sans-serif;
     font-weight: 700;
     letter-spacing: 0.08em;
