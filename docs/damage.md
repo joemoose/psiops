@@ -99,7 +99,7 @@ Once you're *stabilized*, you're back on your feet and combat-effective, though 
 
 Once per mission, your squad can fall back to a designated *rally point*. The rally point is a location where you and your team members can rest and regroup. A rally point is typically a concealed, defensible position. The GM will tell you where it is if your squad decides to rest and regroup during the mission.
 
-!!! Important
+!!! important
 
 There are only enough supplies at the rally point for your squad to rest and regroup **once** during the mission.
 
