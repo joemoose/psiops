@@ -31,7 +31,7 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 | Roll | Result |
 | :-: | - |
-| **6–** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
+| **2–6** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
 | **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
 | **10–12** | It's a **success**. You achieve your goal. |
 | **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
@@ -47,7 +47,7 @@ When you make an *action roll*, in addition to the result of the roll, gain *mom
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You don't gain momentum. |
+| **2–6** | You don't gain momentum. |
 | **7–9** | You don't gain momentum. |
 | **10–12** | You gain **1** momentum. |
 | **13+** | You gain **2** momentum. |
@@ -73,7 +73,7 @@ Roll **2d6 + TACTICS** and apply the result as follows:
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You **do not** act in the first round of combat. You'll wait until the **second round** to move or take any action. |
+| **2–6** | You **do not** act in the first round of combat. You'll wait until the **second round** to move or take any action. |
 | **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
 | **10–12** | You get the drop on the enemy and act **first**. |
 | **13+** | You get the drop on the enemy, act **first**, and you gain an *advantage* on your next *action roll*. |
@@ -88,7 +88,7 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 | Roll | Result |
 | :-: | - |
-| **6–** | The attack misses. You deal **no damage**. |
+| **2–6** | The attack misses. You deal **no damage**. |
 | **7–9** | You deal damage equal to the **lower** of the two d6 rolls, plus your weapon's **damage modifier**. |
 | **10–12** | You deal damage equal to the **higher** of the two d6 rolls, plus your weapon's **damage modifier**. |
 | **13+** | You deal damage equal to the **sum** of both dice, plus your weapon's **damage modifier**. |
@@ -103,7 +103,7 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You take **damage** equal to the **highest d6 result** plus your enemy's *damage modifier*. |
+| **2–6** | You take **damage** equal to the **highest d6 result** plus your enemy's *damage modifier*. |
 | **7–9** | You take **damage** equal to the **lowest d6 result** plus your enemy's *damage modifier*. |
 | **10–12** | You take **no** damage. |
 | **13+** | You take **no** damage, and your next *action roll* has *advantage*. |
@@ -118,7 +118,7 @@ Roll **2d6 + WILLPOWER** and apply the result as follows:
 
 | Roll | Result |
 | :-: | - |
-| **6–** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. |
+| **2–6** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. |
 | **7–9** | The power **activates**, but you take **1** *fatigue*. |
 | **10–12** | The power **activates**. |
 | **13+** | The power **activates**, and the effect is greater than expected. |
@@ -133,7 +133,7 @@ Roll **2d6 + TACTICS** and apply the result as follows:
 
 | Roll | Result |
 | :-: | :- |
-| **6–** | Your opponent immediately makes a **free attack** against you as you disengage. |
+| **2–6** | Your opponent immediately makes a **free attack** against you as you disengage. |
 | **7–9** | You disengage but suffer a *complication*. |
 | **10–12** | You disengage without mishap. |
 | **13+** | You disengage without mishap and can optionally take an **extra** move this turn without spending an action. |
@@ -148,7 +148,7 @@ Roll **2d6 + STRENGTH**, then **subtract** the number of points you’ve gone be
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You're **dead**. Roll up a new operator. |
+| **2–6** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. |
 | **10–12** | You're *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 *action*.<br/>**Note**: If you're wearing a helmet, you're knocked down but remain conscious. Spend 1 *action* to climb to your feet. |
 | **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1d6**, up to your maximum after reducing it from the wound.<br/>You're one tough SOB. |
@@ -163,7 +163,7 @@ Roll **2d6 + WILLPOWER** and apply the result as follows:
 
 | Roll | Result |
 |:-:|-|
-| **6–** | You **panic**. Roll **1d6** and consult the [Panicked table](#panicked) to determine the effect. |
+| **2–6** | You **panic**. Roll **1d6** and consult the [Panicked table](#panicked) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
 | **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1d6** and consult the [Locked-In table](#locked-in) to determine the effect. |

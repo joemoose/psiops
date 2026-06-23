@@ -31,7 +31,7 @@ Whether you act before the enemy in the **first** round of combat is determined 
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You **do not** act in the first round of combat. You’ll wait until the **second round** to move or take any action. |
+| **2–6** | You **do not** act in the first round of combat. You’ll wait until the **second round** to move or take any action. |
 | **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
 | **10–12** | You get the drop on the enemy and act **first**. |
 | **13+** | You get the drop on the enemy, act **first**, and you gain an *advantage* on your next *action roll*. |
@@ -94,7 +94,7 @@ When you **attack** a target, make an *attack roll*. Roll **2d6 + Applicable Att
 
 | Roll | Result |
 | :-: | - |
-| **6–** | The attack misses. You deal **no damage**. |
+| **2–6** | The attack misses. You deal **no damage**. |
 | **7–9** | You deal damage equal to the **lower** of the two d6 rolls, plus your weapon's **damage modifier**. |
 | **10–12** | You deal damage equal to the **higher** of the two d6 rolls, plus your weapon's **damage modifier**. |
 | **13+** | You deal damage equal to the **sum** of both dice, plus your weapon's **damage modifier**. |
@@ -211,7 +211,7 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2d6 +
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You take **damage** equal to the **highest d6 result** plus your enemy’s *damage modifier*. |
+| **2–6** | You take **damage** equal to the **highest d6 result** plus your enemy’s *damage modifier*. |
 | **7–9** | You take **damage** equal to the **lowest d6 result** plus your enemy’s *damage modifier*. |
 | **10–12** | You take **no** damage. |
 | **13+** | You take **no** damage, and your next *action roll* has *advantage*. |
@@ -307,7 +307,7 @@ To activate your *neural weapon*, make a *neural attack roll*. Roll **2d6 + WILL
 
 | Roll | Result |
 | :-: | - |
-| **6–** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
+| **2–6** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
 | **7–9** | The power **activates**, but you take **1** *fatigue*. |
 | **10–12** | The power **activates**. |
 | **13+** | The power **activates**, and the effect is greater than expected. |
@@ -342,7 +342,7 @@ If **you** retreat, make a *retreat roll*. Roll **2d6 + TACTICS** and apply the 
 
 | Roll | Result |
 | :-: | :- |
-| **6–** | Your opponent immediately makes a **free attack** against you as you disengage. |
+| **2–6** | Your opponent immediately makes a **free attack** against you as you disengage. |
 | **7–9** | You disengage but suffer a *complication*. |
 | **10–12** | You disengage without mishap. |
 | **13+** | You disengage without mishap and can optionally take an **extra** move this turn without spending an action. |

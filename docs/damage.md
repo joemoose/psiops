@@ -17,7 +17,7 @@ Once *wounded*, with **0** or fewer HP, immediately make a *wound roll*. Roll **
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You're **dead**. Roll up a new operator. |
+| **2–6** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. See [Stabilize Team Members](#stabilize-team-members). |
 | **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending **1** *action*.<br/>**Note**: If you’re wearing a helmet, you’re knocked down but remain conscious. Spend **1** *action* to climb to your feet. |
 | **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1d6**, up to your maximum after reducing it from the wound. See [Wounds](#wounds).<br/>You're one tough SOB. |
@@ -82,7 +82,7 @@ To **stabilize a team member in combat**, first acquire medical supplies, then m
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You do **not** mark off a segment on the mission clock and **use up** your medical supplies. Remove them from your inventory.<br/>You’ll need to acquire additional medical supplies to continue making *stabilization rolls*. |
+| **2–6** | You do **not** mark off a segment on the mission clock and **use up** your medical supplies. Remove them from your inventory.<br/>You’ll need to acquire additional medical supplies to continue making *stabilization rolls*. |
 | **7–9** | Mark off **1** segment on the mission clock. |
 | **10–12** | Mark off **2** segments on the mission clock. |
 | **13+** | Mark off **3** segments on the mission clock. |
@@ -128,7 +128,7 @@ If your character dies, create a new one while the game continues. When you’re
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You join the squad, possibly taking damage while deploying. Make a *defense roll* with *advantage*. See [Defending](combat.md#defending). Armor reduces damage. |
+| **2–6** | You join the squad, possibly taking damage while deploying. Make a *defense roll* with *advantage*. See [Defending](combat.md#defending). Armor reduces damage. |
 | **7–9** | You join the squad, but deployment comes with a *complication*. |
 | **10–12** | You join the squad. |
 | **13+** | You join the squad and may optionally add **1** *tactical supply* to your inventory. |

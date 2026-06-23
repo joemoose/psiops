@@ -282,7 +282,7 @@ A meter tracking psychological strain. At **6**, you make a **[stress roll](#str
 
 #### Stress Roll
 
-A roll made when your stress reaches **6**: roll **2d6 + [WILLPOWER](#willpower)**. Results: **6–** you [panic](#panicked); **7–9** you hold together; **10–12** you hold together and remove 1 stress; **13+** you [lock in](#locked-in).
+A roll made when your stress reaches **6**: roll **2d6 + [WILLPOWER](#willpower)**. Results: **2–6** you [panic](#panicked); **7–9** you hold together; **10–12** you hold together and remove 1 stress; **13+** you [lock in](#locked-in).
 
 #### Success
 

@@ -38,7 +38,7 @@ When your stress reaches **6**, you immediately make a *stress roll**. Roll **2d
 
 | Roll | Result |
 |:-:|-|
-| **6–** | You **panic**. Roll **1d6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
+| **2–6** | You **panic**. Roll **1d6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
 | **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1d6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |

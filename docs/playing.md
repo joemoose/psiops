@@ -82,7 +82,7 @@ The **sum** of the dice roll and the attribute score determines how well you suc
 
 | Roll | Result |
 | :-: | - |
-| **6–** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
+| **2–6** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
 | **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
 | **10–12** | It's a **success**. You achieve your goal. |
 | **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
@@ -113,7 +113,7 @@ To compare the four types of results for an *action roll*, consider the followin
 
 | Sum | Result | Outcome |
 | :-: | - | - |
-| **6–** | Failure | “You can’t pick the lock, and the door remains **locked**. You hear someone approaching your position. You’re trapped in the hallway.” |
+| **2–6** | Failure | “You can’t pick the lock, and the door remains **locked**. You hear someone approaching your position. You’re trapped in the hallway.” |
 | **7–9** | Partial Success | “The door is now **unlocked**. No one hears you, but you break your lock pick. Remove it from your inventory.” |
 | **10–12** | Success | “The door is now **unlocked**. No one hears you. You're good to go.” |
 | **13+** | Critical Success | “The door is now **unlocked**. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at their security console.” |
@@ -171,7 +171,7 @@ When you make an *action roll*, in addition to the roll's result, gain *momentum
 
 | Roll | Result |
 | :-: | - |
-| **6–** | You don’t gain momentum. |
+| **2–6** | You don’t gain momentum. |
 | **7–9** | You don't gain momentum. |
 | **10–12** | You gain **1** momentum. |
 | **13+** | You gain **2** momentum. |
