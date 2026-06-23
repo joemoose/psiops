@@ -31,9 +31,9 @@ Assign the scores **2**, **1**, **0**, and **-1** to your four attributes: **STR
 
 Attributes represent your character’s innate physical and mental characteristics:
 
-- STRENGTH: Physical power and endurance
+- STRENGTH: Brawn and endurance
 - REFLEXES: Agility and speed
-- TACTICS: Logic and training
+- TACTICS: Logical thinking and training
 - WILLPOWER: Presence and resolve
 
 Higher scores indicate greater ability. See [Applicable Attributes](playing.md#applicable-attributes).
