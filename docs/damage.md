@@ -42,7 +42,7 @@ See [Wounds](#wounds), [Fatigue](#fatigue), and [Stress](stress.md) for details 
 
 Each *wound* you sustain reduces your *maximum HP* by **1**. Your current HP remains unchanged unless it exceeds the new maximum. If it does, reduce your current HP to the new maximum. Wounds **can’t be healed** in the field and require medical treatment at the base after the mission.
 
-!!! warning
+!!! important
 
 	Wounds cause permanent HP loss until treated at base. If multiple wounds reduce your maximum HP to **0**, you **die**. Roll up a new operator.
 
@@ -50,7 +50,7 @@ Each *wound* you sustain reduces your *maximum HP* by **1**. Your current HP rem
 
 All *fatigue* you sustain must be stored in your **inventory** as an abstract item. Each unit of fatigue takes up **1** slot. If your inventory is full, drop equipment to free a slot for fatigue.
 
-!!! warning
+!!! important
 
 	Accumulated fatigue is debilitating. If your inventory reaches **12** units of fatigue, you **die**. Roll up a new operator.
 
@@ -99,7 +99,7 @@ Once you're *stabilized*, you're back on your feet and combat-effective, though 
 
 Once per mission, your squad can fall back to a designated *rally point*. The rally point is a location where you and your team members can rest and regroup. A rally point is typically a concealed, defensible position. The GM will tell you where it is if your squad decides to rest and regroup during the mission.
 
-!!! important
+!!! warning
 
 	There are only enough supplies at the rally point for your squad to rest and regroup **once** during the mission.
 
