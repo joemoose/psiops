@@ -1,9 +1,11 @@
 # Glossary
 *A reference of the game's core terminology*
 
----
+
 
 ## A
+
+---
 
 #### Advancement
 
@@ -40,17 +42,17 @@ How much damage your protective gear reduces. Capped at **3** points.
 
 Numerical rating that defines your character's innate capabilities and sets a modifier for related action rolls. Characters have four attributes: **[STRENGTH](#strength)**, **[REFLEXES](#reflexes)**, **[TACTICS](#tactics)**, **[WILLPOWER](#willpower)**.
 
----
-
 ## B
+
+---
 
 #### Ballistic Armor
 
 The primary layer of your **[personal protective system](#personal-protective-system)**. Reduces damage primarily from firearms. Some types of damage bypass ballistic armor entirely. Can be augmented with **[secondary armor](#secondary-armor)**.
 
----
-
 ## C
+
+---
 
 #### Combat Mode
 
@@ -80,9 +82,9 @@ Your **[operator's](#operator)** personal motivation and **[advancement](#advanc
 
 A roll of **13+** on an **[action roll](#action-roll)**. You achieve your goal *and more*.
 
----
-
 ## D
+
+---
 
 #### d3
 
@@ -120,9 +122,9 @@ Roll **3d6** instead of 2d6, then drop the *highest* die. See **[advantage](#adv
 
 Range is measured in **[hops](#hops)** between **[zones](#zone)**: Close (0), Nearby (1), Far (2), Distant (3), Extreme (4+).
 
----
-
 ## F
+
+---
 
 #### Failure
 
@@ -136,17 +138,17 @@ A physical/mental toll that occupies **[inventory slots](#inventory-slots)**. If
 
 A **[momentum](#momentum)** spend (6 points) that lets you retroactively establish a preparation or discovery made before or during the mission. The **[GM](#game-master-gm)** must agree the flashback is plausible.
 
----
-
 ## G
+
+---
 
 #### Game Master (GM)
 
 The player who describes the world, portrays enemies and NPCs, adjudicates rules, and presents the mission. The GM doesn't play an **[operator](#operator)**.
 
----
-
 ## H
+
+---
 
 #### Hard Cover
 
@@ -160,9 +162,9 @@ Your physical health. At **0 or below**, you make a **[wound roll](#wound-roll)*
 
 See **[Distance](#distance)**.
 
----
-
 ## I
+
+---
 
 #### Initiative Roll
 
@@ -172,17 +174,17 @@ A one‑time roll at the start of combat to determine whether you act in **[roun
 
 The 12 slots that represent your carrying capacity. Each item typically occupies 1 or 2 slots. **[Fatigue](#fatigue)** occupies slots, crowding out gear.
 
----
-
 ## L
+
+---
 
 #### Locked-In
 
 A positive stress-threshold effect. When you roll **13+** on a **[stress roll](#stress-roll)**, you clear all stress and gain a combat buff determined by a **1d6** roll.
 
----
-
 ## M
+
+---
 
 #### Maximum HP
 
@@ -200,17 +202,17 @@ A large group of weak enemies treated as a single opponent with scaling **[armor
 
 A tactical resource earned on successful **[action rolls](#action-roll)** and spent to boost actions, avoid **[consequences](#consequence)**, or take extra actions.
 
----
-
 ## N
+
+---
 
 #### Neural Weapon
 
 Your paracognitive powers activated with a **[WILLPOWER](#willpower)** roll.
 
----
-
 ## O
+
+---
 
 #### Operational Mode
 
@@ -220,9 +222,9 @@ Zoomed‑out play focused on movement, planning, infiltration, and problem‑sol
 
 Your player character: a classified, off-ledger military operative with anomalous cognitive abilities.
 
----
-
 ## P
+
+---
 
 #### Panicked
 
@@ -236,9 +238,9 @@ A roll of **7–9**: you succeed, but with a **[complication](#complication)**.
 
 Your armor: **[ballistic armor](#ballistic-armor)** and **[secondary armor](#secondary-armor)**. Reduces damage.
 
----
-
 ## R
+
+---
 
 #### Rally Point
 
@@ -256,9 +258,9 @@ An **[attribute](#attribute)** that measures your character's innate agility and
 
 A ~6‑second slice of combat in which you may **move once** and take **1 [action](#action)**.
 
----
-
 ## S
+
+---
 
 #### Secondary Armor
 
@@ -292,9 +294,9 @@ A roll of **10–12** on an **[action roll](#action-roll)**. You achieve your go
 
 An **[action](#action)** that pins all targets in a **[zone](#zone)** and grants free attacks if they expose themselves.
 
----
-
 ## T
+
+---
 
 #### Tactical Supplies
 
@@ -308,9 +310,9 @@ An **[attribute](#attribute)** that measures your character's logical thinking a
 
 A type of **[cover](#cover)** that prevents you from being targeted.
 
----
-
 ## W
+
+---
 
 #### WILLPOWER
 
@@ -324,9 +326,9 @@ A roll made when your HP hits **0 or below** to determine whether you die, are i
 
 Permanent injuries that reduce your **[maximum HP](#maximum-hp)** until treated at base.
 
----
-
 ## Z
+
+---
 
 #### Zone
 
