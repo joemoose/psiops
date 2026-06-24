@@ -1,10 +1,6 @@
-
 .DS_Store
-/.cache
-site/
-ideas/
-world/
 *.pdf
+/.cache
+/ideas
+/site
 /world 
-/world /inspiration
-/world /mood-board
