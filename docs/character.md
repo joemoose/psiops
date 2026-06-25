@@ -27,14 +27,14 @@ To create your character, follow these steps. Record each step’s result on you
 
 ### Step 1: Attribute Scores
 
-Assign the scores **2**, **1**, **0**, and **-1** to your four attributes: **STRENGTH**, **REFLEXES**, **TACTICS**, and **WILLPOWER**, in any order.
-
 Attributes represent your character’s innate physical and mental characteristics:
 
-- STRENGTH: Brawn and endurance
-- REFLEXES: Agility and speed
-- TACTICS: Logical thinking and training
-- WILLPOWER: Presence and resolve
+- **STRENGTH**: Brawn and endurance
+- **REFLEXES**: Agility and speed
+- **TACTICS**: Logical thinking and training
+- **WILLPOWER**: Presence and resolve
+
+Assign the scores **2**, **1**, **0**, and **-1** to your four attributes in any order. 
 
 Higher scores indicate greater ability. See [Applicable Attributes](playing.md#applicable-attributes).
 
