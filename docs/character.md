@@ -19,15 +19,11 @@ Before we start creating your character, here’s a summary of the dice-roll not
 
 To create your character, follow these steps. Record each step’s result on your character sheet. An [online character sheet](https://docs.google.com/spreadsheets/d/1HzHjX9m-Y-rcoRL-xnx1RtbJGfHi2h_p-d7V-lTz88Q/edit?usp=share_link) is available.
 
-!!! note
-
-	The equipment you carry is a significant part of fielding your operator. See the [Equipment](equipment.md) section for details.
-
 ---
 
 ### Step 1: Attribute Scores
 
-Attributes represent your character’s innate physical and mental characteristics:
+Attributes represent your character’sphysical and mental characteristics:
 
 - **STRENGTH**: Brawn and endurance
 - **REFLEXES**: Agility and speed

@@ -1,6 +1,6 @@
 # Introduction
 
-***PSIOPS*** is a squad-based role-playing game in which operators conduct off-the-books Cold War missions against classified paranormal threats. The Cold War era was stranger than anyone admits. There were things in the dark even the superpowers feared.
+**PSIOPS** is a squad-based role-playing game in which operators conduct off-the-books Cold War missions against classified paranormal threats. The Cold War era was stranger than anyone admits. There were things in the dark even the superpowers feared.
 
 The system uses a single mechanic: roll two six-sided dice, add an *attribute score*, and see how well you do. That’s it. Four attributes cover everything from strength to resolve. A *momentum* system rewards relentless action. A *stress* system tracks your exposure to things best left unseen.
 
@@ -8,7 +8,7 @@ If this is your first role-playing game, you’ll be up and running in no time. 
 
 ## Before We Begin
 
-This game can explore dark themes, including violence, psychological stress, and the supernatural. Before your first session, the GM and players should agree on which topics or themes to exclude.
+This game may explore dark themes, including violence, psychological stress, and the supernatural. Before your first session, the GM and players should agree on which topics or themes to exclude.
 
 Anyone at the table can call the following at any time:
 
@@ -28,9 +28,7 @@ Ask questions. Take chances. The game rewards risk-taking.
 
 ## Game Overview
 
-The heart of the game is a conversation between you and the game master (GM). The GM describes your current situation. You and your fellow players then ask questions and tell the GM what you do. The GM explains the results of your actions, and you respond by describing additional actions, and so on.
-
-When the actions you describe are risky, meaningful, and the outcome isn’t immediately clear, you’ll roll the dice to determine the result.
+The heart of the game is a conversation between you and the game master (GM). The GM describes your current situation. You and your fellow players then ask questions and tell the GM what you do. The GM explains the results of your actions, and you respond by describing additional actions, and so on. When the action you describe is risky and your desired outcome isn’t assured, the GM will ask you to roll dice to determine the result.
 
 The GM answers your questions and always respects your freedom of choice. The GM presents challenges, obstacles, and situations for you to solve and overcome during the mission. However, the game is more than a story narrated by the GM — it’s an interactive narrative shaped by you, your fellow players, and the GM. Everyone’s choices influence the story. Think of it as both writing and starring in an action film at the same time.
 
