@@ -6,7 +6,7 @@ Welcome to the unit, operator.
 
 ## Dice
 
-Before we start creating your character, here’s a summary of the dice-roll notation.
+Before we start creating your character, here’s a summary of the dice notation.
 
 | Roll | Description |
 | :-: | - |
@@ -23,7 +23,7 @@ To create your character, follow these steps. Record each step’s result on you
 
 ### Step 1: Attribute Scores
 
-Attributes represent your character’sphysical and mental characteristics:
+Attributes represent your character’s physical and mental characteristics:
 
 - **STRENGTH**: Brawn and endurance
 - **REFLEXES**: Agility and speed
