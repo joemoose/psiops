@@ -1,5 +1,5 @@
 /* =========================================================
-   PsiOps Field Manual — print.css
+   print.css
    Print-only overrides for the MkDocs Material site. Everything
    lives inside @media print, so the live site is untouched.
 
@@ -182,7 +182,7 @@
   }
 
   /* ---- Admonitions & blockquotes ------------------------------------
-     extra.css's .9em sizing and measure cap are @media screen and do
+     the screen .css's .9em sizing and measure cap are @media screen and do
      not reach print, so only break-control and the accent border are
      set here. */
   .admonition,
@@ -227,7 +227,7 @@
 
   /* ---- Diagrams (inlined SVG) ---------------------------------------
      The zone/clock SVGs theme via currentColor + custom properties that
-     follow the active colour scheme (defined in extra.css). Pin them to
+     follow the active color scheme (defined in extra.css). Pin them to
      the light palette here so a reader who prints from DARK mode still
      gets dark ink on white — otherwise currentColor prints light
      (invisible) over dark fills. The [data-md-color-scheme] selector

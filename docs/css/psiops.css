@@ -1,6 +1,6 @@
 /* =========================================================
-   PsiOps Field Manual — extra.css
-   Screen-side customisations for MkDocs Material. Print styles
+   PsiOps Field Manual — psiops.css
+   Screen-side customizations for MkDocs Material. Print styles
    live in print.css; screen rules with a print counterpart are
    noted inline. Reading-measure rules are scoped to @media screen
    because print sizes to the page, not to a ch-based column.
@@ -106,9 +106,9 @@ body {
      important deep red           — critical, do not ignore
 
    Pattern per type (mirrors Material's own admonition CSS structure):
-     1. Border colour on the .admonition/.details container
-     2. Title bar background — border colour at ~12% alpha
-     3. Icon mask colour (the ::before pseudo-element)
+     1. Border color on the .admonition/.details container
+     2. Title bar background — border color at ~12% alpha
+     3. Icon mask color (the ::before pseudo-element)
      4. Dark-scheme overrides (same hue, reduced saturation)
 
    Specificity note: the container rules are (0,2,1) in Material's sheet
@@ -391,15 +391,15 @@ body {
 }
 
 /* ---- Figures ----------------------------------------------------------
-   Material centres figures and shrinks them to their content
+   Material centers figures and shrinks them to their content
    (width: fit-content; margin: … auto). These rules override that so a
    figure is a left-aligned block capped at the reading column; the SVG
-   inside is then centred within that box (see Diagram sizing), which
+   inside is then centered within that box (see Diagram sizing), which
    lines the diagram up under the prose.
 
    NOTE: this cap is 60ch — narrower than the 68ch prose measure — so a
-   diagram is centred under a 60ch column, not the full prose width. Set
-   to 68ch if you want it centred under the prose column proper.
+   diagram is centered under a 60ch column, not the full prose width. Set
+   to 68ch if you want it centered under the prose column proper.
    ---------------------------------------------------------------------- */
 
 .md-typeset figure {
@@ -422,7 +422,7 @@ figcaption {
    Inlined SVGs sit in the page cascade, so theming reaches them. One
    class — .diagram — now covers every diagram figure (zones, clocks,
    combat flowchart, anything added later). Ink is currentColor and
-   follows --md-default-fg-color (which flips per colour scheme), so only
+   follows --md-default-fg-color (which flips per color scheme), so only
    the surface fills need a dark override. Drop shadows are baked
    light-mode only; in dark mode the currentColor strokes carry the shape
    outlines.
@@ -454,7 +454,7 @@ figcaption {
    set its own. The <svg> is matched by element, not by class, so a
    diagram's root needs no sizing hook of its own.
 
-   margin: 0 auto centres it. NOTE: width:100% is relative to the figure,
+   margin: 0 auto centers it. NOTE: width:100% is relative to the figure,
    whose own max-width is 60ch (see the Figures section above) — so that
    column width is the real ceiling. A --diagram-max-width larger than the
    column makes the SVG fill the column but not exceed it; to go wider
