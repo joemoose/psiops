@@ -1,0 +1,239 @@
+/* =========================================================
+   RPG HTML Book — screen.css
+   Shared screen-side structural rules for MkDocs Material,
+   common to every RPG HTML Book project (PsiOps, DUNGEONEERS,
+   and future titles). Contains no typeface or colour choices —
+   those live in each book's branding file (e.g. psiops.css,
+   dungeoneers.css), loaded after this one.
+
+   Print styles live in print.css; screen rules with a print
+   counterpart are noted inline. Reading-measure rules are scoped
+   to @media screen because print sizes to the page, not to a
+   ch-based column.
+
+   Load order: Material base → screen.css → <book>.css, so a
+   book's branding file can override anything here on source
+   order where specificity ties.
+   ========================================================= */
+
+/* ---- Reading measure (screen only) -----------------------------------
+   Body prose is capped at a 68ch line length. Admonitions and tables
+   render at .9em; because ch scales with font-size, a literal 68ch on
+   those blocks would be physically narrower than the prose column, so
+   their caps are widened to calc(68ch / 0.9) — i.e. 68ch measured at
+   body size — keeping every block aligned to the same right edge.
+   ---------------------------------------------------------------------- */
+
+@media screen {
+
+  /* Prose line length. .admonition-title (a <p class="admonition-title">)
+     is excluded via :not() and details > summary is reset separately: a
+     max-width on either clips its full-width title/summary bar background,
+     leaving a gap at the right edge. Scoped to .md-typeset so the cap
+     applies to content only, not nav/TOC lists. */
+  .md-typeset p:not(.admonition-title),
+  .md-typeset hr,
+  .md-typeset li {
+    max-width: 68ch;
+  }
+
+  .md-typeset details > summary {
+    max-width: none;
+  }
+
+  /* Admonitions and collapsible blocks: .9em text, box capped to the
+     prose column. The contents' own cap is removed so text fills the box
+     instead of re-wrapping at the (smaller) .9em-scaled 68ch. */
+  .md-typeset .admonition,
+  .md-typeset details {
+    font-size: .9em;
+    max-width: calc(68ch / 0.9);   /* = prose column width at body size */
+  }
+
+  .md-typeset .admonition :is(p, ul, ol, li),
+  .md-typeset details :is(p, ul, ol, li) {
+    max-width: none;
+  }
+
+  /* Tables: same .9em + measure-matched cap. The selector also catches
+     roll-tables, whose generated <table> carries no class, so all tables
+     share one size. (Cell padding is medium-independent; see below.) */
+  .md-typeset table:not([class]) {
+    font-size: .9em;
+    max-width: calc(68ch / 0.9);   /* = prose column width at body size */
+  }
+}
+
+/* ---- Tables: general styling (all media) ------------------------------ */
+
+/* Horizontal scroll for tables wider than the viewport. */
+.md-typeset__scrollwrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Cell padding and lining figures. Kept outside @media screen so it also
+   applies in print; the screen-only font-size and measure cap are set
+   above. */
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+    min-width: 2rem;
+    padding-top: 0.75em;
+    padding-right: 1em;
+    padding-bottom: 0.75em;
+    padding-left: 1em;
+    font-variant-numeric: tabular-nums;   /* aligned digits for stat/dice tables */
+}
+
+/* ---- Dice outcome tables (div.roll-table) ----------------------------
+   Rendered as a borderless two-column list: a bold, fixed-width roll
+   range on the left and outcome text on the right. The Markdown
+   "Roll | Result" header row is hidden.
+
+   Selectors here are specificity (0,2,2), matching the cell rule above;
+   declared later, so source order resolves any ties without !important.
+   ---------------------------------------------------------------------- */
+
+.md-typeset div.roll-table table {
+    border-collapse: collapse;
+    border: none;
+    box-shadow: none;
+    /* font-size intentionally unset: the .9em screen size on
+       table:not([class]) cascades in here, so roll-tables match standard
+       tables. print.css sets the print size. */
+}
+
+/* Material wraps tables in a scroll container that can carry its own
+   border/shadow; suppress both for roll-table instances. */
+.md-typeset div.roll-table .md-typeset__scrollwrap,
+.md-typeset div.roll-table .md-typeset__table {
+    border: none;
+    box-shadow: none;
+}
+
+.md-typeset div.roll-table thead {
+    display: none;
+}
+
+.md-typeset div.roll-table td {
+    border: none;
+    padding: 0.25em 0;
+    background: transparent;
+}
+
+.md-typeset div.roll-table tr:nth-child(even) td {
+    background: transparent;
+}
+
+/* Roll-range column: bold, fixed width, non-wrapping, monospace.
+   font-family is set explicitly here because .md-typeset inherits
+   whichever body serif the active branding file (e.g. dungeoneers.css)
+   sets; the range numbers need a Mono face to match inline code and to
+   keep digit widths consistent across rows. IBM Plex Mono is the shared
+   default across books — override in a book's branding file if a
+   project needs a different mono face. */
+.md-typeset div.roll-table td:first-child {
+    width: 5em;            /* wider than print's 4.5em to suit the screen size */
+    font-family: "IBM Plex Mono", "Courier New", Courier, monospace;
+    font-weight: 600;      /* Plex Mono 600 = visually equivalent to 700 in a serif body */
+    white-space: nowrap;
+    padding-right: 1em;
+}
+
+/* ---- Reduced motion (WCAG 2.3.3) -------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ---- Figures ----------------------------------------------------------
+   Material centers figures and shrinks them to their content
+   (width: fit-content; margin: … auto). These rules override that so a
+   figure is a left-aligned block capped at the reading column; the SVG
+   inside is then centered within that box (see Diagram sizing), which
+   lines the diagram up under the prose.
+
+   NOTE: this cap is 60ch — narrower than the 68ch prose measure — so a
+   diagram is centered under a 60ch column, not the full prose width. Set
+   to 68ch if you want it centered under the prose column proper.
+   ---------------------------------------------------------------------- */
+
+.md-typeset figure {
+    width: auto;        /* override Material's width: fit-content */
+    max-width: 60ch;    /* reading-column cap (see NOTE re 68ch) */
+    margin: 1.5em 0;    /* override Material's auto side margins → left-align */
+}
+
+/* Caption styling. NOTE: this bare selector is specificity (0,0,1) and
+   may be partly overridden by Material's own .md-typeset figcaption
+   (0,1,1); prefix with .md-typeset if you need these to win outright. */
+figcaption {
+    font-size: 0.85em;
+    color: var(--md-default-fg-color--light);
+    text-align: center;
+    margin-top: 0.4em;
+}
+
+/* ---- Diagram theming (inlined SVG) ------------------------------------
+   Inlined SVGs sit in the page cascade, so theming reaches them. One
+   class — .diagram — now covers every diagram figure (zones, clocks,
+   combat flowchart, anything added later). Ink is currentColor and
+   follows --md-default-fg-color (which flips per color scheme), so only
+   the surface fills need a dark override. Drop shadows are baked
+   light-mode only; in dark mode the currentColor strokes carry the shape
+   outlines.
+
+   These are structural/neutral values (white surface, light-grey empty
+   state) rather than book-specific colour choices, so they live here
+   rather than in a branding file. A book that needs different diagram
+   surface colours can override --diagram-surface / --diagram-empty /
+   --diagram-on-fill in its own branding file.
+     --diagram-surface   card / clock-dial / box fill
+     --diagram-empty     unfilled clock segments
+     --diagram-on-fill   numerals on a coloured segment (kept light in
+                         both schemes, hence no dark override)
+   ---------------------------------------------------------------------- */
+
+.md-typeset .diagram {
+    color: var(--md-default-fg-color);
+    --diagram-surface: #fff;
+    --diagram-empty:   #F0EFEA;
+    --diagram-on-fill: #F0EFEA;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .diagram {
+    --diagram-surface: var(--md-default-bg-color);
+    --diagram-empty:   #3b3b42;   /* subtle dark "empty" tone — tune to taste */
+}
+
+/* ---- Diagram sizing ---------------------------------------------------
+   One rule sizes every diagram. Inline SVGs size from CSS only — keep the
+   <svg> roots carrying a viewBox but NO width/height attributes, so
+   width + height:auto scale them by the viewBox ratio.
+
+   Per-figure width comes from --diagram-max-width, set in each figure's
+   style attribute; the 360px fallback applies to any figure that doesn't
+   set its own. The <svg> is matched by element, not by class, so a
+   diagram's root needs no sizing hook of its own.
+
+   margin: 0 auto centers it. NOTE: width:100% is relative to the figure,
+   whose own max-width is 60ch (see the Figures section above) — so that
+   column width is the real ceiling. A --diagram-max-width larger than the
+   column makes the SVG fill the column but not exceed it; to go wider
+   than the prose measure, raise the figure cap too.
+   ---------------------------------------------------------------------- */
+
+.md-typeset .diagram svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: var(--diagram-max-width, 360px);
+    margin: 0 auto;
+}
