@@ -91,5 +91,5 @@ plugins:
       cards_layout_dir: layouts
       cards_layout: blank
       cards_layout_options:
-        background_image: docs/img/background.png
+        background_image: docs/img/card.png
         background_color: transparent
