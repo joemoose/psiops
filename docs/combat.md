@@ -17,11 +17,11 @@ A *combat round* is about 6 seconds, enough time to **move once** and take **1 a
 
 !!! note
 
-	If you use your action to move again, you make two moves, which count as a sprint.
+	If you use your action to move again, you make two moves, crossing into a second zone, which count as a sprint.
 
-Complex actions that take more than 6 seconds may require multiple combat rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a doorway, or dropping an item, are free and don’t count as your 1 action.
+Complex actions that take more than 6 seconds may require multiple combat rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a doorway, or dropping an item, are free and don’t count against your 1 action.
 
-In each round of combat, both your squad and the opposing force take turns moving and taking actions, each as a group. Determining which side takes the first turn is described in the following section.
+In each combat round, both your squad and the opposing force take turns moving and acting as units. The following section explains how to determine which side takes the first turn.
 
 ### First Round and Initiative Roll
 
@@ -80,7 +80,7 @@ During your turn, all actions and moves for your entire squad occur **at the sam
 
 ### Interrupting Turns
 
-You may hold your action and specify a trigger, for example, “I wait until the enemy rounds the corner.” IF the trigger occurs, you act immediately, interrupting the enemy’s turn.
+You may hold your action and specify a trigger, for example, “I wait until the enemy rounds the corner.” If the trigger occurs, you act immediately with your declared action to interrupt the enemy’s turn.
 
 ## Determining the Results
 
@@ -326,17 +326,17 @@ Many *neural weapons* can continue their effect across multiple combat rounds. D
 
 	- You're still free to **move** into another zone during your round; only your action is required to maintain concentration. Any movement you initiate does not break your concentration.
 
-## Retreating
+## Disengage
 
-Retreating from a *zone* while engaged in combat can leave the retreating force vulnerable to further attacks.
+Moving out of a *zone* that contains an enemy leaves the *disengaging* force vulnerable to an additional attack.
 
-### Opponent Retreats
+### Enemy Disengages
 
-If your **opponents** retreat, you can immediately make a free attack against them before they move.
+If your **enemy** disengages, you can immediately make a free attack against them, interrupting their turn either **before** they move out of your zone or **after** they do so, your choice. 
 
-### You Retreat
+### You Disengage
 
-If **you** retreat, make a *retreat roll*. Roll **2d6 + TACTICS** and apply the result as follows:
+If **you** *disengage*, make a *disengage roll*. Roll **2d6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
