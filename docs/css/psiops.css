@@ -24,14 +24,15 @@
 
 /* Serif body, slightly tighter leading than the old system-UI value —
    IBM Plex Serif is optically denser and reads cleanly at 1.6. */
-.md-typeset {
-    font-family: "IBM Plex Serif", Georgia, serif;
-    line-height: 1.6;
-}
-
 body {
     font-family: "IBM Plex Serif", Georgia, serif;
     overflow-wrap: break-word;
+}
+
+.md-typeset {
+    font-family: "IBM Plex Serif", Georgia, serif;
+    font-size: 0.85rem;
+    line-height: 1.61;
 }
 
 /* ---- Headings ---------------------------------------------------------
