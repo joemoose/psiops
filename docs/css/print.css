@@ -25,6 +25,7 @@
      Asymmetric margins keep the wider edge on the binding side. The
      named :left/:right pages apply in Firefox/WeasyPrint; Chrome
      ignores them and falls back to the base @page margins. */
+
   @page {
     size: letter portrait;
     margin: 0.85in 0.75in 0.85in 1.0in;   /* top right bottom left(inner) */
@@ -33,6 +34,7 @@
   @page :left  { margin-left: 0.75in; margin-right: 1.0in;  }   /* verso: gutter at right */
 
   /* ---- Hide MkDocs Material chrome ---------------------------------- */
+
   .md-header,
   .md-sidebar,
   .md-footer,
@@ -46,6 +48,7 @@
   }
 
   /* Drop Material's sidebar offsets so content uses the full page. */
+
   .md-main__inner,
   .md-content {
     margin: 0 !important;
@@ -59,6 +62,7 @@
 
   /* ---- Base typography ----------------------------------------------
      Serif body for print; overrides the screen system-ui stack. */
+
   body {
     font-family: Georgia, serif;
     font-size: 11pt;
@@ -68,6 +72,7 @@
   }
 
   /* ---- Orphan / widow control --------------------------------------- */
+
   p {
     orphans: 3;
     widows: 3;
@@ -83,6 +88,7 @@
   /* ---- Headings -----------------------------------------------------
      Never strand a heading at the foot of a page; start each H1
      (part/chapter break) on a fresh page. */
+
   h1, h2, h3, h4, h5, h6 {
     page-break-after: avoid;
     break-after:      avoid;
@@ -103,6 +109,7 @@
      extra.css rule to @media screen, after which bare th/td would
      suffice.) All PsiOps content tables are unclassed, so :not([class])
      covers them. */
+
   table {
     page-break-inside: avoid;
     break-inside:      avoid;
@@ -140,6 +147,7 @@
 
   /* WeasyPrint has no scroll model; let any wide table overflow visibly
      instead of being clipped by Material's scroll wrapper. */
+
   .md-typeset__scrollwrap { overflow: visible; }
 
   /* ---- Dice outcome tables (div.roll-table) -------------------------
@@ -150,6 +158,7 @@
      These cells use !important to win over the body-table rules above:
      !important beats the (non-important) .md-typeset table:not([class])
      td rule even though div.roll-table td has lower specificity. */
+
   div.roll-table {
     margin: 0.4em 0 0.9em;
     page-break-inside: avoid;
@@ -185,6 +194,7 @@
      the screen .css's .9em sizing and measure cap are @media screen and do
      not reach print, so only break-control and the accent border are
      set here. */
+
   .admonition,
   details,
   blockquote {
@@ -204,10 +214,12 @@
   /* ---- Collapsible blocks (details) ---------------------------------
      WeasyPrint renders <details> statically and would show only the
      <summary>; force the whole block open. */
+
   details { display: block; }
   details > *:not(summary) { display: block; }
 
   /* ---- Figures & images --------------------------------------------- */
+
   img {
     page-break-inside: avoid;
     break-inside:      avoid;
@@ -233,6 +245,7 @@
      (invisible) over dark fills. The [data-md-color-scheme] selector
      ties extra.css's slate override on specificity and wins by source
      order (hence the load-order note at the top of this file). */
+
   [data-md-color-scheme] .md-typeset .zones-diagram,
   [data-md-color-scheme] .md-typeset .clocks-diagram {
     color: #1a1a1a;
@@ -242,12 +255,14 @@
   }
 
   /* ---- Code blocks --------------------------------------------------- */
+
   pre, code {
     page-break-inside: avoid;
     break-inside:      avoid;
   }
 
   /* ---- Links — print the URL inline for reference -------------------- */
+
   a[href^="http"]::after {
     content: " (" attr(href) ")";
     font-size: 8pt;
@@ -262,6 +277,7 @@
      .tables-grid / .tables-grid-col / .table-unit must be applied via
      raw HTML. If PsiOps has no such layout, this block is inert and
      can be deleted. */
+
   .tables-grid     { width: 100%; overflow: hidden; }
   .tables-grid-col { float: left; width: 48%; }
   .tables-grid-col:last-child { float: right; }
@@ -270,6 +286,7 @@
   .table-unit p { margin-bottom: 0.2em; }
 
   /* ---- Horizontal rules ---------------------------------------------- */
+
   hr {
     page-break-after: avoid;
     break-after:      avoid;

@@ -1,5 +1,22 @@
 {
-  "files.associations": {
-    "*.md": "python-markdown"
-  }
+  "[markdown]": {
+    "editor.fontFamily": "iA Writer Mono S, IBM Plex Mono, monospace",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 1.6,
+    "editor.lineNumbers": "off",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 72,
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "none",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  },
+  "workbench.activityBar.location": "hidden",
+  "workbench.statusBar.visible": false,
+  "zenMode.centerLayout": true,
+  "zenMode.fullScreen": false,
+  "zenMode.hideLineNumbers": true
 }

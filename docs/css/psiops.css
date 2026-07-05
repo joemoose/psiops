@@ -24,6 +24,7 @@
 
 /* Serif body, slightly tighter leading than the old system-UI value —
    IBM Plex Serif is optically denser and reads cleanly at 1.6. */
+
 body {
     font-family: "IBM Plex Serif", Georgia, serif;
     overflow-wrap: break-word;
@@ -57,6 +58,7 @@ body {
 
 /* Condensed faces need less vertical space between baseline and
    cap-height; tighter leading prevents headings looking floaty. */
+
 .md-typeset h1,
 .md-typeset h2 {
     line-height: 1.1;

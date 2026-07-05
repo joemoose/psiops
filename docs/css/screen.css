@@ -2,7 +2,7 @@
    RPG HTML Book — screen.css
    Shared screen-side structural rules for MkDocs Material,
    common to every RPG HTML Book project (PsiOps, DUNGEONEERS,
-   and future titles). Contains no typeface or colour choices —
+   and future titles). Contains no typeface or color choices —
    those live in each book's branding file (e.g. psiops.css,
    dungeoneers.css), loaded after this one.
 
@@ -31,6 +31,7 @@
      max-width on either clips its full-width title/summary bar background,
      leaving a gap at the right edge. Scoped to .md-typeset so the cap
      applies to content only, not nav/TOC lists. */
+
   .md-typeset p:not(.admonition-title),
   .md-typeset hr,
   .md-typeset li {
@@ -44,6 +45,7 @@
   /* Admonitions and collapsible blocks: .9em text, box capped to the
      prose column. The contents' own cap is removed so text fills the box
      instead of re-wrapping at the (smaller) .9em-scaled 68ch. */
+
   .md-typeset .admonition,
   .md-typeset details {
     font-size: .9em;
@@ -67,6 +69,7 @@
 /* ---- Tables: general styling (all media) ------------------------------ */
 
 /* Horizontal scroll for tables wider than the viewport. */
+
 .md-typeset__scrollwrap {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
@@ -98,6 +101,7 @@
     border-collapse: collapse;
     border: none;
     box-shadow: none;
+
     /* font-size intentionally unset: the .9em screen size on
        table:not([class]) cascades in here, so roll-tables match standard
        tables. print.css sets the print size. */
@@ -105,6 +109,7 @@
 
 /* Material wraps tables in a scroll container that can carry its own
    border/shadow; suppress both for roll-table instances. */
+
 .md-typeset div.roll-table .md-typeset__scrollwrap,
 .md-typeset div.roll-table .md-typeset__table {
     border: none;
@@ -132,6 +137,7 @@
    keep digit widths consistent across rows. IBM Plex Mono is the shared
    default across books — override in a book's branding file if a
    project needs a different mono face. */
+
 .md-typeset div.roll-table td:first-child {
     width: 5em;            /* wider than print's 4.5em to suit the screen size */
     font-family: "IBM Plex Mono", "Courier New", Courier, monospace;
@@ -174,6 +180,7 @@
 /* Caption styling. NOTE: this bare selector is specificity (0,0,1) and
    may be partly overridden by Material's own .md-typeset figcaption
    (0,1,1); prefix with .md-typeset if you need these to win outright. */
+
 figcaption {
     font-size: 0.85em;
     color: var(--md-default-fg-color--light);
