@@ -98,9 +98,9 @@ Choose your native language and an additional number of languages equal to **1**
 
 ---
 
-### Step 10: Codename
+### Step 10: Callsign
 
-Assign a **CODENAME** to your character.
+Assign a **CALLSIGN** to your character.
 
 ---
 
