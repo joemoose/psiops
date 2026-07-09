@@ -87,23 +87,17 @@ When you’re *locked in*, roll **1d6** and apply the effect as follows:
 	- If you *lock in* again and trigger a different effect, the effects **stack**.
 	- *Locked-in* and *panicked* effects co-exist. Apply all effects.
 
-## Remove Stress and Stress Effects
-
-You can reduce your _stress_ points and remove *panicked* and *locked-in* effects during a mission as follows.
-
-### Stress
+### Reducing Total Stress
 
 Overcoming a *notable opponent* or a *major obstacle* reduces your stress by **1**.
 
 - **Notable opponent**: A named or significant adversary whose defeat materially advances your mission, such as a primary target or commanding officer.
 - **Major obstacle**: An operationally critical barrier that, if unaddressed, prevents your mission from progressing or causes mission failure, such as a security lockdown or failed containment of a hostile.
 
-Stress can also be removed as the chosen benefit of regrouping at a *rally point*. See [Rally Point](damage.md#rally-point).
+### Removing Stress Effects
 
-### Panicked and Locked-In
-
-Regrouping at a *rally point* automatically removes all *panicked* and *locked-in* effects. See [Rally Point](damage.md#rally-point).
+*Panicked* and *locked-in* effects can be removed when regrouping at a *rally point*. See [Rally Point](damage.md#rally-point).
 
 !!! note
 
-	Removing panicked effects at a rally point is helpful, but it means you’ll also lose any locked-in benefits.
+	Removing panicked effects at a rally point is helpful, but it also means you’ll lose locked-in benefits.
