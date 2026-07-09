@@ -19,7 +19,7 @@ Each exposure to a stressor adds **1** point to your stress. Keep track of your 
 
 ### Stressing Out
 
-You determine whether your total stress affects your performance during the mission as follows:
+You determine whether your total stress affects your performance as follows:
 
 1. You’re exposed to a stressor.
 2. Add **1** to your *stress*. Your total stress is capped at **6**.
