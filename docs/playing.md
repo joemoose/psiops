@@ -43,7 +43,7 @@ When you attempt a meaningful *action* with a risky or uncertain outcome, you ma
 The process for making an *action roll* has four steps:
 
 1. Select an *applicable attribute*. See the following section.
-2. Roll **2d6** and add the *attribute score*.
+2. Roll **2d6** and add the *attribute score* of the applicable attribute.
 3. Compare the sum to the *results* list.
 4. Apply the result.
 
@@ -68,13 +68,13 @@ You can always default to your REFLEXES, for example, when firing a rifle, which
 
 Keep in mind that describing your action to specify the *applicable attribute* deliberately differs from game rules that state a **specific attribute** for an *action roll*. For example, an *initiative roll* always uses your TACTICS attribute, a *wound roll* uses your STRENGTH, and *activating* a *neural weapon* uses WILLPOWER regardless of the situation.
 
-When a specific attribute is required for an action roll, the rule for that roll is given a unique name, such as a *defense roll*, and it specifies which attribute to use. Most action rolls that use specific attributes are part of combat mechanics. See the [Combat](combat.md) section.
+When an action roll requires a specific attribute, the rule for that roll is given a unique name, such as a *defense roll*, and it specifies which attribute to use. Most action rolls that require a specific attribute occur in combat. See the [Combat](combat.md) section.
 
 ### Rolling the Dice and Results
 
 When you created your character, you assigned a *score* to each of your character’s *attributes*, with higher scores indicating greater ability. These scores can increase or decrease your chances of success on *action rolls*.
 
-To make an action roll, roll **2d6 + Attribute score**.
+To make an action roll, roll **2d6 + attribute score**.
 
 The **sum** of the dice roll and the attribute score determines how well you succeed at your *action*, as shown in the following list:
 
@@ -85,7 +85,7 @@ The **sum** of the dice roll and the attribute score determines how well you suc
 | **2–6** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
 | **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
 | **10–12** | It's a **success**. You achieve your goal. |
-| **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
+| **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. There’ll be an additional benefit. |
 
 </div>
 
@@ -99,11 +99,11 @@ The **sum** of the dice roll and the attribute score determines how well you suc
 
 #### *Consequences* of Failure
 
-When you *fail* an *action roll*, you don’t achieve your intended outcome. But something else goes wrong, worsening your tactical situation or combat readiness. You could be injured, damage equipment, trigger a new threat, or be separated from your squad. Your situation deteriorates, and circumstances turn against you.
+When you *fail* an *action roll*, you don’t achieve your intended outcome, and something else goes wrong, worsening your tactical situation or combat readiness. You could be injured, damage equipment, trigger a new threat, or be separated from your squad. Your situation deteriorates, and circumstances turn against you.
 
 #### *Complications* of Partial Success
 
-When you *partially succeed* on an *action roll*, you achieve your intended outcome, but at a cost. You might have to make a difficult choice or trade off, and your tactical situation is likely to become more complicated.
+When you *partially succeed* on an *action roll*, you achieve your intended outcome, but at a cost. You might have to make a difficult choice or trade off, and your tactical situation is likely to become more complicated. However, the complication will never be as severe as a *failed* roll.
 
 ### Example Results
 
