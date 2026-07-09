@@ -2,11 +2,11 @@
 
 Once gameplay shifts from *operational mode* to *combat mode*, the GM organizes your area of action into *zones*. Zones divide the battlefield into a connected set of tactical positions, each with a distinct location and significance.
 
-Zones don't represent mapped areas on a measured grid. A single zone might encompass an entire warehouse, or there might be several if crates are scattered throughout. A zone could be an entire hilltop or a short corridor ending at a door. It all depends on the relevant tactical positions in your surrounding battle area.
+Zones don't represent mapped areas on a measured grid. A single zone might encompass an entire warehouse, or there might be several if crates are scattered throughout it. A zone could be an entire hilltop or a short corridor ending at a door. It all depends on the relevant tactical positions in your surrounding battle area.
 
-You move between zones, not along gridlines. Ranges become relationships between zones, not measurements. Zones can change based on your or your enemy's actions. Flipping a table could split a zone into two. Tossing tear gas would make the zone hazardous to cross.
+You move between zones, not along gridlines. Ranges become relationships between zones, not measurements. Zones can change based on your actions or your enemy’s. Flipping a table could split a zone into two. Tossing tear gas would make the zone hazardous to cross.
 
-At a minimum, there are three tactical zones at the start of combat: your squad's position, your enemy's position, and the area between the two.
+At a minimum, there are three tactical zones at the start of combat: your squad's position, your enemy's position, and the area between them.
 
 ## Movement
 
@@ -15,7 +15,7 @@ You move **across** *tactical zone* boundaries rather than calculating distance 
 Zone boundaries or conditions within a zone can complicate movement:
 
 - **Difficult terrain** (rubble, standing water, thick smoke): Requires 2 moves to traverse.
-- **Free action** (slipping through an open door or moving between objects within the same zone): You don't have to spend a movement or action.
+- **Free action** (moving between objects within the same zone): You don't have to spend a movement or action.
 - **Hazardous environment** (poison gas, flame): Movement through the zone may cause damage without wearing protective gear.
 
 ## Distances
