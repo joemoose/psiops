@@ -29,7 +29,7 @@ Whether you act before the enemy in the **first** round of combat is determined 
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You **do not** act in the first round of combat. You’ll wait until the **second round** to move or take any action. |
 | **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
@@ -92,7 +92,7 @@ When you **attack** a target, make an *attack roll*. Roll **2d6 + Applicable Att
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | The attack misses. You deal **no damage**. |
 | **7–9** | You deal damage equal to the **lower** of the two d6 rolls, plus your weapon's **damage modifier**. |
@@ -209,7 +209,7 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2d6 +
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You take **damage** equal to the **highest d6 result** plus your enemy’s *damage modifier*. |
 | **7–9** | You take **damage** equal to the **lowest d6 result** plus your enemy’s *damage modifier*. |
@@ -305,7 +305,7 @@ To activate your *neural weapon*, make a *neural attack roll*. Roll **2d6 + WILL
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
 | **7–9** | The power **activates**, but you take **1** *fatigue*. |
@@ -340,7 +340,7 @@ If **you** *disengage*, make a *disengage roll*. Roll **2d6 + TACTICS** and appl
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | :- |
 | **2–6** | Your opponent immediately makes a **free attack** against you as you disengage. |
 | **7–9** | You disengage but suffer a *complication*. |

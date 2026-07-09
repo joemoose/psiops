@@ -15,7 +15,7 @@ Once *wounded*, with **0** or fewer HP, immediately make a *wound roll*. Roll **
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. See [Stabilize Team Members](#stabilize-team-members). |
@@ -80,7 +80,7 @@ To **stabilize a team member in combat**, first acquire medical supplies, then m
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You do **not** mark off a segment on the mission clock and **use up** your medical supplies. Remove them from your inventory.<br/>You’ll need to acquire additional medical supplies to continue making *stabilization rolls*. |
 | **7–9** | Mark off **1** segment on the mission clock. |
@@ -126,7 +126,7 @@ If your character dies, create a new one while the game continues. When you’re
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You join the squad, possibly taking damage while deploying. Make a *defense roll* with *advantage*. See [Defending](combat.md#defending). Armor reduces damage. |
 | **7–9** | You join the squad, but deployment comes with a *complication*. |

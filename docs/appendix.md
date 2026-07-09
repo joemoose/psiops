@@ -29,7 +29,7 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
 | **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
@@ -45,7 +45,7 @@ When you make an *action roll*, in addition to the result of the roll, gain *mom
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You don't gain momentum. |
 | **7–9** | You don't gain momentum. |
@@ -71,7 +71,7 @@ Roll **2d6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You **do not** act in the first round of combat. You'll wait until the **second round** to move or take any action. |
 | **7–9** | You get the drop on the enemy and act **first**, but you have a *disadvantage* on your next *action roll*. |
@@ -86,7 +86,7 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | The attack misses. You deal **no damage**. |
 | **7–9** | You deal damage equal to the **lower** of the two d6 rolls, plus your weapon's **damage modifier**. |
@@ -101,7 +101,7 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You take **damage** equal to the **highest d6 result** plus your enemy's *damage modifier*. |
 | **7–9** | You take **damage** equal to the **lowest d6 result** plus your enemy's *damage modifier*. |
@@ -116,7 +116,7 @@ Roll **2d6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. |
 | **7–9** | The power **activates**, but you take **1** *fatigue*. |
@@ -131,7 +131,7 @@ Roll **2d6 + TACTICS** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | :- |
 | **2–6** | Your opponent immediately makes a **free attack** against you as you disengage. |
 | **7–9** | You disengage but suffer a *complication*. |
@@ -146,7 +146,7 @@ Roll **2d6 + STRENGTH**, then **subtract** the number of points you’ve gone be
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You're **dead**. Roll up a new operator. |
 | **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. |
@@ -161,7 +161,7 @@ Roll **2d6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 |:-:|-|
 | **2–6** | You **panic**. Roll **1d6** and consult the [Panicked table](#panicked) to determine the effect. |
 | **7–9** | You **keep it together** for now. |

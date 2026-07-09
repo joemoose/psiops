@@ -36,7 +36,7 @@ When your stress reaches **6**, you immediately make a *stress roll**. Roll **2d
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 |:-:|-|
 | **2–6** | You **panic**. Roll **1d6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
 | **7–9** | You **keep it together** for now. |

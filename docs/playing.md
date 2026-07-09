@@ -74,13 +74,13 @@ When an action roll requires a specific attribute, the rule for that roll is giv
 
 When you created your character, you assigned a *score* to each of your character’s *attributes*, with higher scores indicating greater ability. These scores can increase or decrease your chances of success on *action rolls*.
 
-To make an action roll, roll **2d6 + attribute score**.
+To make an action roll, roll **2d6 + Attribute**. 
 
 The **sum** of the dice roll and the attribute score determines how well you succeed at your *action*, as shown in the following list:
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
 | **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
@@ -113,10 +113,10 @@ To compare the four types of results for an *action roll*, consider the followin
 
 | Sum | Result | Outcome |
 | :-: | - | - |
-| **2–6** | Failure | “You can’t pick the lock, and the door remains **locked**. You hear someone approaching your position. You’re trapped in the hallway.” |
-| **7–9** | Partial Success | “The door is now **unlocked**. No one hears you, but you break your lock pick. Remove it from your inventory.” |
-| **10–12** | Success | “The door is now **unlocked**. No one hears you. You're good to go.” |
-| **13+** | Critical Success | “The door is now **unlocked**. No one hears you. You’re good to go. You peek around the door and spot a guard asleep at their security console.” |
+| **2–6** | Failure | “You can’t pick the lock; the door remains **locked**, and you made noise. You hear footsteps approaching your position. You’re trapped in the hallway.” |
+| **7–9** | Partial Success | “The door is now **unlocked**. You didn’t make any noise, but you broke your lock pick. Remove it from your inventory.” |
+| **10–12** | Success | “The door is now **unlocked**, and you didn't make any noise. You're good to go.” |
+| **13+** | Critical Success | “The door is now **unlocked**, and you didn't make any noise. You’re good to go. You peek around the door and spot a guard asleep at their security console.” |
 
 ## Modifying Action Rolls
 
@@ -124,11 +124,15 @@ Depending on your current tactical circumstances, *action rolls* might have high
 
 ### Advantage
 
-Given the current tactical situation, if your action is easier than it would be otherwise, the *action roll* has an *advantage*. For example, firing from a rooftop at enemies in the street below provides a clear advantage and improves your odds of success. When you make an action roll with advantage, roll **3d6 + Attribute** instead of the usual two dice, then discard the **lowest** die.
+Given your current tactical situation, if your action is **easier** than it would be otherwise, the *action roll* has *advantage*. For example, firing from a rooftop at enemies in the street below provides a clear advantage, improving your odds of success. 
+
+When you make an action roll with advantage, roll **3d6 + Attribute** instead of the usual two dice, then discard the **lowest** die.
 
 ### Disadvantage
 
-Given the current tactical situation, if your action is more difficult than it would be otherwise, such as attacking a target on a rooftop from the street below, your *action roll* has a *disadvantage*. Disadvantage reduces your odds of success. When you make an action roll with disadvantage, roll **3d6 + Attribute** and discard the **highest** die.
+Given your current tactical situation, if your action is **more difficult** than it would be otherwise, the *action roll* has *disadvantage*. For example, attacking a target on a rooftop from the street below puts you at a clear disadvantage, reducing your chance of success. 
+
+When you make an action roll with disadvantage, roll **3d6 + Attribute** instead of the usual two dice, then discard the **highest** die.
 
 !!! note "Notes"
 
@@ -169,7 +173,7 @@ When you make an *action roll*, in addition to the roll's result, gain *momentum
 
 <div class="roll-table" markdown="1">
 
-| Roll | Result |
+| Sum | Result |
 | :-: | - |
 | **2–6** | You don’t gain momentum. |
 | **7–9** | You don't gain momentum. |
