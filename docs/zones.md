@@ -20,7 +20,7 @@ Zone boundaries or conditions within a zone can complicate movement:
 
 ## Distances
 
-The distance between you and a target is measured in hops across *zone*, i.e., the number of zones between you and your target.
+The distance between you and a target is measured in hops across *zone*, i.e., counting the number of zones between you and your target.
 
 | Hops | Distance | Example |
 | :-: | - | - |
@@ -30,7 +30,7 @@ The distance between you and a target is measured in hops across *zone*, i.e., t
 | 3 | Distant | Across wide, uneven terrain |
 | 4+ | Extreme | Several city blocks away |
 
-Count the **shortest** path through adjacent, connected zones, not a straight line on a map. These distances modify your *attack rolls* based on weapon type. See [Distance Modifiers](combat.md#distance-modifiers).
+The distance to your target modifies your *attack roll* based on your weapon type. See [Distance Modifiers](combat.md#distance-modifiers). 
 
 ## Example
 
