@@ -62,6 +62,6 @@ Using the zones’ tactical characteristics, your squad’s actions emerge and a
 
 Decisions, immediate movement, *action rolls*, then *results*. No rulers, no math. Grid combat asks, “*Where is everyone standing*?” Zone combat asks, “*Which part of the tactical landscape are you leveraging*?”
 
-## After Action
+## After Action Report
 
-If you’ve come up through tabletop combat with a battlemat and a measuring tape, zones will feel off at first. Lean into it. By the end of your first operation, you’ll enjoy the change of pace.
+If you’ve come up through tabletop combat with a battlemat, miniatures, and a measuring tape, you’ll find these zones feel off at first. Lean into it. By the end of your first operation, you’ll enjoy the change of pace. PSIOPS could also fit easily into a skirmish game. What about a 2nd edition?
