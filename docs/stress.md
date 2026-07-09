@@ -15,11 +15,11 @@ Common stressors include:
 - Sustaining a *wound* in combat
 - Witnessing a team member or a civilian die
 
-Each exposure to a stressor adds **1** point to your stress. Keep track of your stress. Your character sheet includes a place to record your current total stress.
+Each exposure to a stressor adds **1** point to your stress. Keep track of your stress. Your character sheet includes a place to record your current stress.
 
 ### Process
 
-You manage stress in-game as follows:
+You determine whether your total stress affects your performance during the mission as follows:
 
 1. You’re exposed to a stressor.
 2. Add **1** to your *stress*. Your total stress is capped at **6**.
