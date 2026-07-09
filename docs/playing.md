@@ -219,7 +219,7 @@ Spend **3 momentum** to improve the outcome of any tier of a successful *action 
 
 !!! note
 
-	If the result is a *partial success*, you’ll still incur its associated *complication* in addition to the exploit. See [Complications](#*complications-of-partial-success).
+	If the result is a *partial success*, you’ll still incur its associated *complication* in addition to the exploit. See [Complications](#complications-of-partial-success).
 
 #### Surge
 

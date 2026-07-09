@@ -17,7 +17,7 @@ Common stressors include:
 
 Each exposure to a stressor adds **1** point to your stress. Keep track of your stress. Your character sheet includes a place to record your current stress.
 
-### Process
+### Stressing Out
 
 You determine whether your total stress affects your performance during the mission as follows:
 
