@@ -28,13 +28,13 @@ See [Wounds](#wounds), [Fatigue](#fatigue), and [Stress](stress.md) for details 
 
 !!! note
 
-	If knocked *unconscious* and pushed to *maximum stress*, you still make a *stress roll*. Any resulting *panicked* or *locked-in* conditions take effect once you revive. See [Maximum Stress](stress.md#maximum-stress).
+	If knocked *unconscious* and pushed to *maximum stress*, you still make a *stress roll*. Any resulting *panicked* or *locked-in* conditions take effect after you are revived. See [Maximum Stress](stress.md#maximum-stress).
 
 !!! example
 
 	You have 2 STRENGTH and 2 current HP, and take 3 points of damage. You now have -1 HP and must make a *wound roll*.
 
-	You roll **2d6 + 2** (STRENGTH) and subtract **1** (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You're *knocked down*, but not *unconscious* because you're wearing a *helmet*. You would have been knocked out otherwise  You add **1** wound, **1** fatigue, **1** stress, and increase current HP to **1**.
+	You roll **2d6 + 2** (STRENGTH) and subtract **1** (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You're *knocked down*, but not *unconscious* because you're wearing a *helmet*. You would have been knocked out otherwise. You add **1** wound, **1** fatigue, **1** stress, and increase current HP to **1**.
 
 	You spend **1** action to get back on your feet. You’re wounded, growing tired, and a little more stressed, but not yet out of the fight.
 
@@ -48,7 +48,7 @@ Each *wound* you sustain reduces your *maximum HP* by **1**. Your current HP rem
 
 ### Fatigue
 
-All *fatigue* you sustain must be stored in your **inventory** as an abstract item. Each unit of fatigue takes up **1** slot. If your inventory is full, drop equipment to free a slot for fatigue.
+All *fatigue* you sustain must be stored in your **inventory** as an abstract item. Each unit of fatigue takes up **1** slot. If your inventory is full, drop equipment to free a slot for fatigue. See [Inventory](equipment.md#inventory).
 
 !!! important
 
@@ -56,7 +56,7 @@ All *fatigue* you sustain must be stored in your **inventory** as an abstract it
 
 ## Restore HP and Fatigue
 
-Lost *hit points* can be restored, and *fatigue* can be removed, by regrouping at a *rally point*. See [Rally Point](#rally-point).
+Lost *hit points* can be restored and *fatigue* removed by regrouping at a *rally point*. See [Rally Point](#rally-point).
 
 Some *neural weapons* also restore lost HP and remove fatigue. See [Neural Weapons](character.md#neural-weapons).
 
@@ -68,15 +68,15 @@ Some *neural weapons* also restore lost HP and remove fatigue. See [Neural Weapo
 
 Stabilizing an *incapacitated* team member requires medical supplies, such as the individual aid kit in your basic kit. Once medical supplies are available, you can stabilize a team member after combat or during the battle, as described in the following sections.
 
-### After Combat
+### Stabilizing After Combat
 
 If you have medical supplies, you **automatically** stabilize an *incapacitated* team member **after** combat ends. After stabilizing your team member, remove the medical supplies from your inventory.
 
-### During Combat
+### Stabilizing During Combat
 
 If you need to stabilize an *incapacitated* team member **during** combat, the action is complex and risky, and it uses a *mission clock* to track progress. The clock typically has 4 segments. See [Mission Clocks](playing.md#mission-clocks).
 
-To **stabilize a team member in combat**, first acquire medical supplies, then make a *stabilization roll*. Roll **2d6 + TACTICS**. Apply the result as follows:
+To stabilize, first acquire medical supplies, then make a *stabilization roll*. Roll **2d6 + TACTICS**. Apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
