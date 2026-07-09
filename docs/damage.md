@@ -11,7 +11,7 @@ Your job is inherently dangerous. It might be a question of when, not if, you’
 
 ## Wounded
 
-Once *wounded*, with **0** or fewer HP, immediately make a *wound roll*. Roll **2d6 + STRENGTH**, then **subtract** the number of HP you’ve fallen below zero. If your HP is exactly zero, subtract nothing. Apply the result as follows:
+If damage reduces your  HP to **0** or less, immediately make a *wound roll*. Roll **2d6 + STRENGTH**, then **subtract** the number of HP you’ve fallen below zero. If your HP is exactly zero, subtract nothing. Apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -74,7 +74,7 @@ If you have medical supplies, you **automatically** stabilize an *incapacitated*
 
 ### Stabilizing During Combat
 
-If you need to stabilize an *incapacitated* team member **during** combat, the action is complex and risky, and it uses a *mission clock* to track progress. The clock typically has 4 segments. See [Mission Clocks](playing.md#mission-clocks).
+If you need to stabilize an *incapacitated* team member **during** combat, the action is complex and risky and uses a *mission clock* to track progress. The clock typically has 4 segments. See [Mission Clocks](playing.md#mission-clocks).
 
 To stabilize, first acquire medical supplies, then make a *stabilization roll*. Roll **2d6 + TACTICS**. Apply the result as follows:
 
