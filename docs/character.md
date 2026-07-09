@@ -66,9 +66,9 @@ Set your maximum **Hit Points** to 6 and your starting **Momentum Points** to 2.
 
 ### Step 6: Basic Kit and Tactical Supplies
 
-Add a **Basic Kit** and *2* units of **Tactical Supplies** to your inventory. Both items are pre-listed on your character sheet.
+Add a **Basic Kit** and **2** units of **Tactical Supplies** to your inventory. Both items are pre-listed on your character sheet.
 
-You can remove 1 or both Tactical Supplies after your mission briefing. See [Basic Kit](equipment.md#basic-kit) and [Tactical Supplies](equipment.md#tactical-supplies).
+You can remove **1** or both Tactical Supplies after your mission briefing. See [Basic Kit](equipment.md#basic-kit) and [Tactical Supplies](equipment.md#tactical-supplies).
 
 ---
 
