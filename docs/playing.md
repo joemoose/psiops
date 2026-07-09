@@ -143,13 +143,13 @@ When you make an action roll with disadvantage, roll **3d6 + Attribute** instead
 
 ### Advanced Specializations
 
-Your *advanced specializations* increase your chances of success on related risky *actions*. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action roll*. In other words, roll **2d6 + Attribute + 1**.
+Your *advanced specializations* increase your chances of success on related *actions*. When an advanced specialization applies to an action you’re attempting, add **+1** to the *action roll*. In other words, roll **2d6 + Attribute + 1**.
 
 Describe how your specialization applies to the action. If the GM agrees, the bonus applies.
 
 !!! example
 
-	You’re going to fast rope from a hovering helicopter that's taking fire. To reach the ground without incident, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll **2d6 + REFLEXES + 1**.
+	You’re going to fast rope from a hovering helicopter that's taking fire. To reach the ground without injury, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll **2d6 + REFLEXES + 1**.
 
 ### Action Roll Modifier Examples
 
@@ -157,15 +157,15 @@ Examples of *action roll* modifiers follow:
 
 | Modifier | Example |
 | - | - |
-| Advantage | You attack an unaware target (*advantage*). Roll **3d6 + TACTICS** (2), getting 5, 6, and 4. Discard the **4**. Sum: 5 + 6 + 2 = 13. *Critical success*. |
-| Disadvantage | You're attacked by surprise (*disadvantage*). Roll **3d6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because two 3s are the highest rolls. Sum: 3 + 1 + 2 = 6. *Failure*. |
-| Specialization | You're attacked by surprise (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies (+1). Roll **3d6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
+| Advantage | You attack an unaware target. Roll **3d6 + TACTICS** (2), getting 5, 6, and 4. Discard the 4, the lowest die. Sum: 5 + 6 + 2 = 13. *Critical success*. |
+| Disadvantage | You're attacked by surprise. Roll **3d6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because double 3s are the highest dice. Sum: 3 + 1 + 2 = 6. *Failure*. |
+| Specialization | You're attacked by surprise (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies for **+1**. Roll **3d6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5, the highest die. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
 
 ## Momentum
 
-*Momentum* is the tactical edge that separates a decisive operator from a hesitant one. Momentum builds as you progress through your mission and complete risky *actions*.
+*Momentum* is the tactical edge that separates a decisive operator from a hesitant one. Momentum builds as you progress through your mission and succeed at  *actions*.
 
-You start each mission with **2 momentum points** and gain additional points by achieving a *success* or *critical success* on any *action roll*. You can then spend your momentum points to change the outcome of action rolls and events in your favor.
+You start each mission with **2 momentum** and gain more by achieving a *success* or *critical success* on any *action roll*. You can then spend your momentum to improve your tactical situation.
 
 ### Gain Momentum
 
@@ -184,15 +184,15 @@ When you make an *action roll*, in addition to the roll's result, gain *momentum
 
 !!! note
 
-	If you spend momentum to change an action roll, that roll does not, in turn, generate momentum.
+	If you spend momentum to change an action roll, that action roll does not generate momentum, regardless of the result.
 
-As you gain momentum, points accumulate until you spend them. See the following section.
+As you gain momentum, the points accumulate until you spend them. See the following section.
 
-Unspent momentum **resets** to its starting value of **2** when regrouping at a *rally point* or returning to base after your mission. See [Rest and Recovery](damage.md#rally-point).
+Unspent momentum **resets** to its starting value of **2** after regrouping at a *rally point* or returning to base. See [Rest and Recovery](damage.md#rally-point).
 
 ### Expend Momentum
 
-You can spend your *momentum* points to gain bonuses to your actions or to avoid negative *consequences* as follows:
+You can spend your *momentum* to gain bonuses to your actions or to avoid negative *consequences* as follows:
 
 | Option | Cost | Bonus |
 | - | :-: | - |
@@ -201,7 +201,7 @@ You can spend your *momentum* points to gain bonuses to your actions or to avoid
 | EXPLOIT | 3 | Increase the effect of a *successful* action roll. |
 | SURGE | 4 | Take another *action*. |
 | EVADE | 5 | Avoid the *consequence* of a *failed* action roll. |
-| FLASHBACK | 6 | Retroactively establish your pre-mission preparation or a discovery in-mission. |
+| FLASHBACK | 6 | Retroactively establish pre-mission preparation or a discovery during the mission. |
 
 Details for each option follow.
 
