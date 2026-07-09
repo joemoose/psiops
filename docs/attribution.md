@@ -9,7 +9,7 @@
 - Examples of attributes paraphrased from Ripley on the [FIST Discord server](https://discord.com/channels/959600183186952232/959731595793805322/1158274780319981639).
 - Mobs mechanic based on [*HECATONCHEIRES*](https://threeyelloweyes.itch.io/fist-hecatoncheires), authored by Moth, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - Momentum mechanic based on *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-- Partial success based on the "Powered by the Apocalypse" game, with design informed by *Apocalypse World* by D. Vincent Baker (copyright 2010).
+- Partial success dice mechanic based on the *Powered by the Apocalypse* game, with design informed by *Apocalypse World* by D. Vincent Baker (copyright 2010).
 - Specializations mechanic inspired by [*Offworlders*](https://chrispwolf.itch.io/offworlders), authored by Chris Wolf and licensed under the [Creative Commons Attribution License 3.0](https://creativecommons.org/licenses/by/3.0/us/).
 - Stress mechanic inspired by ["Stress system for Adventurous: Where high risk meets high reward!"](https://www.dawnfist.com/blog/mechanics/stress-system-for-adventurous/), *The Dawnfist Blog!*, authored by Sebastian Grabne.
 - This work is based on [*Blades in the Dark*](https://github.com/amazingrando/blades-in-the-dark-srd-content), a product of One Seven Design, developed and authored by John Harper, and licensed for use under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) license.
