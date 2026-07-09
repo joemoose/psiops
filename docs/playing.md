@@ -219,11 +219,11 @@ Spend **3 momentum** to improve the outcome of any tier of a successful *action 
 
 !!! note
 
-	If the result is a *partial success*, you’ll still incur its associated *complication* in addition to the improved outcome.
+	If the result is a *partial success*, you’ll still incur its associated *complication* in addition to the exploit. See [Complications](#*complications-of-partial-success).
 
 #### Surge
 
-Spend **4 momentum** to take an extra *action* on your turn in a combat round. For details on combat rounds and actions, see [Rounds](combat.md#rounds). You can spend 4 momentum again to take another action, provided you have enough momentum.
+Spend **4 momentum** to take an extra *action* on your turn in a combat round. For details on combat rounds and actions, see [Rounds](combat.md#rounds). You can spend 4 momentum again to take another action, as many times as you like, as long as you have enough momentum.
 
 !!! note
 
@@ -237,21 +237,21 @@ See [Consequences of Failing](#consequences-of-failure).
 
 !!! example
 
-	While being pursued, you attempt to scale a wall. Your REFLEXES action roll fails. You not only fail to make it over the wall but you also take a consequence: you land flat on your back and drop your weapon.
+	While being pursued, you attempt to scale a wall. Your REFLEXES action roll fails. You not only fail to make it over the wall, but you also incur a consequence: you land flat on your back and drop your weapon.
 	
-	You can spend **5** momentum to Evade. You still won’t make it over the wall, but at least you’re on your feet, combat-ready, with your rifle at the ready.
+	You can spend **5** momentum to Evade. You still won’t make it over the wall, but at least you’re on your feet with your rifle at the ready.
 
 #### Flashback
 
-Spend **6 momentum** to establish that you did something before the mission or found something during the mission that had not been noticed before. In other words, you make a change to the story that did not occur during the current game session. If the GM agrees the flashback is reasonable, you retroactively add those preparations to the current mission.
+Spend **6 momentum** to establish that you did something before the mission or found something during the mission that had not been noticed before. In other words, you make a change to the story that did not actually happen during the game session. If the GM agrees the flashback is reasonable, you retroactively add those preparations to the current mission.
 
 !!! example
 
-	Your squad arrives at a steel gate that blocks further progress. You have no way to proceed. You spend **6** momentum and flash back to seeing an angle grinder in the machine shop earlier.
+	Your squad arrives at a steel gate that blocks all further progress. You have no way to proceed. You spend **6** momentum and flash back to seeing an angle grinder in the machine shop earlier.
 
 ## Mission Clocks
 
-Mission clocks track complex tasks involving multiple actions or imminent threats. The clock is usually divided into 4, 6, or 8 segments. The number of segments increases with task complexity or the amount of time before the threat appears. Progress is indicated by marking off segments.
+*Mission clocks* track complex tasks with multiple steps or imminent threats looming over the squad. The clock is usually divided into 4, 6, or 8 segments. The more complex a task or the longer the time window before the threat appears, the more segments the mission clock has. Progress is indicated by marking off segments. Mission clocks are visible to everyone, so you can keep track of the countdown.
 
 ### Example Clocks
 
@@ -262,22 +262,24 @@ Mission clocks track complex tasks involving multiple actions or imminent threat
 
 ### Complex Tasks
 
-You’ll face complex obstacles during the mission, such as accessing a classified computer network or defusing a bomb. These tasks require multiple *actions* to complete. As a result, you won’t make a single *action roll* to determine the outcome. Instead, your progress toward completing the task is tracked on a *mission clock*.
+You’ll face complex obstacles during the mission, such as accessing a classified computer network or defusing a bomb. These tasks require multiple *actions* to complete. As a result, you won’t make a single *action roll* to determine the result. Instead, a mission clock tracks your progress toward completing the task.
 
 #### Marking Off Task Segments
 
-As you take *actions* to complete your task, mark off segments from the mission clock or return them based on the results of your *action rolls* as follows:
+As you take *actions* to complete your task, mark off segments from the mission clock or return them to the clock based on the results of your *action rolls* as follows:
 
-- *Failure* nullifies **1 completed** segment, returning it to the clock.
-- *Partial success* marks off **1** segment.
-- *Success* marks off **2** segments.
-- *Critical success* marks off **3** segments.
+| Action Result | Progress |
+| -| -| 
+| Failure | Nullify **1** previously marked-off segment, setting the clock back by **1** segment. |
+| Partial success| Mark off **1** segment.
+| Success | Mark off **2** segments.
+| Critical success | Mark off **3** segments. |
 
 Once all segments are marked off, your task is complete.
 
 ### Impending Threats
 
-When your squad faces an impending threat, such as the time remaining on a detonator or until a high-value individual is eliminated, a *mission clock* will track the time until the threat occurs. The clock is visible to all, and tension builds as it counts down.
+When your squad faces an impending threat, such as the time remaining on a detonator or until a high-value individual is eliminated, a *mission clock* tracks the time until the threat occurs. The clock is visible to all, and tension builds as it counts down.
 
 #### Marking Off Threat Segments
 
@@ -292,9 +294,9 @@ After returning to base, describe how you met your core drive's *advancement con
 | Improvement | Effect | Limit |
 | - | - | :-: |
 | Attribute increase | Add **+1** to one attribute | Max score of 3. |
-| HP increase | Roll **1d3** and add the result to max HP | No upper limit. |
-| New neural weapon | Roll **d66** to determine the new ability. See [Neural Weapons](character.md#neural-weapons). If you roll a duplicate, reroll until you receive a new one. | None |
-| New specialization | Choose **one** new specialization related to **meaningful** actions you took that helped complete a previous mission. See [Advanced Specializations](character.md#advanced-specializations). | None |
+| HP increase | Roll **1d3** and add the result to your max HP | No upper limit. |
+| New neural weapon | Roll **d66** to determine your new ability. See [Neural Weapons](character.md#neural-weapons). If you roll a duplicate, reroll until you receive a new one. | None |
+| New specialization | Choose one new specialization related to **meaningful** actions you took that helped complete a previous mission. See [Advanced Specializations](character.md#advanced-specializations). | None |
 
 !!! note
 
