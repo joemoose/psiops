@@ -1,6 +1,6 @@
 # Combat
 
-Combat is like any risky action: attacking requires an *action roll* to deal damage, and defending against an attack requires an *action roll* to avoid taking damage. Details follow.
+Once combat begins, the game shifts from *operational mode* to *combat mode*. Time is now measured in discrete *rounds*, the area around you is divided into fixed *zones*, and which side takes the first actions, the *initiative*, becomes important. Actions during combat are like any risky action: an *action roll* to deal damage and another to avoid taking damage. Details follow.
 
 ## Combat Sequence
 
@@ -13,13 +13,13 @@ Once *combat mode* begins, the game proceeds through a fixed sequence of steps a
 
 ## Rounds
 
-A *combat round* is about 6 seconds, enough time to **move once** and take **1 action**, such as firing at a target or moving again. You can move or act in any order, or choose to forgo either.
+A *round* in *combat mode* lasts about 6 seconds, enough time to **move once** and take **1 action**, such as firing at a target or moving again. You can move or act in any order, or choose to forgo either.
 
 !!! note
 
 	If you use your action to move again, you make two moves, crossing into a second zone, which count as a sprint.
 
-Complex actions that take more than 6 seconds may require multiple combat rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a doorway, or dropping an item, are free and don’t count against your 1 action.
+Complex actions that take more than 6 seconds may require multiple rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a doorway, or dropping an item, are free and don’t count against your 1 action.
 
 In each combat round, both your squad and the opposing force take turns moving and acting as units. The following section explains how to determine which side takes the first turn.
 
@@ -366,7 +366,7 @@ The mob's *armor rating* and *attacks per round* depend on the number of members
 | 17–20 | 0 | 5 |
 | 21+ | 0 | 6 |
 
-The number of attacks per round determines how many individual opponents the mob can attack during its turn in a single combat round. If there are fewer opponents than the mob's number of attacks, the remaining attacks are wasted.
+The number of attacks per round determines how many individual opponents the mob can attack during its turn. If there are fewer opponents than the mob's number of attacks, the remaining attacks are wasted.
 
 !!! note
 
@@ -384,10 +384,10 @@ For each point of damage a mob takes, its member count decreases by **1**. The m
 
 !!! note
 
-	When you and other team members attack the same mob, all damage is cumulative.<br/>Mobs are an exception to the general rule that cumulative damage doesn’t apply when attacking a target. See [Multiple Attackers](#multiple-attackers).
+	When you and other team members attack the same mob, all your damage is cumulative.<br/>Mobs are an exception to the general rule that cumulative damage doesn’t apply when attacking a target. See [Multiple Attackers](#multiple-attackers).
 
 As a mob’s member count decreases, its stats change when it crosses the threshold for the next size down. When a mob reaches **0** members, it’s eliminated.
 
 !!! example
 
-	You face a mob of **14** members with **0** armor and **4** attacks. You attack and deal **4** points of damage, reducing the mob to **10** members. Because the mob is smaller, its stats change to **1** armor and **3** attacks.
+	You face a mob of **14** members with **0** armor and **4** attacks. You attack, dealing **4** points of damage, reducing the mob to **10** members. Because the mob is smaller, its stats change to **1** armor and **3** attacks.
