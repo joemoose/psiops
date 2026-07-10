@@ -66,4 +66,4 @@ Decisions, immediate movement, *action rolls*, then *results*. No rulers, no mat
 
 If you’ve come up through tabletop combat with a battlemat, miniatures, and a measuring tape, you’ll find these zones feel off at first. Perhaps even a little nonsensical?
 
-Lean into it. By the end of your first operation, you’ll enjoy the change of pace. PSIOPS could also fit easily into a skirmish game. What about a 2nd edition?
+Lean into it. By the end of your first mission, you’ll enjoy the change of pace. PSIOPS could also fit easily into a skirmish game. What about a 2nd edition?
