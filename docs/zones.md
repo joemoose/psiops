@@ -34,7 +34,7 @@ The distance to your target modifies your *attack roll* based on your weapon typ
 
 ## Example
 
-The GM divides your objective area, a research  , into several tactical zones, as shown in the following diagram.
+The GM divides your objective area, a research facility, into several tactical zones, as shown in the following diagram.
 
 <figure class="diagram" style="--diagram-max-width: 430px">
 --8<-- "img/zones.svg"
