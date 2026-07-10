@@ -6,16 +6,16 @@
 
 Commonly used small arms of Cold War-era militaries follow. This list isn’t historically rigorous and is intended only to provide a little flavor for the players who might prefer to carry a *French FAMAS F1* rather than a generic *assault rifle*.
 
-| Category | US | USSR | UK | West Germany | France | Israel |
-|-|-|-|-|-|-|-|
-| **Antiarmor missile** | M72 LAW | RPG-7 | Carl Gustav (L14A1) | PzF 44 "Lanze" | LRAC F1 | B-300 |
-| **Assault rifle** | CAR-15, M16A1 | AK-74, AKS-74U | L1A1 SLR | HK G3 | FAMAS F1 | Galil SAR |
-| **Combat shotgun** | Remington 870, Mossberg 500 | — | — | — | — | — |
-| **Grenade launcher** | M203 | GP-25 | — | HK69A1 | FAMAS integral | M203 |
-| **LMG** | M60, M249 SAW | RPK-74, PKM | L7A2 GPMG | MG3, HK21 | AA-52 | FN MAG |
-| **Sidearm** | M1911A1 | Makarov PM | Browning Hi-Power | HK P7 | MAB PA-15 | FN Browning Hi-Power |
-| **SMG** | MAC-10, M3A1 | AKS-74U<sup>†</sup> | Sterling L2A3 | HK MP5, MP5SD | MAT-49 | Uzi, Mini-Uzi |
-| **Sniper rifle** | M40A1, M21 | SVD Dragunov | L42A1 | HK PSG1 | FR F1 | Galatz (Galil Sniper) |
+| Category | US | USSR | UK | West Germany | France |
+|-|-|-|-|-|-|
+| **Antiarmor missile** | M72 LAW | RPG-7 | Carl Gustav (L14A1) | PzF 44 "Lanze" | LRAC F1 |
+| **Assault rifle** | CAR-15, M16A1 | AK-74, AKS-74U | L1A1 SLR | HK G3 | FAMAS F1 |
+| **Combat shotgun** | Remington 870, Mossberg 500 | — | — | — | — |
+| **Grenade launcher** | M203 | GP-25 | — | HK69A1 | FAMAS integral |
+| **LMG** | M60, M249 SAW | RPK-74, PKM | L7A2 GPMG | MG3, HK21 | AA-52 |
+| **Sidearm** | M1911A1 | Makarov PM | Browning Hi-Power | HK P7 | MAB PA-15 |
+| **SMG** | MAC-10, M3A1 | AKS-74U<sup>†</sup> | Sterling L2A3 | HK MP5, MP5SD | MAT-49 |
+| **Sniper rifle** | M40A1, M21 | SVD Dragunov | L42A1 | HK PSG1 | FR F1 |
 
 <sup>†</sup>*The Soviet military used the compact AKS-74U as an SMG equivalent.*
 

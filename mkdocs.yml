@@ -67,7 +67,6 @@ theme:
 
 markdown_extensions:
   - admonition
-  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - md_in_html
