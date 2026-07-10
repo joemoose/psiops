@@ -15,9 +15,13 @@
 - This work is based on [*Blades in the Dark*](https://github.com/amazingrando/blades-in-the-dark-srd-content), a product of One Seven Design, developed and authored by John Harper, and licensed for use under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/) license.
 - Zones inspired by *XD6 System Reference Document* by [Stellagama Publishing](https://stellagamapublishing.co), published under the [Creative Commons Attribution License v4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
+## Playstyle
+
+The *Old School Renaissance*/*New School Renaissance* (pick your term) playstyle and rules-light approach clicked for me after reading [“New School Revolution”](https://boneboxchant.wordpress.com/2019/12/21/nsr/) on the [Bone Box Chant blog](https://boneboxchant.wordpress.com) years ago. It’s the type of RPG I had always wanted to play. 
+
 ## Inspiration
 
-After reading the following books, I knew they would provide a solid foundation for an enjoyable game.
+After reading these books, I knew they’d provide a solid foundation for an enjoyable roleplaying game.
 
 - Eric Haney’s ***Inside Delta Force***, Andy McNab’s ***Bravo Two Zero***, Sean Naylor’s ***Relentless Strike***, and Mark Owen’s ***No Easy Day*** immerse you in the world of special operations forces.
 - Tim Powers' ***Declare*** portrays a Cold War setting with a hidden supernatural history beneath the surface.
