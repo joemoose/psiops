@@ -54,7 +54,7 @@ The GM divides your objective area, a research facility, into several tactical z
 Using the zones’ tactical characteristics, your squad’s actions emerge and are resolved quickly. The combat scene unfolds at a faster pace with a more cinematic feel when crossing zone boundaries, rather than by plotting and moving along mapped grid positions.
 
 1. Observe from the forest edge.
-2. Suppress, smoke screen, and provide bounding overwatch across the kill zone; snow slows movement.
+2. Suppress, smoke screen, and provide bounding overwatch across the perimeter; snow slows movement.
 3. Suppress the main floor; assault behind hard cover; the catwalk provides overwatch and a line of sight through the office window, though it may collapse.
 4. Breach and flank through the office.
 5. Blow the door; blow the generator.
