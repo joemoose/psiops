@@ -43,10 +43,10 @@ The GM divides your objective area, a research  , into several tactical zones, a
 
 | Zone | Description |
 | - | - |
-| **Forest edge** | Total cover, blanketed in snow |
+| **Forest Edge** | Total cover, blanketed in snow |
 | **Perimeter** | An open, exposed field covered in deep snow |
 | **Loading Dock** | Filled with crates and forklifts, with an open exterior |
-| Catwalks | Rusted walkways above the main floor |
+| **Catwalks** | Rusted walkways above the main floor |
 | **Office** | Enclosed with a window in the wall and furniture |
 | **Generator Room** | Secured behind a locked door |
 | **Research Facility** | A laboratory containing volatile chemicals |
