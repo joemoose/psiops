@@ -1,6 +1,6 @@
 # Attribution
 
-**PSIOPS** is inspired by the DIY spirit and innovative ideas of many outstanding independent roleplaying games.
+**PSIOPS** is inspired by the DIY spirit and innovative ideas of many outstanding independent roleplaying games. This attribution is lengthy, in the hope that it might offer some RPG gems you haven’t yet read. 
 
 - Attack and defense rolls mechanic inspired by [*Vagabonds of Dyfed*](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed), authored by Ben Dutter, copyright Sigil Stone Publishing, 2018.
 - Core drives and neural weapons inspired by [*FIST: Ultra Edition*](https://claymorerpgs.itch.io/fist), a product of CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
@@ -17,18 +17,18 @@
 
 ## Playstyle
 
-The *Old School Renaissance*/*New School Renaissance* (pick your term) playstyle and rules-light approach clicked for me after reading [“New School Revolution”](https://boneboxchant.wordpress.com/2019/12/21/nsr/) on the [Bone Box Chant blog](https://boneboxchant.wordpress.com) years ago. It’s the type of RPG I had always wanted to play. 
+The *Old School Renaissance* / *New School Revolution* playstyle and rules-light approach resonated with me after reading [“New School Revolution”](https://boneboxchant.wordpress.com/2019/12/21/nsr/) on the [Bone Box Chant blog](https://boneboxchant.wordpress.com) years ago. When combined with Matthew Finch’s [*A Quick Primer for Old School Gaming*](https://www.lulu.com/shop/matthew-finch/quick-primer-for-old-school-gaming/ebook/product-1qm8y7m.html), you now have the style of RPG I had always wanted to play.
 
 ## Inspiration
 
-After reading these books, I knew they’d provide a solid foundation for an enjoyable roleplaying game.
+After reading these publications, I knew they’d provide a solid foundation for an enjoyable roleplaying game.
 
 - Eric Haney’s ***Inside Delta Force***, Andy McNab’s ***Bravo Two Zero***, Sean Naylor’s ***Relentless Strike***, and Mark Owen’s ***No Easy Day*** immerse you in the world of special operations forces.
 - Tim Powers' ***Declare*** portrays a Cold War setting with a hidden supernatural history beneath the surface.
-- Charles Stross’ ***The Atrocity Archives*** depicts British bureaucratic occult espionage that’s both disturbing and darkly funny.
+- Charles Stross’ ***The Atrocity Archives*** depicts British bureaucratic occult espionage that’s both disturbing and funny, in that deadpan British way.
 - The ***SCP Foundation***, whose contributors, writing collectively and often anonymously, have built an unsettling world of the strange and the occult.
 
-I would be remiss not to include the Netflix TV series ***Stranger Things*** as an inspiration. Rewrite that story, replacing the kids with special forces operators, and you have **PSIOPS**.
+I would be remiss not to include the Netflix TV series ***Stranger Things***. Rewrite that story, replacing the kids with special forces operators, and you have **PSIOPS**.
 
 ## License
 
