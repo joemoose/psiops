@@ -34,7 +34,7 @@ The distance to your target modifies your *attack roll* based on your weapon typ
 
 ## Example
 
-The GM divides your objective area, a research facility, into several tactical zones, as shown in the following diagram.
+The GM divides your objective area, a research  , into several tactical zones, as shown in the following diagram.
 
 <figure class="diagram" style="--diagram-max-width: 430px">
 --8<-- "img/zones.svg"
@@ -44,12 +44,12 @@ The GM divides your objective area, a research facility, into several tactical z
 | Zone | Description |
 | - | - |
 | **Forest edge** | Total cover, blanketed in snow |
-| **Kill Zone** | An open, exposed field covered in deep snow |
-| **Main floor** | Filled with crates and forklifts, with an open exterior |
-| **Catwalks** | Rusted walkways above the main floor |
+| **Perimeter** | An open, exposed field covered in deep snow |
+| **Loading Dock** | Filled with crates and forklifts, with an open exterior |
+| Catwalks | Rusted walkways above the main floor |
 | **Office** | Enclosed with a window in the wall and furniture |
-| **Generator** | Secured behind a locked door |
-| **Research facility** | A laboratory containing volatile chemicals |
+| **Generator Room** | Secured behind a locked door |
+| **Research Facility** | A laboratory containing volatile chemicals |
 
 Using the zones’ tactical characteristics, your squad’s actions emerge and are resolved quickly. The combat scene unfolds at a faster pace with a more cinematic feel when crossing zone boundaries, rather than by plotting and moving along mapped grid positions.
 
