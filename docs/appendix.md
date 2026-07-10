@@ -17,7 +17,7 @@ Commonly used small arms of Cold War-era militaries follow. This list isn’t hi
 | **SMG** | MAC-10, M3A1 | AKS-74U<sup>†</sup> | Sterling L2A3 | HK MP5, MP5SD | MAT-49 |
 | **Sniper rifle** | M40A1, M21 | SVD Dragunov | L42A1 | HK PSG1 | FR F1 |
 
-<sup>†</sup>*The Soviet military used the compact AKS-74U as an SMG equivalent.*
+<sup>†</sup> *The Soviet military used the compact AKS-74U as an SMG equivalent.*
 
 ---
 
