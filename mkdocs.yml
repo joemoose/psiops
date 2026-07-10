@@ -50,7 +50,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       primary: black
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to Dark mode
@@ -67,6 +67,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - md_in_html

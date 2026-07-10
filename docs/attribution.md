@@ -1,12 +1,13 @@
 # Attribution
 
-**PSIOPS** is inspired by the DIY spirit and innovative ideas of many outstanding independent roleplaying games. This attribution is lengthy, in the hope that it might offer some RPG gems you haven’t yet read. 
+**PSIOPS** is inspired by the DIY spirit and innovative ideas of many outstanding independent roleplaying games. This attribution is comprehensive, in the hope of highlighting some RPG gems you might not have read yet. 
 
 - Attack and defense rolls mechanic inspired by [*Vagabonds of Dyfed*](https://www.drivethrurpg.com/en/product/240583/Vagabonds-of-Dyfed), authored by Ben Dutter, copyright Sigil Stone Publishing, 2018.
 - Core drives and neural weapons inspired by [*FIST: Ultra Edition*](https://claymorerpgs.itch.io/fist), a product of CLAYMORE Roleplaying Games, written by B. Everett Dutton, Ripley Caldwell, T.H. Cochlin, Back-Alley Coalition, and Max Danley, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - Cover art by Zachary Taylor. Source photo by [Aleksey Kashmar](https://unsplash.com/@pricetac) on [Unsplash](https://unsplash.com/photos/a-man-in-camouflage-holding-a-machine-gun-6F3UOhnbBHU).
 - Equipment and specializations inspired by *Modern War*, authored by Paul Elliott, published by [Zozer Games](https://www.paulelliottbooks.com), and licensed as [Open Game Content](https://opengamingfoundation.org/ogl.html).
 - Examples of attributes paraphrased from Ripley on the [FIST Discord server](https://discord.com/channels/959600183186952232/959731595793805322/1158274780319981639).
+- Infantry weapons of the Cold War sourced from the websites [Wikipedia.org](https://en.wikipedia.org/wiki/Category:Infantry_weapons_of_the_Cold_War) and [MilitaryFactory.com](https://www.militaryfactory.com/smallarms/cold-war-infantry-arms.php).
 - Mobs mechanic based on [*HECATONCHEIRES*](https://threeyelloweyes.itch.io/fist-hecatoncheires), authored by Moth, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - Momentum mechanic based on *Charge*, a product of [Fari RPGs](https://farirpgs.com/), developed and authored by René-Pier Deshaies-Gélinas, and licensed under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 - Partial success dice mechanic based on the *Powered by the Apocalypse* game, with design informed by *Apocalypse World* by D. Vincent Baker (copyright 2010).
