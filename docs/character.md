@@ -17,7 +17,7 @@ Before we start creating your character, here’s a summary of the dice notation
 
 ## Fielding an Operator
 
-To create your character, follow these steps. Record each step’s result on your character sheet. An [online character sheet](https://docs.google.com/spreadsheets/d/1HzHjX9m-Y-rcoRL-xnx1RtbJGfHi2h_p-d7V-lTz88Q/edit?usp=share_link) is available.
+To create your character, follow these steps. Record each step’s result on your character sheet. An [online character sheet](https://docs.google.com/spreadsheets/d/1S38TZNxNuGwgV17nmiX-aBSTUkkzjUwCgGiLqQ5PCnk/edit?usp=sharing) is available.
 
 ---
 

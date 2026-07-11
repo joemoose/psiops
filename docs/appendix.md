@@ -198,4 +198,4 @@ Roll **1d6** and apply the result as follows:
 
 ## Character Sheet
 
-An [online character sheet](https://docs.google.com/spreadsheets/d/13iXOYL2xXxRbhtij5ctxEta8CvKbJu153RTHmmcoaDE/?editformat=xlsx) is available.
+An [online character sheet](https://docs.google.com/spreadsheets/d/1S38TZNxNuGwgV17nmiX-aBSTUkkzjUwCgGiLqQ5PCnk/edit?usp=sharing) is available.
