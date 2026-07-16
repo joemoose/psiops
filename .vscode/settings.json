@@ -4,7 +4,7 @@
     "editor.fontSize": 16,
     "editor.lineHeight": 1.6,
     "editor.lineNumbers": "off",
-    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrap": "on",
     "editor.wordWrapColumn": 72,
     "editor.minimap.enabled": false,
     "editor.renderLineHighlight": "none",
@@ -14,9 +14,12 @@
       "other": "off"
     }
   },
-  "workbench.activityBar.location": "hidden",
-  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "top",
+  "workbench.statusBar.visible": true,
   "zenMode.centerLayout": true,
   "zenMode.fullScreen": false,
-  "zenMode.hideLineNumbers": true
+  "zenMode.hideLineNumbers": true,
+  "editor.fontSize": 14,
+  "editor.fontFamily": "iA Writer Duo V",
+  "editor.wordWrap": "on"
 }
