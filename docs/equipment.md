@@ -213,7 +213,7 @@ In addition to an armor bonus, secondary protection provides the following effec
 
 #### Trade-offs
 
-Using a riot shield or wearing a helmet involves tactical trade-offs. You might have a *disadvantage* on *action rolls* that rely on perception, quick reactions, or stealth. Examples include *initiative rolls*, , or moving without being heardspotting a hidden enemy sniper.
+Using a riot shield or wearing a helmet involves tactical trade-offs. You might have a *disadvantage* on *action rolls* that rely on perception, quick reactions, or stealth. Examples include *initiative rolls*, moving without being heard, or spotting a hidden enemy sniper.
 
 !!! note
 
@@ -225,7 +225,7 @@ At the start of your mission, select any mission-specific equipment required to 
 
 All mission-specific equipment, regardless of size, occupies at least **1** inventory slot. Larger items may require **2** or more slots.
 
-### Examples
+### Mission-Specific Equipment Examples
 
 | Item | Description |
 | :- | :-- |
