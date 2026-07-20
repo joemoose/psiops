@@ -140,11 +140,12 @@ For specific examples of military weapons commonly used by Cold War-era nations,
 
 Several types of grenades are available to you. Up to 4 grenades occupy 1 inventory slot. Descriptions follow:
 
-| Grenade | Descriptions |
+| Grenade | Description |
 | - | - |
+| CS gas | Military-grade tear gas aerosol used for denial of area or flushing operations in an adjacent zone.
+| Flashbang | Typically mission-specific. Used to stun opponents when breaching a room. Treat stunning as an *ambush*. See [Ambushes](combat.md#ambushes). |
 | Fragmentation | Deals **+1** *blast* damage. See [Blast Damage](combat.md#blast-damage). |
 | Smoke | Used to signal and obscure movement. It creates *soft cover*. See [Cover](combat.md#cover). |
-| Flashbang | Typically mission-specific. Used to stun opponents when breaching a room. Treat stunning as an *ambush*. See [Ambushes](combat.md#ambushes). |
 | Thermite | Typically mission-specific. Used to destroy equipment and documentation. |
 
 ## Personal Protective System
