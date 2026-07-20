@@ -131,7 +131,7 @@ For extended operations, extra ammunition can be added in your inventory, retrie
 | Grenade launcher | — | 1/1 | 2 | Damage and effect by grenade type. See the following table. |
 | LMG | +3 | 5/5 | 2 | — |
 | Sidearm | +1 | 5/5 | 1 | — |
-| SMG | +1 | 5/5 | 1 | — |
+| SMG | +1 | 5/5 | 2 | — |
 | Sniper rifle | +3 | 5/5 | 2 | — |
 
 For specific examples of military weapons commonly used by Cold War-era nations, see the [National Armament Roster](appendix.md#national-armament-roster) in the [Appendix](appendix.md).
