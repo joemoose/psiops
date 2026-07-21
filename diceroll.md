@@ -6,30 +6,29 @@
 
 Google Sheets shows warnings when my script is first used to confirm trust. In our case, my script records the dice log. I am trustworthy. Please enable the diceRoll script once by following and accepting each prompt.
 
-
 ## Details
 
-The first time you click the Roll button, Google displays one or more prompts asking you to confirm whether you want to proceed and allow an unknown, unverified script to run in your Google Sheet. The warnings are written as though the sky is falling, which is entirely intentional and justified when loading 3rd-party scripts from unknown sources. Most spreadsheets aren't automated and don't attempt to load scripts. 
+The first time you click the Roll button, Google displays one or more prompts asking you to confirm whether you want to proceed and allow an unknown, unverified script to run in your Google Sheet. The warnings are written as though the sky is falling, which is entirely intentional and justified when loading 3rd-party scripts from unknown sources. Most spreadsheets aren't automated and don't attempt to load scripts.
 
-What you’re encountering is Google’s OAuth app verification consent screen. The warnings you’re seeing (“This app isn’t verified,” “Google hasn’t reviewed this app”) appear because any Apps Script project that requests permissions (such as reading or writing your Sheet) is technically an unverified OAuth app (requesting authentication). Once a script is verified, an untrustworthy actor could abuse this privileged access to fully control and read your Sheet. 
+What you’re encountering is Google’s OAuth app verification consent screen. The warnings you’re seeing (“This app isn’t verified,” “Google hasn’t reviewed this app”) appear because any Apps Script project that requests permissions (such as reading or writing your Sheet) is technically an unverified OAuth app (requesting authentication). Any script granted these permissions could, in theory, misuse them.
 
 ## Authorizing
 
-For a personal group-use script like this, when you know who wrote it (me — Zachary) and why (to generate random numbers, change the dice glyphs, and write a result log to the Sheet), you don't need real verification — you just need to get past the warning once. 
+For a personal group-use script like this, when you know who wrote it (me — Zachary) and why (to generate random numbers, change the dice glyphs, and write a result log to the Sheet), you don't need real verification — you just need to get past the warning once.
 
 Here's how:
 
 1. When you click the "Roll" button for the first time and the "Google hasn't verified this app" screen appears, click Advanced (small text, easy to miss, usually at the bottom-left of the dialog).
 2. Click Go to [Your Project Name] (unsafe).
-3. Grant the requested permissions (edit access to the spreadsheet, etc.). 
+3. Grant the requested permissions (edit access to the spreadsheet, etc.).
 
-Soldier on! The warnings sound very grim to scare you into making sure you know what you're doing. 
+Soldier on! The warnings sound very grim to scare you into making sure you know what you're doing.
 
 That's it — this only needs to happen once per Google account, the first time that script is authorized. After that, it runs silently in the background without re-prompting because the authorization is now cached.
 
 ## What’s Going On
 
-Why it's not actually "unsafe" in our case: the warning exists because the code could do anything with the permissions you grant (read your Sheet, send data elsewhere), so Google flags anything outside their reviewed app directory. Since I wrote the script myself and it only touches this one spreadsheet, this is the exact scenario the warning doesn't apply to — I'm the author, not an untrusted third party. Not a bad actor. 
+Why it's not actually "unsafe" in our case: the warning exists because the code could do anything with the permissions you grant (read your Sheet, send data elsewhere), so Google flags anything outside their reviewed app directory. Since I wrote the script myself and it only touches this one spreadsheet, this is the exact scenario the warning doesn't apply to — I'm the author, not an untrusted third party. Not a bad actor.
 
 Each of you will see this warning the first time you run the script under your own Google account — I can't "pre-clear" it on your behalf. It's a one-time click-through per person, not per session.
 
@@ -84,16 +83,16 @@ function rollDice() {
       dice = [roll(6), roll(6), roll(6)].sort((a, b) => a - b);
       if (advMode === 'Advantage') {
         dropped = dice[0];
-        total = dice + dice + modifier;
+        total = dice[2] + dice[1] + modifier;
         dieLabel = '2d6 ADV';
       } else {
         dropped = dice[2];
-        total = dice + dice + modifier;
+        total = dice[1] + dice[0] + modifier;
         dieLabel = '2d6 DIS';
       }
     } else {
       dice = [roll(6), roll(6)];
-      total = dice + dice + modifier;
+      total = dice[1] + dice[0] + modifier;
       dieLabel = '2d6';
     }
 
@@ -160,4 +159,3 @@ function logRoll(sheet, character, dieLabel, detailText, total, strikeRange) {
   SpreadsheetApp.flush();
 }
 ```
-
