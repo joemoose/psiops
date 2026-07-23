@@ -18,11 +18,11 @@ The number of inventory slots each piece of equipment occupies depends on its si
 
 - Items occupy **1** inventory slot unless otherwise specified.
 - Small items, such as grenades, can be bundled so that multiple units occupy **1** slot. If only one of the bundled items is carried, it still takes up **1** slot.
-- Other small, standard items, such as a combat knife or the individual components of your basic kit, don't take up a slot.
+- Other small, standard items, such as a combat knife or the individual components of your basic kit, don’t take up a slot.
 - Bulky, heavy, or two-handed items occupy **2** slots.
 - Ballistic armor occupies **1–3** slots, depending on its level of protection.
 - Enormous equipment that can be carried by a single person requires **3** or more slots.
-- Equipment that requires two people to lift can't be stored in your inventory. Other transport methods will be needed.
+- Equipment that requires two people to lift can’t be stored in your inventory. Other transport methods will be needed.
 
 ### Retrieval
 
@@ -34,9 +34,9 @@ The *basic kit* is an abstract container for your standard-issue personal gear. 
 
 The basic kit exists so you don’t have to itemize every item in your personal utility kit on your character sheet before a mission — it’s ready whenever you need it.
 
-When you need an item from the kit, declare it and retrieve it. No inventory slot is required. Recall that it takes **1** in combat to retrieve an item from your rucksack.
+When you need an item from the kit, declare it and retrieve it. No inventory slot is required. Recall that it takes **1** action in combat to retrieve an item from your rucksack.
 
-Your combat fatigues, boots, and other standard-issue clothing or webbing are assumed to be worn. If any of the items in your basic are lost or destroyed due to tactical circumstances, they’re gone. The kit doesn’t replace them.
+Your combat fatigues, boots, and other standard-issue clothing or webbing are assumed to be worn. If any of the items in your basic kit are lost or destroyed due to tactical circumstances, they’re gone. The kit doesn’t replace them.
 
 Items not originally part of a basic kit, such as weapons or recovered equipment, cannot be stored in it.
 
@@ -142,7 +142,7 @@ Several types of grenades are available to you. Up to 4 grenades occupy 1 invent
 
 | Grenade | Description |
 | - | - |
-| CS gas | Military-grade tear gas aerosol used for denial of area or flushing operations in an adjacent zone.
+| CS gas | Military-grade tear gas aerosol used for denial of area or flushing operations in an adjacent zone. |
 | Flashbang | Typically mission-specific. Used to stun opponents when breaching a room. Treat stunning as an *ambush*. See [Ambushes](combat.md#ambushes). |
 | Fragmentation | Deals **+1** *blast* damage. See [Blast Damage](combat.md#blast-damage). |
 | Smoke | Used to signal and obscure movement. It creates *soft cover*. See [Cover](combat.md#cover). |
@@ -194,7 +194,7 @@ The **maximum** damage reduction from your personal protective system is capped 
 
 !!! example
 
-	If you wear medium ballistic body armor (2 armor) and have both a riot shield (+1 armor) and a helmet (+1 armor)  equipped, your *armor rating* is 2 + 1 + 1 = 4. However, the *maximum damage reduction* is capped at **3**, so only 3 points of damage are deducted.
+	If you wear medium ballistic body armor (2 armor) and have both a riot shield (+1 armor) and a helmet (+1 armor) equipped, your *armor rating* is 2 + 1 + 1 = 4. However, the *maximum damage reduction* is capped at **3**, so only 3 points of damage are deducted.
 
 #### Additional Functionality
 
@@ -202,10 +202,10 @@ In addition to an armor bonus, secondary protection provides the following effec
 
 ##### Helmets
 
-- You're **not** knocked *unconscious* when *wounded*. See [Wounded](damage.md#wounded).
+- You’re **not** knocked *unconscious* when *wounded*. See [Wounded](damage.md#wounded).
 - *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
 
-#####  Riot Shield
+##### Riot Shield
 
 - You can **destroy** a riot shield equipped in your hand to prevent **all** damage you’d otherwise take from an attack.
 - *Advantage* when defending against attacks that deal *blast* damage. See [Blast](combat.md#blast-damage).
@@ -217,7 +217,7 @@ Using a riot shield or wearing a helmet involves tactical trade-offs. You might 
 
 !!! note
 
-	Wearing ballistic body armor doesn't entail these tactical trade-offs.
+	Wearing ballistic body armor doesn’t entail these tactical trade-offs.
 
 ## Mission-Specific Equipment
 
@@ -232,7 +232,7 @@ All mission-specific equipment, regardless of size, occupies at least **1** inve
 | Assault kit | Spare ammunition, flashbangs, and smoke grenades |
 | Breaching kit | Tools for forced entry, including pry bar, hammer, and bolt cutter |
 | Communications kit | Backpack-mounted PRC radio (long-range VHF), encryption pads, headset, batteries, signal flares, and IR markers |
-| Counter-Surveillance kit | Bug detectors, RF sweep tools, and signal masking devices |
+| Counter-surveillance kit | Bug detectors, RF sweep tools, and signal masking devices |
 | Demolitions kit | Blocks of plastic explosives, det cord, command wires, and firing triggers |
 | Electronic warfare and signals kit | Signal detector, radio jammer, and wiretap gear |
 | Escape and evasion kit | Gold coins, lock picks, universal handcuff key, local currency, phrase book, and map |
@@ -249,7 +249,7 @@ All mission-specific equipment, regardless of size, occupies at least **1** inve
 | Suppressor | Quiets your weapon at the cost of an additional inventory slot |
 | Surveillance kit | Miniature audio recorder, directional microphone, concealable observation optics, 35mm camera, telephoto lens |
 | Survival kit | Fishing kit, fire-starting tools, compass, water purification, saw, needle, thread, mylar blanket, and related |
-| Vertical Access Kit | Rappelling line, ascenders, descenders, pitons, carabiners, grapnel launcher |
+| Vertical access kit | Rappelling line, ascenders, descenders, pitons, carabiners, grapnel launcher |
 
 ## Squad Radios
 
@@ -269,7 +269,7 @@ Terrain, vegetation, and urban environments degrade the signal quality and range
 - 2 tactical supplies
 - Sidearm
 - Rifle
-- Combat knife — GM rules that it's worn on the body and doesn’t require a slot.
+- Combat knife — GM rules that it’s worn on the body and doesn’t require a slot.
 - Light ballistic body armor
 - Riot shield
 - Demolitions kit
@@ -294,4 +294,4 @@ You have 0 hand slots remaining, 1 open body slot, and 1 open rucksack slot.
 
 !!! note
 
-	In this example, you're not wearing a helmet. If you were to wear a helmet, it would fill your remaining body slot.
+	In this example, you’re not wearing a helmet. If you were to wear a helmet, it would fill your remaining body slot.

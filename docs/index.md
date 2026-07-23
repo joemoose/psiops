@@ -4,7 +4,7 @@
 
 The system uses a single mechanic: roll two six-sided dice, add an *attribute score*, and see how well you do. That’s it. Four attributes cover everything from strength to resolve. A *momentum* system rewards relentless action. A *stress* system tracks your exposure to things best left unseen.
 
-If this is your first role-playing game, you’ll be up and running in no time. If you're a veteran, the system will feel familiar from the start.
+If this is your first role-playing game, you’ll be up and running in no time. If you’re a veteran, the system will feel familiar from the start.
 
 ## Before We Begin
 

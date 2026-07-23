@@ -17,7 +17,7 @@ A *round* in *combat mode* lasts about 6 seconds, enough time to **move once** a
 
 !!! note
 
-	If you use your action to move again, you make two moves, crossing into a second zone, which count as a sprint.
+	If you use your action to move again, you make two moves, crossing into a second zone, which counts as a sprint.
 
 Complex actions that take more than 6 seconds may require multiple rounds to complete. See [Mission Clocks](playing.md#mission-clocks). Minor actions, such as shouting, moving through a doorway, or dropping an item, are free and don’t count against your 1 action.
 
@@ -44,7 +44,7 @@ Whether you act before the enemy in the **first** round of combat is determined 
 
 #### Completing the First Combat Round
 
-After the *initiative roll*, all squad members who act first in the combat round take their turn and resolve their movement and actions. Other team members who failed their initiative roll must sit out the first round and wait until the second round before they.
+After the *initiative roll*, all squad members who act first in the combat round take their turn and resolve their movement and actions. Other team members who failed their initiative roll must sit out the first round and wait until the second round before they can act.
 
 Afterward, the opposing force takes its turn. The first round of combat ends.
 
@@ -58,7 +58,7 @@ Who takes the first turn can be determined by circumstances or careful planning 
 
 #### Ambushing the Opponents
 
-If you *ambush* the enemy, you don't make an *initiative roll*. Instead, you and your team each take a turn in the combat round and gain *advantage* on *action rolls*. The enemy takes no turn in the first combat round.
+If you *ambush* the enemy, you don’t make an *initiative roll*. Instead, you and your team each take a turn in the combat round and gain *advantage* on *action rolls*. The enemy takes no turn in the first combat round.
 
 Afterward, in the second and subsequent rounds, combat proceeds as usual: your squad takes the first turn, followed by the opposing force.
 
@@ -95,9 +95,9 @@ When you **attack** a target, make an *attack roll*. Roll **2d6 + Applicable Att
 | Sum | Result |
 | :-: | - |
 | **2–6** | The attack misses. You deal **no damage**. |
-| **7–9** | You deal damage equal to the **lower** of the two d6 rolls, plus your weapon's **damage modifier**. |
-| **10–12** | You deal damage equal to the **higher** of the two d6 rolls, plus your weapon's **damage modifier**. |
-| **13+** | You deal damage equal to the **sum** of both dice, plus your weapon's **damage modifier**. |
+| **7–9** | You deal damage equal to the **lower** of the two d6 rolls, plus your weapon’s **damage modifier**. |
+| **10–12** | You deal damage equal to the **higher** of the two d6 rolls, plus your weapon’s **damage modifier**. |
+| **13+** | You deal damage equal to the **sum** of both dice, plus your weapon’s **damage modifier**. |
 
 </div>
 
@@ -133,7 +133,7 @@ For weapons or other attacks not listed on the Combat Weapons list, use the foll
 
 ### Blast Damage
 
-Attacks with the *blast* quality, such as explosives or frag grenades, can affect multiple targets in the target *zone*. To determine how many targets are affected, roll **1d6 + the weapon's damage modifier**. The result is the number of targets affected in the zone. See [Zones](zones.md).
+Attacks with the *blast* quality, such as explosives or frag grenades, can affect multiple targets in the target *zone*. To determine how many targets are affected, roll **1d6 + the weapon’s damage modifier**. The result is the number of targets affected in the zone. See [Zones](zones.md).
 
 All targets caught in the blast then suffer the same *attack roll* results. If there are more targets in a zone than the target count, select the targets randomly.
 
@@ -187,10 +187,10 @@ At the start of a mission, all your small arms have an *ammo rating* of **5**.
 
 Each time you attack, your weapon’s *ammo rating* may decrease as follows:
 
-- If your *attack roll* **fails**, reduce your weapon's *ammo rating* by **1**.
+- If your *attack roll* **fails**, reduce your weapon’s *ammo rating* by **1**.
 - If your *attack roll* is any type of **success** (*partial*, or better), do **not** reduce your *ammo rating*.
 
-When a weapon's *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
+When a weapon’s *ammo rating* reaches **0**, it becomes unusable until you resupply it with ammunition.
 
 !!! note
 
@@ -262,9 +262,9 @@ Some *neural weapons* can also provide damage reduction. See [Neural Weapons](ch
 
 !!! example
 
-	You take cover behind a concrete barrier. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by **1** point. You're wearing heavy ballistic body armor (**3** armor) and a helmet (**+1** armor), which results in a damage reduction of *3* rather than **4** because the helmet’s **+1** bonus to the armor rating exceeds the 3-point damage-reduction cap. If hit by hostile fire, the total damage reduction would be **3** (armor) + **1** (hard cover) = **4** points.
+	You take cover behind a concrete barrier. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by **1** point. You’re wearing heavy ballistic body armor (**3** armor) and a helmet (**+1** armor), which results in a damage reduction of **3** rather than **4** because the helmet’s **+1** bonus to the armor rating exceeds the 3-point damage-reduction cap. If hit by hostile fire, the total damage reduction would be **3** (armor) + **1** (hard cover) = **4** points.
 
-	Continuing the example, assume you're attacked with a flamethrower. Ballistic body armor and helmets don't reduce this type of damage, but hard cover still does. The total damage reduction would be **1** point from the cover.
+	Continuing the example, assume you’re attacked with a flamethrower. Ballistic body armor and helmets don’t reduce this type of damage, but hard cover still does. The total damage reduction would be **1** point from the cover.
 
 ## Suppressing Fire
 
@@ -307,7 +307,7 @@ To activate your *neural weapon*, make a *neural attack roll*. Roll **2d6 + WILL
 
 | Sum | Result |
 | :-: | - |
-| **2–6** | Your neural weapon **doesn't activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
+| **2–6** | Your neural weapon **doesn’t activate**. You take **1** *fatigue* and **cannot activate** this neural weapon again during the mission unless you regroup at a *rally point*. See [Fatigue](damage.md#fatigue) and [Rally Point](damage.md#rally-point). |
 | **7–9** | The power **activates**, but you take **1** *fatigue*. |
 | **10–12** | The power **activates**. |
 | **13+** | The power **activates**, and the effect is greater than expected. |
@@ -318,13 +318,13 @@ To activate your *neural weapon*, make a *neural attack roll*. Roll **2d6 + WILL
 
 Many *neural weapons* can continue their effect across multiple combat rounds. Doing so requires that you maintain *concentration* to sustain the effect. As long as you maintain concentration on each of your turns in the combat round, the effect persists.
 
-- To keep an ongoing neural weapon's effect active, you must spend an *action* each combat round to maintain concentration.
+- To keep an ongoing neural weapon’s effect active, you must spend an *action* each combat round to maintain concentration.
 - If you take any action other than concentrating at the start of your combat round, the effect ends immediately.
 - If you take damage while concentrating, your focus is disrupted, and the effect ends immediately.
 
 !!! note
 
-	- You're still free to **move** into another zone during your round; only your action is required to maintain concentration. Any movement you initiate does not break your concentration.
+	- You’re still free to **move** into another zone during your round; only your action is required to maintain concentration. Any movement you initiate does not break your concentration.
 
 ## Disengage
 
@@ -355,7 +355,7 @@ When facing a large number of relatively weak, identical opponents, such as a ra
 
 ### Mob Stats
 
-The mob's *armor rating* and *attacks per round* depend on the number of members in the group, as follows:
+The mob’s *armor rating* and *attacks per round* depend on the number of members in the group, as follows:
 
 | Number | Armor | Attacks |
 | :-: | :-: | :-: |
@@ -366,7 +366,7 @@ The mob's *armor rating* and *attacks per round* depend on the number of members
 | 17–20 | 0 | 5 |
 | 21+ | 0 | 6 |
 
-The number of attacks per round determines how many individual opponents the mob can attack during its turn. If there are fewer opponents than the mob's number of attacks, the remaining attacks are wasted.
+The number of attacks per round determines how many individual opponents the mob can attack during its turn. If there are fewer opponents than the mob’s number of attacks, the remaining attacks are wasted.
 
 !!! note
 

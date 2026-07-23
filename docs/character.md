@@ -1,6 +1,6 @@
 # Character
 
-You won’t make the headlines. You’re an off-ledger operator fighting on a Cold War front no one will acknowledge. The research divisions don't use the word *psychic*. What you carry are *neural weapons* — cataloged, classified, and deployed. You’ve seen things that’ll never be passed up the chain of command. The threats you face bleed, but they should not exist. You won't fight alone. You won't fight safe.
+You won’t make the headlines. You’re an off-ledger operator fighting on a Cold War front no one will acknowledge. The research divisions don’t use the word *psychic*. What you carry are *neural weapons* — cataloged, classified, and deployed. You’ve seen things that’ll never be passed up the chain of command. The threats you face bleed, but they should not exist. You won’t fight alone. You won’t fight safe.
 
 Welcome to the unit, operator.
 
@@ -36,7 +36,7 @@ Higher scores indicate greater ability. See [Applicable Attributes](playing.md#a
 
 !!! example
 
-	A physically powerful and headstrong operator who's not particularly dexterous or tactically minded: STRENGTH 2, REFLEXES -1, TACTICS 0, WILLPOWER 1.
+	A physically powerful and headstrong operator who’s not particularly dexterous or tactically minded: STRENGTH 2, REFLEXES -1, TACTICS 0, WILLPOWER 1.
 
 ---
 
@@ -155,7 +155,7 @@ You and every team member on your squad have a distinct *core drive* that fuels 
 
 ## Neural Weapons
 
-Neural weapons are your paracognitive abilities — anomalous neural phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The research division found you and recruited you for your abilities. In the field, they're your edge.
+Neural weapons are your paracognitive abilities — anomalous neural phenomena that conventional science can’t replicate. You’ve had them since before you could name them. The research division found you and recruited you for your abilities. In the field, they’re your edge.
 
 The following table lists known neural weapon loadouts. Many descriptions refer to combat-related game mechanics, such as *distance modifiers* and *damage*. These are detailed in the [Combat](combat.md) section.
 
@@ -235,7 +235,7 @@ Unlike *attributes*, your advanced specializations aren’t given numerical rati
 | 51 | Small Arms: Machine Gun | Establishing and maintaining fire superiority with light and general-purpose machine guns, laying suppressive fire, managing ammunition during prolonged engagements, and keeping weapons operational under stress. |
 | 52 | Small Arms: Rifle | Precision engagement at long ranges and instinctive fire at close quarters, while maintaining accuracy under adverse weather, movement, and stress that impair less-trained shooters. |
 | 53 | Small Arms: Shotgun | Ballistic breaching, close-quarters engagement, and selecting the appropriate load, such as breaching rounds, buckshot, or a slug, for the situation. |
-| 54 | Small Arms: Sidearm | Drawing and engaging at contact distance, shooting accurately on the move, and remaining effective one-handed, injured, or in darkness when a rifle isn't an option. |
+| 54 | Small Arms: Sidearm | Drawing and engaging at contact distance, shooting accurately on the move, and remaining effective one-handed, injured, or in darkness when a rifle isn’t an option. |
 | 55 | Small Arms: SMG | Engaging in close-quarters combat and suppressive fire with submachine guns, which are effective at close range when rifles are cumbersome, or sidearms are inadequate. |
 | 56 | Small Unit Tactics | Analyzing terrain for tactical advantage, planning assaults and ambushes, identifying chokepoints and vulnerabilities, and predicting engagement outcomes before the first shot is fired. |
 | 61 | Surveillance & Counter-Electronics | Installing surveillance devices, bypassing electronic security, and fabricating or repairing field equipment with available components when standard parts are unavailable. |

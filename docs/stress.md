@@ -1,6 +1,6 @@
 # Stress
 
-During a mission, you'll accumulate *stress* — the mental and physical toll of constant danger, sustained vigilance, and traumatic exposure.
+During a mission, you’ll accumulate *stress* — the mental and physical toll of constant danger, sustained vigilance, and traumatic exposure.
 
 ## Gaining Stress
 
@@ -32,7 +32,7 @@ See the following sections for details.
 
 If left unchecked, *stress* can degrade your performance and increase the risk of failure.
 
-When your stress reaches **6**, you immediately make a *stress roll**. Roll **2d6 + WILLPOWER** and apply the result as follows:
+When your stress reaches **6**, you immediately make a *stress roll*. Roll **2d6 + WILLPOWER** and apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -41,7 +41,7 @@ When your stress reaches **6**, you immediately make a *stress roll**. Roll **2d
 | **2–6** | You **panic**. Roll **1d6** and consult the [Panicked table](#panicked-effects) to determine the effect. |
 | **7–9** | You **keep it together** for now. |
 | **10–12** | You **keep it together** and remove **1** stress. |
-| **13+** | You're now **locked-in** to the flow of combat. Remove **all** stress, then roll **1d6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
+| **13+** | You’re now **locked-in** to the flow of combat. Remove **all** stress, then roll **1d6** and consult the [Locked-In table](#locked-in-effects) to determine the effect. |
 
 </div>
 
@@ -49,7 +49,7 @@ All *panicked* and *locked-in* effects persist until the end of the mission or u
 
 !!! example
 
-	Your stress is currently **5**. The APC you're riding in is hit by an RPG, increasing your stress to **6**. You must now make a *stress roll*. You roll a 5 and a 3, then add your 1 WILLPOWER, for a total of 9. You keep it together — for now.
+	Your stress is currently **5**. The APC you’re riding in is hit by an RPG, increasing your stress to **6**. You must now make a *stress roll*. You roll a 5 and a 3, then add your 1 WILLPOWER, for a total of 9. You keep it together — for now.
 
 ### Panicked Effects
 

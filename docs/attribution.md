@@ -25,7 +25,7 @@ The *Old School Renaissance* / *New School Revolution* playstyle and rules-light
 After reading these publications, I knew they’d provide a solid foundation for an enjoyable roleplaying game.
 
 - Eric Haney’s ***Inside Delta Force***, Andy McNab’s ***Bravo Two Zero***, Sean Naylor’s ***Relentless Strike***, and Mark Owen’s ***No Easy Day*** immerse you in the world of special operations forces.
-- Tim Powers' ***Declare*** portrays a Cold War setting with a hidden supernatural history beneath the surface.
+- Tim Powers’ ***Declare*** portrays a Cold War setting with a hidden supernatural history beneath the surface.
 - Charles Stross’ ***The Atrocity Archives*** depicts British bureaucratic occult espionage that’s both disturbing and funny, in that deadpan British way.
 - The ***SCP Foundation***, whose contributors, writing collectively and often anonymously, have built an unsettling world of the strange and the occult.
 

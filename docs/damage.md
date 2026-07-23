@@ -11,16 +11,16 @@ Your job is inherently dangerous. It might be a question of when, not if, you’
 
 ## Wounded
 
-If damage reduces your  HP to **0** or less, immediately make a *wound roll*. Roll **2d6 + STRENGTH**, then **subtract** the number of HP you’ve fallen below zero. If your HP is exactly zero, subtract nothing. Apply the result as follows:
+If damage reduces your HP to **0** or less, immediately make a *wound roll*. Roll **2d6 + STRENGTH**, then **subtract** the number of HP you’ve fallen below zero. If your HP is exactly zero, subtract nothing. Apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
 | Sum | Result |
 | :-: | - |
-| **2–6** | You're **dead**. Roll up a new operator. |
-| **7–9** | You're *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You'll die unless *stabilized*. See [Stabilize Team Members](#stabilize-team-members). |
+| **2–6** | You’re **dead**. Roll up a new operator. |
+| **7–9** | You’re *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You’ll die unless *stabilized*. See [Stabilize Team Members](#stabilize-team-members). |
 | **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending **1** *action*.<br/>**Note**: If you’re wearing a helmet, you’re knocked down but remain conscious. Spend **1** *action* to climb to your feet. |
-| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1d6**, up to your maximum after reducing it from the wound. See [Wounds](#wounds).<br/>You're one tough SOB. |
+| **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1d6**, up to your maximum after reducing it from the wound. See [Wounds](#wounds).<br/>You’re one tough SOB. |
 
 </div>
 
@@ -34,7 +34,7 @@ See [Wounds](#wounds), [Fatigue](#fatigue), and [Stress](stress.md) for details 
 
 	You have 2 STRENGTH and 2 current HP, and take 3 points of damage. You now have -1 HP and must make a *wound roll*.
 
-	You roll **2d6 + 2** (STRENGTH) and subtract **1** (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You're *knocked down*, but not *unconscious* because you're wearing a *helmet*. You would have been knocked out otherwise. You add **1** wound, **1** fatigue, **1** stress, and increase current HP to **1**.
+	You roll **2d6 + 2** (STRENGTH) and subtract **1** (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You’re *knocked down*, but not *unconscious* because you’re wearing a *helmet*. You would have been knocked out otherwise. You add **1** wound, **1** fatigue, **1** stress, and increase current HP to **1**.
 
 	You spend **1** action to get back on your feet. You’re wounded, growing tired, and a little more stressed, but not yet out of the fight.
 
@@ -93,7 +93,7 @@ Once all segments are marked off the clock, the incapacitated team member is sta
 
 ### Stabilized
 
-Once you're *stabilized*, you're back on your feet and combat-effective, though at **0** HP. Until you're *patched up* at a *rally point* and recover lost HP, any damage you take immediately reduces your HP below zero, triggering a *wound roll*. See the next section.
+Once you’re *stabilized*, you’re back on your feet and combat-effective, though at **0** HP. Until you’re *patched up* at a *rally point* and recover lost HP, any damage you take immediately reduces your HP below zero, triggering a *wound roll*. See the next section.
 
 ## Rally Point
 
@@ -134,6 +134,5 @@ If your character dies, create a new one while the game continues. When you’re
 | **13+** | You join the squad and may optionally add **1** *tactical supply* to your inventory. |
 
 </div>
-
 
 

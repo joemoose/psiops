@@ -8,7 +8,7 @@ An *action* is any task your character attempts in the game, such as crossing op
 
 !!! note
 
-	Don't limit yourself to the actions listed in the manual. Describe what you want to accomplish, and the GM will determine whether a roll is needed.
+	Don’t limit yourself to the actions listed in the manual. Describe what you want to accomplish, and the GM will determine whether a roll is needed.
 
 ## Gameplay Modes
 
@@ -32,11 +32,11 @@ See the [Combat](combat.md) section for details.
 
 ## Action Rolls
 
-When you attempt a meaningful *action* with a risky or uncertain outcome, you make an *action roll* to determine the result. If success is guaranteed or the result has no real impact on the mission's current circumstances, the GM won't require a roll. Instead, the outcome is as you described it.
+When you attempt a meaningful *action* with a risky or uncertain outcome, you make an *action roll* to determine the result. If success is guaranteed or the result has no real impact on the mission’s current circumstances, the GM won’t require a roll. Instead, the outcome is as you described it.
 
 !!! tip
 
-	Before you make an action roll, ask the GM for possible outcomes to get a sense of what you're up against.
+	Before you make an action roll, ask the GM for possible outcomes to get a sense of what you’re up against.
 
 ### Action Roll Process
 
@@ -51,7 +51,7 @@ The process may seem cumbersome at first, but with practice, you’ll make actio
 
 ### Applicable Attributes
 
-The *attribute* that applies to your *action rolls* depends on how you describe the action you're undertaking. The attribute that most seems to influence a successful outcome is the one that applies, whether it is STRENGTH, REFLEXES, TACTICS, or WILLPOWER.
+The *attribute* that applies to your *action rolls* depends on how you describe the action you’re undertaking. The attribute that most seems to influence a successful outcome is the one that applies, whether it is STRENGTH, REFLEXES, TACTICS, or WILLPOWER.
 
 Descriptions of the attributes and how they might be used follow:
 
@@ -62,7 +62,7 @@ Descriptions of the attributes and how they might be used follow:
 | TACTICS | Governs the application of logic and training, including coordinating or avoiding an ambush, penetrating secure computer systems, or operating machinery. |
 | WILLPOWER | Governs expressions of presence and resolve, such as delivering persuasive speeches, bluffing, creating disguises, or activating neural weapons. |
 
-You can always default to your REFLEXES, for example, when firing a rifle, which is perfectly fine. However, a creative approach to your tactical situation might suggest using a different attribute. If the GM agrees, you'll use that attribute for your action roll. Ask the GM questions about your environment and circumstances. Be resourceful. Find an edge and use any available advantage.
+You can always default to your REFLEXES, for example, when firing a rifle, which is perfectly fine. However, a creative approach to your tactical situation might suggest using a different attribute. If the GM agrees, you’ll use that attribute for your action roll. Ask the GM questions about your environment and circumstances. Be resourceful. Find an edge and use any available advantage.
 
 #### Named Action Rolls with Specific Attributes
 
@@ -82,10 +82,10 @@ The **sum** of the dice roll and the attribute score determines how well you suc
 
 | Sum | Result |
 | :-: | - |
-| **2–6** | It's a **failure**. You don't achieve your goal and suffer an additional *consequence*. See the following section. |
-| **7–9** | It's a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
-| **10–12** | It's a **success**. You achieve your goal. |
-| **13+** | It's a **critical success**. You achieve your goal, and the result *exceeds* your expectations. There’ll be an additional benefit. |
+| **2–6** | It’s a **failure**. You don’t achieve your goal and suffer an additional *consequence*. See the following section. |
+| **7–9** | It’s a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
+| **10–12** | It’s a **success**. You achieve your goal. |
+| **13+** | It’s a **critical success**. You achieve your goal, and the result *exceeds* your expectations. There’ll be an additional benefit. |
 
 </div>
 
@@ -115,8 +115,8 @@ To compare the four types of results for an *action roll*, consider the followin
 | :-: | - | - |
 | **2–6** | Failure | “You can’t pick the lock; the door remains **locked**, and you made noise. You hear footsteps approaching your position. You’re trapped in the hallway.” |
 | **7–9** | Partial Success | “The door is now **unlocked**. You didn’t make any noise, but you broke your lock pick. Remove it from your inventory.” |
-| **10–12** | Success | “The door is now **unlocked**, and you didn't make any noise. You're good to go.” |
-| **13+** | Critical Success | “The door is now **unlocked**, and you didn't make any noise. You’re good to go. You peek around the door and spot a guard asleep at their security console.” |
+| **10–12** | Success | “The door is now **unlocked**, and you didn’t make any noise. You’re good to go.” |
+| **13+** | Critical Success | “The door is now **unlocked**, and you didn’t make any noise. You’re good to go. You peek around the door and spot a guard asleep at their security console.” |
 
 ## Modifying Action Rolls
 
@@ -137,7 +137,7 @@ When you make an action roll with disadvantage, roll **3d6 + Attribute** instead
 !!! note "Notes"
 
 	- If an action roll has both an advantage and a disadvantage, they cancel each other out. Roll 2d6 + Attribute as normal.
-	- Multiple advantages don't stack. The maximum number of dice in any action roll is 3d6.
+	- Multiple advantages don’t stack. The maximum number of dice in any action roll is 3d6.
 	- Nonetheless, an action roll with multiple advantages may not be considered risky and may therefore succeed automatically.
 	- Conversely, multiple disadvantages may make a successful outcome impossible.
 
@@ -149,7 +149,7 @@ Describe how your specialization applies to the action. If the GM agrees, the bo
 
 !!! example
 
-	You’re going to fast rope from a hovering helicopter that's taking fire. To reach the ground without injury, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll **2d6 + REFLEXES + 1**.
+	You’re going to fast rope from a hovering helicopter that’s taking fire. To reach the ground without injury, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll **2d6 + REFLEXES + 1**.
 
 ### Action Roll Modifier Examples
 
@@ -158,25 +158,25 @@ Examples of *action roll* modifiers follow:
 | Modifier | Example |
 | - | - |
 | Advantage | You attack an unaware target. Roll **3d6 + TACTICS** (2), getting 5, 6, and 4. Discard the 4, the lowest die. Sum: 5 + 6 + 2 = 13. *Critical success*. |
-| Disadvantage | You're attacked by surprise. Roll **3d6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because double 3s are the highest dice. Sum: 3 + 1 + 2 = 6. *Failure*. |
-| Specialization | You're attacked by surprise (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies for **+1**. Roll **3d6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5, the highest die. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
+| Disadvantage | You’re attacked by surprise. Roll **3d6 + TACTICS** (2), getting 3, 3, and 1. Discard one 3 because double 3s are the highest dice. Sum: 3 + 1 + 2 = 6. *Failure*. |
+| Specialization | You’re attacked by surprise (*disadvantage*), but your *Small Unit Tactics* advanced specialization applies for **+1**. Roll **3d6 + REFLEXES** (2), getting 3, 5, and 1. Discard the 5, the highest die. Sum: 3 + 1 + 2 + 1 = 7. *Partial Success*. |
 
 ## Momentum
 
-*Momentum* is the tactical edge that separates a decisive operator from a hesitant one. Momentum builds as you progress through your mission and succeed at  *actions*.
+*Momentum* is the tactical edge that separates a decisive operator from a hesitant one. Momentum builds as you progress through your mission and succeed at *actions*.
 
 You start each mission with **2 momentum** and gain more by achieving a *success* or *critical success* on any *action roll*. You can then spend your momentum to improve your tactical situation.
 
 ### Gain Momentum
 
-When you make an *action roll*, in addition to the roll's result, gain *momentum* as follows:
+When you make an *action roll*, in addition to the roll’s result, gain *momentum* as follows:
 
 <div class="roll-table" markdown="1">
 
 | Sum | Result |
 | :-: | - |
 | **2–6** | You don’t gain momentum. |
-| **7–9** | You don't gain momentum. |
+| **7–9** | You don’t gain momentum. |
 | **10–12** | You gain **1** momentum. |
 | **13+** | You gain **2** momentum. |
 
@@ -188,7 +188,7 @@ When you make an *action roll*, in addition to the roll's result, gain *momentum
 
 As you gain momentum, the points accumulate until you spend them. See the following section.
 
-Unspent momentum **resets** to its starting value of **2** after regrouping at a *rally point* or returning to base. See [Rest and Recovery](damage.md#rally-point).
+Unspent momentum **resets** to its starting value of **2** after regrouping at a *rally point* or returning to base. See [Rest and Regroup](damage.md#rally-point).
 
 ### Expend Momentum
 
@@ -289,7 +289,7 @@ If you *fail* any *action roll* while the threat is imminent, mark off a segment
 
 You improve your character’s abilities by staying true to their *core drive* during the mission. For example, a *True Believer* advances by acting ethically to complete their mission.
 
-After returning to base, describe how you met your core drive's *advancement condition*. If the GM agrees, choose **one** improvement to your character's abilities from the following options:
+After returning to base, describe how you met your core drive’s *advancement condition*. If the GM agrees, choose **one** improvement to your character’s abilities from the following options:
 
 | Improvement | Effect | Limit |
 | - | - | :-: |

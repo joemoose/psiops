@@ -1,5 +1,5 @@
 # Glossary
-*A reference of the game's core terminology*
+*A reference of the game’s core terminology*
 
 
 
@@ -9,7 +9,7 @@
 
 #### Advancement
 
-Improving your character's abilities after a mission by fulfilling your **[core drive's](#core-drive)** advancement condition. See **[operator](#operator)**.
+Improving your character’s abilities after a mission by fulfilling your **[core drive’s](#core-drive)** advancement condition. See **[operator](#operator)**.
 
 #### Action
 
@@ -40,7 +40,7 @@ How much damage your protective gear reduces. Capped at **3** points.
 
 #### Attribute
 
-Numerical rating that defines your character's innate capabilities and sets a modifier for related action rolls. Characters have four attributes: **[STRENGTH](#strength)**, **[REFLEXES](#reflexes)**, **[TACTICS](#tactics)**, **[WILLPOWER](#willpower)**.
+Numerical rating that defines your character’s innate capabilities and sets a modifier for related action rolls. Characters have four attributes: **[STRENGTH](#strength)**, **[REFLEXES](#reflexes)**, **[TACTICS](#tactics)**, **[WILLPOWER](#willpower)**.
 
 ## B
 
@@ -76,7 +76,7 @@ Terrain or objects that make you harder to hit. Attacking from cover typically g
 
 #### Core Drive
 
-Your **[operator's](#operator)** personal motivation and **[advancement](#advancement)** trigger. You advance by fulfilling its condition during a mission.
+Your **[operator’s](#operator)** personal motivation and **[advancement](#advancement)** trigger. You advance by fulfilling its condition during a mission.
 
 #### Critical Success
 
@@ -128,7 +128,7 @@ Range is measured in **[hops](#hops)** between **[zones](#zone)**: Close (0), Ne
 
 #### Failure
 
-A roll of **6 or lower** on an **[action roll](#action-roll)**. You don't achieve your goal and suffer an additional **[consequence](#consequence)**.
+A roll of **6 or lower** on an **[action roll](#action-roll)**. You don’t achieve your goal and suffer an additional **[consequence](#consequence)**.
 
 #### Fatigue
 
@@ -144,7 +144,7 @@ A **[momentum](#momentum)** spend (6 points) that lets you retroactively establi
 
 #### Game Master (GM)
 
-The player who describes the world, portrays enemies and NPCs, adjudicates rules, and presents the mission. The GM doesn't play an **[operator](#operator)**.
+The player who describes the world, portrays enemies and NPCs, adjudicates rules, and presents the mission. The GM doesn’t play an **[operator](#operator)**.
 
 ## H
 
@@ -252,7 +252,7 @@ See **[Distance](#distance)**.
 
 #### REFLEXES
 
-An **[attribute](#attribute)** that measures your character's innate agility and speed.
+An **[attribute](#attribute)** that measures your character’s innate agility and speed.
 
 #### Round (Combat Round)
 
@@ -276,7 +276,7 @@ The group of **[operators](#operator)** — the player characters — working to
 
 #### STRENGTH
 
-An **[attribute](#attribute)** that measures your character's brawn and endurance.
+An **[attribute](#attribute)** that measures your character’s brawn and endurance.
 
 #### Stress
 
@@ -304,7 +304,7 @@ Abstract gear slots you can convert into specific equipment during the mission.
 
 #### TACTICS
 
-An **[attribute](#attribute)** that measures your character's logical thinking and training.
+An **[attribute](#attribute)** that measures your character’s logical thinking and training.
 
 #### Total Cover
 
@@ -316,7 +316,7 @@ A type of **[cover](#cover)** that prevents you from being targeted.
 
 #### WILLPOWER
 
-An **[attribute](#attribute)** that measures your character's presence and resolve.
+An **[attribute](#attribute)** that measures your character’s presence and resolve.
 
 #### Wound Roll
 
