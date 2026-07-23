@@ -34,7 +34,7 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 | **2–6** | It’s a **failure**. You don’t achieve your goal and suffer an additional *consequence*. See the following section. |
 | **7–9** | It’s a **partial success**. You achieve your goal, but with an unexpected *complication*. See the following section. |
 | **10–12** | It’s a **success**. You achieve your goal. |
-| **13+** | It’s a **critical success**. You achieve your goal, and the result *exceeds* your expectations. Work with your GM to determine what else happens. |
+| **13+** | It’s a **critical success**. You achieve your goal, and the result *exceeds* your expectations. There’ll be an additional benefit. |
 
 </div>
 
@@ -63,7 +63,7 @@ When you make an *action roll*, in addition to the result of the roll, gain *mom
 | EXPLOIT | 3 | Increase the effect of a *successful* action roll. |
 | SURGE | 4 | Take another *action*. |
 | EVADE | 5 | Avoid the *consequence* of a *failed* action roll. |
-| FLASHBACK | 6 | Retroactively establish your pre-mission preparation or a discovery in-mission. |
+| FLASHBACK | 6 | Retroactively establish pre-mission preparation or a discovery during the mission. |
 
 ### Initiative Roll
 
@@ -142,7 +142,7 @@ Roll **2d6 + TACTICS** and apply the result as follows:
 
 ### Wounded
 
-Roll **2d6 + STRENGTH**, then **subtract** the number of points you’ve gone below 0. Apply the result as follows:
+Roll **2d6 + STRENGTH**, then **subtract** the number of HP you’ve fallen below zero. If your HP is exactly zero, subtract nothing. Apply the result as follows:
 
 <div class="roll-table" markdown="1">
 
@@ -150,7 +150,7 @@ Roll **2d6 + STRENGTH**, then **subtract** the number of points you’ve gone be
 | :-: | - |
 | **2–6** | You’re **dead**. Roll up a new operator. |
 | **7–9** | You’re *incapacitated* at **0 HP**. Take **2** *wounds*, **2** *fatigue*, and **2** *stress*. You’ll die unless *stabilized*. |
-| **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending 1 *action*.<br/>**Note**: If you’re wearing a helmet, you’re knocked down but remain conscious. Spend 1 *action* to climb to your feet. |
+| **10–12** | You’re *knocked down*, unconscious but stable at **1 HP**. Take **1** *wound*, **1** *fatigue*, and **1** *stress*. A team member can revive you by spending **1** *action*.<br/>**Note**: If you’re wearing a helmet, you’re knocked down but remain conscious. Spend **1** *action* to climb to your feet. |
 | **13+** | You take **1** *wound* but stay on your feet. Set your current HP to **1d6**, up to your maximum after reducing it from the wound.<br/>You’re one tough SOB. |
 
 </div>
@@ -183,6 +183,11 @@ Roll **1d6** and apply the result as follows:
 | **5** | Shutdown | You lose all your *momentum* and no longer gain any. |
 | **6** | Volatile | A team member gains **1** stress when you see them fail an *action roll*. |
 
+!!! note "Notes"
+
+	- If you *panic* again and trigger another effect, the effects **stack**.
+	- *Panicked* and *locked-in* effects co-exist. Apply all effects.
+
 #### Locked-In
 
 Roll **1d6** and apply the result as follows:
@@ -195,6 +200,11 @@ Roll **1d6** and apply the result as follows:
 | **4** | Hardened | +1 ARMOR (**note**: damage reduction remains capped at 3 points). |
 | **5** | Sharp | *Advantage* on all REFLEXES *action rolls*. |
 | **6** | Steady | When you *succeed* on an *action roll*, team members within sight of you remove **1** stress. |
+
+!!! note "Notes"
+
+	- If you *lock in* again and trigger a different effect, the effects **stack**.
+	- *Locked-in* and *panicked* effects co-exist. Apply all effects.
 
 ## Character Sheet
 
