@@ -262,9 +262,9 @@ Some *neural weapons* can also provide damage reduction. See [Neural Weapons](ch
 
 !!! example
 
-	You take cover behind a concrete barrier. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by **1** point. You’re wearing heavy ballistic body armor (**3** armor) and a helmet (**+1** armor), which results in a damage reduction of **3** rather than **4** because the helmet’s **+1** bonus to the armor rating exceeds the 3-point damage-reduction cap. If hit by hostile fire, the total damage reduction would be **3** (armor) + **1** (hard cover) = **4** points.
+	You take cover behind a concrete barrier. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by 1 point. You’re wearing heavy ballistic body armor (3 armor) and a helmet (+1 armor), which results in a damage reduction of **3** rather than **4** because the helmet’s +1 bonus to the armor rating exceeds the 3-point damage-reduction cap. If hit by hostile fire, the total damage reduction would be **3** (armor) + 1 (hard cover) = 4 points.
 
-	Continuing the example, assume you’re attacked with a flamethrower. Ballistic body armor and helmets don’t reduce this type of damage, but hard cover still does. The total damage reduction would be **1** point from the cover.
+	Continuing the example, assume you’re attacked with a flamethrower. Ballistic body armor and helmets don’t reduce this type of damage, but hard cover still does. The total damage reduction would be 1 point from the cover.
 
 ## Suppressing Fire
 
@@ -324,7 +324,7 @@ Many *neural weapons* can continue their effect across multiple combat rounds. D
 
 !!! note
 
-	- You’re still free to **move** into another zone during your round; only your action is required to maintain concentration. Any movement you initiate does not break your concentration.
+	You’re still free to **move** into another zone during your round; only your action is required to maintain concentration. Any movement you initiate does not break your concentration.
 
 ## Disengage
 
@@ -376,7 +376,7 @@ Regardless of a mob’s size, its *damage modifier* is fixed, typically **+1**.
 
 !!! example
 
-	You face **10** street thugs. The GM merges them into a mob. The resulting mob, composed of the 10 thugs, has **1** armor and can attack up to **3** times. The GM sets its damage modifier to **+1**.
+	You face 10 street thugs. The GM merges them into a mob. The resulting mob, composed of the 10 thugs, has 1 armor and can attack up to 3 times. The GM sets its damage modifier to +1.
 
 ### Attacking a Mob
 
@@ -390,4 +390,4 @@ As a mob’s member count decreases, its stats change when it crosses the thresh
 
 !!! example
 
-	You face a mob of **14** members with **0** armor and **4** attacks. You attack, dealing **4** points of damage, reducing the mob to **10** members. Because the mob is smaller, its stats change to **1** armor and **3** attacks.
+	You face a mob of 14 members with 0 armor and 4 attacks. You attack, dealing 4 points of damage, reducing the mob to 10 members. Because the mob is smaller, its stats change to 1 armor and 3 attacks.
