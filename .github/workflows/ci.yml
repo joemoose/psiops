@@ -19,4 +19,4 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: zensical build --strict     # fail loudly on broken links/nav
-      - run: zensical gh-deploy --force --no-history
+      - run: zensical --force --no-history
