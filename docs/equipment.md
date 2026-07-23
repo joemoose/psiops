@@ -44,37 +44,12 @@ Items not originally part of a basic kit, such as weapons or recovered equipment
 
 Your *basic kit* contains the small, sundry, standard-issue personal field equipment issued to all operators for a mission. The kit includes the following items:
 
-#### Communication and Navigation
-
-- Handset squad radio & push-to-talk mic
-- Lensatic compass
-- Notebook & grease pencil
-- Paper maps & waterproof case
-- Signal mirror
-- Spare batteries
-
-#### Field Gear
-
-- Boots
-- Cold-weather layers
-- Fatigues
-- Harness
-- Rucksack
-
-#### Field Tools
-
-- ChemLight sticks
-- Duct tape
-- Folding knife
-- Paracord
-- Penlight
-- Plastic restraints
-
-#### Food and First Aid
-
-- Canteen
-- Field rations
-- Individual Aid Kit
+| Category | Items |
+| - | - |
+| Communication and Navigation | Handset squad radio & push-to-talk mic, Lensatic compass, Notebook & grease pencil, Paper maps & waterproof case, Signal mirror, Spare batteries |
+| Field Gear | Boots, Cold-weather layers, Fatigues, Harness, Rucksack |
+| Field Tools | ChemLight sticks, Duct tape, Folding knife, Paracord, Penlight, Plastic restraints |
+| Food and First Aid | Canteen, Field rations, Individual Aid Kit |
 
 ## Tactical Supplies
 
