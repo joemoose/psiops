@@ -49,7 +49,7 @@ All *panicked* and *locked-in* effects persist until the end of the mission or u
 
 !!! example
 
-	Your stress is currently **5**. The APC you’re riding in is hit by an RPG, increasing your stress to **6**. You must now make a *stress roll*. You roll a 5 and a 3, then add your 1 WILLPOWER, for a total of 9. You keep it together — for now.
+	Your stress is currently 5. The APC you’re riding in is hit by an RPG, increasing your stress to 6. You must now make a *stress roll*. You roll a 5 and a 3, then add your 1 WILLPOWER, for a total of 9. You keep it together — for now.
 
 ### Panicked Effects
 

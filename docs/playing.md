@@ -149,7 +149,7 @@ Describe how your specialization applies to the action. If the GM agrees, the bo
 
 !!! example
 
-	You’re going to fast rope from a hovering helicopter that’s taking fire. To reach the ground without injury, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll **2d6 + REFLEXES + 1**.
+	You’re going to fast rope from a hovering helicopter that’s taking fire. To reach the ground without injury, you suggest that your *Combat Fitness* specialization would help. The GM agrees, and you roll 2d6 + REFLEXES + 1.
 
 ### Action Roll Modifier Examples
 
@@ -239,7 +239,7 @@ See [Consequences of Failing](#consequences-of-failure).
 
 	While being pursued, you attempt to scale a wall. Your REFLEXES action roll fails. You not only fail to make it over the wall, but you also incur a consequence: you land flat on your back and drop your weapon.
 	
-	You can spend **5** momentum to Evade. You still won’t make it over the wall, but at least you’re on your feet with your rifle at the ready.
+	You can spend 5 momentum to Evade. You still won’t make it over the wall, but at least you’re on your feet with your rifle at the ready.
 
 #### Flashback
 
@@ -247,7 +247,7 @@ Spend **6 momentum** to establish that you did something before the mission or f
 
 !!! example
 
-	Your squad arrives at a steel gate that blocks all further progress. You have no way to proceed. You spend **6** momentum and flash back to seeing an angle grinder in the machine shop earlier.
+	Your squad arrives at a steel gate that blocks all further progress. You have no way to proceed. You spend 6 momentum and flash back to seeing an angle grinder in the machine shop earlier.
 
 ## Mission Clocks
 

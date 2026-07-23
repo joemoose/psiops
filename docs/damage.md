@@ -34,7 +34,7 @@ See [Wounds](#wounds), [Fatigue](#fatigue), and [Stress](stress.md) for details 
 
 	You have 2 STRENGTH and 2 current HP, and take 3 points of damage. You now have -1 HP and must make a *wound roll*.
 
-	You roll **2d6 + 2** (STRENGTH) and subtract **1** (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You’re *knocked down*, but not *unconscious* because you’re wearing a *helmet*. You would have been knocked out otherwise. You add **1** wound, **1** fatigue, **1** stress, and increase current HP to **1**.
+	You roll 2d6 + 2 (STRENGTH) and subtract 1 (the number of current HP points below zero). You roll a 4 and a 5. The sum is 4 + 5 + 2 - 1 = 10. You’re *knocked down*, but not *unconscious* because you’re wearing a *helmet*. You would have been knocked out otherwise. You add 1 wound, 1 fatigue, 1 stress, and increase current HP to 1.
 
 	You spend **1** action to get back on your feet. You’re wounded, growing tired, and a little more stressed, but not yet out of the fight.
 
