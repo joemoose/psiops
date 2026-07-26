@@ -166,7 +166,7 @@ Weapon distance modifiers are as follows:
 | Assault rifle | disadvantage | normal | normal | disadvantage | impossible |
 | Combat knife | normal | impossible | impossible | impossible | impossible |
 | Combat shotgun | normal | normal | disadvantage | impossible | impossible |
-| Command-detonated mine | advantage | normal | impossible | impossible | impossible |
+| Command-detonated mine | normal | advantage | impossible | impossible | impossible |
 | Frag grenade | normal | normal | impossible | impossible | impossible |
 | Grenade launcher | impossible | normal | normal | disadvantage | impossible |
 | LMG | impossible | normal | advantage | normal | impossible |
