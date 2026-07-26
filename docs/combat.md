@@ -170,7 +170,7 @@ Weapon distance modifiers are as follows:
 | Frag grenade | normal | normal | impossible | impossible | impossible |
 | Grenade launcher | impossible | normal | normal | disadvantage | impossible |
 | LMG | impossible | normal | advantage | normal | impossible |
-| Sidearm | normal | advantage | disadvantage | impossible | impossible |
+| Sidearm | advantage | normal | disadvantage | impossible | impossible |
 | SMG | normal | advantage | disadvantage | impossible | impossible |
 | Sniper rifle | impossible | disadvantage | advantage | normal | normal |
 
