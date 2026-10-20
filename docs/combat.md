@@ -125,10 +125,10 @@ For weapons or other attacks not listed on the Combat Weapons list, use the foll
 | Level of Effect | Examples | Modifier |
 | - | - | :-: |
 | **Unarmed** | — | -1 |
-| **Improvised** | club, shiv | +0 |
-| **Light** | combat knives, sidearms | +1 |
-| **Medium** | rifles, shotguns | +2 |
-| **Heavy** | antiarmor missiles, sniper rifles | +3 |
+| **Improvised** | Club, shiv | +0 |
+| **Light** | Combat knives, sidearms | +1 |
+| **Medium** | Rifles, shotguns | +2 |
+| **Heavy** | Antiarmor missiles, sniper rifles | +3 |
 | **Anomalous** | \[*REDACTED*\] | +4 |
 
 ### Blast Damage
