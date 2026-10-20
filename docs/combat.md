@@ -101,9 +101,9 @@ When you **attack** a target, make an *attack roll*. Roll **2d6 + Applicable Att
 
 </div>
 
-### Attack Roll Modifier
+### Attack Roll Attribute Modifier
 
-The *attribute* for your *attack roll* depends on your weapon as follows:
+The *applicable attribute* modifier for your *attack roll* is determined by your weapon:
 
 | Attribute | Attack |
 | - | - |
@@ -150,7 +150,7 @@ If you and other team members attack the same target, make all *attack rolls* se
 	When attacking *mobs*, damage from multiple attackers is cumulative. Damage to a mob is the exception. See [Mobs](#mobs).
 
 
-## Attack Roll Modifiers
+## Other Attack Roll Modifiers
 
 Weapon type, engagement distance, and tactical circumstances modify the odds of success on your *attack roll*. See the following tables for the modifiers.
 
@@ -217,9 +217,9 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2d6 +
 
 </div>
 
-### Defense Roll Modofiers
+### Defense Roll Attribute Modifier
 
-The *applicable attribute* for your *defense roll* depends on the type of attack you’re trying to avoid. Examples follow:
+The type of attack you’re avoiding determines the *applicable attribute* modifier for your *defense roll*, as follows:
 
 | Attribute | Attack Type |
 | - | - |
@@ -245,7 +245,7 @@ Cover is rated as follows:
 
 The *damage reduction* from hard cover is in **addition** to your personal protective system’s *armor rating*. The maximum damage reduction from your personal protective system is capped at **3** points. When behind hard cover, your total damage reduction includes **both** your armor rating and the **+1** cover bonus.
 
-Hard cover protects against certain types of damage that bypass ballistic body armor, such as intense flames. See [Personal Protective System](equipment.md#personal-protective-system).
+Hard cover protects against types of damage that might bypass ballistic body armor, such as intense flames. See [Personal Protective System](equipment.md#personal-protective-system).
 
 ### Damage Reduction Summary
 
