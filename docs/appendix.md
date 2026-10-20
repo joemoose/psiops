@@ -95,7 +95,7 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 </div>
 
-#### Attack Roll Modifier
+### Attack Roll Modifier
 
 Your weapon determines the *applicable attribute* modifier for your *attack roll*:
 
@@ -121,7 +121,7 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 </div>
 
-#### Applicable Defense Roll Attribute
+### Defense Roll Attribute
 
 The type of attack you’re avoiding determines which *applicable attribute* modifier applies to your *defense roll*:
 
