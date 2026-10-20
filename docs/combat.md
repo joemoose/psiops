@@ -101,9 +101,9 @@ When you **attack** a target, make an *attack roll*. Roll **2d6 + Applicable Att
 
 </div>
 
-### Attack Roll Attribute Modifier
+### Applicable Attack Roll Attribute
 
-The *applicable attribute* modifier for your *attack roll* is determined by your weapon:
+Your weapon determines the *applicable attribute* modifier for your *attack roll*, as follows:
 
 | Attribute | Attack |
 | - | - |
@@ -217,9 +217,9 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2d6 +
 
 </div>
 
-### Defense Roll Attribute Modifier
+### Applicable Defense Roll Attribute
 
-The type of attack you’re avoiding determines the *applicable attribute* modifier for your *defense roll*, as follows:
+The type of attack you’re avoiding determines which *applicable attribute* modifier applies to your *defense roll*, as follows:
 
 | Attribute | Attack Type |
 | - | - |

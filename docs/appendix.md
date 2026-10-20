@@ -95,6 +95,17 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 
 </div>
 
+#### Attack Roll Modifier
+
+Your weapon determines the *applicable attribute* modifier for your *attack roll*:
+
+| Attribute | Attack |
+| - | - |
+| STRENGTH | Close-quarters combat |
+| REFLEXES | Small arms |
+| TACTICS | Heavy weapons |
+| WILLPOWER | Neural weapons |
+
 ### Defending
 
 Roll **2d6 + Applicable Attribute** and apply the result as follows:
@@ -109,6 +120,17 @@ Roll **2d6 + Applicable Attribute** and apply the result as follows:
 | **13+** | You take **no** damage, and your next *action roll* has *advantage*. |
 
 </div>
+
+#### Applicable Defense Roll Attribute
+
+The type of attack you’re avoiding determines which *applicable attribute* modifier applies to your *defense roll*:
+
+| Attribute | Attack Type |
+| - | - |
+| STRENGTH | An attack that can’t be dodged, such as poisoning or electrocution |
+| REFLEXES | An attack that can be dodged, such as gunfire |
+| TACTICS | An attack that can be avoided through instinctive training and observation, such as an ambush |
+| WILLPOWER | Resisting a mental attack, such as one from a neural weapon |
 
 ### Activating Neural Weapons
 
