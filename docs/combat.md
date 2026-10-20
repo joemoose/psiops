@@ -101,7 +101,7 @@ When you **attack** a target, make an *attack roll*. Roll **2d6 + Applicable Att
 
 </div>
 
-### Attack Roll Attributes
+### Attack Roll Modifier
 
 The *attribute* for your *attack roll* depends on your weapon as follows:
 
@@ -147,12 +147,12 @@ If you and other team members attack the same target, make all *attack rolls* se
 
 !!! note
 
-	When attacking *mobs*, damage from multiple attackers is cumulative. Damage to a mob is the exception to this rule. See [Mobs](#mobs).
+	When attacking *mobs*, damage from multiple attackers is cumulative. Damage to a mob is the exception. See [Mobs](#mobs).
 
 
 ## Attack Roll Modifiers
 
-The odds for success on your *attack roll* are modified by weapon type, engagement distance, and tactical circumstances. See the following tables for the modifiers.
+Weapon type, engagement distance, and tactical circumstances modify the odds of success on your *attack roll*. See the following tables for the modifiers.
 
 ### Distance Modifiers
 
@@ -202,7 +202,6 @@ You can resupply ammunition in several ways: carrying extra ammunition in your i
 
 If you recover enemy ammunition during the mission, increase the *ammo rating* of one weapon by **1**.
 
-
 ## Defending
 
 When you **defend** against an enemy attack, make a *defense roll*. Roll **2d6 + Applicable Attribute** and apply the result.
@@ -218,7 +217,7 @@ When you **defend** against an enemy attack, make a *defense roll*. Roll **2d6 +
 
 </div>
 
-### Applicable Defense Roll Attributes
+### Defense Roll Modofiers
 
 The *applicable attribute* for your *defense roll* depends on the type of attack you’re trying to avoid. Examples follow:
 
@@ -264,7 +263,7 @@ Some *neural weapons* can also provide damage reduction. See [Neural Weapons](ch
 
 	You take cover behind a concrete barrier. The cover is rated hard, granting *advantage* on defense rolls and reducing damage by 1 point. You’re wearing heavy ballistic body armor (3 armor) and a helmet (+1 armor), which results in a damage reduction of **3** rather than **4** because the helmet’s +1 bonus to the armor rating exceeds the 3-point damage-reduction cap. If hit by hostile fire, the total damage reduction would be **3** (armor) + 1 (hard cover) = 4 points.
 
-	Continuing the example, assume you’re attacked with a flamethrower. Ballistic body armor and helmets don’t reduce this type of damage, but hard cover still does. The total damage reduction would be 1 point from the cover.
+	Continuing the example, assume you’re attacked with a flamethrower. Ballistic body armor and helmets don’t reduce this type of damage, but hard cover still does. The cover reduces the damage by 1 point.
 
 ## Suppressing Fire
 
@@ -293,11 +292,11 @@ If a pinned target becomes visible to you, for example, by attacking or moving o
 
 	You lay down suppressing fire with your LMG on the bunker’s zone, and the rest of the squad moves forward into the open zone, then uses their actions to move again and continue sprinting into the bunker’s zone. Your squad’s turn is now complete.
 
-	The drones go next. Following only their programming and lacking any instinct for self-preservation, they stop and swivel to fire on the team members now occupying their zone. However, this exposes the drones to your suppressing fire. You immediately interrupt their turn and make a free attack with advantage against each drone. Send it!
+	The drones go next. Following only their programming and lacking any instinct for self-preservation, they stop and swivel to fire on the team members now occupying their zone. However, this exposes the drones to your suppressing fire. You immediately interrupt their turn and make a free attack against each drone with advantage. Send it!
 
 ## Neural Weapons
 
-*Neural weapons* are among your squad’s most lethal assets. When a neural weapon is brought to bear, it produces a tactical effect: precise, controlled, and potentially decisive.
+*Neural weapons* are among your squad’s most lethal assets. When you bring a neural weapon to bear, it produces a tactical effect: precise, controlled, and potentially decisive.
 
 ### Activating Neural Weapons
 
@@ -351,7 +350,7 @@ If **you** *disengage*, make a *disengage roll*. Roll **2d6 + TACTICS** and appl
 
 ## Mobs
 
-When facing a large number of relatively weak, identical opponents, such as a rabble of untrained militants, they may merge into a *mob*. A mob is treated as a **single** opponent in combat rather than as many individuals. This abstraction speeds up gameplay and allows for large swarms of nonhuman opponents.
+When facing a large number of relatively weak, identical opponents, such as a rabble of untrained militants, they may merge into a *mob*. A mob is treated as a **single** opponent in combat rather than as many individuals. This abstraction speeds up gameplay and supports large swarms of nonhuman opponents.
 
 ### Mob Stats
 
@@ -390,4 +389,4 @@ As a mob’s member count decreases, its stats change when it crosses the thresh
 
 !!! example
 
-	You face a mob of 14 members with 0 armor and 4 attacks. You attack, dealing 4 points of damage, reducing the mob to 10 members. Because the mob is smaller, its stats change to 1 armor and 3 attacks.
+	You face a mob of 14 members with 0 armor and 4 attacks. You attack, dealing 4 damage and reducing the mob to 10 members. Because the mob is smaller, its stats change to 1 armor and 3 attacks.
