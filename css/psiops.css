@@ -1,0 +1,270 @@
+/* =========================================================
+   PsiOps Field Manual — psiops.css
+   Game-specific branding layer for MkDocs Material. Pairs with
+   the shared screen.css (structural rules common to every RPG
+   HTML Book — reading measure, tables, figures, diagrams, motion
+   preferences). This file holds only what's specific to PSIOPS:
+   typeface choices, heading/admonition-title styling, and the
+   admonition colour palette.
+
+   Load order: Material base → screen.css → psiops.css, so this
+   file's selectors win on source order where specificity ties.
+   ========================================================= */
+
+/* ---- Web fonts --------------------------------------------------------
+   IBM Plex Serif   — body prose (Cold War technical-document register)
+   Barlow Condensed — headings and admonition titles (stencil/military)
+   IBM Plex Mono    — code, inline tokens, roll-table range column
+   Loaded via Google Fonts; subset to the weights actually used.
+   ---------------------------------------------------------------------- */
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&display=swap');
+
+/* ---- Base typography -------------------------------------------------- */
+
+/* Serif body, slightly tighter leading than the old system-UI value —
+   IBM Plex Serif is optically denser and reads cleanly at 1.6. */
+
+body {
+    font-family: "IBM Plex Serif", Georgia, serif;
+    overflow-wrap: break-word;
+}
+
+.md-typeset {
+    font-family: "IBM Plex Serif", Georgia, serif;
+    font-size: 0.85rem;
+    line-height: 1.61;
+}
+
+/* ---- Headings ---------------------------------------------------------
+   Barlow Condensed uppercase for all heading levels. The condensed width
+   creates visual contrast with the serif body and reads as field-manual /
+   stencil without tipping into horror-font territory.
+   letter-spacing at 0.05em suits the condensed face; tighten to 0.03em
+   if a specific heading level looks too loose at its rendered size.
+   ---------------------------------------------------------------------- */
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+    font-family: "Barlow Condensed", "Arial Narrow", Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+/* Condensed faces need less vertical space between baseline and
+   cap-height; tighter leading prevents headings looking floaty. */
+
+.md-typeset h1,
+.md-typeset h2 {
+    line-height: 1.1;
+}
+
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+    line-height: 1.2;
+}
+
+/* ---- Admonition titles ------------------------------------------------
+   Barlow Condensed for admonition/details title bars, matching headings.
+   Slightly wider tracking than body headings suits the smaller size.
+
+   SPECIFICITY NOTE: Material's minified stylesheet qualifies these
+   selectors with [dir=ltr] and [dir=rtl] attribute selectors, raising
+   specificity to (0,2,1). Our rules must match that weight to win by
+   source order. The :is([dir=ltr],[dir=rtl]) wrapper adds the attribute
+   selector without duplicating declarations, and lands at the same
+   (0,2,1) specificity — which then wins on source order since psiops.css
+   is declared after the Material stylesheet (and after screen.css) in
+   the <head>.
+   ---------------------------------------------------------------------- */
+
+:is([dir=ltr],[dir=rtl]) .md-typeset .admonition-title,
+:is([dir=ltr],[dir=rtl]) .md-typeset details > summary {
+    font-family: "Barlow Condensed", "Arial Narrow", Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+/* ---- Code and monospace -----------------------------------------------
+   IBM Plex Mono throughout — inline tokens, fenced blocks, roll-table
+   range column. Matches the Plex Serif body family visually.
+
+   NOTE: screen.css's roll-table td:first-child also sets IBM Plex Mono
+   explicitly. Both declarations agree; keep them in sync if the mono
+   face ever changes.
+   ---------------------------------------------------------------------- */
+
+.md-typeset code,
+.md-typeset pre,
+.md-typeset kbd {
+    font-family: "IBM Plex Mono", "Courier New", Courier, monospace;
+}
+
+/* ---- Admonition colour palette ----------------------------------------
+   Overrides Material's default vivid palette with muted, military-register
+   colours suited to PSIOPS. Five types are used in the source:
+
+     note      cool slate blue    — neutral field-report register
+     tip       muted army green   — positive / actionable
+     example   warm khaki/amber   — illustrative / reference
+     warning   amber-orange       — heightened alert
+     important deep red           — critical, do not ignore
+
+   Pattern per type (mirrors Material's own admonition CSS structure):
+     1. Border color on the .admonition/.details container
+     2. Title bar background — border color at ~12% alpha
+     3. Icon mask color (the ::before pseudo-element)
+     4. Dark-scheme overrides (same hue, reduced saturation)
+
+   Specificity note: the container rules are (0,2,1) in Material's sheet
+   due to [dir] qualifiers; our .md-typeset .note > .admonition-title
+   selectors are (0,3,0) — higher, so no [dir] wrapper needed here.
+   ---------------------------------------------------------------------- */
+
+/* -- note: slate blue --------------------------------------------------- */
+
+.md-typeset .admonition.note,
+.md-typeset details.note {
+    border-color: #5c7fa3;
+}
+.md-typeset .note > .admonition-title,
+.md-typeset .note > summary {
+    background-color: rgba(92, 127, 163, 0.12);
+}
+.md-typeset .note > .admonition-title::before,
+.md-typeset .note > summary::before {
+    background-color: #5c7fa3;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.note,
+[data-md-color-scheme="slate"] .md-typeset details.note {
+    border-color: #4a6a8a;
+}
+[data-md-color-scheme="slate"] .md-typeset .note > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .note > summary {
+    background-color: rgba(74, 106, 138, 0.18);
+}
+[data-md-color-scheme="slate"] .md-typeset .note > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .note > summary::before {
+    background-color: #6d9cbd;
+}
+
+/* -- tip: muted army green ---------------------------------------------- */
+
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+    border-color: #4a7c59;
+}
+.md-typeset .tip > .admonition-title,
+.md-typeset .tip > summary {
+    background-color: rgba(74, 124, 89, 0.12);
+}
+.md-typeset .tip > .admonition-title::before,
+.md-typeset .tip > summary::before {
+    background-color: #4a7c59;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.tip,
+[data-md-color-scheme="slate"] .md-typeset details.tip {
+    border-color: #3d6b4a;
+}
+[data-md-color-scheme="slate"] .md-typeset .tip > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .tip > summary {
+    background-color: rgba(61, 107, 74, 0.18);
+}
+[data-md-color-scheme="slate"] .md-typeset .tip > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .tip > summary::before {
+    background-color: #5e9e72;
+}
+
+/* -- example: warm khaki/amber ------------------------------------------ */
+
+.md-typeset .admonition.example,
+.md-typeset details.example {
+    border-color: #8c7340;
+}
+.md-typeset .example > .admonition-title,
+.md-typeset .example > summary {
+    background-color: rgba(140, 115, 64, 0.12);
+}
+.md-typeset .example > .admonition-title::before,
+.md-typeset .example > summary::before {
+    background-color: #8c7340;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.example,
+[data-md-color-scheme="slate"] .md-typeset details.example {
+    border-color: #7a6535;
+}
+[data-md-color-scheme="slate"] .md-typeset .example > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .example > summary {
+    background-color: rgba(122, 101, 53, 0.18);
+}
+[data-md-color-scheme="slate"] .md-typeset .example > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .example > summary::before {
+    background-color: #b89650;
+}
+
+/* -- warning: amber-orange ---------------------------------------------- */
+
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+    border-color: #a0692a;
+}
+.md-typeset .warning > .admonition-title,
+.md-typeset .warning > summary {
+    background-color: rgba(160, 105, 42, 0.12);
+}
+.md-typeset .warning > .admonition-title::before,
+.md-typeset .warning > summary::before {
+    background-color: #a0692a;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.warning,
+[data-md-color-scheme="slate"] .md-typeset details.warning {
+    border-color: #8c5c22;
+}
+[data-md-color-scheme="slate"] .md-typeset .warning > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .warning > summary {
+    background-color: rgba(140, 92, 34, 0.18);
+}
+[data-md-color-scheme="slate"] .md-typeset .warning > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .warning > summary::before {
+    background-color: #c98840;
+}
+
+/* -- important: deep red ------------------------------------------------ */
+
+.md-typeset .admonition.important,
+.md-typeset details.important {
+    border-color: #8b2e2e;
+}
+.md-typeset .important > .admonition-title,
+.md-typeset .important > summary {
+    background-color: rgba(139, 46, 46, 0.12);
+}
+.md-typeset .important > .admonition-title::before,
+.md-typeset .important > summary::before {
+    background-color: #8b2e2e;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition.important,
+[data-md-color-scheme="slate"] .md-typeset details.important {
+    border-color: #7a2626;
+}
+[data-md-color-scheme="slate"] .md-typeset .important > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .important > summary {
+    background-color: rgba(122, 38, 38, 0.18);
+}
+[data-md-color-scheme="slate"] .md-typeset .important > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .important > summary::before {
+    background-color: #b54040;
+}

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   role="img"
+   aria-label="PSIOPS Combat Flowchart."
+   class="combat-flowchart-svg"
+   font-family="'Architects Daughter', cursive"
+   viewBox="56 17 724 843"
+   version="1.1"
+   id="svg35"
+   sodipodi:docname="combat.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">PsiOps Combat Sequence</title>
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2"
+     inkscape:cx="372.75"
+     inkscape:cy="422"
+     inkscape:window-width="1710"
+     inkscape:window-height="955"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg35"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <filter
+       id="cf__shadow"
+       width="1.0321613"
+       height="1.06"
+       x="-0.01608065"
+       y="-0.03">
+      <feDropShadow
+         dx="3"
+         dy="3"
+         flood-color="#000"
+         flood-opacity=".3"
+         stdDeviation="3.5" />
+    </filter>
+    <style
+       id="style1">@import url(https://fonts.googleapis.com/css2?family=Architects+Daughter&amp;display=swap);.cf__box{fill:var(--diagram-surface,#fff);stroke:currentColor;stroke-width:3;filter:url(#cf__shadow)}.cf__lbl{font-family:&quot;Architects Daughter&quot;,cursive;fill:currentColor;text-anchor:middle;dominant-baseline:middle}.cf__edge{fill:none;stroke:currentColor;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}.cf__elbl,.cf__hdr{font-family:&quot;Architects Daughter&quot;,cursive;fill:currentColor;text-anchor:middle;dominant-baseline:middle}.cf__elbl{paint-order:stroke;stroke:var(--diagram-surface,#fff);stroke-width:5px;stroke-linejoin:round}.cf__hdr{letter-spacing:1px}</style>
+  </defs>
+  <text
+     x="178"
+     y="34"
+     class="cf__hdr"
+     font-size="19"
+     id="text1">1 · WHO ACTS FIRST?</text>
+  <text
+     x="572"
+     y="34"
+     class="cf__hdr"
+     font-size="19"
+     id="text2">2 · THE COMBAT ROUND</text>
+  <path
+     stroke-width="1.8"
+     d="M60 48h236m148 0h256"
+     class="cf__edge"
+     id="path2" />
+  <path
+     d="M178 142v30m-6-11 6 11 6-11m-6 121v46m-6-11 6 11 6-11"
+     class="cf__edge"
+     id="path3" />
+  <text
+     x="194"
+     y="317"
+     class="cf__elbl"
+     font-size="14"
+     id="text3">NO</text>
+  <path
+     d="M178 446v63m-6-11 6 11 6-11"
+     class="cf__edge"
+     id="path4" />
+  <text
+     x="194"
+     y="477"
+     class="cf__elbl"
+     font-size="14"
+     id="text4">NO</text>
+  <path
+     d="M178 565v51m-6-11 6 11 6-11m388-441v56m-6-11 6 11 6-11m-6 83v54m-6-11 6 11 6-11m-6 99v50m-6-11 6 11 6-11m-6 83v40m-6-11 6 11 6-11m-6 143v67m-6-11 6 11 6-11"
+     class="cf__edge"
+     id="path5" />
+  <text
+     x="590"
+     y="752"
+     class="cf__elbl"
+     font-size="14"
+     id="text5">YES</text>
+  <path
+     d="M266 227h134v151h52"
+     class="cf__edge"
+     id="path6" />
+  <path
+     d="m441 384 11-6-11-6"
+     class="cf__edge"
+     id="path7" />
+  <text
+     x="283"
+     y="214"
+     class="cf__elbl"
+     font-size="14"
+     id="text7">YES</text>
+  <path
+     d="M283 387h55V114h114"
+     class="cf__edge"
+     id="path8" />
+  <path
+     d="m441 120 11-6-11-6"
+     class="cf__edge"
+     id="path9" />
+  <text
+     x="319.5"
+     y="374.5"
+     class="cf__elbl"
+     font-size="14px"
+     id="text9">YES</text>
+  <path
+     d="M290 679h86V144h76"
+     class="cf__edge"
+     id="path10" />
+  <path
+     d="m441 150 11-6-11-6"
+     class="cf__edge"
+     id="path11" />
+  <text
+     x="333"
+     y="666"
+     class="cf__elbl"
+     font-size="14"
+     id="text11">YES</text>
+  <path
+     d="M178 742h236V404h38"
+     class="cf__edge"
+     id="path12" />
+  <path
+     d="m441 410 11-6-11-6"
+     class="cf__edge"
+     id="path13" />
+  <text
+     x="296"
+     y="729"
+     class="cf__elbl"
+     font-size="14"
+     id="text13">NO</text>
+  <path
+     d="M696 662h40V128h-44"
+     class="cf__edge"
+     id="path14" />
+  <path
+     d="m704 122-12 6 12 6"
+     class="cf__edge"
+     id="path15" />
+  <text
+     x="736"
+     y="395"
+     class="cf__elbl"
+     font-size="14"
+     id="text15">NO</text>
+  <text
+     x="736"
+     y="413"
+     class="cf__elbl"
+     font-size="14"
+     id="text16">(next round)</text>
+  <rect
+     width="192"
+     height="50"
+     x="82"
+     y="92"
+     class="cf__box cf__term"
+     rx="25"
+     id="rect16" />
+  <text
+     x="178"
+     y="117"
+     class="cf__lbl"
+     font-size="16"
+     id="text17"><tspan
+       x="178"
+       dy="0"
+       id="tspan16">Combat Mode Begins</tspan></text>
+  <path
+     d="m178 172 88 55-88 55-88-55Z"
+     class="cf__box"
+     id="path17" />
+  <text
+     x="178"
+     y="218"
+     class="cf__lbl"
+     font-size="15"
+     id="text18"><tspan
+       x="178"
+       dy="0"
+       id="tspan17">Were you</tspan><tspan
+       x="178"
+       dy="18"
+       id="tspan18">ambushed?</tspan></text>
+  <path
+     d="m178 328 105 59-105 59-105-59Z"
+     class="cf__box"
+     id="path18" />
+  <text
+     x="178"
+     y="378"
+     class="cf__lbl"
+     font-size="15"
+     id="text20"><tspan
+       x="178"
+       dy="0"
+       id="tspan19">Did you ambush</tspan><tspan
+       x="178"
+       dy="18"
+       id="tspan20">them?</tspan></text>
+  <rect
+     width="178"
+     height="56"
+     x="89"
+     y="509"
+     class="cf__box"
+     rx="2"
+     id="rect20" />
+  <text
+     x="178"
+     y="537"
+     class="cf__lbl"
+     font-size="16"
+     id="text21"><tspan
+       x="178"
+       dy="0"
+       id="tspan21">Roll Initiative</tspan></text>
+  <path
+     d="m178 616 112 63-112 63-112-63Z"
+     class="cf__box"
+     id="path21" />
+  <text
+     x="178"
+     y="670"
+     class="cf__lbl"
+     font-size="15"
+     id="text23"><tspan
+       x="178"
+       dy="0"
+       id="tspan22">Can you act in</tspan><tspan
+       x="178"
+       dy="18"
+       id="tspan23">the first turn?</tspan></text>
+  <rect
+     width="240"
+     height="72"
+     x="452"
+     y="92"
+     class="cf__box"
+     rx="2"
+     id="rect23" />
+  <text
+     x="572"
+     y="119"
+     class="cf__lbl"
+     font-size="16"
+     id="text25"><tspan
+       x="572"
+       dy="0"
+       id="tspan24">Players declare their</tspan><tspan
+       x="572"
+       dy="19"
+       id="tspan25">Moves &amp; Actions</tspan></text>
+  <rect
+     width="240"
+     height="72"
+     x="452"
+     y="220"
+     class="cf__box"
+     rx="2"
+     id="rect25" />
+  <text
+     x="572"
+     y="247"
+     class="cf__lbl"
+     font-size="16"
+     id="text27"><tspan
+       x="572"
+       dy="0"
+       id="tspan26">GM &amp; players resolve</tspan><tspan
+       x="572"
+       dy="19"
+       id="tspan27">the Moves &amp; Actions</tspan></text>
+  <rect
+     width="240"
+     height="88"
+     x="452"
+     y="346"
+     class="cf__box"
+     rx="2"
+     id="rect27" />
+  <text
+     x="572"
+     y="374"
+     class="cf__lbl"
+     font-size="14"
+     id="text30"><tspan
+       x="572"
+       dy="0"
+       id="tspan28">Opponents take their turn —</tspan><tspan
+       x="572"
+       dy="17"
+       id="tspan29">GM declares their</tspan><tspan
+       x="572"
+       dy="17"
+       id="tspan30">Moves &amp; Actions</tspan></text>
+  <rect
+     width="240"
+     height="72"
+     x="452"
+     y="484"
+     class="cf__box"
+     rx="2"
+     id="rect30" />
+  <text
+     x="572"
+     y="511"
+     class="cf__lbl"
+     font-size="16"
+     id="text32"><tspan
+       x="572"
+       dy="0"
+       id="tspan31">GM &amp; players resolve</tspan><tspan
+       x="572"
+       dy="19"
+       id="tspan32">the Moves &amp; Actions</tspan></text>
+  <path
+     d="m572 596 124 66-124 66-124-66Z"
+     class="cf__box"
+     id="path32" />
+  <text
+     x="572"
+     y="653"
+     class="cf__lbl"
+     font-size="15"
+     id="text34"><tspan
+       x="572"
+       dy="0"
+       id="tspan33">One side defeated</tspan><tspan
+       x="572"
+       dy="18"
+       id="tspan34">or withdraws?</tspan></text>
+  <rect
+     width="196"
+     height="50"
+     x="474"
+     y="795"
+     class="cf__box cf__term"
+     rx="25"
+     id="rect34" />
+  <text
+     x="572"
+     y="820"
+     class="cf__lbl"
+     font-size="16"
+     id="text35"><tspan
+       x="572"
+       dy="0"
+       id="tspan35">Combat Mode Ends</tspan></text>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>PsiOps Combat Sequence</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Zachary Taylor</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
