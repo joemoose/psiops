@@ -101,18 +101,16 @@ When you **attack** a target, make an *attack roll*. Roll **2d6 + Applicable Att
 
 </div>
 
-### Applicable Attack Roll Attributes
+### Attack Roll Attributes
 
-The *applicable attribute* for your *attack roll* depends on how you describe your combat action. Examples follow:
+The *attribute* for your *attack roll* depends on your weapon as follows:
 
-| Attribute | Example Attack |
+| Attribute | Attack |
 | - | - |
-| STRENGTH | I kick down the door and fire my shotgun at anything I see. |
-| REFLEXES | I run through the house, slide into cover, and fire from there. |
-| TACTICS | I go around the side of the house, flank them, and fire through the window. |
-| WILLPOWER | I lure someone to the doorway, then fire when they respond. |
-
-The situation you’re in also determines which attribute applies. For example, if an enemy leaps out, you won’t have time to flank or bluff. A quick REFLEXES snap shot or a shove using your STRENGTH might be your only options.
+| STRENGTH | Close-quarters combat |
+| REFLEXES | Small arms |
+| TACTICS | Heavy weapons |
+| WILLPOWER | Neural weapons |
 
 !!! note
 
