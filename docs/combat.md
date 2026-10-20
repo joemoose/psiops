@@ -72,7 +72,7 @@ If the enemy *ambushes* you, your squad doesn’t take a turn in the first round
 
 ## Simultaneous Actions
 
-During your turn, all actions and moves for your entire squad occur **at the same time**. Everyone declares their actions and moves for the current turn upfront, before any results are determined. Actions and moves are not declared individually by each player and then resolved one at a time.
+During your turn, all actions and moves for your entire squad occur **at the same time**. Everyone declares their actions and moves for the current turn upfront, before the GM determines any results. Players do not declare actions and moves individually and then resolve them one at a time.
 
 !!! note
 
